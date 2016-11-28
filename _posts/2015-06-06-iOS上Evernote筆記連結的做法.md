@@ -3,6 +3,7 @@ filename: 2015-06-06-iOS上Evernote筆記連結的做法.md
 layout: post
 title: iOS上Evernote筆記連結的做法
 tags: Evernote
+comments: true
 ---
 
 Evernote其中一個很有用的功能是筆記連結，有了筆記連結，我們可以把Evernote變成我們私有的維基百科。可是在iOS上這個功能一直都要用很麻煩的方法才能實現。今天我找到了一個簡單的方法能夠在iOS版Evernote插入筆記連結。步驟如下：
