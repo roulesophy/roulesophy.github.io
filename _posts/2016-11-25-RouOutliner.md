@@ -4,6 +4,7 @@ layout: post
 title: RouOutliner
 tags: 
 date: 2016-11-25
+comments: true
 ---
 
 話說因為自己工作時認為需要有一個實用的outoutliner來記錄自己的工作進度和幫助思考，而認為用純文字的檔案會比較好，然後研究了一下，竟然一個順手的plaintext outliner都沒有，於是決定自己寫一個了。  
