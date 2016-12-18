@@ -18,7 +18,7 @@ comments: true
 
 這是我的掃描書，質量還可以吧 :)
 
-
+![kindle-scanned-book]({{ site.baseurl }}/images/20161218-5.jpg)
 
 ## > 快速翻頁的功能
 
