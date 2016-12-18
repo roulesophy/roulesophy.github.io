@@ -32,7 +32,7 @@ comments: true
 
 ![quick-flip-2]({{ site.baseurl }}/images/20161218-3.jpg)
 
-<iframe height="480" src="{{ side.baseurl }}/images/20161218-1.MOV" volume="0" frameborder="0"> </iframe>
+<iframe height="720" src="{{ side.baseurl }}/images/20161218-1.MOV" volume="0" frameborder="0"> </iframe>
 
 ## > 生詞提示
 
