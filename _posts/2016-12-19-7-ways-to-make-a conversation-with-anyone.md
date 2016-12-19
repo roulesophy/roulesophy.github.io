@@ -2,7 +2,7 @@
 filename: 2016-12-19-7-ways-to-make-a conversation-with-anyone.md
 layout: post
 title: 7 ways to make a conversation with anyone
-tags: 
+tags: Communication
 date: 2016-12-19
 comments: true
 ---
