@@ -18,8 +18,15 @@ to the `site_tags` variable. -->
 {% assign tag_words = site_tags | split:',' | sort %}
 
 <!-- List of all tags -->
-<ul style="padding-left:0px">
-{% for item in (0..site.tags.size) %}{% unless forloop.last %}{% capture this_word %}{{ tag_words[item] }}{% endcapture %}<span><a href="{{ site.baseurl }}/tags/#{{ this_word | cgi_escape }}">#{{ this_word }}</a>&nbsp;&nbsp;</span>{% endunless %}{% endfor %}
+<ul class="tags">
+	{% for item in (0..site.tags.size) %}
+		{% unless forloop.last %}
+			{% capture this_word %}{{ tag_words[item] }}{% endcapture %}
+			<li>
+				<a href="{{ site.baseurl }}/tags/#{{ this_word | cgi_escape }}" class="tag">#{{ this_word }}</a>
+			</li>
+		{% endunless %}
+	{% endfor %}
 </ul>
 
 ## > Projects
