@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <!--IT, Finance, Apple, iOS Automation-->
-想用三個點來記錄事情，因為三件事最容易令人記住。
+想用三個點來記錄一件事情，因為三件事最容易令人記住。
 
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
