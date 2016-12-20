@@ -29,10 +29,6 @@ to the `site_tags` variable. -->
 	{% endfor %}
 </ul>
 
-## > Projects
+## Projects
 
 * [RouOutliner](https://rououtliner.github.io)
-
-## > Contact me
-
-* [Twitter](http://twitter.com/roulesophy)
