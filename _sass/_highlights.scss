@@ -1,3 +1,31 @@
+.tag {
+	//font: 15px/1.5 'PT Sans', serif;
+	//background: #767676;
+	//border-radius: 3px 0 0 3px;
+	//color: #FFF;
+	display: inline-block;
+	height: 26px;
+	line-height: 26px;
+	//padding: 0 10px 0 0;
+	position: relative;
+	margin: 0 10px 10px 0;
+	//-webkit-transition: color .2s
+}
+
+.tags {
+	list-style: none;
+	margin: 0;
+	overflow: hidden;
+	padding: 0
+}
+
+.tags li {
+	display: block;
+	float: left;
+	list-style: none;
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
 
 .highlight {
   background-color: #efefef;
