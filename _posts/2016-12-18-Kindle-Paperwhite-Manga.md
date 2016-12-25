@@ -32,7 +32,7 @@ comments: true
 
 ![quick-flip-2]({{ site.baseurl }}/images/20161218-3.jpg)
 
-<video width="480" src="{{ side.baseurl }}/images/20161218-1.MOV" controls />
+<video width="480" src="{{ side.baseurl }}/images/20161218-1.MOV" controls > </video>
 
 ## > 生詞提示
 
