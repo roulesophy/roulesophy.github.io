@@ -2,7 +2,7 @@
 filename: 2013-11-14-淺談facebook的like.md
 layout: post
 title: 淺談facebook的like
-tags: Social-Media
+tags: Social-Media Facebook
 comments: true
 ---
 我知道這己經是一個己經被別人說到很悶的題目了，不過還是很想說一下。
