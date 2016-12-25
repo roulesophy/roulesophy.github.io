@@ -31,16 +31,17 @@ layout: default
   </div>
   
   <div class="relatedPosts">
-
-	  <h3>Related post:</h3>
 	
 	  {% assign maxRelated = 5 %}
 	
-	  {% assign minCommonTags =  1 %}
+	  {% assign minCommonTags = 1 %}
 	
 	  {% assign maxRelatedCounter = 0 %}
-	
-	  <ul>
+	  
+	  {% assign showRelatedPost = 0 %}
+	  
+	  {% assign relatedPost = '' %}
+
 	  {% for post in site.posts %}
 	
 	    {% assign sameTagCount = 0 %}
@@ -57,15 +58,25 @@ layout: default
 	    {% endfor %}
 	
 	    {% if sameTagCount >= minCommonTags %}
-	      <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	      {% capture relatedPostPoint %} <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li> {% endcapture %}
+	      {% assign relatedPost = relatedPost | append: relatedPostPoint %}
 	      {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
+	      {% assign showRelatedPost = showRelatedPost | plus: 1 %}
 	      {% if maxRelatedCounter >= maxRelated %}
 	        {% break %}
 	      {% endif %}
 	    {% endif %}
 	
 	  {% endfor %}
-	  </ul>
+	  
+	  {% if showRelatedPost >= 1 %}
+		  <h3>Related post:</h3>
+		  <ul>
+		    {{ relatedPost }}
+		  </ul> 
+	  {% endif %}
+	  
+	  
 	
 	</div>
 
