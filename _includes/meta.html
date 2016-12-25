@@ -16,3 +16,25 @@
     <meta property="og:title" content="{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
     <meta property="twitter:title" content="{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
     {% endif %}
+    
+    
+	<!-- Twitter cards metadatas -->
+	<meta name="twitter:card" content="summary">
+	<meta name="twitter:site" content="@roulesophy">
+	<meta name="twitter:creator" content="@roulesophy">
+	{% if page.title %}
+	  <meta name="twitter:title" content="{{ page.title }}">
+	{% else %}
+	  <meta name="twitter:title" content="{{ site.title }}">
+	{% endif %}
+	{% if page.url %}
+	  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	{% endif %}
+	{% if page.description %}
+	  <meta name="twitter:description" content="{{ page.description }}">
+	{% else %}
+	  <meta name="twitter:description" content="{{ site.description }}">
+	{% endif %}
+	{% if page.header-img %}
+	  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
+	{% endif %}
