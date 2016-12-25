@@ -2,7 +2,7 @@
 filename: 2015-12-31-Daily-report-by-Omnifocus.md
 layout: post
 title: Daily report by Omnifocus
-tags: Thinking Omnifocus Apps iOs GTD 
+tags: Thinking Omnifocus Apps iOS GTD 
 comments: true
 ---
 
