@@ -4,10 +4,10 @@ title: About
 permalink: /about/
 ---
 
-<!--IT, Finance, Apple, iOS Automation-->
+<!--IT, Finance, Apple, iOS Automation, HKSL-->
 想用三個點來記錄一件事情，因為三件事最容易讓別人記住。
 
-寫網誌的原因是想自己用心感受發生的事情、訓練自己的表達能力，以及為世界帶來一點參考。
+寫網誌的原因是想自己用心感受發生的事情、訓練自己的表達能力、以及為世界帶來一點參考。
 
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
