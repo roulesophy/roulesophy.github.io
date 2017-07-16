@@ -340,6 +340,22 @@ video {
   max-width: 100%;
 }
 
+table {
+    border-collapse: collapse;
+}
+
+th, td {
+    text-align: left;
+    padding-left: 8px;
+    padding-right: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #fbfbfb
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
