@@ -16,6 +16,7 @@ comments: true
 * 所有副詞都以 `a` 作結尾
 
 ## > Section 1/3
+
 |Esperanto|English|Comment|
 |---|---|---|
 |viro|man||
@@ -27,6 +28,7 @@ comments: true
 |kanbo|boy||
 
 ### 例句
+
 |Esperanto|English|Comment|
 |---|---|---|
 |La viro|The man||
@@ -39,6 +41,7 @@ comments: true
 |Mi estas knabo|I am a boy||
 
 ## > Section 2/3
+
 |Esperanto|English|Comment|
 |---|---|---|
 |li|he||
@@ -50,6 +53,7 @@ comments: true
 |kantas|sing||
 
 ### 例句
+
 |Esperanto|English|Comment|
 |---|---|---|
 |Li estas viro|He is a man||
@@ -64,6 +68,7 @@ comments: true
 |Mi estas knabrino|I am a girl||
 
 ## > Section 3/3
+
 |Esperanto|English|Comment|
 |---|---|---|
 |ĝi|it||
@@ -75,6 +80,7 @@ comments: true
 |bona|well||
 
 ### 例句
+
 |Esperanto|English|Comment|
 |---|---|---|
 |Ŝi kantas kaj li laboras|She sings and he works||
