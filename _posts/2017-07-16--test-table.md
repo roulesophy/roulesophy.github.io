@@ -2,7 +2,7 @@
 filename: 2017-07-16--test-table.md
 layout: post
 title:  test table
-tags: 
+tags: Esperanto
 date: 2017-07-16
 comments: true
 ---
