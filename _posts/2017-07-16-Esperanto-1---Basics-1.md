@@ -1,7 +1,7 @@
 ---
-filename: 2017-07-16-Esperanto-1:-Basics-1.md
+filename: 2017-07-16-Esperanto-1---Basics-1.md
 layout: post
-title: Esperanto 1: Basics 1
+title: Esperanto 1 - Basics 1
 tags: Esperanto
 date: 2017-07-16
 comments: true
