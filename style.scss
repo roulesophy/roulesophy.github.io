@@ -344,6 +344,10 @@ table {
     border-collapse: collapse;
 }
 
+th {
+    font-weight: bold;
+}
+
 th, td {
     text-align: left;
     padding-left: 8px;
