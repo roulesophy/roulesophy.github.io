@@ -31,14 +31,10 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|La viro|The man||
-|Mi ne estas vi|I am not you|
-|Mi estas knabo|I am a boy||
-|La viro|The man||
-|Mi estas viro|I am a man|
-|Mi ne estas vi|I am not you||
-|La viro|The man||
-|Mi estas knabo|I am a boy||
+|La viro.|The man.||
+|Mi ne estas vi.|I am not you.|
+|Mi estas knabo.|I am a boy.||
+|Mi estas viro.|I am a man.|
 
 ## > Section 2/3
 
@@ -56,16 +52,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|Li estas viro|He is a man||
-|Li kantas|He sings||
-|La viro jak la virino kantas|The man and the woman sing||
-|Vi kaj mi ludas|You and I play||
-|Li ludas kaj ŝi kantas|He plays and she sings||
-|La knabino|The girl||
-|La virino|The woman||
-|Ŝi estas virino|She is a woman||
-|Li kantas|He sings||
-|Mi estas knabrino|I am a girl||
+|Li estas viro.|He is a man.||
+|Li kantas.|He sings.||
+|La viro jak la virino kantas.|The man and the woman sing.||
+|Vi kaj mi ludas.|You and I play.||
+|Li ludas kaj ŝi kantas.|He plays and she sings.||
+|La knabino.|The girl.||
+|La virino.|The woman.||
+|Ŝi estas virino.|She is a woman.||
+|Mi estas knabrino.|I am a girl.||
 
 ## > Section 3/3
 
@@ -83,19 +78,18 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|Ŝi kantas kaj li laboras|She sings and he works||
-|Viro aŭ virino|A man or a woman||
-|Li kaj ŝi dormas|He and she sleep||
-|Knabo ludas kaj falas|A boy plays and falls||
-|Ĝi dormas|it sleeps||
-|Knabino aŭ virino|A girl or a woman||
-|Mi multe dormas|I sleep a lot||
-|Ĝi estas bona|It is good||
-|Ŝi kantas kaj li laboras|She sings and he works||
-|La bona knabo laboras multe|The good boy works a lot||
-|Knabino falas|A girl falas||
-|La bona knabino kantas multe|The good girl sings a lot||
-|Ĝi falas|It falls||
-|Mi dormas multe|I sleep a lot||
-|Knabino aŭ virino|A girl or a woman||
-|Ĝi falas|It falls||
+|Ŝi kantas kaj li laboras.|She sings and he works.||
+|Viro aŭ virino.|A man or a woman.||
+|Li kaj ŝi dormas.|He and she sleep.||
+|Knabo ludas kaj falas.|A boy plays and falls.||
+|Ĝi dormas.|it sleeps.||
+|Knabino aŭ virino.|A girl or a woman.||
+|Mi multe dormas.|I sleep a lot.||
+|Ĝi estas bona.|It is good.||
+|Ŝi kantas kaj li laboras.|She sings and he works.||
+|La bona knabo laboras multe.|The good boy works a lot.||
+|Knabino falas.|A girl falas.||
+|La bona knabino kantas multe.|The good girl sings a lot.||
+|Ĝi falas.|It falls.||
+|Mi dormas multe.|I sleep a lot.||
+|Knabino aŭ virino.|A girl or a woman.||
