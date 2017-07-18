@@ -1,7 +1,7 @@
 ---
-filename: 2017-07-18-esperanto-2---Basics-2.md
+filename: 2017-07-18-Esperanto-2---Basics-2.md
 layout: post
-title: esperanto 2 - Basics 2
+title: Esperanto 2 - Basics 2
 tags: Esperanto
 date: 2017-07-18
 comments: true
@@ -59,11 +59,11 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|La virino laboras rapide|The woman is working quickly||
-|La kafo estas varma|The coffee is hot||
-|La tago estas bela|The day is beautiful||
-|Viro kaj virino dancas|A man and a woman dance.||
-|Ni ludas en la parko|We are playing in the park.||
+|La virino laboras rapide.|The woman is working quickly.||
+|La kafo estas varma.|The coffee is hot.||
+|La tago estas bela.|The day is beautiful.||
+|Viro kaj virino dancas.|A man and a woman dance.||
+|Ni ludas en la parko.|We are playing in the park.||
 |Ĉu ŝi iras al la granda parko.|Is she going to the big park?||
 |La bebo ne dormas.|The baby does not sleep.||
 |Ni ludas rapide.|We play quickly.||
