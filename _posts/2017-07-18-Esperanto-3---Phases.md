@@ -9,8 +9,6 @@ comments: true
 
 這是第三篇。這篇主要是關於一些問候短句。可是個人認為這篇挺難的，因為比較多新的詞語要記。
 
-## > 文法規則
-
 ## > Section 1/3
 
 |Esperanto|English|Comment|
@@ -31,8 +29,8 @@ comments: true
 |---|---|---|
 |Jes.|Yes.||
 |Dankon!|Thank you!||
-|Sofia estas virino.|Sofia is a woman||
-|Saluton, mi estas knabino.|Hello, I am a girl||
+|Sofia estas virino.|Sofia is a woman.||
+|Saluton, mi estas knabino.|Hello, I am a girl.||
 |Bonvolu ne!|Please no!||
 |Kiu estas la virino?|Who is the woman?||
 |Dankon, ĝis!|Thank you, goodbye!||
