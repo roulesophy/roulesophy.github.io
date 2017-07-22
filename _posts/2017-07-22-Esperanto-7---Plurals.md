@@ -63,19 +63,19 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|Vortaroj estas gravaj|Dictionaries are important||
-|Ili manĝas grandajn pomojn|They eat big apples||
+|Vortaroj estas gravaj.|Dictionaries are important.||
+|Ili manĝas grandajn pomojn.|They eat big apples.||
 |La virinoj kisas la viron, ĉar li estas bela|The women kiss the man because he is handsome||
-|Belaj knabino kantas en kafejoj|Beautiful girls sing in cafes||
-|Sofia kaj Adamo estas esperantistoj|Sofia and Adamo are Esperanto speakers||
-|Estas grava tago en la parko|It is an important day in the park||
-|Pomoj estas bonaj|Apples are good||
-|La virinoj ŝatas grandajn kafejojn|The women like large cafes||
-|Mi legas gravajn leterojn|I am reading important letters||
-|Kafejoj estas grandaj, ĉar virinoj trinkas kafon|Cafes are large because women drink coffee||
-|Bona esperantisto havas grandajn vortarojn|A good Esperanto speaker has large dictionaries||
-|Ni estas knabinoj|We are girls||
-|La pomoj estas bonaj|The apples are good||
+|Belaj knabino kantas en kafejoj.|Beautiful girls sing in cafes.||
+|Sofia kaj Adamo estas esperantistoj.|Sofia and Adamo are Esperanto speakers.||
+|Estas grava tago en la parko.|It is an important day in the park.||
+|Pomoj estas bonaj.|Apples are good.||
+|La virinoj ŝatas grandajn kafejojn.|The women like large cafes.||
+|Mi legas gravajn leterojn.|I am reading important letters.||
+|Kafejoj estas grandaj, ĉar virinoj trinkas kafon.|Cafes are large because women drink coffee.||
+|Bona esperantisto havas grandajn vortarojn.|A good Esperanto speaker has large dictionaries.||
+|Ni estas knabinoj.|We are girls.||
+|La pomoj estas bonaj.|The apples are good.||
 
 ## > Section 3/3
 
