@@ -2,7 +2,7 @@
 filename: 2015-06-06-iOS上Evernote筆記連結的做法.md
 layout: post
 title: iOS上Evernote筆記連結的做法
-tags: Evernote Productivity iOS Apple Apps
+tags: Productivity Apple
 comments: true
 ---
 
