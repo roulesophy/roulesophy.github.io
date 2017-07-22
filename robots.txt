@@ -2,4 +2,4 @@
 # Disallow: /page/
 
 User-agent: *
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: https://roulesophy.github.io/sitemap.xml
