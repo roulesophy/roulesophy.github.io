@@ -2,7 +2,7 @@
 filename: 2016-12-18-Kindle-Paperwhite-Manga.md
 layout: post
 title: Kindle Paperwhite Manga
-tags: Gadget Kindle
+tags: Gadget
 date: 2016-12-18
 comments: true
 ---
