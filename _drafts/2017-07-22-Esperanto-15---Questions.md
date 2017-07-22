@@ -81,4 +81,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-
+|Ĉu vi scias la respondon?|Do you know that answer?||
+|La demando de la instruisto estas tre facila.|The teacher's question is very easy.||
+|Kies libro estas tiu?|Whose book is that?||
+|Kien Sofia iras?|Where is Sofia going?||
+|Io estas en la domo. Ĉu vi vidas ĝin?|Something is in the house. Do you see it?||
+|
+Kial vi ne respondas mian demandon?|Why do you not answer my question?||
+|La respondo ne estas facila.|The answer is not easy.||
+La instruisto havas mapon.|The teacher has a map.||
+|Ĉu vi scias la respondon?|Do you know the answer?||
+|La instruisto demandas la knabojn pri io.|The teacher asks the boys about something.||
+|Insturistoj often havas demandon, sed infanoj ne ofte havas respondojn.|Teachers often have questions, but children do not often have answers.||
