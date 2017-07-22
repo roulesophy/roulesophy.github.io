@@ -51,9 +51,9 @@ comments: true
 |---|---|---|
 |granda|large||
 |ĉar|because||
-|knabino|girl|-in- 是指女性，所以 knabo(boy) + in 變成了 girl。|
+|knabino|girl|名詞字根是 knabo(boy)，-in- 代表女性，所以 knab-in-o 變成了 girl。|
 |pomojn|apples|名詞字根是 pomo|
-|virino|woman|-in- 是指女性，所以 viro(man) + in 變成了 woman。|
+|virino|woman|名詞字根是 viro(man)，-in- 是指女性，所以 vir-in-o 變成了 woman。|
 |kafejojn|cafes|名詞字根是 kafo(coffee)，-ej- 代表地方，所以 kaf-ej-o 變成了 cafe。|
 |grava|important||
 |vortaro|dictionary|名詞字根是 vorto(words)，-ar- 代表 collection，所以 vort-ar-o 變成了 dictionary。|
@@ -85,11 +85,11 @@ comments: true
 |du|two||
 |tri|three||
 |kvar|four||
-|patrino|mother|-in- 是指女性，所以 patro(father) + in 變成了 mother。|
+|patrino|mother|名詞字根是 patro(father}，-in- 是指女性，所以 patr-in-o 變成了 mother。|
 |avojn|grandfather||
 |sed|but||
 |homo|people||
-|gepatroj|parent|ge 是指兩個性別的，所以 ge(both genders) + patro(father) 變成了 parents 。|
+|gepatroj|parent|名詞字根是 patro(father)，ge- 是指兩個性別的，所以 ge-patro 變成了 parents 。|
 
 ### 例句
 
