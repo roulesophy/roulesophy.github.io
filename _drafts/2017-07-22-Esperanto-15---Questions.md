@@ -54,6 +54,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ili demandas, kaj ni respondas.|They ask, and we answer.||
+|Ĉu vi povas diri al mi, kial vi faras tion?|Can you tell me why you are doing that?||
+|Mi parolas pri nia domo.|I talk about our house.||
+|Kio estas ĉi tiu afero?|What is this thing?|
+
+
 
 ## > Section 3/3
 
