@@ -13,12 +13,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|kiam|||
-|kiu|||
-|tie|||
-|aŭto|||
-|tiu||tiuj: those?|
-|ĉi|||
+|kiam|when||
+|kiu|who/which one||
+|tie|there||
+|aŭto|car||
+|tiu|that|tiuj: those?|
+|ĉi|this||
 
 ### 例句
 
