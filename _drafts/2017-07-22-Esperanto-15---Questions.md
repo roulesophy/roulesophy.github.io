@@ -42,13 +42,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|kial|||
-|dias|||
-|afero|||
-|pri|||
-|demandas|||
-|respondi|||
-
+|kial|why||
+|diras|tell||
+|afero|thing||
+|pri|about||
+|demandas|asks||
+|respondi|to answer||
+|ĉiom|all of it||
 
 ### 例句
 
@@ -58,8 +58,12 @@ comments: true
 |Ĉu vi povas diri al mi, kial vi faras tion?|Can you tell me why you are doing that?||
 |Mi parolas pri nia domo.|I talk about our house.||
 |Kio estas ĉi tiu afero?|What is this thing?|
-
-
+|Ĉu vi povas respondi la leteron?|Can you reply to the letter?||
+|Tio ne estas via afero.|That is not your thing.||
+|Kion ili demandas al ne?|What are they asking us?||
+|Vi ne scias kion diri.|You do not know what to say.||
+|La afero ne estas grava.|The metter is not important.||
+|Ili demandas nin pri niaj gepetroj.|They ask us about our parents.||
 
 ## > Section 3/3
 
