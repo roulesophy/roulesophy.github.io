@@ -1,11 +1,12 @@
 ---
-filename: 2017-07-22-Esperanto-9---Animals.md
+filename: 2017-07-23-Esperanto-9---Animals.md
 layout: post
 title: Esperanto 9 - Animals
 tags: Esperanto
-date: 2017-07-22
+date: 2017-07-23
 comments: true
 ---
+這課主要是記動物的詞語。
 
 ## > 文法規則
 
@@ -13,21 +14,21 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|besto|||
-|bovino|||
-|koko|||
-|ĉevalo|||
-|infanojn|||
-|vivas|||
-|ido|||
-|mamulo|||
-|kuniklo|||
+|besto|animal||
+|bovino|cow|名詞字根是 bovo(ox)，-in- 是指女性，所以 bov-in-o 變成了 cow。|
+|koko|chicken||
+|ĉevalo|horse||
+|infanojn|children||
+|vivas|live||
+|ido|offspring||
+|mamulo|mammal||
+|kuniklo|rabbit||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
-|Kunikloj havas multe da idoj.|Rabbits have a lot of offspring.||
+|Kunikloj havas **multe da** idoj.|Rabbits have a lot of offspring.||
 |La koko estas besto kaj vivas.|The chicken is an animal and lives.||
 |Homoj estas mamuloj.|Humans are mammals.||
 |La ĉevalo vidas la bovinojn.|The horse sees the cows.||
@@ -37,15 +38,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|muŝo|||
-|flugas|||
-|strigo|||
-|insekto|||
-|araneoj|||
-|abelo|||
-|duo|||
-|birdoj|||
-|azenoj|||
+|muŝo|a fly|留意和 muso(mouse) 的分別。|
+|flugas|fly||
+|strigo|owl||
+|insekto|insect||
+|araneoj|spider||
+|abelo|bee||
+|duo|representative of duolingo||
+|birdoj|bird||
+|azenoj|donkey||
 
 ### 例句
 
@@ -55,20 +56,19 @@ comments: true
 |Ĉu araneoj flugas?|Can spiders fly?||
 |Duo estas strigo.|Duo is a owl.||
 |Duo ne estas azeno, sed strigo.|Duo is not a donkey but an owl.||
-|La mŭŝo estas insekto.|The fly is an insect.||
-|
+|La muŝo estas insekto.|The fly is an insect.||
 
 ## > Section 3/5
 
 |Esperanto|English|Comment|
 |---|---|---|
-|ovojn|||
-|malgranda|||
-|voston|||
-|aligatoro|||
-|krokodilo|||
-|demeti|||
-|belan|||
+|ovojn|eggs||
+|malgranda|small|名詞字根是 granda(big)，mal- 是指相反，所以 mal-granda 變成了 small。|
+|voston|tail||
+|aligatoro|alligator||
+|krokodilo|crocodile||
+|demeti|lay (eggs) / put down||
+|belan|beautiful||
 
 ### 例句
 
@@ -84,12 +84,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|nokto|||
-|fiŝo|||
-|porko|||
-|kaptas|||
-|hundojn|||
-|kato|||
+|nokto|night||
+|fiŝo|fish||
+|porko|pig||
+|kaptas|catch||
+|hundojn|dog||
+|kato|cat||
 
 ### 例句
 
@@ -105,12 +105,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|katido|||
-|hundidojn|||
-|ŝafo|||
-|ŝafidoj|||
-|muson|||
-|anaso|||
+|katido|kitten|名詞字根是 kato(cat)，-id- 是指 offspring ，所以 kat-id-o 變成了 kitten。|
+|hundidojn|puppy|名詞字根是 hundo(dog)，-id- 是指 offspring ，所以 hund-id-o 變成了 puppy。|
+|ŝafo|sheep||
+|ŝafidoj|lamb|名詞字根是 ŝafo(sheeep)，-id- 是指 offspring ，所以 ŝaf-id-o 變成了 lamb。|
+|muson|mouse|小心和 muŝo(a fly) 的分別。|
+|anaso|duck||
 
 ### 例句
 
