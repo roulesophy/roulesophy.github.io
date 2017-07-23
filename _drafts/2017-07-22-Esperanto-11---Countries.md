@@ -13,7 +13,7 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|kie|||
+|kie|where||
 |loĝas|||
 |lando|||
 |italio|||

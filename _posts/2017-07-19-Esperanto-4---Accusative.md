@@ -10,6 +10,7 @@ comments: true
 
 ## > 文法規則
 * 所有 Accusative 的名詞都以 `n` 作尾。 例如 `Mi amas ŝin. (I love her)` 中， `mi` 不是 accusative ，所以不用加 `n` 在 `mi` 後，而 `amas` 作用的名詞是 `ŝi` ，所以 `ŝi` 後要加 `n` 變成 `ŝin` 。
+<!-- en 後面不用加 `n` 。-->
 
 ## > Section 1/4
 

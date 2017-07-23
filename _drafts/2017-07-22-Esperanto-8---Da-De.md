@@ -8,19 +8,21 @@ comments: true
 ---
 
 ## > 文法規則
+* `da` 是和數量有關的 `of` 。
+* `de` 是和數量無關的 `of` 。
 
 ## > Section 1/2
 
 |Esperanto|English|Comment|
 |---|---|---|
-|taso|||
-|da|||
-|glason|||
-|donas|||
-|teo|||
-|vino|||
-|bongustan|||
-|de|||
+|taso|cup||
+|da|of (about quantity)||
+|glason|glass||
+|donas|give||
+|teo|tea||
+|vino|wine||
+|bongustan|delicious||
+|de|of / from||
 
 ### 例句
 
@@ -30,12 +32,12 @@ comments: true
 |Kiom ili aĝas?|How old are they?||
 |Mi mendas kvar kilogramojn da tomatoj.|I order four kilograms of tomatoes.||
 |La patro de la knabino donas al ili tasojn da kafo.|The girl's father gives them cups of coffee.||
-|Estas multe da teo en la taso.|There is a lot of tea in the cup.||
+|Estas **multe da teo** en la taso.|There is a lot of tea in the cup.||
 |Unu litro ne estas multe.|One liter is not a lot.||
-|Mi mendas kvar kilogramojn da tomatoj.|I order four kilograms of tomatoes.||
-|Ŝi dones al me tason da teo.|She gives me a cup of tea.||
-|La koloro de la vino estas ruĝa.|The colour or the wine is red.||
-|En unu litro da supo, estas multe da akvo.|In one liter of soup, there is a lot of water.||
+|Mi mendas **kvar kilogramojn da tomatoj**.|I order four kilograms of tomatoes.||
+|Ŝi **donas al** me **tason da teo**.|She gives me a cup of tea.|donas 要加 al(to) 指示方向|
+|La **koloro de la vino** estas ruĝa.|The **color of the wine** is red.||
+|En **unu litro da supo**, estas **multe da akvo**.|In one liter of soup, there is a lot of water.||
 |Mi ŝatas tomatojn|I like tomatoes.||
 |Ĉu ŝi trinkas glasonda akvo?|Is she drinking a glass of water?||
 
@@ -43,15 +45,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|litro|||
-|supo|||
-|kilogramo|||
-|tomato|||
-|mendas|||
-|kiom|||
-|paĝoj|||
-|frazo|||
-|aĝas|||
+|litro|litre||
+|supo|soup||
+|kilogramo|kilogram||
+|tomato|tomato|英文和世界語的拼法完全一樣|
+|mendas|order||
+|kiom|how many||
+|paĝoj|pages||
+|frazo|strawberry||
+|aĝas|age||
 
 ### 例句
 
