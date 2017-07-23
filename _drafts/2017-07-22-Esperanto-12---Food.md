@@ -48,7 +48,7 @@ comments: true
 |sur|||
 |sukero|sugar||
 |jen|||
-|por|||
+|por|to / in order to / for||
 |kun|||
 |matenmanĝi|||
 |butero|||

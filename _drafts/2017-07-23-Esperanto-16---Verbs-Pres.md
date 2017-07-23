@@ -14,20 +14,28 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|se|||
-|pordojn|||
-|komprenas|||
-|labori|||
-|devi|||
-|pensi|||
-|ŝanĝi|||
-|fermi|||
-|sendas|||
+|se|If||
+|pordojn|door|pordo|
+|komprenas|understand||
+|labori|to work||
+|devi|to have||
+|pensi|to think||
+|ŝanĝi|to change||
+|fermi|to close||
+|sendas|send||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ĉu vi povas fermi la pordon?|Can you close the door?||
+|Ili **devas labori**, ĉar ili bezonas monon.|They **have to work**, because they need money.||
+|Ĉu vi pensas, kion mi pensas?|Are you thinking what I am thinking?||
+|Se vi volas.|If you want.||
+|Ni ŝanĝas la vortojn en la libro.|We change the words in the book.||
+|Ŝi ŝanĝas vin.|She changes you.||
+|Ili volas **sendi al** vi leteron.|They want to send you a letter.||
+|Kion vi ne komprenas?|What do you not understand?||
 
 ## > Section 2/6
 
