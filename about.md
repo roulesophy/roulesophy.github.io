@@ -15,14 +15,17 @@ permalink: /about/
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 
-
+<!--
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
-
+-->
 
 <!-- `tag_words` is a sorted array of the tag names. -->
+<!--
 {% assign tag_words = site_tags | split:',' | sort %}
+-->
 
 <!-- List of all tags -->
+<!--
 <ul class="tags">
 	{% for item in (0..site.tags.size) %}
 		{% unless forloop.last %}
@@ -33,6 +36,7 @@ to the `site_tags` variable. -->
 		{% endunless %}
 	{% endfor %}
 </ul>
+-->
 
 ## Projects
 
