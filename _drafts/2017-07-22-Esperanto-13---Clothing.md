@@ -13,9 +13,9 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|jupo|||
+|jupo|skirt||
 |mallonga|||
-|pantalonon|||
+|pantalonon|pants / trousers||
 |ofte|||
 |somero|||
 |poŝo|||
@@ -25,23 +25,34 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Knabinoj ofte kantas en kafeoj.|Girls often sing in cafes / Girls often sing in cafes.||
+|Kio estas en lia poŝo?|What is in his pocket?||
+|La jupo estas mallonga.|The skirt is short.||
+|Kion vi portas en la somero?|What do you wear in the summer?||
+|Li portas pantalonon.|He wears pants.||
 
 ## > Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
-|ĉapelo|||
+|ĉapelo|hat||
 |vestaĵo|||
 |robo|||
 |bezonas|||
-|ŝuojn|||
-|ĉemizo|||
-|mantelo|||
+|ŝuojn|shoe||
+|ĉemizo|shirt||
+|mantelo|coat||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Liaj vestaĵoj estas nigraj.|His clothes are black.||
+|La robo estas blua kaj nigra.|The dress is blue and black.||
+|La granda ĉemizo estas blanka.|The big shirt is white.||
+|Mi bezonas ŝuojn.|I need shoes.||
+|Ĉu bestoj portas vestaĵojn?|Do animals wear clothes?||
+|Lia granda ĉapelo estas bruna.|His big hat is brown.||
 
 ## > Section 3/3
 
@@ -49,9 +60,9 @@ comments: true
 |---|---|---|
 |kudras|||
 |butonojn|||
-|ŝtrumpeto|||
+|ŝtrumpeto|socks||
 |ŝtrumpo|||
-|propra|||
+|propra|own||
 |pupo|||
 |mojosas|||
 
@@ -59,4 +70,10 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-
+|Miaj propraj ŝtrumpetoj are white|My own socks are white.||
+|Ŝtrumpoj ne havas butonojn.|Socks do not have buttons.||
+|Via jupo mojosas!|Your skirt is cool!||
+|Ĉu via pupo havas robon?|Does your doll have a dress?||
+|Kion vi kudras?|What do you sew?||
+|Liaj ŝtrumpetoj estas nigraj.|His socks are black.||
+|Virinoj ofte portas ŝtrumpojn.|Women often wear socks.||
