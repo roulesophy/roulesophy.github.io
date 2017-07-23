@@ -73,3 +73,5 @@ comments: true
 |Mi mendas kvar kilogramojn da tomatoj.|I order four kilograms of tomatoes.||
 |Kiom da vortoj estas en la frazo?|How many words are in the sentence?||
 |Mi mendas unu litron da supo kaj du kilogramojn da tomatoj.|I order one liter of soup and two kilograms of tomatoes.||
+
+

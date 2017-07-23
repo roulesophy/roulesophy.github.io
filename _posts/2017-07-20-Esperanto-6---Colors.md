@@ -96,3 +96,4 @@ comments: true
 |Ĝi estas oranĝkolora, ĉu ne?|It is orange, isn't it?||
 |La nokto estas violkolora.|The night is purple.||
 |Mi manĝas flavan pomon.|I eat a yellow apple.||
+
