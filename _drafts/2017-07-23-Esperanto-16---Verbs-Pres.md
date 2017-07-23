@@ -2,7 +2,7 @@
 filename: 2017-07-23-Esperanto-16---Verbs-Pres.md
 layout: post
 title: Esperanto 16 - Verbs Pres
-tags: 
+tags: Esperanto
 date: 2017-07-23
 comments: true
 ---
