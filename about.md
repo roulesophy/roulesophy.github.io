@@ -5,11 +5,11 @@ permalink: /about/
 ---
 
 <!--IT, Finance, Apple, iOS Automation, HKSL-->
-我是一個香港的IT人，可是經常在研究IT以外的事情，實用技能和無用技能都在範圍之中。
+我是一個香港的IT人，可是經常在研究IT以外的事情，實用技能和無用技能都在範圍之內。
 
-<!__
+<!--
 想用三個點來記錄一件事情，因為三件事最容易讓別人記住。
-__>
+-->
 寫網誌的原因是想防止自己失憶、訓練自己的表達能力、以及為世界帶來一點參考。
 
 <!-- Get the tag name for every tag on the site and set them
