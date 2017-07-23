@@ -32,7 +32,7 @@ comments: true
 |Kio estas via nomo?|What is your name?||
 |Tio estas ĝia hejmo.|That is its home.||
 |Mia patrino estas bela.|My mother is beautiful.||
-|Viaj pomoj estas tre belaj.|Your apples are very beautiful.|留意眾數也要加 `j` 。|
+|Viaj pomoj estas tre belaj.|Your apples are very beautiful.|留意 possessive 的眾數也要加 `j` 。|
 
 ## > Section 2/2
 
