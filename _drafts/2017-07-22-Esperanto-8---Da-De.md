@@ -39,8 +39,7 @@ comments: true
 |La **koloro de la vino** estas ruĝa.|The **color of the wine** is red.||
 |En **unu litro da supo**, estas **multe da akvo**.|In one liter of soup, there is a lot of water.||
 |Mi ŝatas tomatojn|I like tomatoes.||
-|Ĉu ŝi trinkas glasonda akvo?|Is she drinking a glass of water?||
-
+|Ĉu ŝi trinkas **glason da akvo**?|Is she drinking a glass of water?||
 ## > Section 2/2
 
 |Esperanto|English|Comment|
