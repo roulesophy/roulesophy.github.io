@@ -6,6 +6,7 @@ tags: Esperanto
 date: 2017-07-22
 comments: true
 ---
+這課是關於 `da` 和 `de` 的分別。
 
 ## > 文法規則
 * `da` 是和數量有關的 `of` 。
