@@ -1,9 +1,9 @@
 ---
-filename: 2017-07-23-Esperanto-10---Possessive.md
+filename: 2017-07-24-Esperanto-10---Possessive.md
 layout: post
 title: Esperanto 10 - Possessive
 tags: Esperanto
-date: 2017-07-23
+date: 2017-07-24
 comments: true
 ---
 
