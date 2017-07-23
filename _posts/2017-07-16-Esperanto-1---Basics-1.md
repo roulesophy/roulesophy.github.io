@@ -93,3 +93,4 @@ comments: true
 |Ĝi falas.|It falls.||
 |Mi dormas multe.|I sleep a lot.||
 |Knabino aŭ virino.|A girl or a woman.||
+

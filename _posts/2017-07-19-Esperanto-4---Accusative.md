@@ -129,3 +129,4 @@ comments: true
 |Knabino ŝatas la leteron.|A girl likes the letter.||
 |Li kaj ŝi legas ĵurnalon.|He and she read a newspaper.||
 |Ni vidas la leteron kaj ŝatas ĝin.|We see the letter and like it.||
+

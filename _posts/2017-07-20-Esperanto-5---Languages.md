@@ -67,3 +67,4 @@ comments: true
 |Oni diras, ke la franca estas bela.|One says that French is beautiful.||
 |Mi legas iomete italan.|I read a little Italian.||
 |Mi skribas italan bone.|I write Italian well.||
+
