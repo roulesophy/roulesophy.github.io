@@ -1,9 +1,9 @@
 ---
-filename: 2017-07-22-Esperanto-8---Da-De.md
+filename: 2017-07-23-Esperanto-8---Da-De.md
 layout: post
 title: Esperanto 8 - Da De
 tags: Esperanto
-date: 2017-07-22
+date: 2017-07-23
 comments: true
 ---
 這課是關於 `da` 和 `de` 的分別。
