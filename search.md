@@ -26,7 +26,8 @@ permalink: /search/
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}",
         "excerpt": "{{ post.excerpt | strip_html | strip_newlines }}",
-        "date": "{{ page.date | date: "%B %e, %Y" }}"
+        "date": "{{ post.date | date: "%B %e, %Y" }}",
+        "filename": "{{ post.filename }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

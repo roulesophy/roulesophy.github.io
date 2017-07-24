@@ -3,8 +3,11 @@
     var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
+    	
+      results = results.sort(compare);	
+    	
       var appendString = '<div class="posts">';
-
+      
       for (var i = 0; i < results.length; i++) {  // Iterate over the results
         var item = store[results[i].ref];
         appendString += '<article class="post">'
@@ -21,6 +24,19 @@
       searchResults.innerHTML = '<h1 style="margin: 5px 0 15px;">No results found</h1>';
     }
   }
+  
+  function compare(a, b) {
+	  var itema = store[a.ref];
+	  var itemb = store[b.ref];
+	  if (itema.filename > itemb.filename) {
+	    return -1;
+	  }
+	  if (itema.filename < itemb.filename) {
+	    return 1;
+	  }
+	  return 0;
+	}
+
 
   function getQueryVariable(variable) {
     var query = window.location.search.substring(1);
@@ -50,6 +66,7 @@
       this.field('content');
       this.field('excerpt');
       this.field('date');
+      this.field('filename');
     });
 
     for (var key in window.store) { // Add the data to lunr
@@ -60,7 +77,8 @@
         'category': window.store[key].category,
         'content': window.store[key].content,
         'excerpt': window.store[key].excerpt,
-        'date': window.store[key].date
+        'date': window.store[key].date,
+        'filename': window.store[key].filename,
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
