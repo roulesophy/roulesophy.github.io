@@ -9,11 +9,11 @@ comments: true
 
 antifragile:
 
-upside downside
-small chaos is better
-can enhance system stability capacity
+* upside downside
+* small chaos is better
+* can enhance system stability capacity
 
-component:
-barbell
-evolution
-spare thing (for system stability)
+* component:
+	* barbell
+	* evolution
+	* spare thing (for system stability)
