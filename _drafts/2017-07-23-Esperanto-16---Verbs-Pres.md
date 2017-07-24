@@ -7,7 +7,6 @@ date: 2017-07-23
 comments: true
 ---
 
-
 ## > 文法規則
 
 ## > Section 1/6
@@ -92,12 +91,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|feliĉa|||
-|esperi|||
-|memori|||
-|telefoni|||
-|montri|||
-|mirinda|||
+|feliĉa||happy|
+|esperi|hope||
+|memori|to remember||
+|telefoni|call||
+|montri|show||
+|mirinda|amaze||
 
 ### 例句
 
