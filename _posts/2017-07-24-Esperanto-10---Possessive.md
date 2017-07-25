@@ -7,7 +7,11 @@ date: 2017-07-24
 comments: true
 ---
 
-`possessive` 是指佔有的，在英文中 `I` 的 `possessive` 是 `my` 。 在 `Esperanto` 中是在後面加 `a` ，例如 `mi(I)` 的 possessive 是 `mia(my)`。
+`possessive` 是指佔有的。
+
+## > 文法規則
+
+* 在英文中 `I` 的 `possessive` 是 `my` 。 在 `Esperanto` 中是在後面加 `a` ，例如 `mi(I)` 的 possessive 是 `mia(my)`。
 
 ## > Section 1/2
 
