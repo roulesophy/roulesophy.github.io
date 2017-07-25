@@ -18,9 +18,9 @@ comments: true
 |telefono|||
 |komputilo||recall kompreni: to understand|
 |okulvitrojn|||
-|horloĝo|||
+|horloĝo||horo: hour/time/o'clock,loĝo:logo|
 |...|||
-|brakhorloĝo|watch|affix: brak?|
+|brakhorloĝo|watch|affix: brak=arm|
 
 ### 例句
 
@@ -42,12 +42,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|korbo|||
-|sapo|||
-|kesto|||
-|sako|||
-|trovi|||
-|lampo|||
+|korbo|basket||
+|sapo|soap||
+|kesto|box||
+|sako|bag||
+|trovi|find||
+|lampo|lamp||
 |pulvoro|powder|pluvoro de kafo: instant coffee|
 
 ### 例句
