@@ -74,7 +74,7 @@ comments: true
 |sud-ameriko|south america||
 |kontinento|continent|洲|
 |meksiko|Mexico||
-|Meksikano|Mexican||
+|meksikano|Mexican||
 |kanado|Canada||
 |kanadano|Canadian||
 
