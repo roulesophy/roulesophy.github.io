@@ -52,9 +52,12 @@
   }
 
   var searchTerm = getQueryVariable('query');
+  var searchTagTerm = getQueryVariable('tag');
 
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
+  if (searchTerm || searchTagTerm) {
+	  if (searchTerm) {
+		  document.getElementById('search-box').setAttribute("value", searchTerm);
+	  }
 
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
@@ -67,6 +70,7 @@
       this.field('excerpt');
       this.field('date');
       this.field('filename');
+      this.field('tags');
     });
 
     for (var key in window.store) { // Add the data to lunr
@@ -79,9 +83,10 @@
         'excerpt': window.store[key].excerpt,
         'date': window.store[key].date,
         'filename': window.store[key].filename,
+        'tags': window.store[key].tags
       });
 
-      var results = idx.search(searchTerm); // Get lunr to perform a search
+      var results = searchTerm ? idx.search(searchTerm) : idx.search(searchTagTerm); // Get lunr to perform a search
       displaySearchResults(results, window.store); // We'll write this in the next section
     }
   }

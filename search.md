@@ -27,7 +27,8 @@ permalink: /search/
         "url": "{{ post.url | xml_escape }}",
         "excerpt": "{{ post.excerpt | strip_html | strip_newlines }}",
         "date": "{{ post.date | date: "%B %e, %Y" }}",
-        "filename": "{{ post.filename }}"
+        "filename": "{{ post.filename }}",
+        "tags": "{{ post.tags }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}
