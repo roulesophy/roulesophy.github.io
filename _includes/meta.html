@@ -4,13 +4,15 @@
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
     {% if page.excerpt %}
-    <meta name="description" content="{{ page.excerpt| strip_html }}" />
-    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+	    <meta name="description" content="{{ page.excerpt| strip_html }}" />
+	    <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
-    <meta name="description" content="{{ site.description }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}">
-    <meta property="og:description" content="{{ site.description }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
+	    <meta name="description" content="{{ site.description }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}">
+	    <meta property="og:description" content="{{ site.description }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
     {% endif %}
+    
     <meta name="author" content="{{ site.name }}" />
+    
     <link rel="author" href="http://twitter.com/roulesophy"/>
     <link rel="apple-touch-icon-precomposed" sizes="57x57" href="images/apple-icon-57x57-precomposed.png" />
 	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="images/apple-icon-72x72-precomposed.png" />
@@ -18,8 +20,8 @@
 	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="images/apple-icon-144x144-precomposed.png" />
 
     {% if page.title %}
-    <meta property="og:title" content="{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
-    <meta property="twitter:title" content="{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
+	    <meta property="og:title" content="{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
+	    <meta property="twitter:title" content="{{ page.title }}{% if paginator.page > 1 %} - Page {{ paginator.page }}{% endif %}" />
     {% endif %}
     
     
@@ -28,18 +30,21 @@
 	<meta name="twitter:site" content="@roulesophy">
 	<meta name="twitter:creator" content="@roulesophy">
 	{% if page.title %}
-	  <meta name="twitter:title" content="{{ page.title }}">
+	  	<meta name="twitter:title" content="{{ page.title }}">
 	{% else %}
-	  <meta name="twitter:title" content="{{ site.title }}">
+	  	<meta name="twitter:title" content="{{ site.title }}">
 	{% endif %}
+	
 	{% if page.url %}
-	  <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
+	  	<meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 	{% endif %}
+	
 	{% if page.description %}
-	  <meta name="twitter:description" content="{{ page.description }}">
+	  	<meta name="twitter:description" content="{{ page.description }}">
 	{% else %}
 	  <meta name="twitter:description" content="{{ site.description }}">
 	{% endif %}
+	
 	{% if page.header-img %}
 	  <meta name="twitter:image:src" content="{{ site.url }}/{{ page.header-img }}">
 	{% endif %}
