@@ -7,7 +7,6 @@ date: 2017-07-23
 comments: true
 ---
 
-
 ## > 文法規則
 
 ## > Section 1/6
@@ -92,12 +91,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|feliĉa|||
-|esperi|||
-|memori|||
-|telefoni|||
-|montri|||
-|mirinda|||
+|feliĉa||happy|
+|esperi|hope||
+|memori|to remember||
+|telefoni|call||
+|montri|show||
+|mirinda|amaze||
 
 ### 例句
 
@@ -114,33 +113,46 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|sola|||
-|tiel|||
-|zorgi|||
-|dankas|||
-|agi|||
-|timas|||
-|akcepti|||
-|komencas|||
+|sola|alone||
+|tiel|as||
+|zorgi|to worry||
+|dankas|thank||
+|agi|ack||
+|timas|afraid of||
+|akcepti|accept||
+|komencas|begin||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Vi timas iri sola.|You are afraid of going alone.||
+|Ŝi ne agas tiel bone kiel vi.|She does not act as good as you.||
+|Mi dankas vin.|I thank you.||
+|He does not worry.||
+|Li komencas studi Esperanton.|He begins to study Esperanto.||
+|Sola, sola, sola.|Alone, alone, alone.||
+|Mi volas akcepti ĝin.|I want to accept it.||
 
 ## > Section 6/6
 
 |Esperanto|English|Comment|
 |---|---|---|
-|laboro|||
-|necesejo|||
-|fidas|||
-|pardoni|||
+|laboro|work / job||
+|necesejo|toliet||
+|fidas|trust||
+|pardoni|forgive||
 |fini|||
-|uzi|||
-|atendi|||
+|uzi|use||
+|atendi|await||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ĉu vi finas vian laboron?|Do you finas vian laboron?||
+|Mi devas usi la necesejon.|I have to use the toliet.||
+|Mi **fidas al** vi.|I trust you.||
+|Ĉu vi povas atendi?|Can you wait?||
+|Li often pardonas rapide.|He often forgives quickly.||
+|Li atendas nin.|He awaits us.||

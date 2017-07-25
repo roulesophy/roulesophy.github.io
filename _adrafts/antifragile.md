@@ -1,3 +1,12 @@
+---
+filename: .md
+layout: post
+title: 
+tags:
+date: 2017-07-24 
+comments: true
+---
+
 antifragile:
 
 * upside downside
