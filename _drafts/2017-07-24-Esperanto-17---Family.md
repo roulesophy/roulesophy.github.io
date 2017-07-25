@@ -2,7 +2,7 @@
 filename: 2017-07-24-Esperanto-17---Family.md
 layout: post
 title: Esperanto 17 - Family
-tags: 
+tags: Esperanto
 date: 2017-07-24
 comments: true
 ---
@@ -14,7 +14,7 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |filo|son||
-|gegratoj||should be gefratoj?|
+|gefratoj|siblings||
 |familio|family||
 |onklino||aunt?|
 |kuzo|||
@@ -42,11 +42,11 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |ĉambro|||
-|ĝemelo|||
+|ĝemelo|twins||
 |amiko|||
 |koramiko|||
 |edzo|||
-|sama|||
+|sama|same||
 |prezenti|||
 |aliulo|||
 
@@ -54,6 +54,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ĝemeloj havas la samajn gepatrojn.|Twins have the same parents.||
+|Ŝi estas la edzino de aliulo.|She is the wife of someone else.||
+|Mi prezentas al vi mian koramikon.|I introduce to you my boyfriend.||
+|Nia domo enhavas kvar ĉambrojn.|Our house contains 4 rooms.||
+|Mi iras kun mia amiko.|I go with my friend.||
+|Mia patrino estas la edzino de mia patro.|My mother is my father's wife.||
+|Ŝi montras al ni nian ĉambron.|She shows to us our room.||
 
 ## > Section 3/3
 
@@ -63,8 +70,8 @@ comments: true
 |avino|||
 |bofratino|||
 |bopatro|||
-|paĉjo|||
-|panjo|||
+|paĉjo||ĉj: nickname for male|
+|panjo||nj: nickname for female|
 |praavino|||
 |praavo|||
 
@@ -72,3 +79,10 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Paĉjo, kie estas panjo?|Daddy, where is mommy?||
+|La avino aĉetas pantalonon por sia nepo.|The grandmother buys pants for her grandson.||
+|Mia praavo venas el Ĉinio.|My great-grandpa comes from China.||
+|Mi vizitas mian bopatron.|I visit my father-in-law.||
+|Mia praavino venas el Rusio.|My great-grandmother comes from Russia.||
+|Panjo kaj paĉjo estas geedzoj.||
+|La edzo de mia fratino estas mia bofrato.|The husband of my sister is my brother-in-law.||
