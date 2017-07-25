@@ -14,14 +14,16 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |filo|son||
-|gegratoj|||
-|familio|||
-|onklino|||
+|gegratoj||should be gefratoj?|
+|familio|family||
+|onklino||aunt?|
 |kuzo|||
 |sia|her (own) / his (own)|留意和 ŝia 的分別。|
-|bebon|||
+|bebon|baby||
 |nevino|||
 |onklo|unclo||
+|nevo|nephew||
+|gekuzo|cousins||
 
 ### 例句
 
