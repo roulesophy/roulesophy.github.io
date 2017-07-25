@@ -1,27 +1,32 @@
 ---
-filename: 2017-07-22-Esperanto-11---Countries.md
+filename: 2017-07-26-Esperanto-11---Countries.md
 layout: post
 title: Esperanto 11 - Countries
 tags: Esperanto
-date: 2017-07-22
+date: 2017-07-26
 comments: true
 ---
 
+這課是關於國家的詞語。
+
 ## > 文法規則
+* 個人認為最難分別的是國家和該國家的人。
+* 有些國家名稱中間有 `i` ，沒有了 `i` 便是指該國家的人，例如 `italio(Italy)` 和 `italo(Italian)`。
+* 有些國家名稱中間沒有 `i` ，加了 `an` 便是指該國家的人，例如 `kanado(Canada)` 和 `kanadano(Canadian)`。
 
 ## > Section 1/4
 
 |Esperanto|English|Comment|
 |---|---|---|
 |kie|where||
-|loĝas|||
-|lando|||
-|italio|||
-|italo|||
-|francio|||
-|francoj|||
-|eŭropajn|||
-|eŭropano|||
+|loĝas|live||
+|lando|country||
+|italio|Italy||
+|italo|Italian||
+|francio|France||
+|francoj|French people||
+|eŭropo|Europe||
+|eŭropano|European||
 
 ### 例句
 
@@ -39,15 +44,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|multa|||
-|germanio|||
-|usono|||
-|germano|||
-|el|||
-|usonano|||
-|vizitas|||
-|kongreso|||
-|venas|||
+|multa|many||
+|germanio|Germany||
+|germano|German||
+|usono|USA||
+|usonano|American||
+|el|from|`el` 是 from 而 `al` 是 to|
+|vizitas|visit||
+|kongreso|congress|會議|
+|venas|come|通常的用法是 `venas el` (comes from)|
 
 ### 例句
 
@@ -57,7 +62,7 @@ comments: true
 |Italoj vizitas la eŭropan kongreson.|Italians visit the European congress.||
 |Multaj usonanoj loĝas en Germanio.|Many Americans live in Germany.||
 |Ilia adreso estas en Usono.|Their address is in the USA.||
-|Mi venas el malgranda lando.|I come from a small country.||
+|Mi **venas el** malgranda lando.|I **come from** a small country.||
 |Iliaj gepatro venas el Usono.|Their parents come from the United States.||
 |La germano venas el Germanio.|The German comes from Germany.||
 
@@ -65,12 +70,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|nord-ameriko|||
-|sud-ameriko|||
-|kontinento|||
-|meksiko|||
-|kanado|||
-...
+|nord-ameriko|north america||
+|sud-ameriko|south america||
+|kontinento|continent|洲|
+|meksiko|Mexico||
+|Meksikano|Mexican||
+|kanado|Canada||
+|kanadano|Canadian||
 
 ### 例句
 
@@ -88,21 +94,23 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|japanio|||
-|pollando|||
-|ĉinio|||
-|azio|||
-|afriko|||
-|denove|||
-|vojaĝi|||
-|ĉeĥio|||
-
+|japanio|Japan||
+|japano|Japanese||
+|pollando|Poland||
+|pola|Polish|
+|ĉinio|China||
+|azio|asia||
+|afriko|Africa||
+|denove|again|字根是 nove(newly)，de- 是指不是，所以 de-nove 變成了 again。|
+|vojaĝi|journey||
+|ĉeĥio|Czech Republic||
+|ĉehan|Czech (language)||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
-|Ĉinio estas en Azio.||
+|Ĉinio estas en Azio.|China is in Asia.|
 |Sofia parolas la polan kaj la ĉeĥan.|Sofia speaks in polish and czech.||
 |La vojaĝo estas longa.|The journey is long.||
 |En Afriko homoj parolas multe da lingvoj.|In Africa, people speak many languages.||
