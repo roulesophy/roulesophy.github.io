@@ -80,12 +80,18 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Tiu maŝino estas motoro.|That machine is a motor.||
+|Tiu ĉi rado funkcias bone.|This wheel functions well.||
+|Mi legas pri tiu objekto en la gazeto.|I read about that object in the glasses.||
+|Ĉu la sako estas senpaga?|Is the bag free?||
+|Ni devas ŝanĝi la radojn.|We have to change the wheels.||
+|Mia laboro ne senpagas.|My work is not free.||
 
 ## > Section 4/6
 
 |Esperanto|English|Comment|
 |---|---|---|
-|folio|||
+|folio|leaf||
 |planto|||
 |radikojn|||
 |arbo|||
@@ -97,6 +103,11 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Arbo estas planto.|A tree is a plant.||
+|Ĉu vi vidas la radikojn de tiu planto en la tero?|Do you see the roots of that plant in the earth?||
+|Mia tomatoj kreskas rapide.|My tomatos grow quickly.||
+|La foto estas tre bela.|The photo is very beautiful.||
+|La folio flugas.|The leafs flies.||
 
 ## > Section 5/6
 
@@ -115,17 +126,24 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Mi preferas grizan fadenon.|I prefer grey thread.||
+|Mia skribilo estas el plasto.|My pen is made of plastic.||
+|Ĉu vi havas paperon por mi?|Do you have paper for me?||
+|Ĉu vi volas pecon da pano?|Do you wants a piece of bread?||
+|La poto estas malgranda.|The pot is small.||
+|Ĉu vi venas per aŭto?|Do you come by car?||
+|
 
 ## > Section 6/6
 
 |Esperanto|English|Comment|
 |---|---|---|
 |forko|||
-|boteloj|||
+|boteloj|bottles||
 |pato|||
-|bovlojn|||
+|bovlojn|bowl||
 |kuiri|||
-|kulero|||
+|kulero|spoon||
 |antikva|||
 |kolektas|||
 
@@ -133,3 +151,9 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Li kuiras ĝin en pato.|He cooks it in a pan.||
+|Kiu kolektas antikvajn telefonojn?|Who collects antique telephones?||
+|Bonvolu doni al mi forkon!|Please give me a fork!||
+|Li kolektas antikvajn bovlojn.|He collects antique bowls.||
+|La botelo enhavas nur akvon.|The bottle contains only water.||
+|Ne estas kulero.||
