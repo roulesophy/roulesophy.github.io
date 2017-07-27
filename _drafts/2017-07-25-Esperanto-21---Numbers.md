@@ -1,7 +1,7 @@
 ---
-filename: 2017-07-25-Esperanto-0---Template.md
+filename: 2017-07-25-Esperanto-21---Numbers.md
 layout: post
-title: Esperanto 0 - Template
+title: Esperanto 21 - Numbers
 tags: Esperanto
 date: 2017-07-25
 comments: true
