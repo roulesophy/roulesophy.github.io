@@ -85,23 +85,23 @@ comments: true
 |Legomoj bongustas.|Vegetables are delicious.||
 |La manĝaĵo kaj trinkaĵo bongustas.|The food and drinks are delicious.||
 |Mi manĝas la manĝon kun fromaĝo.|I eat the food with cheese.||
-|Ĉu vi havas iom da fromaĝo?|Do you have some cheese?||
+|Ĉu vi havas **iom da fromaĝo**?|Do you have **some cheese**?||
 |Suko ne estas manĝaĵo, sed trinkaĵo.|Juice is not food, but drink.||
-|Sofia trinkas iom da suko.|Sofia drinks some juice.||
+|Sofia trinkas **iom da suko**.|Sofia drinks **some juice**.||
 
 ## > Section 4/8
 
 |Esperanto|English|Comment|
 |---|---|---|
 |salo|salt||
-|porkaĵo|||
+|porkaĵo|pork|pork-aĵ-o|
 |vegetarano|vegetarian|-an-|
-|picojn|||
+|picojn|pizza||
 |frago|strawberry||
 |bovaĵo|beef|aĵ|
-|malbona|||
-|tagmanĝi|||
-|ĉiom|||
+|malbona|bad|mal-bona|
+|tagmanĝi|eat lunch|tago-manĝi|
+|ĉiom|all|ĉi-om|
 
 ### 例句
 
@@ -127,12 +127,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|vespermanĝi|||
+|vespermanĝi|eat dinner|vespero-manĝi|
 |restoracio|restaurant||
 |pastaĵoj|pasta|aĵ?|
 |sen|without||
 |kune|together||
-|tiom|||
+|tiom|so much|?|
 |gasto|guest||
 
 ### 例句
@@ -150,19 +150,19 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|menuo|||
-|kelnero|||
-|kelnerinoj|||
-|servas|||
-|aĉetas|||
-|gustumas|||
+|menuo|menu||
+|kelnero|waiter||
+|kelnerinoj|waitresses||
+|servas|serve||
+|aĉetas|buy||
+|gustumas|tasting|gust-um-as|
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
 |La kelnero servas la vespermanĝon.|The waiter serves the dinner.||
-|Ni gustumas teon.|We are tasing tea.||
+|Ni gustumas teon.|We are tasting tea.||
 |Ĉu vi aĉetas fruktojn aŭ legomojn?|Do you buy fruits or vegatables?||
 |Kelneroj kaj kelnerinoj laboras kune en la restoracio.|Waiters and waitresses work together in the restaurant.||
 |Ĉu la kelnero parolas nian lingvon?|Does the waiter speak our language?||
