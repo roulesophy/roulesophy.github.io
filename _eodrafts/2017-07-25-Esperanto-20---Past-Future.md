@@ -101,6 +101,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Antaŭe mi studis la italan. Hodiaŭ mi parolas ĝin.|Before, I studied Italian. Today I speak it.||
+|Antaŭe mi manĝis por vivi. Nun mi vivas por manĝi.|Before, I ate to live. Now I live to eat.||
+|Kial vi volas esti granda?|Why do you want to be big?||
+|Kio okazos morgaŭ?|What will happen tomorrow?||
+|Ĉu ni memoros morgaŭ?|Will we remember tomorrow?||
+|Kiam vi studis la anglan?|When did you study English?||
+|Ili devas veni al Francio.|They have to come to France.||
+|Ili rigardos la belajn bestojn.|They will watch the beautiful animals.||
 
 ## > Section 5/7
 
@@ -120,6 +128,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Mi ne povis dormi.|I could not sleep.||
+|Post tiu kiso, ĉu vi amas min?|After that kiss, do you love me?||
+|Mi ne povas ami lin.|I cannot love him.||
+|Miaj gepatroj havis verdan domon.|My parents had a green house.||
+|La patro de la familio decidis rapide.|The father of the family decided quickly.||
+|La ludo estos post la laboro.|The game will be after the work.||
+|Morgaŭ li skribos rapide.|Tomorrow he will write quickly.||
+|Ĉu via koramiko laboros morgaŭ?|Does your boyfriend work tomorrow?||
 
 ## > Section 6/7
 
@@ -138,6 +154,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Pluvas.|It is raining.||
+|Ĉu vi donos kukon al viaj infanoj?|Will you give a cake to your children?||
+|Ĉu neĝos morgaŭ?|Will it snow tomorrow?||
+|Kion vi legos morgaŭ?|What will you read tomorrow?||
+|Kiam ni komencos manĝi?|When will we start to eat?||
+|Kion vi prenis el la domo?|What did you take from the house?||
+|Mi ne forgesos.|I will not forget.||
+|Kiam vi komprenos nin?|When will you understand us?||
 
 ## > Section 7/7
 
@@ -150,9 +174,17 @@ comments: true
 |ligi|||
 |punis|||
 |soifi|||
-|scipovis|||
+|scipovis|know how||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Vi povas lasi tion.|You can leave that.||
+|Kie vi kaŝos tion?|Where will you hide that?||
+|Li rompis siajn okulvitrojn.|He broke his glasses.||
+|Tio tenos vin varma.|That will keep you warm.||
+|La kato punis la katidon ĉar ĝi kisis la muson.||
+|Estis longa laboro, kaj nun mi soifas.|It was long work, and now I am thirsty.||
+|Ĉu vi scipovas paroli Esperanton?|Do you know how to speak Esperanto?||
+|Ŝi ligis la poŝtelefonon al la komputilo.|She connected the mobile phone to the computer.||
