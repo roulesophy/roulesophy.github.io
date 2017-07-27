@@ -71,7 +71,7 @@ comments: true
 |fromaĝo|cheese||
 |frukto|fruit||
 |suko|juice||
-|manĝo|food|vs manĝaĵo?|
+|manĝo|food (or meal)|vs manĝaĵo?|
 |bongustas|is / are delicious||
 |manĝaĵo|food|aĵ|
 |trinkaĵo|drinks|aĵ|
@@ -172,10 +172,10 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |ananaso|pineapple||
-|malvarmas|||
+|malvarmas|is cold||
 |glacio|ice||
-|neniom|||
-|vendi|||
+|neniom|none|neni-om|
+|vendi|to come||
 |dolĉaj|sweet||
 
 ### 例句
@@ -194,13 +194,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|grason|||
-|spico|||
+|grason|fat||
+|spico|spice||
 |rizo|rice||
 |oleo|oil||
-|odoras|||
-|recepto|||
-|miksas|||
+|odoras|smell||
+|recepto|recipe||
+|miksas|mix||
 
 ### 例句
 
