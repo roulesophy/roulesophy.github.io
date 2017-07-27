@@ -13,14 +13,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|aŭdi|||
-|manĝi|||
-|vidi|||
-|iri|||
-|fari|||
-|trinki|||
-|danci|||
-|morgaŭ|||
+|aŭdito hear|||
+|manĝi|to eat||
+|vidi|to see||
+|iri|to go||
+|fari|to do||
+|trinki|to drink||
+|danci|to dance||
+|morgaŭ|tomorrow||
 
 ### 例句
 
