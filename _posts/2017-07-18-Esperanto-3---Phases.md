@@ -47,14 +47,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|bone|wel||
+|bone|well||
 |fartas|do||
 |kiel|how||
 |bonvenon|welcome||
-|bonan matenon|good morning||
-|bonan tagon|good day / good afternoon||
+|bonan matenon|good morning|bona 是指 good，而 mateno 是指 morning。|
+|bonan tagon|good day / good afternoon|bona 是指 good，而 tago 是指 day。|
 |diras|say||
-|komencanto|beginner||
+|komencanto|beginner|名詞字根是 komenco(start)，-ant- 在名詞中代表正在進行的這件事的人，所以 komenc-ant-o 變成了 beginner。|
 |kiel vi fartas|how are you||
 
 ### 例句
@@ -80,7 +80,7 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|bonan nokton|good night||
+|bonan nokton|good night|bona 是指 good，而 nokto 是指 night。|
 |partonpetas|am sorry / apalogies||
 |ĝis la revido|see you later?||
 |nedankinde|you are welcome|注意和 bonvenon 是不同的。|
@@ -94,7 +94,7 @@ comments: true
 |Pardonon, vi estas komencanto.|Sorry, you are a beginner.||
 |Dankon, kara!|Thank you, dear!||
 |Bonan vesperon kaj bonvenon?|Good evening and welcome!||
-|Dankon, ĝis la revido!|Thank you, see you later!"||
+|Dankon, ĝis la revido!|Thank you, see you later!||
 |Dankon. Nedankinde!|Thank you. You're welcome!||
 |Li aŭ ŝi pardonpetas.|He or she apologises.||
 |Bonan nokton!|Good night.||
