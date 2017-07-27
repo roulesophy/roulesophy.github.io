@@ -16,14 +16,14 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |viando|meat||
-|ol|||
-|pli|||
-|kokaĵo|||
-|oranĝo|oranĝo||
-|guston|||
-|apetito|||
-|sandviĉo|sandviĉo||
-|karoto|||
+|ol|than||
+|pli|more||
+|kokaĵo|chicken meat|kok-aĵ-o|
+|oranĝo|orange||
+|guston|taste||
+|apetito|appeitie||
+|sandviĉo|sandwich||
+|karoto|carrot||
 
 ### 例句
 
@@ -34,24 +34,23 @@ comments: true
 |Kunikloj ŝatas karotojn.|Rabbits like carrots.||
 |Li mendas pli da tomatoj.|He orders more tomatoes.||
 |Duo ne manĝas kokaĵon.|Duo does not eat chicken meat.||
-|Me ŝatas kafon pli ol vinon.|I like coffee more than wine.||
+|Me ŝatas kafon **pli ol** vinon.|I like coffee **more than** wine.||
 |Ĉu vi havas sandviĉon?|Do you have a sandwich?||
 |Mi ne manĝas viandon.|I do not eat meat.||
-
 
 ## > Section 2/8
 
 |Esperanto|English|Comment|
 |---|---|---|
-|fiŝaĵo|||
+|fiŝaĵo|fish meat|fiŝ-aĵ-o|
 |telero|plate||
-|sur|||
+|sur|on||
 |sukero|sugar||
-|jen|||
+|jen|here||
 |por|to / in order to / for||
-|kun|||
-|matenmanĝi|||
-|butero|||
+|kun|with||
+|matenmanĝi|have breakfast||
+|butero|butter||
 
 ### 例句
 
@@ -62,9 +61,8 @@ comments: true
 |Jen la domo!|Here is the house!||
 |Mi ŝatas fiŝaĵon en la supo.|I like fish in the soup.||
 |Esperanto estas la lingvo por ni.|Esperanto is the language for us.||
-|Jen la sukero por la kuko.|This is the sugar for the cake.||
+|Jen **la sukero por la kuko**.|This is **the sugar for the cake**.||
 |La telero estas blanka.|This plate is white.||
-|
 
 ## > Section 3/8
 
@@ -73,12 +71,12 @@ comments: true
 |fromaĝo|cheese||
 |frukto|fruit||
 |suko|juice||
-|manĝo|||
-|bongustas|||
-|manĝaĵo||aĵ|
-|trinkaĵo||aĵ|
-|legomo|||
-|iom|||
+|manĝo|food|vs manĝaĵo?|
+|bongustas|is / are delicious||
+|manĝaĵo|food|aĵ|
+|trinkaĵo|drinks|aĵ|
+|legomo|vegetable||
+|iom|some||
 
 ### 例句
 
