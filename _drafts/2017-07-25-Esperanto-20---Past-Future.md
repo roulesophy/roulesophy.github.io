@@ -38,14 +38,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|ŝati|||
-|respondis|||
-|paroli|||
-|diri|||
-|lerni|||
-|helpi|||
-|vojaĝis|||
-|hieraŭ|||
+|ŝati|to like||
+|respondis|answered||
+|paroli|to speak||
+|diri|to tell||
+|lerni|to learn||
+|helpi|to help||
+|vojaĝis|travelled||
+|hieraŭ|yesterday||
 
 ### 例句
 
@@ -62,15 +62,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|voli|||
-|trovi|||
-|scii|||
-|uzis|||
-|demandi|||
-|hodiaŭ|||
-|tro|||
-|ludi|||
-|instrui|||
+|voli|to want||
+|trovi|to find||
+|scii|to know||
+|uzis|used||
+|demandi|to ask||
+|hodiaŭ|today||
+|tro|too||
+|ludi|to play||
+|instrui|to teach||
 
 ### 例句
 
