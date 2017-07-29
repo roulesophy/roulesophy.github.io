@@ -79,7 +79,10 @@ comments: true
 |---|---|---|
 |bona, pli bona, la plej bona.|Good, better, the best.||
 |Miliardo estas multe pli ol miliono.|A billion is much more than a million.||
-
+|Nulo, unu, du, tri, kvar, kvin, ses, sep, ok kaj naŭ estas la dek ciferoj.|0 1 2 3 4 5 6 7 8 and 9 are the 10 digits.||
+|Dek, cent, mil, miliono, miliardo.|10, 100, 1000, 1000000, 1000000000.||
+|Ni ŝatas nombrojn kaj ni lernas ilin.|We like numbers and we learn them.||
+|La cifero nulo estas la plej bela, ĉu ne?|The digit 0 is the most beautiful, isn't it?||
 
 ## > Section 4/7
 
