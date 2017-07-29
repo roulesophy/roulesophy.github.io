@@ -101,6 +101,17 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Kiu estas la numero de tiu kanto?|What is the number of that song?||
+|La gasto mendis bovaĵon en la restoracio.|The guest ordered beef in the restaurant.||
+|La granda aligatoro estas du metrojn longa.|The big alligator is two meters long.||
+|Cent pomoj estas granda kvanto.|One hundred apples is a large quantity.||
+|Mia avino falis en sia domo.|My grandmother fell in her house.||
+|Kio fails?|What fell?||
+|La lasta numero de la gazeto estas tre bona.|The last issue of the newspaper is very good.||
+|Tiu fadeno estas unu metron longa.|That thread is one meter long.||
+|Kiun kanton vi plej ŝatas?|Which song do you like most?||
+|La adreso enhavas la numeron de la domo.|The address contains the number of the house.||
+|Mi mendis la lastan libron.|I ordered the last book.||
 
 ## > Section 5/7
 
@@ -118,6 +129,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ŝi estas la unua knabino en la vico.|She is the first girl in the line.||
+|La dua libro estas la mia.|The second book is mine.||
+|La butiko vendas manĝaĵon kaj trinkaĵon.|The store sells foods and drinks.||
+|Unua, dua, tria, kvara, kvina.|First, second, third, fourth, fifth.||
+|Ŝi havas de ses ĝis ok butikojn.|She has got six and eight stores.||
+|Estas via vico.|It is your turn.||
+|La tria arbo estas pli verda ol la kvara kaj la kvina.|The third tree is greener than the fourth and the fifth.||
 
 ## > Section 6/7
 
