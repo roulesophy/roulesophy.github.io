@@ -17,8 +17,8 @@ comments: true
 |---|---|---|
 |viando|meat||
 |ol|than||
-|pli|more||
-|kokaĵo|chicken meat|kok-aĵ-o|
+|pli|more|通常的用法是 pli ol (more than)|
+|kokaĵo|chicken meat|名詞字根是 koko(chicken)，-aĵ- 代表食物，所以 kok-aĵ-o 變成了 chicken meat。|
 |oranĝo|orange||
 |guston|taste||
 |apetito|appeitie||
@@ -42,14 +42,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|fiŝaĵo|fish meat|fiŝ-aĵ-o|
+|fiŝaĵo|fish meat|名詞字根是 fiŝo(fishb)，-aĵ- 代表食物，所以 fish-aĵ-o 變成了 fish meat。|
 |telero|plate||
 |sur|on||
 |sukero|sugar||
 |jen|here||
 |por|to / in order to / for||
 |kun|with||
-|matenmanĝi|have breakfast||
+|matenmanĝi|have breakfast|mateno 指 morning ，而 manĝi 指 eat ，所以 matenmanĝi 指吃早餐。|
 |butero|butter||
 
 ### 例句
@@ -71,10 +71,10 @@ comments: true
 |fromaĝo|cheese||
 |frukto|fruit||
 |suko|juice||
-|manĝo|food (or meal)|vs manĝaĵo?|
+|manĝo|meal|manĝi 指 eat 。|
 |bongustas|is / are delicious||
-|manĝaĵo|food|aĵ|
-|trinkaĵo|drinks|aĵ|
+|manĝaĵo|food|名詞字根是 manĝo(meal)，-aĵ- 代表食物，所以 manĝ-aĵ-o 變成了 food。|
+|trinkaĵo|beverage|名詞字根是 trinko(drinks)，-aĵ- 代表食物，所以 kok-aĵ-o 變成了 beverage。|
 |legomo|vegetable||
 |iom|some||
 
@@ -94,12 +94,12 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |salo|salt||
-|porkaĵo|pork|pork-aĵ-o|
-|vegetarano|vegetarian|-an-|
+|porkaĵo|pork|名詞字根是 porko(pig)，-aĵ- 代表食物，所以 pork-aĵ-o 變成了 pork。|
+|vegetarano|vegetarian|名詞字根是 vegetaro(vegetable)，-an- 代表人，所以 vegetar-an-o 變成了 vegetarian。|
 |picojn|pizza||
 |frago|strawberry||
-|bovaĵo|beef|aĵ|
-|malbona|bad|mal-bona|
+|bovaĵo|beef|名詞字根是 bovo(ox)，-aĵ- 代表食物，所以 bov-aĵ-o 變成了 beef。|
+|malbona|bad|名詞字根是 bona(good)，mal- 代表相反，所以 mal-bona 變成了 bad。|
 |tagmanĝi|eat lunch|tago-manĝi|
 |ĉiom|all|ĉi-om|
 
