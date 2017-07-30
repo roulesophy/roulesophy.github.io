@@ -145,8 +145,8 @@ comments: true
 |oka|||
 |naŭa|||
 |deka|||
-|sufiĉa|||
-|duono|||
+|sufiĉa|enough||
+|duono|half||
 |plejparto|||
 |ono|||
 
@@ -154,6 +154,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Duono de la ĉokolada kuko estas sufiĉa.|Half of the chocolate cake is enough.||
+|Li ne komprenas onojn.|He does not understand fractions.||
+|Ĉu vi volas la dekan libron?|Do you want the tenth book?||
+|La sepa infano en nia familio estas knabo.|The seventh child in our family is a boy.||
+|En Germanio, la plejparto de la homoj trinkas bieron.|In Germany, most people drinks beer.||
+|Nulo estas la sesa cifero en miliono.|0 is the sixth digit in 1 million.||
+|dek-sesa, dek-sepa, dek-oka, dek-naŭa.|Sixteenth, seventeenth, eighteenth, nineteenth.||
+|
 
 ## > Section 7/7
 
@@ -173,3 +181,9 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Tiu ĉemizo kostas dudek dolarojn.|That shirt costs 20 dollars.||
+|Ili kostas po tri eŭroj.|They cost each three euros.||
+|Triono estas pli granda ol kvarono.|One third is larger than one fourth.||
+|Dek estas dekono de cent.|10 is one tenth of 100.||
+|La prezoj en tiu ĉi butiko estas bonaj.|The prices in this store are good.||
+|La averaĝo de kvindek kaj sepdek estas sesdek.|The average of 50 and 70 is 60.||
