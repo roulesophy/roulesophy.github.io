@@ -58,7 +58,6 @@ comments: true
 |Mi ne havas kvindek gefratojn.|I don't have 50 siblings.||
 |Tridek tri estas malpli ok kvindek du.|33 is less than 42.||
 |Dudek, tridek, kvardek, kvindek, sesdek, sepdek, okdek, naŭdek|20, 30, 40, 50, 60, 70, 80, 90||
-|
 
 ## > Section 3/7
 
