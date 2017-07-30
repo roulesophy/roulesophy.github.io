@@ -107,6 +107,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Estas mia dudeka naskiĝtago.|It is my twentieth birthday.||
+|En julio kaj aŭgusto estas somero en Rusio.|In July and August is summer in Russia.||
+|Majo, junio, julio, aŭgusto.|May, June, July, August.||
+|Januaro, februaro, marto, aprilo, majo, junio.|Junuary, February, March, April, May, June.||
+|Kio estas via aĝo?|What is your age?||
+|Marto estas la tria monato de la jaro.|March is the third month of the year.||
+|Skribu vian aĝon.||
 
 ## > Section 5/9
 
@@ -126,6 +133,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ĉu vi povos visiti nin en oktobro?|Can you visit us in october?||
+|Aprilo, Junio, Septembro kaj novembro havas tridek tagojn.|April, June, September and November have 30 days.||
+|Ĉi-semajne ni iros al Francio.|This week we will go France.||
+|Ni havas multajn kalendarojn en nia domo.|We have many calendars in our house.||
+|Ĉi-monate mi lernas Esperanton.|This month I learn Esperanto.||
+|La dek-kvina de decembro, mil okcent kvindek naŭ.|December fifteenth, eighteen fifty-nine.||
 
 ## > Section 6/9
 
@@ -135,16 +148,23 @@ comments: true
 |printempo|||
 |vintro|||
 |tiam|||
-|dum|||
+|dum|during / in / while||
 |nubon|||
 |fino|||
 |aŭtuno|||
-
+|nubo|cloud||
+|brilas|shines||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Aŭtuno estas bela sezono.|Autumn is a beautiful season.||
+|Somero, aŭtuno, vintro, printempo.|Summer, autumn, winter, spring.||
+|La luno brilas dum la nokto.|The moon shines at night.||
+|La fino de la jaro estas en decembro.|The end of the year is in December.||
+|Ni manĝas kukon tiam.|We eat a cake at that time.||
+|
 
 ## > Section 7/9
 
@@ -164,6 +184,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ni estas en la dudek-unua jarcento.|We are in the 21st century.||
+|Novjaro estas grava festo por ili.|New Year is an important festival for them.||
+|Estas dek jaroj en jardeko.|There is 10 years in a decade.||
+|Mi neniam malpravas.|I am never wrong.||
+|Ĉu vi scias, kiam la vintro komenciĝas?|Do you know when the winter starts?||
+|Estas dek jaroj en jardeko.|There are ten years in a decade.||
+|Esperantistoj ŝatas festi.|Esperanto speakers like partying.||
 
 ## > Section 8/9
 
