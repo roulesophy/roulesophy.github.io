@@ -202,20 +202,26 @@ comments: true
 |posttagmezo|||
 |trajno|||
 |frua|||
-|ekde|||
+|ekde|since||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Mi renkontos vin ĉe la trajno.|I will meet you at the train.||
+|Li alvenis tridek sekundojn pli frue ol mi.|He arrived 30 seconds earlier than me.||
+|Momenton!|Just a moment!||
+|Mi laboros tiun posttagmezon.|I will work that afternoon.||
+|Pluvas ekde dimanĉo.|It has been raining since Sunday.||
+|Mi ŝatas trajnojn.|I like trains.||
 
 ## > Section 9/9
 
 |Esperanto|English|Comment|
 |---|---|---|
-|revenos|||
-|jara|||
-|jaraĝan|||
+|revenos|will be back||
+|jara|years old||
+|jaraĝan|year old||
 |samtempe|||
 |akurate|||
 |tagmanĝi|||
@@ -225,3 +231,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Mi estas kvardek-jara.|I am 40 years old.||
+|Adamo havas tri-jaraĝan filon.|Adamo has a 3-years-old son.||
+|Ni iris al la preĝejo samtempe.|We went to church simultaneously.||
+|Mi tuj revenos!|I will be right back!|tuj = right / soon|
+|Kelkfoje neĝas en marto en nia lando.|Sometimes it snows in March in our country.||
+|Mia bofrato estas tridek-naŭ-jara.|My brother-in-law is thirty-nine.||
+|Liaj fratinoj estas naŭ-jaraĝaj ĝemeloj.|His sisters are 9-years-old twins.||
+|Iam neĝas en marto en nia lando.|Somethimes it snows in March in our country.||
+|Kelkfoje ni manĝas ĉokoladan kukon, sed ne tro ofte!|Once in a while we eat chocolate cake, but not too often!||
+|Pasintsemajne mi renkontis cent-jarĝan virinon.|I met a 100-years-old woman last week.||
+|Mi kelkfoje vizitas mian avon dimanĉe.|I sometimes visit my grandfather on sunday.||
