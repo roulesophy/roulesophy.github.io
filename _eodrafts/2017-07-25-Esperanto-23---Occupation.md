@@ -27,6 +27,11 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Ĉu tiu verkisto estas blinda?|Is that writer blind?||
+|Mi volas fariĝi flegisto.|I want to become a nurse.||
+|Kial tiu kuracisto ne havas postenon?|Why doesn't that doctor have a job?||
+|La verkisto ne volas dungi studenton.|The auther does not want to hire a student.||
+|Mia kuzo uzas rulseĝon.|My custon uses a wheelchair.||
 
 
 ## > Section 2/7
