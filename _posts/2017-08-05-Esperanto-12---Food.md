@@ -1,9 +1,9 @@
 ---
-filename: 2017-07-22-Esperanto-12---Food.md
+filename: 2017-08-05-Esperanto-12---Food.md
 layout: post
 title: Esperanto 12 - Food
 tags: Esperanto
-date: 2017-07-22
+date: 2017-08-05
 comments: true
 ---
 
