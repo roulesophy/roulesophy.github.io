@@ -11,6 +11,8 @@ comments: true
 
 ## > 文法規則
 
+* 這課使用了很多 -aĵ- 的 affix ，這是指 concrete thing 。 有關 -aĵ- 的描述可以[看此](https://adventuresinesperanto.wordpress.com/tag/affixaj/)。
+
 ## > Section 1/8
 
 |Esperanto|English|Comment|
@@ -18,7 +20,7 @@ comments: true
 |viando|meat||
 |ol|than||
 |pli|more|通常的用法是 pli ol (more than)|
-|kokaĵo|chicken meat|名詞字根是 koko(chicken)，-aĵ- 代表食物，所以 kok-aĵ-o 變成了 chicken meat。|
+|kokaĵo|chicken meat|名詞字根是 koko(chicken)，-aĵ- 代表 concrete thing，所以 kok-aĵ-o 變成了 chicken meat。|
 |oranĝo|orange||
 |guston|taste||
 |apetito|appeitie||
@@ -42,7 +44,7 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|fiŝaĵo|fish meat|名詞字根是 fiŝo(fishb)，-aĵ- 代表食物，所以 fish-aĵ-o 變成了 fish meat。|
+|fiŝaĵo|fish meat|名詞字根是 fiŝo(fishb)，-aĵ- 代表 concrete thing，所以 fish-aĵ-o 變成了 fish meat。|
 |telero|plate||
 |sur|on||
 |sukero|sugar||
@@ -73,8 +75,8 @@ comments: true
 |suko|juice||
 |manĝo|meal|manĝi 指 eat 。|
 |bongustas|is / are delicious||
-|manĝaĵo|food|名詞字根是 manĝo(meal)，-aĵ- 代表食物，所以 manĝ-aĵ-o 變成了 food。|
-|trinkaĵo|beverage|名詞字根是 trinko(drinks)，-aĵ- 代表食物，所以 kok-aĵ-o 變成了 beverage。|
+|manĝaĵo|food|名詞字根是 manĝo(meal)，-aĵ- 代表 concrete thing，所以 manĝ-aĵ-o 變成了 food。|
+|trinkaĵo|beverage|名詞字根是 trinko(drinks)，-aĵ- 代表 concrete thing，所以 kok-aĵ-o 變成了 beverage。|
 |legomo|vegetable||
 |iom|some||
 
@@ -94,14 +96,14 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |salo|salt||
-|porkaĵo|pork|名詞字根是 porko(pig)，-aĵ- 代表食物，所以 pork-aĵ-o 變成了 pork。|
+|porkaĵo|pork|名詞字根是 porko(pig)，-aĵ- 代表 concrete thing，所以 pork-aĵ-o 變成了 pork。|
 |vegetarano|vegetarian|名詞字根是 vegetaro(vegetable)，-an- 代表人，所以 vegetar-an-o 變成了 vegetarian。|
 |picojn|pizza||
 |frago|strawberry||
-|bovaĵo|beef|名詞字根是 bovo(ox)，-aĵ- 代表食物，所以 bov-aĵ-o 變成了 beef。|
+|bovaĵo|beef|名詞字根是 bovo(ox)，-aĵ- 代表 concrete thing，所以 bov-aĵ-o 變成了 beef。|
 |malbona|bad|名詞字根是 bona(good)，mal- 代表相反，所以 mal-bona 變成了 bad。|
-|tagmanĝi|eat lunch|tago-manĝi|
-|ĉiom|all|ĉi-om|
+|tagmanĝi|eat lunch|名詞字根是 tago(day) 和 manĝi(eat) 。|
+|ĉiom|all|ĉi 是指 all，-om 是指 amount|
 
 ### 例句
 
@@ -127,12 +129,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|vespermanĝi|eat dinner|vespero-manĝi|
+|vespermanĝi|eat dinner|名詞字根是 vespero(night) 和 manĝi(eat) 。|
 |restoracio|restaurant||
-|pastaĵoj|pasta|aĵ?|
+|pastaĵoj|pasta|名詞字根是 pasto(dough)，-aĵ- 代表 concrete thing，所以 past-aĵ-o 變成了 pasta。|
 |sen|without||
 |kune|together||
-|tiom|so much|?|
+|tiom|that much / so much|ti- 指 that ，而 -om 是指 amount 。|
 |gasto|guest||
 
 ### 例句
@@ -152,10 +154,10 @@ comments: true
 |---|---|---|
 |menuo|menu||
 |kelnero|waiter||
-|kelnerinoj|waitresses||
+|kelnerinoj|waitresses|名詞字根是 kelnero(waiter)，-in- 代表女性，所以 kelner-in-o 變成了 waitresses。|
 |servas|serve||
 |aĉetas|buy||
-|gustumas|tasting|gust-um-as|
+|gustumas|tasting|這個字可以拆解為 gust-um-as 。而 -um- 的用法比較特別，這是一個名為 undefined ad-hoc affix 的 affix，即是為有其他 affix可以使用來衍生字根時才會用到的，所以需要一點記憶才能記住 gusto(taste) + um = tasting 。|
 
 ### 例句
 
@@ -174,7 +176,7 @@ comments: true
 |ananaso|pineapple||
 |malvarmas|is cold||
 |glacio|ice||
-|neniom|none|neni-om|
+|neniom|none|neni 是指 negative，-om 是指 amount|
 |vendi|to come||
 |dolĉaj|sweet||
 
@@ -184,7 +186,7 @@ comments: true
 |---|---|---|
 |Glacio malvarmas.|Ice is cold.||
 |Mi tre ŝatas dolĉan ananason.|I like sweet pineapple a lot.||
-|Ŝi vendas pli da kokaĵo al fiŝaĵo.|She sells more chichen than fish.||
+|Ŝi vendas pli da kokaĵo al fiŝaĵo.|She sells more chicken than fish.||
 |Iom da sukero estas pli ol neniom.|Some sugar is more than none.|more than: pli ol|
 |La fragoj estas dolĉaj.|The strawberries are sweet.||
 |Ananaso bone gustas.|Pineapple tastes good.||
