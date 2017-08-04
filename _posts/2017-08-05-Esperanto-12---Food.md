@@ -157,7 +157,7 @@ comments: true
 |kelnerinoj|waitresses|名詞字根是 kelnero(waiter)，-in- 代表女性，所以 kelner-in-o 變成了 waitresses。|
 |servas|serve||
 |aĉetas|buy||
-|gustumas|tasting|這個字可以拆解為 gust-um-as 。而 -um- 的用法比較特別，這是一個名為 undefined ad-hoc affix 的 affix，即是為有其他 affix可以使用來衍生字根時才會用到的，所以需要一點記憶才能記住 gusto(taste) + um = tasting 。|
+|gustumas|tasting|這個字可以拆解為 gust-um-as 。而 [-um-](https://en.wikipedia.org/wiki/Esperanto_words_with_the_suffix_-um) 的用法比較特別，這是一個名為 undefined ad-hoc affix 的 affix，即是為有其他 affix可以使用來衍生字根時才會用到的，所以需要一點記憶才能記住 gusto(taste) + um = tasting 。|
 
 ### 例句
 
