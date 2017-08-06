@@ -1,25 +1,24 @@
 ---
-filename: 2017-07-22-Esperanto-13---Clothing.md
+filename: 2017-08-06-Esperanto-13---Clothing.md
 layout: post
 title: Esperanto 13 - Clothing
 tags: Esperanto
-date: 2017-07-22
+date: 2017-08-06
 comments: true
 ---
-
-## > 文法規則
+這課是一些關於衣服的詞語。
 
 ## > Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
 |jupo|skirt||
-|mallonga|||
+|mallonga|short|名詞字根是 longa(long)，mal- 是指相反，所以 mal-longa 變成了 short。|
 |pantalonon|pants / trousers||
-|ofte|||
-|somero|||
-|poŝo|||
-|portas|||
+|ofte|often||
+|somero|summer||
+|poŝo|pocket||
+|portas|wear||
 
 ### 例句
 
@@ -36,9 +35,9 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |ĉapelo|hat||
-|vestaĵo|||
-|robo|||
-|bezonas|||
+|vestaĵo|clothes|名詞字根是 vesto(clothing)，-aĵ- 是指 concrete thing，所以 vest-aĵ-o 變成了 clothes。|
+|robo|dress||
+|bezonas|need||
 |ŝuojn|shoe||
 |ĉemizo|shirt||
 |mantelo|coat||
@@ -58,13 +57,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|kudras|||
-|butonojn|||
+|kudras|sew||
+|butonojn|buttons||
 |ŝtrumpeto|socks||
-|ŝtrumpo|||
+|ŝtrumpo|socks|留意不樣英文，後面沒有眾數。|
 |propra|own||
-|pupo|||
-|mojosas|||
+|pupo|doll||
+|mojosas|cool||
 
 ### 例句
 
