@@ -6,19 +6,35 @@ tags: Esperanto
 date: 2017-08-05
 comments: true
 ---
-
 這課十分恐怖，太多詞語要記了。
 
 ## > 文法規則
 
 * 這課使用了很多 -aĵ- 的 affix ，這是指 concrete thing 。 有關 -aĵ- 的描述可以[看此](https://adventuresinesperanto.wordpress.com/tag/affixaj/)。
+* 到現時為止學了數個 prepositions ，分別是 `sur(on)` 、 `por(for)` 、 `sen(without)` 、 `de(of/from)` 、 `da(numeric of)` 和 `kun(with)` 。留意 prepositions後面的名詞通常都不會有 [accusative -n]({{ site.baseurl }}/Esperanto-4-Accusative/) 的。
+* 如果我們把 `da` 放在 `kiom(what quantity)` 、 `tiom(that quantity)` ， `iom(some quantity)` 或 `ĉiom(the whole quantity)` 後便代表 indefinite quantity。
+* 如果我們把 `de` 放在 `kiom(what quantity)` 、 `tiom(that quantity)` ， `iom(some quantity)` 或 `ĉiom(the whole quantity)` 後便代表 definite quantity。
+* 總結一下至今學過的 correlatives ，correlatives 有45個，它們都是由兩個字根組成，之後再寫一頁來介紹。讀者大概可以嘗試拆解他們的意思。
+
+|English question|in other words|Esperanto question|
+|what|what thing|kio|
+|where|what place|kie|
+|how|what way|kiel|
+|who|what specific person|kiu|
+|which|what specific thing|kiu|
+|how much|what quantity|kiom|
+|how much (of it)|what quantity|kiom|
+|that much (of it)|that quantity|tiom|
+|some (of it)|some quantity|iom|
+|all (of it)|the whole quantity|ĉiom|
+|none (of it)|no quantity|neniom|
 
 ## > Section 1/8
 
 |Esperanto|English|Comment|
 |---|---|---|
 |viando|meat||
-|ol|than||
+|ol|than|這個字是用來作比較用的 conjunction ，這個字後都是 subject 或是 object 。|
 |pli|more|通常的用法是 pli ol (more than)|
 |kokaĵo|chicken meat|名詞字根是 koko(chicken)，-aĵ- 代表 concrete thing，所以 kok-aĵ-o 變成了 chicken meat。|
 |oranĝo|orange||
@@ -48,7 +64,7 @@ comments: true
 |telero|plate||
 |sur|on||
 |sukero|sugar||
-|jen|here||
+|jen|here is / here are|這個字後面可以用 estas 或是 noun 。|
 |por|to / in order to / for||
 |kun|with||
 |matenmanĝi|have breakfast|mateno 指 morning ，而 manĝi 指 eat ，所以 matenmanĝi 指吃早餐。|
@@ -133,7 +149,7 @@ comments: true
 |restoracio|restaurant||
 |pastaĵoj|pasta|名詞字根是 pasto(dough)，-aĵ- 代表 concrete thing，所以 past-aĵ-o 變成了 pasta。|
 |sen|without||
-|kune|together||
+|kune|together|留意和 kun 的分別， kun 是 with 而 kune 是 together ， kune kun 是指 together with 。|
 |tiom|that much / so much|ti- 指 that ，而 -om 是指 amount 。|
 |gasto|guest||
 

@@ -14,7 +14,7 @@ comments: true
 |---|---|---|
 |jupo|skirt||
 |mallonga|short|名詞字根是 longa(long)，mal- 是指相反，所以 mal-longa 變成了 short。|
-|pantalonon|pants / trousers||
+|pantalonon|pants / trousers|留意不像英文，後面沒有眾數。而 pantalonoj 是指多於一條的褲子。|
 |ofte|often||
 |somero|summer||
 |poŝo|pocket||
@@ -59,11 +59,11 @@ comments: true
 |---|---|---|
 |kudras|sew||
 |butonojn|buttons||
-|ŝtrumpeto|socks||
-|ŝtrumpo|socks|留意不樣英文，後面沒有眾數。|
+|ŝtrumpo|stockings|留意不像英文，後面沒有眾數。這是指到大腿以上的襪。|
+|ŝtrumpeto|socks|留意不像英文，後面沒有眾數。這是指到小腿以下的襪。因為 -et- 是指 small，所以 ŝtrump-et-o 指細小的 stockings。|
 |propra|own||
 |pupo|doll||
-|mojosas|cool||
+|mojosas|cool|這個是 esperanto 的俚語，來源是 modern-jun-stila(modern-young-stylish) 的頭一個字母。|
 
 ### 例句
 
