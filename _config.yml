@@ -12,6 +12,10 @@ description: 3 things about something
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 avatar: https://avatars3.githubusercontent.com/u/10863610?v=3&u=6868eec287dbba75574e5b199025f31c54d606dd&s=400
 
+# Enable pagination and its path
+paginate: 5
+paginate_path: "/page/:num/"
+
 #
 # Flags below are optional
 #
@@ -23,10 +27,10 @@ footer-links:
   facebook:
   flickr:
   github: roulesophy
-  instagram:
+  instagram: 
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
+  rss: rss# just type anything here for a working RSS icon
   twitter: roulesophy
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -38,7 +42,7 @@ footer-links:
 disqus: roulesophy1
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-89253948-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
@@ -77,6 +81,8 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # Exclude these files from your production _site
 exclude:

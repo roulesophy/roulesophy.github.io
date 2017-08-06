@@ -65,7 +65,9 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 30px 0;
+  letter-spacing: 0px;
+  line-height: 200%;
 }
 
 a {
@@ -78,8 +80,9 @@ a {
 }
 
 ul, ol {
-  margin: 15px 0;
+  margin: 0 0;
   padding-left: 30px;
+  line-height: 200%;
 }
 
 ul {
@@ -151,7 +154,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 
 .masthead {
@@ -281,6 +284,94 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.tag {
+	//font: 15px/1.5 'PT Sans', serif;
+	//background: #767676;
+	//border-radius: 3px 0 0 3px;
+	//color: #FFF;
+	display: inline-block;
+	height: 26px;
+	line-height: 26px;
+	//padding: 0 10px 0 0;
+	position: relative;
+	margin: 0 10px 10px 0;
+	//-webkit-transition: color .2s
+}
+
+.tags {
+	list-style: none;
+	margin: 0;
+	overflow: hidden;
+	padding: 0
+}
+
+.tags li {
+	display: block;
+	float: left;
+	list-style: none;
+	display: list-item;
+	text-align: -webkit-match-parent;
+}
+
+
+// Pagination
+.pagination {
+  margin-top: 2em;
+  padding-top: 10px;
+  border-top: 1px solid $lightGray;
+  font-size: 14px;
+}
+
+.pagination .previous {
+  float: left;
+}
+
+.pagination .next {
+  float: right;
+}
+
+iframe {
+  max-width: 100%;
+}
+
+video {
+  max-width: 100%;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+th {
+    font-weight: bold;
+}
+
+th, td {
+    text-align: left;
+    padding-left: 8px;
+    padding-right: 40px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+
+tr:nth-child(even) {
+	background-color: #fbfbfb
+}
+
+textarea,
+input[type="text"] {
+	width: 100%;
+	padding: 10px;
+	font-size: 18px;
+	display: block;
+	box-sizing: padding-box;
+}
+
+input[type="submit"] {
+	margin: 30px 0 0 0;
+	font-size: 20px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

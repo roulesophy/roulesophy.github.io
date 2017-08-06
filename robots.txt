@@ -1,0 +1,5 @@
+# User-Agent: *
+# Disallow: /page/
+
+User-agent: *
+Sitemap: https://roulesophy.github.io/sitemap.xml
