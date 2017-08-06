@@ -65,7 +65,7 @@ comments: true
 |---|---|---|
 |cent|||
 |mil|||
-|nombro|||
+|nombro|amount / number / quantity||
 |cifero|||
 |nulo|||
 |miliono|||
@@ -89,7 +89,7 @@ comments: true
 |---|---|---|
 |lasta|||
 |numero|||
-|kvanto|||
+|kvanto|amount||
 |fali|||
 |mendi|||
 |kanti|||
@@ -122,7 +122,7 @@ comments: true
 |kvara|||
 |kvina|||
 |vico|||
-|butiko|||
+|butiko|store||
 
 ### 例句
 
@@ -170,7 +170,7 @@ comments: true
 |triono|||
 |kvarono|||
 |averaĝo|||
-|po|||
+|po|each||
 |dekono|||
 |kosti|||
 |dolarojn|||

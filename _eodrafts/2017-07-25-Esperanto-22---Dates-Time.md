@@ -13,8 +13,8 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|tempo|||
-|foje|||
+|tempo|time||
+|foje|sometimes||
 |ĵus|||
 |je|||
 |matene|||
@@ -164,7 +164,6 @@ comments: true
 |La luno brilas dum la nokto.|The moon shines at night.||
 |La fino de la jaro estas en decembro.|The end of the year is in December.||
 |Ni manĝas kukon tiam.|We eat a cake at that time.||
-|
 
 ## > Section 7/9
 
