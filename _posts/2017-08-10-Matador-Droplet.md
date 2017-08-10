@@ -1,7 +1,7 @@
 ---
 filename: 2017-08-10-Matador-Droplet.md
 layout: post
-title: Matedor Droplet
+title: Matador Droplet
 tags: Buy-stuff
 date: 2017-08-10
 comments: true
