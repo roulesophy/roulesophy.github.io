@@ -149,32 +149,46 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |soldato|||
-|reĝino|||
+|reĝino|queen||
 |milito|||
-|sperta|||
+|sperta|experienced / expert|sperti: to experience|
 |ŝteli|||
 |uniformon|||
-|ŝiri|||
-|kostumo|||
+|ŝiri|to tear off / pick (flowers)||
+|kostumo|costume / suit (clothes) / outfit||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Hundo ŝiris mian kostumon!|A dog tore my costume!||
+|Soldatoj ĉiam portas uniformojn.|Soldiers always wear uniforms.||
+|La ŝtelisto ŝtelis monon de la reĝino.|The thief stole money of the queen.||
+|Ĉu estas milito en via lando?|Is there war in your country?||
+|Spertaj kuracistoj kaj flegistoj helpis ilin.|Expert doctors and nurses helped them.||
+|Ŝiru rozojn en somero!|Pick roses in summer!|
+|Mi estas la reĝo de la mondo!|I am the king of the world!||
 
 ## > Section 7/7
 
 |Esperanto|English|Comment|
 |---|---|---|
 |koncerto|||
-|vigla|||
+|vigla|busy / alert||
 |albumo|||
-|ŝajni|||
+|ŝajni|to seem, appear|ŝajnigi: to pretend (to make seems)|
 |atenta|||
-|kulpa|||
-|ofta|||
+|kulpa|gulity|kulpo: blame, fault, mistake, kulpi: to be guilty|
+|ofta|common / frequent|ofte: often, ofto: frequency|
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Tiu estas albumo de ilia koncerto.|That is an album of their concert.||
+|Ŝajnas, ke la ŝtelisto estis kulpa.|It seems that the thief was guility.||
+|Bonvolu esti atenta!|Please be attentive!|
+|Ĉu Sofia estas ofta nomo?|Is Sofia a common name?||
+|Ni loĝas en vigla strato.|We live in a busy street.|
+|En la teatro, aktoroj estas pli oftaj ol arkitektoj.|In the theater, actors are more common than architects.||
+|Ili trovis ŝin kulpa.|They found their gulity.||
