@@ -19,7 +19,7 @@ comments: true
 
 ![droplet]({{ site.baseurl }}/images/20170810-1.jpg)
 
-其實打開後並不是太大 (高度： 27cm ，闊度： 27cm)。因為袋仔收納後十分細小，所以袋子打開後有點皺：
+其實打開後並不是太大 (高度： 27cm ，闊度： 23cm)。因為袋子收納後十分細小，所以打開後有點皺：
 
 ![droplet]({{ site.baseurl }}/images/20170810-2.jpg)
 
