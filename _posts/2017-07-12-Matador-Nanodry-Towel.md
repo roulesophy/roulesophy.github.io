@@ -11,6 +11,8 @@ comments: true
 
 ![浴巾]({{ site.baseurl }}/images/20170712-1.jpg)
 
+這個毛巾分別有一個[大版本](https://matadorup.com/products/nanodry-shower-towel-large?variant=34348232646)和一個[小版本](https://matadorup.com/products/nanodry-trek-towel-small?variant=34529539078)，我買了大版本的。
+
 會買這個是因為想到去健身或是旅遊可以減輕體積。以下是我的用後感。
 
 ## > 體積
