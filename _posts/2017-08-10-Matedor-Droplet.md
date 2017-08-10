@@ -27,7 +27,7 @@ comments: true
 
 ![droplet with clothes]({{ site.baseurl }}/images/20170810-3.jpg)
 
-現在打算和毛巾一起使用，這樣便可以防止遺失了。
+現在打算和 [Matador Nanodry Towel 浴巾]({{ site.baseurl }}/Matador-Nanodry-Towel/)一起使用，這樣便可以防止遺失了。
 
 ![droplet with nanodry towel]({{ site.baseurl }}/images/20170810-4.jpg)
 
@@ -35,5 +35,5 @@ comments: true
 
 其實這個小水滴真是十分方便，可是有這些缺點：
 * 袋子的質料比較薄。
-* 這個水滴外殻的膠好像和毛巾的外殻有點不一樣，我比較喜歡啞色的。
-* 比起毛巾來說，這個袋子比較難放入殻子裡（並不是說十分難放啦，只是有點難而己）。
+* 這個水滴外殻的膠好像和Matador Nanodry Towel 浴巾的外殻有點不一樣，我比較喜歡啞色的。
+* 比起Matador Nanodry Towel 浴巾來說，這個袋子比較難放入殻子裡（並不是說十分難放啦，只是有點難而己）。
