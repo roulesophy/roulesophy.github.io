@@ -1,29 +1,52 @@
 ---
-filename: 2017-07-24-Esperanto-17---Family.md
+filename: 2017-08-12-Esperanto-17---Family.md
 layout: post
 title: Esperanto 17 - Family
 tags: Esperanto
-date: 2017-07-24
+date: 2017-08-12
 comments: true
 ---
 
+這課學習家人和親戚的名詞。
+
 ## > 文法規則
+* 這課會學習到關於親戚的數個 affixes：  
+<table>
+<tr><th>Affix</th><th>Meaning</th></tr>
+<tr><td>-in-</td><td>female</td></tr>
+<tr><td>ge-</td><td>both sexes / any sex</td></tr>
+<tr><td>bo-</td><td>-in-law</td></tr>
+<tr><td>pra-</td><td>great-</td></tr>
+<tr><td>-ĉj-</td><td>nickname for male</td></tr>
+<tr><td>-nj-</td><td>nickname for female</td></tr>
+</table>
+
+<!--
+|Affix|Meaning|
+|---|---|
+|-in-|female|
+|ge-|both sexes / any sex|
+|bo-|in-law|
+|pra|great-|
+|-ĉj-|nickname for male|
+|-nj-|nickname for female|
+-->
 
 ## > Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
-|filo|son||
+|filo|son|filino: daughter|
 |gefratoj|siblings||
 |familio|family||
+|onklo|uncle||
 |onklino||aunt|
-|kuzo|cousin|kuzo: cousin, kuzino: female cousin|
-|sia|her (own) / his (own)|留意和 ŝia 的分別。|
-|bebon|baby||
-|nevino|niece|nevo(nephew) + -ino(female)|
-|onklo|unclo||
+|kuzo|male cousin|kuzo: male cousin, kuzino: female cousin|
+|gekuzo|cousin|ge(both sexes) + kuzo(male cousin)|
+|bebo|baby||
 |nevo|nephew||
-|gekuzo|cousins||
+|nevino|niece|nevo(nephew) + -ino(female)|
+|sia|her (own) / his (own)|留意和 ŝia 的分別：lia / ŝia 指的人一定不會是自己，如果指的人是自己要用 sia。|
 
 ### 例句
 
@@ -43,11 +66,11 @@ comments: true
 |---|---|---|
 |ĉambro|room||
 |ĝemelo|twins|這裡的ĝe其實並不是 affix，字根本身已經是 ĝemelo|
-|amiko|friend||
+|amiko|friend|amikino: female friend|
 |koramiko|boyfriend|koro(heart) + amiko(friend), koramikino: girlfriend|
 |edzo|husband|edzino: wife, edzigi: to marry, edziĝi: to get married, geedzoj: spouses|
 |sama|same||
-|prezenti|to perform / to present||
+|prezenti|to perform / to present|可以配搭 al 一起使用指示方向。|
 |aliulo|other person / someone else|alia(another) + ulo(person)|
 
 ### 例句
@@ -67,15 +90,15 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |nepo|grandson|nepino: granddaughter, pranepo: great-grandson|
-|avino|grandfather||
-|bofratino|sister-in-law|bo-(in-law) + frato(brother) + -ino(female)|
+|avino|grandmother||
 |bofrato|sister-in-law|bo-(in-law) + frato(brother)|
+|bofratino|sister-in-law|bo-(in-law) + frato(brother) + -ino(female)|
 |bopatro|father-in-law|bo-(in-law) + patro(father)|
 |bopatinro|mother-in-law|bo-(in-law) + patro(father) + -ino(in-law)|
 |paĉjo|daddy|patro(father) + -ĉj-: nickname for male|
-|panjo|mommy|patrino(mother) + nj: nickname for female|
-|praavino|great-grandmother|pra-(great) + avo(grandfather) + -ino(female)|
+|panjo|mommy|patrino(mother) + -nj-: nickname for female|
 |praavo|great-grandfather|pra-(great) + avo(grandfather)|
+|praavino|great-grandmother|pra-(great) + avo(grandfather) + -ino(female)|
 
 ### 例句
 
