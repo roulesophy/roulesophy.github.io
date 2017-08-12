@@ -7,7 +7,7 @@ date: 2017-08-06
 comments: true
 ---
 
-這課都是闗於動詞。
+這課都是關於動詞。
 
 ## > 文法規則
 * Verbs 有分兩種，分別是 transitive verbs 和 Intransitive verbs 。 Transitive verbs 是指這個動詞有作用於的名詞，而 Intransitive 則沒有。而 esperanto  中的用法有點不同：
