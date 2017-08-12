@@ -10,18 +10,8 @@ comments: true
 這課學習家人和親戚的名詞。
 
 ## > 文法規則
-* 這課會學習到關於親戚的數個 affixes：  
-<table>
-<tr><th>Affix</th><th>Meaning</th></tr>
-<tr><td>-in-</td><td>female</td></tr>
-<tr><td>ge-</td><td>both sexes / any sex</td></tr>
-<tr><td>bo-</td><td>-in-law</td></tr>
-<tr><td>pra-</td><td>great-</td></tr>
-<tr><td>-ĉj-</td><td>nickname for male</td></tr>
-<tr><td>-nj-</td><td>nickname for female</td></tr>
-</table>
+* 這課會學習到關於親戚的數個 affixes：
 
-<!--
 |Affix|Meaning|
 |---|---|
 |-in-|female|
@@ -30,7 +20,6 @@ comments: true
 |pra|great-|
 |-ĉj-|nickname for male|
 |-nj-|nickname for female|
--->
 
 ## > Section 1/3
 
