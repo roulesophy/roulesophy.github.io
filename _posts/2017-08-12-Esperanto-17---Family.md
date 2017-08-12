@@ -30,7 +30,7 @@ comments: true
 |familio|family||
 |onklo|uncle||
 |onklino||aunt|
-|kuzo|male cousin|kuzo: male cousin, kuzino: female cousin|
+|kuzo|male cousin|kuzo: male cousin<br/>kuzino: female cousin|
 |gekuzo|cousin|ge(both sexes) + kuzo(male cousin)|
 |bebo|baby||
 |nevo|nephew||
@@ -56,8 +56,8 @@ comments: true
 |ĉambro|room||
 |ĝemelo|twins|這裡的ĝe其實並不是 affix，字根本身已經是 ĝemelo|
 |amiko|friend|amikino: female friend|
-|koramiko|boyfriend|koro(heart) + amiko(friend), koramikino: girlfriend|
-|edzo|husband|edzino: wife, edzigi: to marry, edziĝi: to get married, geedzoj: spouses|
+|koramiko|boyfriend|koro(heart) + amiko(friend)<br/>koramikino: girlfriend|
+|edzo|husband|edzino: wife<br/>edzigi: to marry<br/>edziĝi: to get married<br/>geedzoj: spouses|
 |sama|same||
 |prezenti|to perform / to present|可以配搭 al 一起使用指示方向。|
 |aliulo|other person / someone else|alia(another) + ulo(person)|
@@ -98,5 +98,5 @@ comments: true
 |Mia praavo venas el Ĉinio.|My great-grandpa comes from China.||
 |Mi vizitas mian bopatron.|I visit my father-in-law.||
 |Mia praavino venas el Rusio.|My great-grandmother comes from Russia.||
-|Panjo kaj paĉjo estas geedzoj.||
+|Panjo kaj paĉjo estas geedzoj.|Mommy and daddy are spouses.|
 |La edzo de mia fratino estas mia bofrato.|The husband of my sister is my brother-in-law.||
