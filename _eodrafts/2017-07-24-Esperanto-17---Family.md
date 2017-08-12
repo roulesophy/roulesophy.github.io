@@ -16,11 +16,11 @@ comments: true
 |filo|son||
 |gefratoj|siblings||
 |familio|family||
-|onklino||aunt?|
-|kuzo|||
+|onklino||aunt|
+|kuzo|cousin|kuzo: cousin, kuzino: female cousin|
 |sia|her (own) / his (own)|留意和 ŝia 的分別。|
 |bebon|baby||
-|nevino|||
+|nevino|niece|nevo(nephew) + -ino(female)|
 |onklo|unclo||
 |nevo|nephew||
 |gekuzo|cousins||
@@ -41,14 +41,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|ĉambro|||
-|ĝemelo|twins||
-|amiko|||
-|koramiko|||
-|edzo|||
+|ĉambro|room||
+|ĝemelo|twins|這裡的ĝe其實並不是 affix，字根本身已經是 ĝemelo|
+|amiko|friend||
+|koramiko|boyfriend|koro(heart) + amiko(friend), koramikino: girlfriend|
+|edzo|husband|edzino: wife, edzigi: to marry, edziĝi: to get married, geedzoj: spouses|
 |sama|same||
-|prezenti|||
-|aliulo|||
+|prezenti|to perform / to present||
+|aliulo|other person / someone else|alia(another) + ulo(person)|
 
 ### 例句
 
@@ -66,14 +66,16 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|nepo|||
-|avino|||
-|bofratino|||
-|bopatro|||
-|paĉjo||ĉj: nickname for male|
-|panjo||nj: nickname for female|
-|praavino|||
-|praavo|||
+|nepo|grandson|nepino: granddaughter, pranepo: great-grandson|
+|avino|grandfather||
+|bofratino|sister-in-law|bo-(in-law) + frato(brother) + -ino(female)|
+|bofrato|sister-in-law|bo-(in-law) + frato(brother)|
+|bopatro|father-in-law|bo-(in-law) + patro(father)|
+|bopatinro|mother-in-law|bo-(in-law) + patro(father) + -ino(in-law)|
+|paĉjo|daddy|patro(father) + -ĉj-: nickname for male|
+|panjo|mommy|patrino(mother) + nj: nickname for female|
+|praavino|great-grandmother|pra-(great) + avo(grandfather) + -ino(female)|
+|praavo|great-grandfather|pra-(great) + avo(grandfather)|
 
 ### 例句
 
