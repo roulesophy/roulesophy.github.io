@@ -107,7 +107,7 @@ comments: true
 |esperi|to hope||
 |memori|to remember||
 |telefoni|to call||
-|montri|to show||
+|montri|to show / to indicate / to point out|montrilo: pointer of an clock / needle of compass|
 |mirinda|amaze||
 
 ### 例句
