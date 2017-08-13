@@ -9,6 +9,11 @@ comments: true
 
 這課學習家人和親戚的名詞。
 
+## > 溫習
+* [patro]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-13)
+* [patrino]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-33)
+* [gepatroj]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-33)
+
 ## > 文法規則
 * 這課會學習到關於親戚的數個 affixes：
 
