@@ -40,7 +40,7 @@ comments: true
 |bebo|baby||
 |nevo|nephew||
 |nevino|niece|nevo(nephew) + -ino(female)|
-|sia|her (own) / his (own)|留意和 ŝia 的分別：lia / ŝia 指的人一定不會是自己，如果指的人是自己要用 sia。|
+|sia|her (own) / his (own)|留意和 ŝia 的分別：lia / ŝia / ilia 指的人一定不會是自己，如果指的人是自己要用 sia。|
 
 ### 例句
 
