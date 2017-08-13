@@ -6,7 +6,16 @@ tags: Esperanto
 date: 2017-08-06
 comments: true
 ---
-
+<!--
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-文法規則)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-16)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-26)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-36)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-46)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-56)
+[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-66)
+-->
 這課都是關於動詞。
 
 ## > 文法規則

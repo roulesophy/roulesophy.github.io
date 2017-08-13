@@ -6,6 +6,15 @@ tags: Esperanto
 date: 2017-07-23
 comments: true
 ---
+<!--
+[]({{ site.baseurl }}/Esperanto-9-Animals/)
+[]({{ site.baseurl }}/Esperanto-9-Animals/#-文法規則)
+[]({{ site.baseurl }}/Esperanto-9-Animals/#-section-15)
+[]({{ site.baseurl }}/Esperanto-9-Animals/#-section-25)
+[]({{ site.baseurl }}/Esperanto-9-Animals/#-section-35)
+[]({{ site.baseurl }}/Esperanto-9-Animals/#-section-45)
+[]({{ site.baseurl }}/Esperanto-9-Animals/#-section-55)
+-->
 這課主要是記動物的詞語。
 
 ## > 文法規則
@@ -38,7 +47,7 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|muŝo|a fly|留意和 muso(mouse) 的分別。|
+|muŝo|a fly|留意和 [muso(mouse)]([]({{ site.baseurl }}/Esperanto-9-Animals/#-section-55)) 的分別。|
 |flugas|fly||
 |strigo|owl||
 |insekto|insect||
@@ -109,7 +118,7 @@ comments: true
 |hundidojn|puppy|hundo(dog) + -id-(offspring)|
 |ŝafo|sheep||
 |ŝafidoj|lamb|ŝafo(sheeep) + -id-(offspring)|
-|muson|mouse|小心和 muŝo(a fly) 的分別。|
+|muson|mouse|留意和 [muŝo(a fly)]([]({{ site.baseurl }}/Esperanto-9-Animals/#-section-25) 的分別。|
 |anaso|duck||
 
 ### 例句
