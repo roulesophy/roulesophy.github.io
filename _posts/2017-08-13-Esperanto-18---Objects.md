@@ -105,7 +105,7 @@ comments: true
 |radiko|root||
 |arbo|tree||
 |kreskas|to grow||
-|tero|Earth||
+|Tero|planet Earth|如果只是在情景上使用這個字，我們會不加 la 在前面。<br/>如果是指我們生存在的地球，我們會加 la 在前面。<br/>如果是指地球上生長東西，便要使用細楷。（看例子|
 |foto|photo||
 
 ### 例句
@@ -117,6 +117,9 @@ comments: true
 |Mia tomatoj kreskas rapide.|My tomatos grow quickly.||
 |La foto estas tre bela.|The photo is very beautiful.||
 |La folio flugas.|The leafs flies.||
+|**Tero** moviĝas ĉirkaŭ la suno.|**(The) Earth** moves around the sun.||
+|Kie ni vivos, kiam **la Tero** estos tro varma?|Where will we live, when the Earth is too hot?||
+|En la **tero** kreskas plantoj.|Plants grow in the earth.||
 
 ## > Section 5/6
 

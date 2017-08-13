@@ -6,6 +6,14 @@ tags: Esperanto
 date: 2017-07-19
 comments: true
 ---
+<!--
+{{ site.baseurl }}/Esperanto-4-Accusative/
+{{ site.baseurl }}/Esperanto-4-Accusative/#-文法規則
+{{ site.baseurl }}/Esperanto-4-Accusative/#-section-14
+{{ site.baseurl }}/Esperanto-4-Accusative/#-section-24
+{{ site.baseurl }}/Esperanto-4-Accusative/#-section-34
+{{ site.baseurl }}/Esperanto-4-Accusative/#-section-44
+-->
 [Accusative](https://zh.wikipedia.org/wiki/宾格) 是一個語言學的名詞，主要是用來表示一個動詞作用於的名詞。
 
 ## > 文法規則

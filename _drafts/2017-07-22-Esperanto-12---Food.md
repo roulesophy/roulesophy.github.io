@@ -6,10 +6,18 @@ tags: Esperanto
 date: 2017-07-22
 comments: true
 ---
-
+<!--
+{{ site.baseurl }}/Esperanto-12-Food/
+{{ site.baseurl }}/Esperanto-12-Food/#-section-18
+{{ site.baseurl }}/Esperanto-12-Food/#-section-28
+{{ site.baseurl }}/Esperanto-12-Food/#-section-38
+{{ site.baseurl }}/Esperanto-12-Food/#-section-48
+{{ site.baseurl }}/Esperanto-12-Food/#-section-58
+{{ site.baseurl }}/Esperanto-12-Food/#-section-68
+{{ site.baseurl }}/Esperanto-12-Food/#-section-78
+{{ site.baseurl }}/Esperanto-12-Food/#-section-88
+-->
 這課十分恐怖，太多詞語要記了。
-
-## > 文法規則
 
 ## > Section 1/8
 

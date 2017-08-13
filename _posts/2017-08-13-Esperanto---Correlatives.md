@@ -6,6 +6,9 @@ tags: Esperanto
 date: 2017-08-13
 comments: true
 ---
+<!--
+{{ site.baseurl }}/Esperanto-Correlatives/
+-->
 這是關於 correlatives table 的一篇參考。
 
 correlatives 有45個，分別由5個字頭和9個字尾結合而成，這些字都是用來描述 5W1H 和他們的答案。以下是介紹他們的表格。
