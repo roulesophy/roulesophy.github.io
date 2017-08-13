@@ -47,7 +47,7 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|muŝo|a fly|留意和 [muso(mouse)]([]({{ site.baseurl }}/Esperanto-9-Animals/#-section-55)) 的分別。|
+|muŝo|a fly|留意和 [muso(mouse)]({{ site.baseurl }}/Esperanto-9-Animals/#-section-55) 的分別。|
 |flugas|fly||
 |strigo|owl||
 |insekto|insect||
@@ -118,7 +118,7 @@ comments: true
 |hundidojn|puppy|hundo(dog) + -id-(offspring)|
 |ŝafo|sheep||
 |ŝafidoj|lamb|ŝafo(sheeep) + -id-(offspring)|
-|muson|mouse|留意和 [muŝo(a fly)]([]({{ site.baseurl }}/Esperanto-9-Animals/#-section-25) 的分別。|
+|muson|mouse|留意和 [muŝo(a fly)]({{ site.baseurl }}/Esperanto-9-Animals/#-section-25) 的分別。|
 |anaso|duck||
 
 ### 例句
