@@ -76,21 +76,30 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|tranĉilo|||
-|ilojn|||
-|tranĉi|||
-|eble|||
-|sonorilo|||
-|ŝlosi|||
-|sonori|||
-|ŝlosilo|||
-|kompreneble|||
-
+|tranĉilo|knife|tranĉi(to cut) + -ilo(a tool for performing the action of the root)|
+|ilo|tool|ilaro: a set of tools<br/>ilarujo: a toolbox for a toolset<br/>ilujo: a toolbox|
+|tranĉi|to cut||
+|eble|possibly|ebli: to be possible<br/>ebilgi: to enable<br/>ebla: shows possibility|
+|sonorilo|bell|sonori(to ring) + -ilo(a tool for performing the action of the root)|
+|ŝlosi|to lock||
+|sonori|to ring||
+|ŝlosilo|key|ŝlosi(to lock) + -ilo(a tool for performing the action of the root)|
+|kompreneble|of course / understandably|kompreni(to understand) + eble(-ably)|
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|La sonorilo sonoras.|The bell rings.|
+|Kompreneble ili havas bonajn ilojn en sia domo.|Understandably they have good tools in their home.||
+|Junuloj eble tranĉas panon en Germanio.|Young people possibly cut bread in Germany.||
+|Mi memoris miajn ŝlosilojn.|I remembered my keys.||
+|La juĝisto ŝlosis la ujon.|The judge locked the container.||
+|La ŝlosilo estas en la ujo.|The key is in the box.||
+|Tiu ĉi libro ne estas komprenebla.|This book is not understandable.||
+|Tio ne eblas!|That is not possible!||
+|Bonulo uzas la sonorilo ĉe la pordo.|Good people use the doorbell at the door.||
+|Mi tranĉas la panon per tranĉilo.|I cut the bread with a knife.||
 
 ## > Section 4/5
 
@@ -109,6 +118,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|La malo de facila estas malfacila.|The opposite of easy is hard.||
+|Mi volas esti ano de via klubo.|I want to be a member of your club.||
+|La lernejanoj malamas la lernejestron.|The students hate the principal.||
+|Kiom de klubanoj ni havas?|How may club members do we have?||
+|Gepatroj kaj gefratoj estas familianoj.|Parents and siblings are family members.||
+|Tri dancistoj dancis la malfacilan dancon.||
+|Mi estas lernejano.|I am a student.||
 
 ## > Section 5/5
 
@@ -121,7 +137,7 @@ comments: true
 |ŝtuparo|||
 |homaro|||
 |junularo|||
-|arbaro|||
+|arbaro|forest||
 |aro|||
 
 
@@ -129,4 +145,10 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-
+|La junularo de Usono ne uzas ŝtuparojn.|The young people of USA do not use staircases.||
+|Jen internacia aro de homoj.|Here is an international group of people.||
+|Tio estas la unua ŝtupo.|That is the first step.||
+|Libroj instruas nin pri la homaro.|Books teach us about humanity.||
+|Vi bone progresas!|You progress well!||
+|Ĉu vi estas ano de tiu estraro?|Are you a member of that board?||
+|Ĉi tiu usonano loĝas en arbaro.|This American lives in a forest.||
