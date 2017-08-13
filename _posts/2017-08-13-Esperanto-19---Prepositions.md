@@ -9,7 +9,7 @@ comments: true
 這課是關於 prepositions 。個人認為挺難記的。
 
 ## > 文法規則
-* proposition 後不用加 [Accusive]({{ site.baseurl }}/Esperanto-4-Accusative/)
+* proposition 後不用加 [Accusive]({{ site.baseurl }}/Esperanto-4-Accusative/) 。
 
 ## > Section 1/5
 
@@ -32,7 +32,7 @@ comments: true
 |Pomo estas sub la tablo.|An apple is under the table.||
 |Mi estas hejme.|I am at home.||
 |Ŝi iras tra la parko.|She goes through the park.|
-|Dankon **pro** via helpo.|Thank you for(because of) your help.||
+|Dankon **pro** via helpo.|Thank you **for(because of)** your help.||
 |Ĉu vi staras apud li?|Do you stand beside him?||
 |Lia domo estas trans la strato.|His house is across the street.||
 |La kato estas sub la seĝo.|The cat is under the chair.||
