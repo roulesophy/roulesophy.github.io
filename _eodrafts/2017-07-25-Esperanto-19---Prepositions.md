@@ -14,15 +14,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|pro|for / because of|pro vs por|
+|pro|because of|pro(because of) 和 por(for) 是有分別的：<br/>Mi parolas Esperanton pro vi: I speak Esperanto because of you.<br/>La donaco estas por vi.: The gift is for you.|
 |strato|street||
-|apud|||
-|trans|||
-|sub|||
-|tablo|||
+|apud|near, next to, beside, alongside, adjacent to||
+|trans|across||
+|sub|under||
+|tablo|table||
 |seĝo|chair||
-|tra|||
-|hejme|||
+|tra|through||
+|hejme|at home||
 
 ### 例句
 
@@ -30,8 +30,8 @@ comments: true
 |---|---|---|
 |Pomo estas sub la tablo.|An apple is under the table.||
 |Mi estas hejme.|I am at home.||
-|Ŝi iras tra la parko.||
-|Dankon pro via helpo.|Thank you for your help.||
+|Ŝi iras tra la parko.|She goes through the park.|
+|Dankon **pro** via helpo.|Thank you for(because of) your help.||
 |Ĉu vi staras apud li?|Do you stand beside him?||
 |Lia domo estas trans la strato.|His house is across the street.||
 |La kato estas sub la seĝo.|The cat is under the chair.||
@@ -41,15 +41,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|super|||
-|ĉielo|||
-|ĉielarko|||
-|verŝas|pour(liquid)|verŝas vs ŝutas!! see sentences|
+|super|above||
+|ĉielo|sky, heaven|ĉielero: a little bit of heaven(ĉielo: heaven, -ero: element)|
+|ĉielarko|rainbow|ĉielo(sky) + arko(arc)|
+|verŝas|pour(liquid)|留意 verŝas 和 ŝutas 的分別，一個是倒液體，一個是倒非液體。|
 |ŝutas|pur(non liquid)||
-|saltas|||
-|metas|||
-|marŝi|||
-|hejmen|||
+|salti|to jump||
+|meti|to put, to place||
+|marŝi|to march, to walk||
 
 ### 例句
 
@@ -59,7 +58,7 @@ comments: true
 |Ni marŝas rapide hejmen.|We are walking quickly to home.||
 |Adamo ofte verŝas akvon en glasojn.|Adamo often pours water in glasses.||
 |La kolorok de la ĉielarko.|The colors of the rainbow.||
-|La malgranda knabino ofte saltas en the domo.|The small girl often jumbs in the house.||
+|La malgranda knabino ofte saltas en the domo.|The small girl often jumps in the house.||
 |Kie estas la ĉielarko?|Where is the rainbow?||
 |Kial ŝi ciam metas la katon sur la seĝon?|Why does she always put the cat on the chair?||
 |Adamo ĉiam ŝutas multe da sukero en sian teon.|Adamo always pours a lot of sugar in his tea.||
@@ -68,13 +67,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|for|||
-|inter|||
-|antaŭ|||
-|malantaŭ|||
-|ĉe|at the home of||
-|stelo|||
-|mondo|||
+|for|away, far, gone||
+|inter|between||
+|antaŭ|in front of, before||
+|malantaŭ|behind|mal(opposite) + antaŭ(in front of)|
+|ĉe|at||
+|stelo|star||
+|mondo|world||
 
 ### 例句
 
@@ -88,7 +87,6 @@ comments: true
 |La mondo estas malgranda.|The world is small.||
 |Bonvenon ĉe ni!|Welcome to our home!||
 |Ili iras for.|They go away.||
-
 
 ## > Section 4/5
 
