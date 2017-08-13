@@ -1,20 +1,21 @@
 ---
-filename: 2017-07-25-Esperanto-19---Prepositions.md
+filename: 2017-08-13-Esperanto-19---Prepositions.md
 layout: post
 title: Esperanto 19 - Prepositons
 tags: Esperanto
-date: 2017-07-25
+date: 2017-08-13
 comments: true
 ---
+這課是關於 prepositions 。個人認為挺難記的。
 
 ## > 文法規則
-* proposition 後不用 accusive
+* proposition 後不用加 [Accusive]({{ site.baseurl }}/Esperanto-4-Accusative/)
 
 ## > Section 1/5
 
 |Esperanto|English|Comment|
 |---|---|---|
-|pro|because of|pro(because of) 和 por(for) 是有分別的：<br/>Mi parolas Esperanton pro vi: I speak Esperanto because of you.<br/>La donaco estas por vi.: The gift is for you.|
+|pro|because of|pro(because of) 和 [por(for)]({{ site.baseurl }}/Esperanto-12-Food/#-section-28) 是有分別的：<br/>Mi parolas Esperanton pro vi: I speak Esperanto because of you.<br/>La donaco estas por vi.: The gift is for you.|
 |strato|street||
 |apud|near, next to, beside, alongside, adjacent to||
 |trans|across||
@@ -92,38 +93,41 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|kontraŭ|||
-|krom|||
-|ĉio|||
-|ekster|||
-|suno|||
-|brilas|||
-|luno|||
+|kontraŭ|against|kontraŭa (contrary, opposite)<br/>kontraŭe (contrarily)<br/>kontraŭi (to oppose)<br/>kontraŭo (an opposite)|
+|krom|except (for) / in additional to|用那個意思要靠情景來判斷。|
+|ĉio|[everything]({{ site.baseurl }}/Esperanto-Correlatives/)||
+|ekster|outside||
+|brili|to shine||
+|suno|sun||
+|luno|moon||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
 |Ni trinkas ĉion krom akvo.|We drink everything except water.||
-|Multaj steloj brilas en la ĉielo.||
+|Multaj steloj brilas en la ĉielo.|Many stars shine in the sky.|
 |La hundoj atendas ekster la domo.|The dogs await outside the house.||
 |Li ne estas kontraŭ ni.|He is not against us.||
 |La suno brilas.|The sun is shining.||
 |La hundoj atendas ekster la domo.|The dogs await outside the house.||
+|Mi ŝatas ĉion, **krom** araneoj.|I like everything **except** spiders.||
+|**Krom** araneoj, ŝi ankaŭ amas abelojn.|**In addition to** spiders, she also loves bees.||
 
 ## > Section 5/5
 
 |Esperanto|English|Comment|
 |---|---|---|
-|anstataŭ|||
-|ĉirkaŭ|||
-|laŭ|||
-|malgraŭ|||
-|preter|||
-|vetero|||
-|opinio|||
-|peto|||
-|kvankam|||
+|anstataŭ|instead of||
+|ĉirkaŭ|around||
+|laŭ|account to||
+|malgraŭ|notwithstanding / despite / in spite of|mal-(opposite) + graŭ(in accordance with)|
+|preter|beyond||
+|vetero|weather||
+|opinio|opinion||
+|peto|request||
+|kvankam|although||
+|manko de|a lack of|一定要使用 manko de 而不是 manko da ，因為缺少的都是不可數的。|
 
 ### 例句
 
@@ -135,5 +139,6 @@ comments: true
 |Ĉu vi volas iri anstataŭ mi?|Do you want to go instead of me?||
 |Li iras preter nia domo al la restoracio.|He goes beyond our home to the restaurant.||
 |Laŭ mi, la vetero estas bona.|According to me, the weather is good.||
-|Malgraŭ lia opinio, ŝi lernas multe da lingvoj.||
+|Malgraŭ lia opinio, ŝi lernas multe da lingvoj.|Despite his opinion, she learns many languages.|
 |Mi faras ĝin laŭ via peto.|I do it according to your request.||
+|Manko de mono.|A lack of money.||
