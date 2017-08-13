@@ -6,6 +6,8 @@ tags: Esperanto
 date: 2017-08-12
 comments: true
 ---
+這課學習家人和親戚的名詞。
+
 <!--
 []({{ site.baseurl }}/Esperanto-17-Family/)
 []({{ site.baseurl }}/Esperanto-17-Family/#-溫習)
@@ -14,8 +16,6 @@ comments: true
 []({{ site.baseurl }}/Esperanto-17-Family/#-section-23)
 []({{ site.baseurl }}/Esperanto-17-Family/#-section-33)
 -->
-
-這課學習家人和親戚的名詞。
 
 ## > 溫習
 * [patro]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-13)
@@ -113,3 +113,4 @@ comments: true
 |Mia praavino venas el Rusio.|My great-grandmother comes from Russia.||
 |Panjo kaj paĉjo estas geedzoj.|Mommy and daddy are spouses.|
 |La edzo de mia fratino estas mia bofrato.|The husband of my sister is my brother-in-law.||
+
