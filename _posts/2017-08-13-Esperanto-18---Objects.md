@@ -1,26 +1,26 @@
 ---
-filename: 2017-07-25-Esperanto-18---Objects.md
+filename: 2017-08-13-Esperanto-18---Objects.md
 layout: post
 title: Esperanto 18 - Objects
 tags: Esperanto
-date: 2017-07-25
+date: 2017-08-13
 comments: true
 ---
-
-## > 文法規則
+這課主要是學習一些常用生詞。
 
 ## > Section 1/6
 
 |Esperanto|English|Comment|
 |---|---|---|
-|ekrano|||
-|poŝtelefonon||affix: poŝ|
-|telefono|||
-|komputilo||recall kompreni: to understand|
-|okulvitrojn|||
-|horloĝo||horo: hour/time/o'clock,loĝo:logo|
-|...|||
-|brakhorloĝo|watch|affix: brak=arm|
+|ekrano|screen||
+|telefono|telephone||
+|poŝtelefonon|cellphone|poŝo(pocket) + telefono(telephone)|
+|komputilo|computer|komputi(to count, to compute) + -ilo(tool)|
+|okulvitrojn|eyeglass|okulo(eye) + vitro(glass)|
+|horloĝo|clock|horo(hour/time/o'clock) + loĝo(logo)|
+|brakhorloĝo|watch|brako(arm) + horloĝo(clock)<br/>murhorloĝo: wall clock<br/>sablohorloĝo: sand clock(sablo: sand)<br/>vekhorloĝo: alarm clock (veki: to wake)|
+|serĉi|to search||
+|baterio|battery||
 
 ### 例句
 
@@ -68,13 +68,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|rado|||
-|motoro|||
-|maŝino|||
-|objekto|||
-|gazetojn|||
-|funkcii|||
-|senpaga|||
+|rado|wheel|radseĝo: wheelchair|
+|motoro|motor||
+|maŝino|machine||
+|objekto|object||
+|gazeto|newspaper, magazine||
+|funkcii|to function, to work|funkcio: function|
+|senpaga|free|sen(without, -less) + pagi(to pay)|
 
 ### 例句
 
@@ -92,12 +92,12 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |folio|leaf||
-|planto|||
-|radikojn|||
-|arbo|||
-|kreskas|||
-|tero|||
-|foto|||
+|planto|plant|planti: to plant|
+|radiko|root||
+|arbo|tree||
+|kreskas|to grow||
+|tero|Earth||
+|foto|photo||
 
 ### 例句
 
@@ -113,14 +113,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|peco|||
-|fadeno|||
-|papero|||
-|preferi|||
-|poto|||
-|plasto|||
-|per|||
-|skribilo|||
+|peco|piece|peco 可以放在 da 或 de 前面，如果放在 da 前便代表該東西的數量或是大小，如果放在 de 前便代表該東西的本質。<br/>Tio estas granda peco de pano: That is a big piece of bread<br/>Ĉu tio estas peco de pano aŭ peco de kuko? : (Is that a piece of bread or piece of cake?|
+|fadeno|thread||
+|papero|paper||
+|preferi|to prefer||
+|poto|pot||
+|plasto|plastic||
+|per|with, by means of|這裡的 with 是指用一些工具或是交通工具去做成一些事情。<br/>per martelo: with a hammer<br/>per tranĉilo: witha knife<br/>per buso: by bus<br/>per aŭto: by car<br/>per trajno: by train<br/>per ŝipo: by ship|
+|skribilo|pen|skribi(to write) + -ilo(tool)|
 
 ### 例句
 
@@ -132,20 +132,19 @@ comments: true
 |Ĉu vi volas pecon da pano?|Do you wants a piece of bread?||
 |La poto estas malgranda.|The pot is small.||
 |Ĉu vi venas per aŭto?|Do you come by car?||
-|
 
 ## > Section 6/6
 
 |Esperanto|English|Comment|
 |---|---|---|
-|forko|||
-|boteloj|bottles||
-|pato|||
+|forko|fork||
+|botelo|bottle||
+|pato|pan||
 |bovlojn|bowl||
-|kuiri|||
+|kuiri|to cook||
 |kulero|spoon||
-|antikva|||
-|kolektas|||
+|antikva|antique|古董|
+|kolekti|to collect||
 
 ### 例句
 
