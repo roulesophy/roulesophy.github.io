@@ -15,7 +15,7 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |besto|animal||
-|bovino|cow|名詞字根是 bovo(ox)，-in- 是指女性，所以 bov-in-o 變成了 cow。|
+|bovino|cow|bovo(ox) + -in-(female)|
 |koko|chicken||
 |ĉevalo|horse||
 |infanojn|children||
@@ -63,7 +63,7 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |ovojn|eggs||
-|malgranda|small|名詞字根是 granda(big)，mal- 是指相反，所以 mal-granda 變成了 small。|
+|malgranda|small|granda(big) + mal-(opposite)|
 |voston|tail||
 |aligatoro|alligator||
 |krokodilo|crocodile||
@@ -105,10 +105,10 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|katido|kitten|名詞字根是 kato(cat)，-id- 是指 offspring ，所以 kat-id-o 變成了 kitten。|
-|hundidojn|puppy|名詞字根是 hundo(dog)，-id- 是指 offspring ，所以 hund-id-o 變成了 puppy。|
+|katido|kitten|kato(cat) + -id-(offspring)|
+|hundidojn|puppy|hundo(dog) + -id-(offspring)|
 |ŝafo|sheep||
-|ŝafidoj|lamb|名詞字根是 ŝafo(sheeep)，-id- 是指 offspring ，所以 ŝaf-id-o 變成了 lamb。|
+|ŝafidoj|lamb|ŝafo(sheeep) + -id-(offspring)|
 |muson|mouse|小心和 muŝo(a fly) 的分別。|
 |anaso|duck||
 

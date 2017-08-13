@@ -13,7 +13,7 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |jupo|skirt||
-|mallonga|short|名詞字根是 longa(long)，mal- 是指相反，所以 mal-longa 變成了 short。|
+|mallonga|short|longa(long) + mal-(opposite)|
 |pantalonon|pants / trousers|留意不像英文，後面沒有眾數。而 pantalonoj 是指多於一條的褲子。|
 |ofte|often||
 |somero|summer||
@@ -35,7 +35,7 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |ĉapelo|hat||
-|vestaĵo|clothes|名詞字根是 vesto(clothing)，-aĵ- 是指 concrete thing，所以 vest-aĵ-o 變成了 clothes。|
+|vestaĵo|clothes|vesto(clothing) + -aĵ-(concrete thing)|
 |robo|dress||
 |bezonas|need||
 |ŝuojn|shoe||

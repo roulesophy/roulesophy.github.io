@@ -56,11 +56,11 @@ comments: true
 |doni|to give||
 |rajti|to allow||
 |studi|study||
-|malfermi|to open|名詞字根是 fermi(to close)，mal- 代表相反，所以 mal-fermi 變成了 to open。|
+|malfermi|to open|fermi(to close) + mal-(opposite)|
 |rigardi|to look at|留意rigardi 是有方向的。|
 |pravi|to be right|留意 vera(true) 和 pravi(to be right) 的分別。|
 |provi|to try||
-|malpravas|wrong|名詞字根是 pravas(right)，mal- 代表相反，所以 mal-pravas 變成了 wrong。|
+|malpravas|wrong|pravas(right) + mal-(opposite)|
 
 ### 例句
 

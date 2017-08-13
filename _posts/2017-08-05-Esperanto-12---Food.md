@@ -36,7 +36,7 @@ comments: true
 |viando|meat||
 |ol|than|這個字是用來作比較用的 conjunction ，這個字後都是 subject 或是 object 。|
 |pli|more|通常的用法是 pli ol (more than)|
-|kokaĵo|chicken meat|名詞字根是 koko(chicken)，-aĵ- 代表 concrete thing，所以 kok-aĵ-o 變成了 chicken meat。|
+|kokaĵo|chicken meat|koko(chicken) + -aĵ-(concrete thing)|
 |oranĝo|orange||
 |guston|taste||
 |apetito|appeitie||
@@ -60,14 +60,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|fiŝaĵo|fish meat|名詞字根是 fiŝo(fishb)，-aĵ- 代表 concrete thing，所以 fish-aĵ-o 變成了 fish meat。|
+|fiŝaĵo|fish meat|fiŝo(fishb) + -aĵ-(concrete thing)|
 |telero|plate||
 |sur|on||
 |sukero|sugar||
 |jen|here is / here are|這個字後面可以用 estas 或是 noun 。|
 |por|to / in order to / for||
 |kun|with||
-|matenmanĝi|have breakfast|mateno 指 morning ，而 manĝi 指 eat ，所以 matenmanĝi 指吃早餐。|
+|matenmanĝi|have breakfast|mateno(morning) + manĝi(eat)|
 |butero|butter||
 
 ### 例句
@@ -91,8 +91,8 @@ comments: true
 |suko|juice||
 |manĝo|meal|manĝi 指 eat 。|
 |bongustas|is / are delicious||
-|manĝaĵo|food|名詞字根是 manĝo(meal)，-aĵ- 代表 concrete thing，所以 manĝ-aĵ-o 變成了 food。|
-|trinkaĵo|beverage|名詞字根是 trinko(drinks)，-aĵ- 代表 concrete thing，所以 kok-aĵ-o 變成了 beverage。|
+|manĝaĵo|food|manĝo(meal) + -aĵ-(concrete thing)|
+|trinkaĵo|beverage|trinko(drinks) + -aĵ-(concrete thing)|
 |legomo|vegetable||
 |iom|some||
 
@@ -112,13 +112,13 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |salo|salt||
-|porkaĵo|pork|名詞字根是 porko(pig)，-aĵ- 代表 concrete thing，所以 pork-aĵ-o 變成了 pork。|
-|vegetarano|vegetarian|名詞字根是 vegetaro(vegetable)，-an- 代表人，所以 vegetar-an-o 變成了 vegetarian。|
+|porkaĵo|pork|porko(pig) + -aĵ- 代表 concrete thing|
+|vegetarano|vegetarian|vegetaro(vegetable) + -an0(member of)|
 |picojn|pizza||
 |frago|strawberry||
-|bovaĵo|beef|名詞字根是 bovo(ox)，-aĵ- 代表 concrete thing，所以 bov-aĵ-o 變成了 beef。|
-|malbona|bad|名詞字根是 bona(good)，mal- 代表相反，所以 mal-bona 變成了 bad。|
-|tagmanĝi|eat lunch|名詞字根是 tago(day) 和 manĝi(eat) 。|
+|bovaĵo|beef|bovo(ox)， + -aĵ-(concrete thing)|
+|malbona|bad|bona(good) + mal-(opposite)|
+|tagmanĝi|eat lunch|tago(day) + manĝi(eat)|
 |ĉiom|all|ĉi 是指 all，-om 是指 amount|
 
 ### 例句
@@ -145,9 +145,9 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|vespermanĝi|eat dinner|名詞字根是 vespero(night) 和 manĝi(eat) 。|
+|vespermanĝi|eat dinner|vespero(night) + manĝi(eat)|
 |restoracio|restaurant||
-|pastaĵoj|pasta|名詞字根是 pasto(dough)，-aĵ- 代表 concrete thing，所以 past-aĵ-o 變成了 pasta。|
+|pastaĵoj|pasta|pasto(dough) + -aĵ-(concrete thing)|
 |sen|without||
 |kune|together|留意和 kun 的分別， kun 是 with 而 kune 是 together ， kune kun 是指 together with 。|
 |tiom|that much / so much|ti- 指 that ，而 -om 是指 amount 。|
@@ -170,10 +170,10 @@ comments: true
 |---|---|---|
 |menuo|menu||
 |kelnero|waiter||
-|kelnerinoj|waitresses|名詞字根是 kelnero(waiter)，-in- 代表女性，所以 kelner-in-o 變成了 waitresses。|
+|kelnerinoj|waitresses|kelnero(waiter) + -in-(female)|
 |servas|serve||
 |aĉetas|buy||
-|gustumas|tasting|這個字可以拆解為 gust-um-as 。而 [-um-](https://en.wikipedia.org/wiki/Esperanto_words_with_the_suffix_-um) 的用法比較特別，這是一個名為 undefined ad-hoc affix 的 affix，即是為有其他 affix可以使用來衍生字根時才會用到的，所以需要一點記憶才能記住 gusto(taste) + um = tasting 。|
+|gustumas|tasting|gusti(have a flavor) +‎ -um-<br/>[-um-](https://en.wikipedia.org/wiki/Esperanto_words_with_the_suffix_-um) 的用法比較特別，這是一個名為 undefined ad-hoc affix 的 affix，即是為有其他 affix可以使用來衍生字根時才會用到的，所以需要一點記憶才能記住 gusto(taste) + um = tasting 。|
 
 ### 例句
 

@@ -42,9 +42,9 @@ comments: true
 |---|---|---|
 |li|he||
 |ŝi|she||
-|knabino|girl|knabo (boy) 中間加 in 變成 girl|
+|knabino|girl|knabo(boy) + in(female)|
 |ludas|play||
-|virino|woman|viro (man) 中間加 in 變成 woman|
+|virino|woman|viro(man) + in(female)|
 |kaj|and||
 |kantas|sing||
 

@@ -101,7 +101,7 @@ comments: true
 |ĉinio|China||
 |azio|asia||
 |afriko|Africa||
-|denove|again|字根是 nove(newly)，de- 是指不是，所以 de-nove 變成了 again。|
+|denove|again|nove(newly) + de-(not)|
 |vojaĝi|journey||
 |ĉeĥio|Czech Republic||
 |ĉehan|Czech (language)||

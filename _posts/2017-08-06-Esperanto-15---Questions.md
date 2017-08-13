@@ -77,8 +77,8 @@ comments: true
 |---|---|---|
 |kies|whose||
 |ĉu|whether||
-|instruistoj|Teacher|名詞字根是 instruo(instruction)，-ist- 代表投入這件事的人，所以 instru-ist-o 變成了 teacter。|
-|io|something|在 correlatives 中， i- 代表 some ，而 -o 代表一些東西，所以 io 代表 something 。|
+|instruistoj|Teacher|instruo(instruction) + -ist-(professional)|
+|io|something|在 correlatives 中， i-(some) + -o(object)|
 |demando|question||
 |respondon|answer||
 |kien|to where|留意文法規則的用法。|
