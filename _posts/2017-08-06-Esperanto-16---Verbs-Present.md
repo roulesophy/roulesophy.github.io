@@ -80,7 +80,7 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |vidi|to see||
-|subskribi|to sign|名詞字根是 skribi(to write)，sub- 代表 under，所以 sub-skribi 變成了 to sign。|
+|subskribi|to sign|skribi(to write) + sub-(under)|
 |staras|stand||
 |sidi|to sit||
 |aŭskulti|to listen||
