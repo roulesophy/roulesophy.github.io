@@ -13,19 +13,26 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|larĝa|||
-|juna|||
-|dika|||
-|pura|||
-|maldika|||
-|maljuna|||
-|malpura|||
-|rivero|||
+|larĝa|large||
+|dika|fat||
+|maldika|thin|mal-(opposite) + dika(fat)|
+|juna|young||
+|maljuna|old|mal-(opposite of) + juna(young)|
+|pura|clean||
+|malpura|dirty|mal-(opposite of) + pura(clean)|
+|rivero|river||
 
 ### 例句
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Kial la rivera ne estas pura?|Why is the river not clean?||
+|Mia domo estas malpura.|My house is dirty.||
+|June kaj kune|young and together|
+|Li estas tro dika por rapide kuri.|He is too fat to run quickly.|
+|La rivero estas larĝa kaj longa.|The river is wide and long.||
+|Miaj geavoj estas maljunaj.|My grandparents are old.|
+|la maldika, maljuna kato|The thin, old cat|
 
 
 ## > Section 2/6
