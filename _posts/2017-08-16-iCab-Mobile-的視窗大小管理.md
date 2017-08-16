@@ -7,12 +7,12 @@ date: 2017-08-16
 comments: true
 ---
 
-除了上次的[iCab Mobile 視窗分割功能外]({{ site.baseurl }}/iPad-工作術-一-多工視窗/)，今天來介紹另一個個人認為很強大的功能：virtual screen size。
+iCab Mobile 是一個十分強大的 iPhone 瀏覽器。除了上次介紹的[視窗分割功能]({{ site.baseurl }}/iPad-工作術-一-多工視窗/)外，今天來介紹另一個個人認為很強大的功能：virtual screen size，顧名思義，這就是一個能夠自己決定 iCab Mobile 瀏覽的視窗大小的功能。
 
 [iCab Mobile](https://appsto.re/hk/mKwxs.i)  
 ![iCab Mobile]({{ site.baseurl }}/images/20170814-2.jpg)
 
-大家在電話上網時，很多網站會因為你手持的是移動裝置而顯示了移動專用的簡化頁面。可是，有時在外上網又需要用到桌面版的介面。
+大家用 iPhone 上網時，很多網站會因為你手持的是移動裝置而顯示了移動專用的簡化頁面。可是，有時在外上網又需要用到桌面版的介面。
 
 這又要談到我學習 [Esperanto]({{ site.baseurl }}/tags/#Esperanto) 的經歷。本來 duolingo 的每一課都有一些學習該課時的一些心得或是筆記，這些心得是很難在從習題中學會的（最常見的情況是：即使做對了練習題目，沒有那份筆記也不可能明白為何這是正確的）。可是，使用 duolingo 的移動版來學習語言時介面是沒有這份筆記的！這令我的學習提供了障礙。
 
