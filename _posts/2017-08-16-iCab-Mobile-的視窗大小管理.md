@@ -9,7 +9,7 @@ comments: true
 
 iCab Mobile 是一個十分強大的 iPhone 瀏覽器。除了上次介紹的[視窗分割功能]({{ site.baseurl }}/iPad-工作術-一-多工視窗/)外，今天來介紹另一個個人認為很強大的功能：virtual screen size，顧名思義，這就是一個能夠自己決定 iCab Mobile 瀏覽的視窗大小的功能。
 
-[iCab Mobile](https://appsto.re/hk/mKwxs.i)  
+下載網址： [iCab Mobile](https://appsto.re/hk/mKwxs.i)  
 ![iCab Mobile]({{ site.baseurl }}/images/20170814-2.jpg)
 
 大家用 iPhone 上網時，很多網站會因為你手持的是移動裝置而顯示了移動專用的簡化頁面。可是，有時在外上網又需要用到桌面版的介面。
