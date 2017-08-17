@@ -1,0 +1,28 @@
+---
+filename: 2017-08-17-iOS-drafts-4-as-outliner.md
+layout: post
+title: iOS drafts 4 as outliner
+tags: Productivity
+date: 2017-08-17
+comments: true
+---
+一直都想做一個純文字版的大綱構造器。
+
+Drafts 是一個得好用的靈感收集器，用家能夠得方便地在這裡收集靈感，然後用內置的眾多分享功能把這些靈感傳送到其他應用程式。而用家也可以自己設計分享功能和鍵盤快捷鍵來加快工作。這是我最喜愛的 iOS 應用程式之一。
+
+其實這篇是 RouOutliner 的延伸，把它的建構大網和 todo 功能移植到 Drafts （其實故事是因為我在 Drafts 上有需求才製造了 RouOutliner）。
+
+這個 outliner 其實由 9 個 keyboard shortcut組成：
+* 一個 todo 鍵
+* 四個單獨把每一點移動上下左右的鍵（上下：文換上下兩點、左右：變成子列點或是變成父列點）
+* 四個把整棵列點樹上下左右移動的鍵（上下：文換上下兩點、左右：變成子列點或是變成父列點）
+
+好吧，看示例吧。
+
+## > Todo toggle
+
+## > List movement
+
+## > Subtree movement
+
+希望這能為各位 Drafts 的使用者帶來一點便利。
