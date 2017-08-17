@@ -155,3 +155,11 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
+|Mia onklino estas afabla, ne stranga.|My aunt is nice, not odd.||
+|Lia filo estas alta, ne malalta.||
+|Mi estas preta por aŭskulti viajn interestaj ideojn.|I am ready to hear your interesting ideas.||
+|Tiu fama dancisto estastre lerta.|That famous dancer is very skilled.||
+|Mi kapablas lerni Esperanton.|I am able to learn Esperanto.||
+|La lasta numero de la gazeto estas tre interesa.|The last number of the newspaper is very interesting.||
+|Kie oni povas trovi malaltajn arbojn?|Where can one find short trees?||
+
