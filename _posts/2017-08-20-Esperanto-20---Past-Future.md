@@ -1,19 +1,68 @@
 ---
-filename: 2017-07-25-Esperanto-20---Past-Future.md
+filename: 2017-08-20-Esperanto-20---Past-Future.md
 layout: post
 title: Esperanto 20 - Past Future
 tags: Esperanto
-date: 2017-07-25
+date: 2017-08-20
 comments: true
 ---
 
+這課是關於過去式和將來式。
+
 ## > 文法規則
+
+### > 過去式和將來式
+到目前為止，我們學過兩種動詞的形式：
+
+* `-as`: 現在式
+* `-i`: [Infinitive]({{ site.baseurl }}/Esperanto-14-Infinitive/)
+
+而今次將會學過去式和將來式：
+
+* `-is`: 過去式
+* `-os`: 將來式
+
+|Past|Present|Future|
+|---|---|---|
+|La kato dorm**is**.|La kato dorm**as**.|La kato dorm**os**.|
+|The cat **slept**.|The cat **sleeps**.|The cat **will sleep**.|
+
+在英文中，有時有些句子雖然是用現在式，可是其實是表達將來；而在 Esperanto 中，這些一律以將來式來表達。
+
+|Esperanto|English|
+|---|---|
+|Kion vi faros, kiam vi **estos** gepatroj?|What will you do when you **are** parents?|
+|Ni **iros** al la drinkejo ĉi-vespere.|We **are going** to the bar tonight.||
+
+### > Post Kiami / Antaŭ ol
+
+前置詞 `post` 是 after 的意思，而這個字通常都會放在名詞前。
+
+|Esperanto|English|
+|---|---|
+|**post** la matenmanĝo|**after** breakfast|
+|**post** la oka horo|**after** eight o'clock|
+
+可是，如果想在動詞片語 (verb phrase) 前，便需要以 `post kiam` 代替：
+
+|Esperanto|English|
+|---|---|
+|**Post kiam** ni matenmanĝis...|**After** we had breakfast...|
+|**Post kiam** mi laboris, mi dormis, mi dormis.|**After** I [had] worked, I slept.|
+
+同樣地， `antaŭ` (before 或 in front of) 通常都會放在名詞前，而 `antaŭ ol` (before) 就會放在動詞片語 (verb phrase) 前：
+
+|Esperanto|English|
+|---|---|
+|Ŝi staras **antaŭ** la pordo.|She is standing **in front of** the door.|
+|Sofia alvenis **antaŭ** la manĝo.|Sofia arrived **before** the meal.||
+|Ni manĝis **antaŭ ol** li alvenis|We ate **before** he arrived.|
 
 ## > Section 1/7
 
 |Esperanto|English|Comment|
 |---|---|---|
-|aŭdito hear|||
+|aŭdi|to hear||
 |manĝi|to eat||
 |vidi|to see||
 |iri|to go||
@@ -26,9 +75,9 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|Li manĝis panon kaj trinkis akvon.|He ate bread and drank water.||
-|Ŝi aŭdos nin, kiam ni iros.|She will hear us, when we will go.||
-|Kion vi faros, kiam vi vidos la krokodilon?|What will you do when you see the crocodile?||
+|Li **manĝis** panon kaj trinkis akvon.|He **ate** bread and drank water.||
+|Ŝi **aŭdos** nin, kiam ni iros.|She **will hear** us, when we will go.||
+|Kion vi faros, kiam vi **vidos** la krokodilon?|What will you do when you **see** the crocodile?|這是英文中以現在式表達將來的一個例子，在 Esperanto 中會以將來式來表達。|
 |La knabinoj dancis rapide.|The girls danced quickly.||
 |Morgaŭ mi manĝos fruktojn.|Tomorrow I will eat fruits.||
 |Ŝi vidos mi en la parko.|She will see me in the park.||
@@ -87,15 +136,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|rigardi|||
-|memori|||
-|okazi|||
-|studi|||
-|esti|||
-|veni|||
-|vivi|||
-|antaŭa|||
-|nun|||
+|rigardi|to watch||
+|memori|to remember||
+|okazi|to happen||
+|studi|to study||
+|esti|to be||
+|veni|to come|通常會放在 `al` 的前面表示方向。|
+|vivi|to live||
+|antaŭa|before||
+|nun|now||
 
 ### 例句
 
@@ -114,15 +163,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|havi|||
-|skribi|||
-|ami|||
-|labori|||
-|dormi|||
-|povis|||
-|kisis|||
-|post|||
-|decidi|||
+|havi|to have||
+|skribi|to write||
+|ami|to live||
+|labori|to work||
+|dormi|to sleep||
+|povis|could||
+|kisis|kissed||
+|post|after|用法請看文法規則。|
+|decidi|to decide||
 
 ### 例句
 
@@ -141,14 +190,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|pluvi|||
-|neĝi|||
-|komenci|||
-|legi|||
-|komprenos|||
-|forgesi|||
-|doni|||
-|prenis|||
+|pluvi|to rain||
+|neĝi|to snow||
+|komenci|to begin||
+|legi|to read||
+|komprenos|will understand||
+|forgesi|to forget||
+|doni|to give||
+|prenis|took||
 
 ### 例句
 
@@ -167,13 +216,13 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|teni|||
-|kaŝi|||
-|lasi|||
-|rompi|||
-|ligi|||
-|punis|||
-|soifi|||
+|teni|to keep||
+|kaŝi|to hide||
+|lasi|to leave||
+|rompi|to break||
+|ligi|to connect||
+|punis|to punish||
+|soifi|to be thirsty||
 |scipovis|know how||
 
 ### 例句
@@ -184,7 +233,7 @@ comments: true
 |Kie vi kaŝos tion?|Where will you hide that?||
 |Li rompis siajn okulvitrojn.|He broke his glasses.||
 |Tio tenos vin varma.|That will keep you warm.||
-|La kato punis la katidon ĉar ĝi kisis la muson.||
+|La kato punis la katidon ĉar ĝi kisis la muson.|The cat punished the kitten because it kissed the mouse.|
 |Estis longa laboro, kaj nun mi soifas.|It was long work, and now I am thirsty.||
 |Ĉu vi scipovas paroli Esperanton?|Do you know how to speak Esperanto?||
 |Ŝi ligis la poŝtelefonon al la komputilo.|She connected the mobile phone to the computer.||
