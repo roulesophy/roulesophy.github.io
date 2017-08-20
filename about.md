@@ -10,6 +10,7 @@ permalink: /about/
 <!-- 寫網誌的原因是想防止自己失憶、訓練自己的表達能力、以及為世界帶來一點參考。 -->
 當自己從網絡上學到幫助自己成長的知識時，便想把自己所知的分享出去，當我們把自己的知識分享時，自己反而會學到更多。
 
+Eterna Betao 是世界語，意思是永遠的 beta 版本。因為這個網誌永遠都不會有完成版，只會不斷地進化。
 <!-- Get the tag name for every tag on the site and set them
 to the `site_tags` variable. -->
 
