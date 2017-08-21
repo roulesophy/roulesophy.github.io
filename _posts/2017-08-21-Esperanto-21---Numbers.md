@@ -68,9 +68,9 @@ comments: true
 |Esperanto|English|Comment|
 |---|---|---|
 |kvin|5||
-|ses||6|
-|sep||7|
-|ok||8|
+|ses|6||
+|sep|7||
+|ok|8||
 |naŭ|9||
 |dek|10||
 
