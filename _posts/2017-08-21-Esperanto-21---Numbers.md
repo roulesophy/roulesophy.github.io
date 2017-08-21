@@ -1,9 +1,9 @@
 ---
-filename: 2017-07-25-Esperanto-21---Numbers.md
+filename: 2017-08-21-Esperanto-21---Numbers.md
 layout: post
 title: Esperanto 21 - Numbers
 tags: Esperanto
-date: 2017-07-25
+date: 2017-08-21
 comments: true
 ---
 
