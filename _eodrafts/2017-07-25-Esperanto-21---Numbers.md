@@ -7,18 +7,72 @@ date: 2017-07-25
 comments: true
 ---
 
+這課是關於數字的表達。
+
+## > 溫習
+
+|Esperanto|English|Comment|
+|---|---|---|
+|unu|1||
+|du|2||
+|tri|3||
+|kvar|4||
+
 ## > 文法規則
+
+### > Cardinal / Ordinal Numbers
+
+|Cardinal|Esperanto|Ordinal|Esperanto|
+|---|---|---|---|
+|one|unu|first|unu**a**|
+|two|du|second|du**a**|
+|three|tri|third|tri**a**|
+|four|kvar|fourth|kvar**a**|
+
+### > Writing out Numbers
+
+|Numbers|Esperanto|How many words?|
+|---|---|---|
+|11, 12 ... 19|dek unu, dek du ... dek naŭ|two words|
+|20, 30 ... 90|dudek, tridek ... naŭdek|one word|
+|200, 300 ... 900|ducent, tricent ... naŭcent|one word|
+|2000, 3000 ... 9000|du mil, tri mil ... naŭ mil|two words|
+
+|Esperanto|English|
+|---|---|
+|Du mil okdek kvar|Two thousand eighty-four(2084)|
+|Kvincent sesdek tri mil|Five hundred sixty-three thousand(563000)|
+
+### > A Million and beyond
+
+|English|Esperanto|
+|---|---|
+|million|miliono|
+|billion|miliardo|
+
+### > Nombro vs Numero
+
+`Nombro` 是代表數字關係或是代表數量。
+`Numero` 是代表數字中的其中一員。
+
+|Esperanto|English|
+|---|---|
+|la nombro de personoj|the number of people|
+|4 estas pli granda norbro ol 3.|4 is larger number than 3.|
+|la numero de la domo.|the house number.|
+|telefonnumero|phone number|
+|la lasta numero de la gazeto|the last number [edition] of the newspaper|
 
 ## > Section 1/7
 
 |Esperanto|English|Comment|
 |---|---|---|
-|kvin|||
-|ses|||
-|sep|||
-|ok|||
-|naŭ|||
-|dek|||
+|kvin|5||
+|ses||6|
+|sep||7|
+|ok||8|
+|naŭ|9||
+|dek|10||
 
 ### 例句
 
@@ -36,15 +90,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|malpli|||
-|dudek|||
-|tridek|||
-|kvardek|||
-|kvindek|||
-|sesdek|||
-|sepdek|||
-|okdek|||
-|naŭdek|||
+|malpli|less|通常和 ol (than) 一起使用。|
+|dudek|20||
+|tridek|30||
+|kvardek|40||
+|kvindek|50||
+|sesdek|60||
+|sepdek|70||
+|okdek|80||
+|naŭdek|90||
 
 ### 例句
 
@@ -63,14 +117,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|cent|||
-|mil|||
+|cent|100||
+|mil|1000||
 |nombro|amount / number / quantity||
-|cifero|||
-|nulo|||
-|miliono|||
-|miliardo|||
-|plej|||
+|cifero|digit||
+|nulo|0||
+|miliono|million||
+|miliardo|billion||
+|plej|more||
 
 ### 例句
 
@@ -87,14 +141,14 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|lasta|||
-|numero|||
+|lasta|last||
+|numero|number||
 |kvanto|amount||
-|fali|||
-|mendi|||
-|kanti|||
-|kantojn|||
-|metron|||
+|fali|to fall||
+|mendi|to order||
+|kanti|to sing||
+|kantojn|songs||
+|metron|meter||
 
 ### 例句
 
@@ -116,12 +170,12 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|unua|||
-|dua|||
-|tria|||
-|kvara|||
-|kvina|||
-|vico|||
+|unua|first||
+|dua|second||
+|tria|third||
+|kvara|fourth||
+|kvina|fifth||
+|vico|line||
 |butiko|store||
 
 ### 例句
@@ -140,15 +194,15 @@ comments: true
 
 |Esperanto|English|Comment|
 |---|---|---|
-|sesa|||
-|sepa|||
-|oka|||
-|naŭa|||
-|deka|||
+|sesa|sixth||
+|sepa|seventh||
+|oka|eighth||
+|naŭa|ninth||
+|deka|tenth||
 |sufiĉa|enough||
 |duono|half||
 |plejparto|||
-|ono|||
+|ono|fraction||
 
 ### 例句
 
@@ -161,21 +215,20 @@ comments: true
 |En Germanio, la plejparto de la homoj trinkas bieron.|In Germany, most people drinks beer.||
 |Nulo estas la sesa cifero en miliono.|0 is the sixth digit in 1 million.||
 |dek-sesa, dek-sepa, dek-oka, dek-naŭa.|Sixteenth, seventeenth, eighteenth, nineteenth.||
-|
 
 ## > Section 7/7
 
 |Esperanto|English|Comment|
 |---|---|---|
-|triono|||
-|kvarono|||
-|averaĝo|||
+|triono|one third(1/3)||
+|kvarono|one fourth(1/4)||
+|averaĝo|average||
 |po|each||
-|dekono|||
-|kosti|||
-|dolarojn|||
-|prezo|||
-|eŭro|||
+|dekono|1 tenth(1/10)||
+|kosti|to cost||
+|dolarojn|dollars||
+|prezo|price||
+|eŭro|euro||
 
 ### 例句
 
