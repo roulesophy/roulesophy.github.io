@@ -28,7 +28,7 @@ The Shower Bottle 裡可以放三個小瓶。
 
 這個瓶方便的地方是能洗澡時不用打開每一個小瓶，只要扭一下打開後，按不同的小瓶便能夠拿到不同的沐浴用品了。
 
-<iframe width="480" src="{{ side.baseurl }}/images/20170822-1.MOV" frameborder="0"> </iframe>
+<iframe width="480" height="854" src="{{ side.baseurl }}/images/20170822-1.MOV" frameborder="0"> </iframe>
 
 ## > 優點：
 
