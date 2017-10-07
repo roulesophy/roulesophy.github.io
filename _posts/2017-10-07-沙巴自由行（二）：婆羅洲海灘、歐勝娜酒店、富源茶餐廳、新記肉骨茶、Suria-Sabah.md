@@ -7,8 +7,7 @@ date: 2017-10-07
 comments: true
 ---
 
-這是第二天的行程，今天由婆羅洲海灘別墅回到亞庇市內。
-
+這是第二天的行程，今天由婆羅洲海灘別墅回到亞庇市內。  
 行程：[婆羅洲海灘](https://www.google.com.hk/maps/search/borneo+beach/data=!4m2!2m1!4b1?sa=X&hl=en-hk)（Borneo Beach） -> [歐勝娜酒店](https://maps.google.com.hk/maps?oe=UTF-8&hl=en-hk&client=safari&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b69bc1a5b4ca3:0x538718cb1564c872&gmm=CgIgAQ%3D%3D)（Oceania Hotel） -> 亞庇市內 -> [富源茶餐廳](https://maps.google.com.hk/maps?hl=en-hk&client=safari&yv=2&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b6985e169d825:0x62554e2c36a62878&gmm=CgIgAQ%3D%3D) -> [新記肉骨茶](https://maps.google.com.hk/maps?oe=UTF-8&hl=en-hk&client=safari&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b698f60eb5b8b:0x7c734346bd07376e&gmm=CgIgAQ%3D%3D) -> [Suria Sabah](https://maps.google.com.hk/maps?oe=UTF-8&hl=en-hk&client=safari&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b69861c613767:0xfd775190042ffaf&gmm=CgIgAQ%3D%3D)
 
 ## > 婆羅洲海灘（Borneo Beach）
