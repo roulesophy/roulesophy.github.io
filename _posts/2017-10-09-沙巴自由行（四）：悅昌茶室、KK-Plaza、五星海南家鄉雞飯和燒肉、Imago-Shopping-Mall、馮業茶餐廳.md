@@ -7,8 +7,7 @@ date: 2017-10-09
 comments: true
 ---
 
-這是旅程的第四天，主要是在市內逛逛和休息。
-
+這是旅程的第四天，主要是在市內逛逛和休息。  
 行程：[悅昌茶室](https://www.google.com/maps/search/88000+Pusat+Bandar+Kota+Kinabalu%0A47,+Jalan+Pantai/data=!4m2!2m1!4b1?dg=dbrw&newdg=1) -> [KK Plaza](https://www.google.com.hk/maps/search/kk+plaza/data=!4m2!2m1!4b1?sa=X&hl=en-hk) -> [五星海南家鄉雞飯和燒肉](https://www.google.com.hk/maps/place//data=!4m2!3m1!1s0x323b6988b50f8ceb:0xd166ed348d3222e6?sa=X&hl=en-hk) ->  [Imago Shopping Mall](https://www.google.com.hk/maps/place//data=!4m2!3m1!1s0x323b69bf9343041b:0x33802475c032cd8c?sa=X&hl=en-hk) -> [馮業茶餐廳](https://www.google.com.hk/maps/place//data=!4m2!3m1!1s0x323b698580dc21b7:0xd6d549c846791539?sa=X&hl=en-hk)
 
 ## > 悅昌茶室
