@@ -37,7 +37,7 @@ Hong Kong
 
 這是影片使用方法：
 
-<iframe width="480" height="360" src="%20side.baseurl%20/images/20171018-1.mov" volume="0" frameborder="0"> </iframe>
+<iframe width="480" height="360" src="{{ site.baseurl }}/images/20171018-1.mov" volume="0" frameborder="0"> </iframe>
 
 ## > 解說
 
