@@ -1,9 +1,9 @@
 ---
-filename: 2017-10-16-簡報-show-and-tell.md
+filename: 2017-10-17-簡報-show-and-tell.md
 layout: post
 title: 簡報 show and tell
 tags: Book
-date: 2017-10-16
+date: 2017-10-17
 comments: true
 ---
 
