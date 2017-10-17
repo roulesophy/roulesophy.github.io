@@ -1,11 +1,12 @@
 ---
-filename: 2017-10-17-iOS工作術：大量輸入行事曆的第二個做法（用-Drafts-和-Fantastical-2）.md
+filename: 2017-10-18-iOS-工作術：大量輸入行事曆的第二個做法（用-Drafts-和-Fantastical-2）.md
 layout: post
-title: iOS工作術：大量輸入行事曆的第二個做法（用 Drafts 和 Fantastical 2）
+title: iOS 工作術：大量輸入行事曆的第二個做法（用 Drafts 和 Fantastical 2）
 tags: Productivity
-date: 2017-10-17
+date: 2017-10-18
 comments: true
 ---
+
 大家有沒有試過在要重複輸入一些重複的活動到行事曆呢？例如一個課程有十二課，我們便要人手重複把活動放入行事曆十二次，這個過程十分繁複和浪費時間。  
 幸好的是，我們可以在 iOS 上把這件事自動化來簡化輸入這個重覆的過程。**這篇是展示如何以 Drafts 和 Fantastical 來輸入重覆的行事曆。**其實在以前我也有[以 Workflow 的方法來做過同樣的事]({{ site.baseurl }}/iPad-工作術-大量輸入行事曆/)，可是那個方法在運行中要不斷地輸入日期有點麻煩。今次的方法雖然要錢（Drafts 和 Fantastical 都不是免費的應用程式），可是我們可以把要加入的重覆行事曆放在一個檔案裡一次過輸入，不用在進行的時候才輸入日期和時間。
 
@@ -24,6 +25,7 @@ comments: true
 第三步，把活動名稱放在 Drafts 的第一行、活動地點放在 Drafts 的第二行、活動時間放到 Drafts 的第三行、之後的行數分別放進活動的日期，然後執行 `Lectures Fantastical`  這個 Action 即可。
 
 以下是一個放到 Drafts 內的例子：
+
 ```
 Test Event
 Hong Kong
