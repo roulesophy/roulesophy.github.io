@@ -14,15 +14,15 @@ comments: true
 
 ## > 使用流程
 
-~第一步~，首先確定自己有 iOS 的 [Drafts 4](http://agiletortoise.com/drafts/) 和 [Fantastical 2](https://flexibits.com/fantastical-iphone)：  
+第一步，首先確定自己有 iOS 的 [Drafts 4](http://agiletortoise.com/drafts/) 和 [Fantastical 2](https://flexibits.com/fantastical-iphone)：  
 ![drafts and fantastical 2]({{ site.baseurl }}/images/20171018-5.jpeg)
 
-~第二步~，把這兩個 Actions 加入到 Drafts 中：
+第二步，把這兩個 Actions 加入到 Drafts 中：
 
 * [Lectures Fantastical](https://drafts4-actions.agiletortoise.com/a/2Gl)
 * [Events in Fantastical-Quick](https://drafts4-actions.agiletortoise.com/a/2Gm)
 
-~第三步~ ，把活動名稱放在 Drafts 的第一行、活動地點放在 Drafts 的第二行、活動時間放到 Drafts 的第三行、之後的行數分別放進活動的日期。以下是一個放到 Drafts 內的例子：
+第三步，把活動名稱放在 Drafts 的第一行、活動地點放在 Drafts 的第二行、活動時間放到 Drafts 的第三行、之後的行數分別放進活動的日期。以下是一個放到 Drafts 內的例子：
 ```
 Test Event
 Hong Kong
@@ -32,7 +32,7 @@ Hong Kong
 20 Oct 2017
 ```
 
-~第四步~ ，執行 `Lectures Fantastical`  這個 Action ，然後重覆的行事曆事件便會自動加入了。  
+第四步，執行 `Lectures Fantastical`  這個 Action ，然後重覆的行事曆事件便會自動加入了。  
 ![Finishing event]({{ site.baseurl }}/images/20171018-4.png)  
 
 這是詳細的影片使用方法：
