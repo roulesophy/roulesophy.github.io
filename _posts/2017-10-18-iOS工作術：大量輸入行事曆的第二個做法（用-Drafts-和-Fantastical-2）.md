@@ -14,10 +14,8 @@ comments: true
 
 ## > 使用流程
 
-~第一步~，首先確定自己有 iOS 的 [Drafts 4](http://agiletortoise.com/drafts/) 和 [Fantastical 2](https://flexibits.com/fantastical-iphone)：
-
-![drafts]({{ site.baseurl }}/images/20171018-1.jpeg)  
-![fantastical 2]({{ site.baseurl }}/images/20171018-2.jpeg)
+~第一步~，首先確定自己有 iOS 的 [Drafts 4](http://agiletortoise.com/drafts/) 和 [Fantastical 2](https://flexibits.com/fantastical-iphone)：  
+![drafts and fantastical 2]({{ site.baseurl }}/images/20171018-5.jpeg)
 
 ~第二步~，把這兩個 Actions 加入到 Drafts 中：
 
