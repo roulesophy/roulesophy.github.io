@@ -6,7 +6,7 @@ tags: Productivity
 date: 2017-10-18
 comments: true
 ---
-
+![header]({{ site.baseurl }}/images/20171018-3.png)  
 大家有沒有試過在要重複輸入一些重複的活動到行事曆呢？例如一個課程有十二課，我們便要人手重複把活動放入行事曆十二次，這個過程十分繁複和浪費時間。  
 幸好的是，我們可以在 iOS 上把這件事自動化來簡化輸入這個重覆的過程。**這篇是展示如何以 Drafts 和 Fantastical 來輸入重覆的行事曆事件。**
 
