@@ -17,9 +17,32 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+    <script>
+    function imgCaption() {
+    	var imageContainers = document.getElementsByTagName('IMG');
+    	for (var i = 0; i < imageContainers.length; i++) {
+    		
+    	    var image = imageContainers[i];
+    		var parent = image.parentNode;
+    		var wrapper = document.createElement('figure');
+    		parent.replaceChild(wrapper, image);
+    		wrapper.appendChild(image);
+    		
+    	    var caption = document.createElement('figcaption');
+    	    var alt = image.alt;
+    	    if (alt.indexOf("##") !== -1) {
+    	    	var captionString = alt.split("##")[1];
+    	    	if (captionString != '') {
+        	    	caption.innerHTML = captionString;
+        	    	image.insertAdjacentElement("afterend", caption);
+        	    }    	    	
+    	    }
+    	}
+    }
+    </script>
   </head>
 
-  <body>
+  <body onload="imgCaption()">
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">

@@ -374,6 +374,24 @@ input[type="submit"] {
 	font-size: 20px;
 }
 
+figure {
+	padding: 5px;
+	display: table;
+}
+
+figure img { 
+	max-width: 100%;
+	display: block;
+}
+
+figcaption {
+	display: table-caption;
+	caption-side: bottom;
+	text-align: center;
+	font: 14px/1.4 $helvetica;
+	padding-bottom: 20px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
