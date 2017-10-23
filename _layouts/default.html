@@ -39,10 +39,19 @@
     	    }
     	}
     }
+    function hideAllElement() {
+    	var imageContainers = document.getElementsByClassName('title');
+    	for (var i = 0; i < imageContainers.length; i++) {
+    		imageContainers[i].style.display = 'none';
+    	}
+    }
+    function showElement(elementId) {
+    	document.getElementById(elementId).style.display = '';
+    }
     </script>
   </head>
 
-  <body onload="imgCaption()">
+  <body onload="imgCaption();">
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
