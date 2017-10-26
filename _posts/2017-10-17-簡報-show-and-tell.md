@@ -10,9 +10,6 @@ comments: true
 最近上網亂逛時看到不少人在大推 [簡報 Show and Tell (Show and Tell: How Everybody Can Make Extraordinary Presentations)](http://www.books.com.tw/products/0010680589) 這本書。所以便買來看了，一看之下，這本真是一本好書。以下是我的介紹，希望大家能夠從這本書中獲得一點東西。  
 ![Show and Tell: How Everybody Can Make Extraordinary Presentations]({{ site.baseurl }}/images/20171017-1.jpeg)
 
-* TOC
-{:toc}
-
 ## > 說真話
 一個好的簡報，是能夠改變聽眾的信念並讓他們作出改變。而在準備簡報前，我們要先想三個問題：
 
