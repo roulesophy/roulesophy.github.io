@@ -15,7 +15,7 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 在排版學裡，設計師用了一些字符來讓讀者令讀者看得更舒服，在這裡介紹幾個：
 
-假如我們要為一些文字加入引號，為了方便閱讀我們最好用 single curly quotes (‘ ’) 又或是 double curly quotes (“ ”) 而不是 straight quotes （`' "`）。留意 curly quotes 是一對的，前引號和後引號是不同的。而 apostrophe 就是用 single right quotes (’) 。有些人還會把 curly quotes 叫做 [Smart quotes](https://practicaltypography.com/straight-and-curly-quotes.html) ， 把 straight quotes 叫做 dumb quotes。  
+假如我們要為一些文字加入引號，為了方便閱讀我們最好用 single curly quotes (‘ ’) 又或是 double curly quotes (“ ”) 而不是 straight quotes （`' "`）。留意 curly quotes 是一對的，前引號和後引號是不同的。而 apostrophe 就是用 single right quotes (’) 。有些人還會把 curly quotes 叫做 [smart quotes](https://practicaltypography.com/straight-and-curly-quotes.html) ， 把 straight quotes 叫做 dumb quotes。  
 ![Smart quote##人們總喜歡用名詞來製造分化。]({{ site.baseurl }}/images/20171030-2.png)
 
 另外，原來我們平常用的一橫也有分三種。
