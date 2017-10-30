@@ -8,7 +8,7 @@ comments: true
 ---
 
 ![header]({{ site.baseurl }}/images/20171030-1.jpeg)
-iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：Smart Punctuation。這個功能會令用家在鍵盤上打的字符有變化： 打 ' ' 時會出了 ‘ ’ 、打 " " 時會出了 “ ” 、打 -- 或 --- 時會出了 — 。由於程式裡不會有這些字符，所以對程式設計師來說最好把這個功能關掉。
+iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：Smart Punctuation。這個功能會令用家在鍵盤上打的字符有變化： 打 ' ' 時會出了 ‘ ’ 、打 " " 時會出了 “ ” 、打 `--` 或 `---` 時會出了 — 。由於程式裡不會有這些字符，所以對程式設計師來說最好把這個功能關掉。
 
 ## > 甚麼是 Smart Punctuation
 其實為何會有這個 Smart Punctuation 呢？
@@ -31,11 +31,11 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 我們平時用鍵盤打字時只能夠打出 straight quotes 和 hyphen，並不能打 curly quotes 、en dash 或 em dash 的，Smart punctuation 就是為了方便作家在寫文章時不用為了鍵盤上無法打出的 curly quotes 和 em dash 而設計的。這個功能讓我們在打 straight quote 時系統會自動替我們打了 curly quote、打 2 次或 3 次 hyphen 時會自動替我們打了 em dash。 ~~其實我也不明白為何打 2 次 hyphen 時會出現 em dash 而不是 en dash。~~
 
 |我們打的字符|iOS 顯示的字符|字符名稱|
-|—|—|—|
+|---|---|---|
 |‘|‘ 或 ’|left / right single curly quote|
 |“|“ 或 ”|left / right double curly quote|
-|—|—|em dash|
-|—|—|em dash|
+|`--`|—|em dash|
+|`---`|—|em dash|
 
 ## > 對程式設計師有甚麼影響？
 更新了 iOS 11 後，由於 Smart punctuation 是預設打開的，這對程式設計師來說是一個困擾，因為程式設計師的代碼裡只有 straight quote 和 hyphen，是沒有 curly quote 、 en dash 或是 em dash 的。一旦不小心打錯了它們的話程式是不能運作的。  
@@ -48,7 +48,7 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 如果日後有需要打 curly brackets 或 em dash的話，在實體鍵盤上可以用以下的快捷鍵：
 
 |字符名稱|characters|鍵盤快捷鍵|
-|—|—|—|
+|---|---|---|
 |Opening single quote|‘|option + ]|
 |Closing single curly quote|’|shift option ]|
 |Opening double curly quote|“|option [|
@@ -57,4 +57,4 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 |em dash|—|shift option -|
 
 至於在虛擬鍵盤上，長按 quote 或 hyphen 便可以選擇 curly quote 、 en dash 和 em dash 了。
-![Soft keyboard]({{ site.baseurl }}/images/20171030-6.jpeg)
+![Soft keyboard]({{ site.baseurl }}/images/20171030-6.jpg)
