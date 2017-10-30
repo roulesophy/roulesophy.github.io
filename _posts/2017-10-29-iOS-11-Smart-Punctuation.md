@@ -32,8 +32,8 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 |我們打的字符|iOS 顯示的字符|字符名稱|
 |---|---|---|
-|`'`|‘ 或 ’|left / right single curly quote|
-|`"`|“ 或 ”|left / right double curly quote|
+|`'`|‘ 或 ’|single curly quote|
+|`"`|“ 或 ”|double curly quote|
 |`--`|—|em dash|
 |`---`|—|em dash|
 
@@ -49,10 +49,10 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 |字符名稱|characters|鍵盤快捷鍵|
 |---|---|---|
-|Opening single quote|‘|option ]|
-|Closing single curly quote|’|shift option ]|
-|Opening double curly quote|“|option [|
-|Closing double curly quote|”|shift option ]|
+|opening single quote|‘|option ]|
+|closing single curly quote|’|shift option ]|
+|opening double curly quote|“|option [|
+|closing double curly quote|”|shift option ]|
 |en dash|–|option -|
 |em dash|—|shift option -|
 
