@@ -15,16 +15,16 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 在排版學裡，設計師用了一些字符來讓讀者令讀者看得更舒服，在這裡介紹幾個：
 
-假如我們要為一些文字加入引號，為了方便閱讀我們最好用 single curly quotes (‘ ’) 又或是 double curly quotes (“ ”) 而不是 straight quotes （' "）。留意 curly quotes 是一對的，前引號和後引號是不同的。而 apostrophe 就是用 single right quotes (’) 。有些人還會把 curly quotes 叫做 [Smart quotes](https://practicaltypography.com/straight-and-curly-quotes.html) ， 把 straight quotes 叫做 dumb quotes。  
+假如我們要為一些文字加入引號，為了方便閱讀我們最好用 single curly quotes (‘ ’) 又或是 double curly quotes (“ ”) 而不是 straight quotes （`' "`）。留意 curly quotes 是一對的，前引號和後引號是不同的。而 apostrophe 就是用 single right quotes (’) 。有些人還會把 curly quotes 叫做 [Smart quotes](https://practicaltypography.com/straight-and-curly-quotes.html) ， 把 straight quotes 叫做 dumb quotes。  
 ![Smart quote##人們總喜歡用名詞來製造分化。]({{ site.baseurl }}/images/20171030-2.png)
 
 另外，原來我們平常用的一橫也有分三種。
 
-第一個就是平常用的 [hyphen](http://www.thepunctuationguide.com/hyphen.html) - ，就是用來把一些字串起來，例如 eye-opener。
+第一個就是平常用的 [hyphen](http://www.thepunctuationguide.com/hyphen.html)（ - ），就是用來把一些字串起來，例如 eye-opener。
 
-第二個就是名為 [en dash](http://www.thepunctuationguide.com/en-dash.html) – ，這個字比 hyphen 稍長了一點（據說是因為闊度和 N 字一樣），有時用來形容數字的間距（例如 The 2010—2011 season）、又或是為兩件東西作出連結（例如 The liberal–conservative debate）。
+第二個就是名為 [en dash](http://www.thepunctuationguide.com/en-dash.html)（ – ），這個字比 hyphen 稍長了一點（據說是因為闊度和 N 字一樣），有時用來形容數字的間距（例如 The 2010—2011 season）、又或是為兩件東西作出連結（例如 The liberal–conservative debate）。
 
-第三個就是名為 [em dash](http://www.thepunctuationguide.com/em-dash.html) —，這個字又比 en dash 稍長了一點（據說是因為闊度和 M 字一樣），用來取代逗號、取代括號、為前面作出重點等。
+第三個就是名為 [em dash](http://www.thepunctuationguide.com/em-dash.html)（ — ），這個字又比 en dash 稍長了一點（據說是因為闊度和 M 字一樣），用來取代逗號、取代括號、為前面作出重點等。
 
 ![]({{ site.baseurl }}/images/20171030-5.png)
 
@@ -32,8 +32,8 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 |我們打的字符|iOS 顯示的字符|字符名稱|
 |---|---|---|
-|‘|‘ 或 ’|left / right single curly quote|
-|“|“ 或 ”|left / right double curly quote|
+|`'`|‘ 或 ’|left / right single curly quote|
+|`"`|“ 或 ”|left / right double curly quote|
 |`--`|—|em dash|
 |`---`|—|em dash|
 
