@@ -47,7 +47,7 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 如果日後有需要打 curly brackets 或 em dash的話，在實體鍵盤上可以用以下的快捷鍵：
 
-|字符名稱|characters|鍵盤快捷鍵|
+|字符名稱|字符|鍵盤快捷鍵|
 |---|---|---|
 |opening single quote|‘|option ]|
 |closing single curly quote|’|shift option ]|
