@@ -25,7 +25,7 @@ permalink: /search/
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}",
-        "excerpt": "{{ post.excerpt | strip_html | strip_newlines }}",
+        "excerpt": {{ post.excerpt | strip_html | strip_newlines | jsonify }},
         "date": "{{ post.date | date: "%B %e, %Y" }}",
         "filename": "{{ post.filename }}"
       }
