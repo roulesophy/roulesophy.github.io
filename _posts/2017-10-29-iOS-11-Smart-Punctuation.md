@@ -49,7 +49,7 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 |字符名稱|characters|鍵盤快捷鍵|
 |---|---|---|
-|Opening single quote|‘|option + ]|
+|Opening single quote|‘|option ]|
 |Closing single curly quote|’|shift option ]|
 |Opening double curly quote|“|option [|
 |Closing double curly quote|”|shift option ]|
