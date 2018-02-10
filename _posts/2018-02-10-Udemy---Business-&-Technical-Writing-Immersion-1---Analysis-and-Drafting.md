@@ -118,7 +118,7 @@ comments: true
 
 把需要的 Outline 句子都準備好後，便可以把它們放在文字編輯器中寫草稿了。
 
-![edit]({{ site.baseurl }}/images/20180210-8.png)
+![edit]({{ site.baseurl }}/images/20180210-8.jpeg)
 
 ## > Drafts
 
