@@ -2,7 +2,7 @@
 filename: 2018-02-10-Udemy---Business-&-Technical-Writing-Immersion-1---Analysis-and-Drafting.md
 layout: post
 title: Udemy - Business & Technical Writing Immersion 1 - Analysis and Drafting
-tags: LearningNotes
+tags: Learning-notes
 date: 2018-02-10
 comments: true
 ---
