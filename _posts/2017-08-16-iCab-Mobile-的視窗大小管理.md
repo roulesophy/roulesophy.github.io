@@ -33,3 +33,5 @@ iCab Mobile 是一個十分強大的 iPhone 瀏覽器。除了上次介紹的[�
 ![finish]({{ site.baseurl }}/images/20170816-4.jpg)
 
 內心os: 這個功能對於網頁介面測試者來說也是個福音。
+
+{% include_relative index/skills_iOS.md %}

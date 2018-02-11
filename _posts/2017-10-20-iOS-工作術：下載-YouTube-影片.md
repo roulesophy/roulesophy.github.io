@@ -26,3 +26,5 @@ comments: true
 
 在 iCab Mobile 裡，所有下載的檔案都儲存在下載的檔案夾裡，我們可以按這裡到達並看回下載的影片。  
 ![icab mobile]({{ site.baseurl }}/images/20171020-6.jpeg)
+
+{% include_relative index/skills_iOS.md %}

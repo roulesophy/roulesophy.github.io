@@ -58,3 +58,5 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 
 至於在虛擬鍵盤上，長按 quote 或 hyphen 便可以選擇 curly quote 、 en dash 和 em dash 了。
 ![Soft keyboard]({{ site.baseurl }}/images/20171030-6.jpg)
+
+{% include_relative index/skills_iOS.md %}

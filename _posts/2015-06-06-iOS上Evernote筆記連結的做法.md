@@ -20,3 +20,5 @@ Evernote其中一個很有用的功能是筆記連結，有了筆記連結，我
    ![]({{ site.baseurl }}/images/20150606-5.jpg)
 
 希望這個小技巧能夠幫到大家。
+
+{% include_relative index/skills_iOS.md %}

@@ -79,3 +79,5 @@ Drafts 最吸引我的地方是它那極高的自定性，我們可以寫一些�
 順帶一提，我們其實也可以在 Working Copy 內修改文章的，只是那個編輯器的功能太陽春而已。
 
 以上就是我在 iOS 裡打一篇網誌的工作流程。
+
+{% include_relative index/skills_iOS.md %}
