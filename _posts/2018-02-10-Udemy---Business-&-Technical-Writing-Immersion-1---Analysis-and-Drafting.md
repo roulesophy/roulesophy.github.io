@@ -129,3 +129,5 @@ comments: true
 第二，寫作的次序是 Content -> Solution -> Introduction，原因是因為 Introduction 是用來描述整篇文章的內容，如果連內容都沒有，怎麼能夠作出描述呢？
 
 第三，在寫作時切勿邊寫邊改，改寫這個步驟留待寫完草稿才做。如果在寫作中突然有一些新的思想，可以先行記下，在寫完草稿後再想。
+
+{% include_relative index/notes_udemy_business_and_technical_writing_immersion.md %}
