@@ -1,7 +1,7 @@
 ---
-filename: 2017-08-18-墾丁回憶錄（六）.md
+filename: 2017-08-18-墾丁回憶錄（六）：三多商圈站、Dazzling-Cafe.md
 layout: post
-title: 墾丁回憶錄（六）
+title: 墾丁回憶錄（六）：三多商圈站、Dazzling Cafe
 tags: Travel
 date: 2017-08-18
 comments: true
@@ -33,3 +33,5 @@ comments: true
 * 因為我並不懂騎機車，所以得知要騎機車時其實有點緊張。結果也騎了三四天的機車　雖然有點累，可是其實挺舒服的。
 * 這次旅行好像去了太多地點，如果這次旅行的日數能夠再長一點，每個地方逗留時間長一點會比較好，一方面能夠舒服一點、另一方面也可以認識每個地方更多。
 * 白沙灣的沙灘真是很美，以後有機會的話很想再去一次。
+
+{% include_relative index/travel_kenting.md %}
