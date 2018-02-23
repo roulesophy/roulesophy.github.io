@@ -46,7 +46,15 @@
     	}
     }
     function showElement(elementId) {
-    	document.getElementById(elementId).style.display = '';
+    	var randomPosts = document.getElementById(elementId);
+    	if (randomPosts !== null){
+    		randomPosts.style.display = '';	
+    	}
+    }
+    function showHash() {
+    	var hash = window.location.hash.substr(1);
+    	hideAllElement();
+    	showElement('title_' + hash);
     }
     function displayRandomPosts() {
     	var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
@@ -88,7 +96,7 @@
     </script>
   </head>
 
-  <body onload="imgCaption();displayRandomPosts();">
+  <body onload="imgCaption();showHash();displayRandomPosts();">
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
