@@ -46,12 +46,57 @@
     	}
     }
     function showElement(elementId) {
-    	document.getElementById(elementId).style.display = '';
+    	var elementToShow = document.getElementById(elementId);
+    	if (elementToShow !== null){
+    		elementToShow.style.display = '';	
+    	}
+    }
+    function showHash() {
+    	var hash = window.location.hash.substr(1);
+    	hideAllElement();
+    	showElement('title_' + hash);
+    }
+    function displayRandomPosts() {
+    	var postsHREF = [{% for post in site.posts %}"{{ post.url }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    	var postsTitle = [{% for post in site.posts %}"{{ post.title }}"{% unless forloop.last %},{% endunless %}{% endfor %}];
+    	var randomIndexUsed = [];
+        var counter = 0;
+        var numberOfPosts = 5;
+        var randomPosts = document.getElementById('randomPosts');
+        if (randomPosts !== null) {
+        	while (randomPosts.firstChild) {
+        		randomPosts.removeChild(randomPosts.firstChild);
+        	}
+	        var ul = document.createElement('ul');
+	        randomPosts.appendChild(ul);
+	        while (counter < numberOfPosts)
+	        {
+	            var randomIndex;
+	            var postHREF;
+	            var postTitle;
+	            randomIndex = Math.floor(Math.random() * postsHREF.length);
+	            if (randomIndexUsed.indexOf(randomIndex) == "-1")
+	            {
+	                postHREF = postsHREF[randomIndex];
+	                postTitle = postsTitle[randomIndex];
+	                var li = document.createElement('li');
+	                var a = document.createElement('a');
+	                var linkText = document.createTextNode(postTitle);
+	                a.appendChild(linkText);
+	                a.title = postTitle;
+	                a.href = postHREF;
+	                li.append(a);
+	                ul.appendChild(li);
+	                randomIndexUsed.push(randomIndex);
+	                counter++;
+	            }
+	        }
+        }
     }
     </script>
   </head>
 
-  <body onload="imgCaption();">
+  <body onload="imgCaption();showHash();displayRandomPosts();">
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
