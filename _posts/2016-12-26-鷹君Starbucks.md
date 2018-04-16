@@ -2,7 +2,7 @@
 filename: 2016-12-26-鷹君Starbucks.md
 layout: post
 title: 鷹君Starbucks
-tags: Thinking
+tags: 自我思考
 date: 2016-12-26
 comments: true
 ---

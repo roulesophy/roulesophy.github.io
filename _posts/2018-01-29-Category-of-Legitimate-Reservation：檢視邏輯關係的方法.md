@@ -2,7 +2,7 @@
 filename: 2018-01-29-Category-of-Legitimate-Reservation：檢視邏輯關係的方法.md
 layout: post
 title: Category of Legitimate Reservation：檢視邏輯關係的方法
-tags: Thinking
+tags: 自我思考
 date: 2018-01-29
 comments: true
 ---

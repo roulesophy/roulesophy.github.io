@@ -2,7 +2,7 @@
 filename: 2017-08-22-Tic-Smart-Bottles.md
 layout: post
 title: Tic Smart Bottles
-tags: Buy-stuff
+tags: 敗家日記
 date: 2017-08-22
 comments: true
 ---

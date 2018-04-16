@@ -2,7 +2,7 @@
 filename: 2017-10-09-沙巴自由行（四）：悅昌茶室、KK-Plaza、五星海南家鄉雞飯和燒肉、Imago-Shopping-Mall、馮業茶餐廳.md
 layout: post
 title: 沙巴自由行（四）：悅昌茶室、KK Plaza、五星海南家鄉雞飯和燒肉、Imago Shopping Mall、馮業茶餐廳
-tags: Travel
+tags: 旅行遊記
 date: 2017-10-09
 comments: true
 ---

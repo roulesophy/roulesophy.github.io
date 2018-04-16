@@ -2,7 +2,7 @@
 filename: 2017-09-23-GTD（Getting-Things-Done）是甚麼和流程.md
 layout: post
 title: GTD（Getting Things Done）是甚麼和流程
-tags: Productivity
+tags: 工作心法
 date: 2017-09-23
 comments: true
 ---

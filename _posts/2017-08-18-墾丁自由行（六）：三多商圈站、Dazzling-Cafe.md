@@ -2,7 +2,7 @@
 filename: 2017-08-18-墾丁自由行（六）：三多商圈站、Dazzling-Cafe.md
 layout: post
 title: 墾丁自由行（六）：三多商圈站、Dazzling Cafe
-tags: Travel
+tags: 旅行遊記
 date: 2017-08-18
 comments: true
 ---

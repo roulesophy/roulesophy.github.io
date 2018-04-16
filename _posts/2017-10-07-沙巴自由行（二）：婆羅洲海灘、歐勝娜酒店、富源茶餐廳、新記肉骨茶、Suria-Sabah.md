@@ -2,7 +2,7 @@
 filename: 2017-10-07-沙巴自由行（二）：婆羅洲海灘、歐勝娜酒店、富源茶餐廳、新記肉骨茶、Suria-Sabah.md
 layout: post
 title: 沙巴自由行（二）：婆羅洲海灘、歐勝娜酒店、富源茶餐廳、新記肉骨茶、Suria Sabah
-tags: Travel
+tags: 旅行遊記
 date: 2017-10-07
 comments: true
 ---

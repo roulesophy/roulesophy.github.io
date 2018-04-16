@@ -2,7 +2,7 @@
 filename: 2017-09-06-Airpods-的耳翼---earhoox.md
 layout: post
 title: Airpods 的耳翼 - earhoox
-tags: Buy-stuff
+tags: 敗家日記
 date: 2017-09-06
 comments: true
 ---

@@ -2,7 +2,7 @@
 filename: 2017-08-10-Matador-Droplet.md
 layout: post
 title: Matador Droplet
-tags: Buy-stuff
+tags: 敗家日記
 date: 2017-08-10
 comments: true
 ---

@@ -2,7 +2,7 @@
 filename: 2017-08-29-香港手語：Fingerspell.md
 layout: post
 title: 香港手語：Fingerspell
-tags: HKSL
+tags: 香港手語
 date: 2017-08-29
 comments: true
 ---

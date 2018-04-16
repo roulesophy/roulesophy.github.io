@@ -2,7 +2,7 @@
 filename: 2017-07-12-Matador-Nanodry-Towel.md
 layout: post
 title: Matador Nanodry Towel
-tags: Buy-stuff
+tags: 敗家日記
 date: 2017-07-12
 comments: true
 ---
