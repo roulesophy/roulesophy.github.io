@@ -119,7 +119,7 @@ img {
 }
 
 .date {
-  font-style: italic;
+//  font-style: italic;
   color: $gray;
 }
 
@@ -342,6 +342,7 @@ video {
 
 table {
     border-collapse: collapse;
+    width: 100%
 }
 
 th {

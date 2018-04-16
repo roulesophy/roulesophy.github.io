@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Search
+title: 內容搜尋
 permalink: /search/
 ---
 

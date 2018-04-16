@@ -13,7 +13,7 @@ layout: default
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More...</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">閱讀更多...</a>
       
     </article>
   {% endfor %}
@@ -22,11 +22,11 @@ layout: default
 <!-- Pagination links -->
 <div class="pagination">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; Previous page</a>
+    <a href="{{ paginator.previous_page_path }}" class="previous">&laquo; 上一頁</a>
   {% endif %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next page &raquo;</a>
+    <a href="{{ paginator.next_page_path }}" class="next">下一頁 &raquo;</a>
   {% endif %}
 </div>
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Tags
+title: 網誌分類
 permalink: /tags/
 ---
 
@@ -62,17 +62,23 @@ to the `site_tags` variable. -->
     {% capture this_word %}{{ tag_words[item] }}{% endcapture %}
     <div class="title" id="title_{{ this_word | cgi_escape }}" style="display: none;">
 	    <h2 id="{{ this_word | cgi_escape }}">{{ this_word }}</h2>
-	    {% for post in site.tags[this_word] %}{% if post.title != null %}
-	      <div>
-	        <span style="float: left;">
-	          <a href="{{ post.url }}">{{ post.title }}</a>
-	        </span>
-	        <span style="float: right;">
-	          {{ post.date | date_to_string }}
-	        </span>
-	      </div>
-	      <div style="clear: both;"></div>
-	    {% endif %}{% endfor %}
+	    <table>
+		    <colgroup>
+			    <col style="width:80%">
+			    <col style="width:20%">
+		    </colgroup>  
+		    {% for post in site.tags[this_word] %}
+		    	{% if post.title != null %}
+		      		<!--<div>-->
+			          <tr>
+				          <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+				          <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+			          </tr>
+		      		<!--</div>-->
+		      		<!--<div style="clear: both;"></div>-->
+		    	{% endif %}
+		    {% endfor %}
+	    </table>
     </div>
   {% endunless %}{% endfor %}
 </div>
