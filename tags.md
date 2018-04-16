@@ -48,7 +48,9 @@ to the `site_tags` variable. -->
 		{% unless forloop.last %}
 			{% capture this_word %}{{ tag_words[item] }}{% endcapture %}
 			<li>
-				<a href="{{ site.baseurl }}/tags/#{{ this_word | cgi_escape }}" class="tag" onclick="hideAllElement();showElement('title_{{ this_word | cgi_escape }}');">#{{ this_word }}</a>
+				<!-- <a href="{{ site.baseurl }}/tags/#{{ this_word | cgi_escape }}" class="tag" onclick="hideAllElement();showElement('title_{{ this_word | cgi_escape }}');">#{{ this_word }}</a> -->
+				
+				<div class="tag" onclick="hideAllElement();showElement('title_{{ this_word | cgi_escape }}');">#{{ this_word }}</div>
 			</li>
 		{% endunless %}
 	{% endfor %}
