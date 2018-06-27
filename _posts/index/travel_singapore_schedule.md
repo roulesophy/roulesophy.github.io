@@ -1,0 +1,6 @@
+行程：
+
+* 第一天：[ABC River Valley](http://abcrivervalley.com.sg) -\>  [新達城 Suntec City](https://sunteccity.com.sg) -\>  [金沙賭場](https://hk.sandscasino.com/singapore/casino-marina-bay-sands.html) -\>  [濱海灣花園 Gardens by the Bay](https://www.gardensbythebay.com.sg/en.html) -\> [珍寶海鮮](https://www.jumboseafood.com.sg/tc/home)
+* 第二天：[老友軒](https://www.facebook.com/laoyouxuan.sg/) -\> [植物園 Singapore Botanic Gardens](https://www.nparks.gov.sg/gardens-parks-and-nature/singapore-botanic-gardens) -\> [動物園 Singapore Zoo](https://www.wrs.com.sg/en/singapore-zoo/)  -\> [夜間動物園 Night Safari](https://www.wrs.com.sg/en/night-safari/) -\> [宏茂橋市鎮中心 Ang Mo Kio Town Centre](https://zh.m.wikipedia.org/zh-hk/%E5%AE%8F%E8%8C%82%E6%A1%A5)
+* 第三天：[Sean Im Food Center](https://maps.google.com.hk/maps?client=safari&hl=en-hk&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x31da1be19be9f2df:0xfbfe625c5433932e&gmm=CgIgAQ%3D%3D) -\> [聖淘沙](https://www.rwsentosa.com/zh-hk/attractions) -\> [環球影城](https://www.rwsentosa.com/zh-hk/attractions/universal-studios-singapore) -\> [Vivocity 商場](https://www.vivocity.com.sg)
+* 第四天：天天海南雞飯 -\> 魚尾獅 -\> [松發肉骨茶](https://m.songfa.com.sg/cn/) -\> 到戲院看死待2 -\> [328 加東叻沙](https://www.tripadvisor.com.hk/ShowUserReviews-g294265-d1144394-r500953136-328_Katong_Laksa-Singapore.html)
