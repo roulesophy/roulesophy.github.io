@@ -15,7 +15,7 @@ comments: true
 
 環球影城在渡假勝地[聖淘沙](https://www.rwsentosa.com/zh-hk/attractions)內，而到聖淘沙至少有兩種方法，一種是乘坐捷運到海灣站（HarbourFrant, NE1/CC29），另一種是在 HarbourFront Tower 2 乘坐䌫車到達。而我們選擇了䌫車，因為可以在上空看新加坡的風景。
 
-以下是一些聖淘沙內的景點
+以下是一些聖淘沙內的景點：
 * [S.E.A.海洋館](https://www.rwsentosa.com/zh-hk/attractions/sea-aquarium/visitor-information)
 * [空中吊椅/斜坡滑車](https://www.skylineluge.com/en/sentosa/)
 * [水上探險樂園](https://www.rwsentosa.com/zh-hk/attractions/adventure-cove-waterpark)
