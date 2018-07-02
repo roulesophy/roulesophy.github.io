@@ -13,7 +13,7 @@ comments: true
 {% include_relative index/travel_singapore_schedule.md %}
 
 
-環球影城在渡假勝地[聖淘沙](https://www.rwsentosa.com/zh-hk/attractions)內，而到聖淘沙至少有兩種方法，一種是乘坐捷運到海灣站（HarbourFrant, NE1/CC29），另一種是在 HarbourFront Tower 2 乘坐䌫車到達。而我們選擇了䌫車，因為可以在上空看新加坡的風景。
+環球影城在渡假勝地[聖淘沙](https://www.rwsentosa.com/zh-hk/attractions)內，而到聖淘沙至少有兩種方法，一種是乘坐捷運到海灣站（HarbourFront, NE1/CC29），另一種是在 HarbourFront Tower 2 乘坐䌫車到達。而我們選擇了䌫車，因為可以在上空看新加坡的風景。
 
 以下是一些聖淘沙內的景點：
 * [S.E.A.海洋館](https://www.rwsentosa.com/zh-hk/attractions/sea-aquarium/visitor-information)
@@ -72,7 +72,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20180630-15.jpeg)
 
-我們最後選擇了向右走（因為右邊有跳舞表演），感覺上大家都會向右走的，所以如果想減低排隊時間並玩得更多設施的話可以選擇向左走。
+我們最後選擇了向右走~~（因為右邊有跳舞表演）~~，感覺上大家都會向右走的，所以如果想減低排隊時間並玩得更多設施的話可以選擇向左走。
 
 到了這個 Sesame Street Spaghetti Space Chase，比較適合小朋友遊玩的超慢列車。
 
@@ -113,7 +113,7 @@ comments: true
 
 在這裡玩過山車唯一麻煩的地方是，你必須到附近他們提供的免費儲物櫃內放下**所有**的隨身物品，在排隊前和上車前工作人員會有儀器檢查。
 
-其實我們只玩了藍色過山車，可是其實也沒有甚麼可怕。年輕人的自白
+其實我們只玩了藍色過山車，可是其實也沒有甚麼可怕。~~年輕人的自白~~
 
 ![]({{ site.baseurl }}/images/20180630-28.jpeg)
 
@@ -159,7 +159,7 @@ comments: true
 
 然後便到環球影城外的附近走走。
 
-環球影城外的[Candylicious Resorts World](https://www.rwsentosa.com/en/retail/candylicious)有很多糖買，其中有一個叫 [Bean Boozled](https://www.jellybelly.com/beanboozled-challenge) 的糖很有趣，可以用來玩大懲罰遊戲。這款糖有很多顏色，而每一款顏色的糖也有兩款味道，分別是正常的味和十分奇怪的味，而這兩款糖的外觀是完全一樣的。這款糖附送了一個輪盤，就是給大家抽要吃哪一個顏色的糖。
+環球影城外的[Candylicious Resorts World](https://www.rwsentosa.com/en/retail/candylicious)有很多糖買，其中有一個叫 [Bean Boozled](https://www.jellybelly.com/beanboozled-challenge) 的糖很有趣，可以用來玩~~大懲罰~~遊戲。這款糖有很多顏色，而每一款顏色的糖也有兩款味道，分別是正常的味和十分奇怪的味，而這兩款糖的外觀是完全一樣的。這款糖附送了一個輪盤，就是給大家抽要吃哪一個顏色的糖。
 
 ![]({{ site.baseurl }}/images/20180630-39.jpeg)
 
