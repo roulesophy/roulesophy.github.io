@@ -109,7 +109,7 @@ comments: true
 
 ![\##自拍的叔叔]({{ site.baseurl }}/images/20180630-27.jpeg)
 
-然後便會到環球影城的過山車，這裡的[露天過山車](https://www.rwsentosa.com/zh-hk/attractions/universal-studios-singapore/things-to-do/rides/battlestar-galactica)有兩款，一款名為紅色過山車、一款名為藍色過山車。反正沒有人會理會他們的名字藍色過山車因為是吊腳式的，所以會比紅色過山車刺激，也比較少人排隊。
+然後便會到環球影城的過山車，這裡的[露天過山車](https://www.rwsentosa.com/zh-hk/attractions/universal-studios-singapore/things-to-do/rides/battlestar-galactica)有兩款，一款名為紅色過山車、一款名為藍色過山車。~~反正沒有人會理會他們的名字~~藍色過山車因為是吊腳式的，所以會比紅色過山車刺激，也比較少人排隊。
 
 在這裡玩過山車唯一麻煩的地方是，你必須到附近他們提供的免費儲物櫃內放下**所有**的隨身物品，在排隊前和上車前工作人員會有儀器檢查。
 
