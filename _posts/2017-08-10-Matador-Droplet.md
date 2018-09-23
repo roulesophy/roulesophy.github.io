@@ -41,3 +41,5 @@ comments: true
 * 比起Matador Nanodry Towel 浴巾來說，這個袋子比較難放入殻子裡（並不是說十分難放啦，只是有點難而己）。
 
 [購買連結在此](https://matadorup.com/products/matador-droplet-wet-bag?variant=34161221126)
+
+{% include_relative index/matador.md %}

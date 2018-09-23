@@ -32,3 +32,5 @@ comments: true
 * 產品號稱的抗菌性，這個我不能驗證了。
 
 [購買連結在此](https://matadorup.com/products/nanodry-shower-towel-large?variant=34992929798)
+
+{% include_relative index/matador.md %}
