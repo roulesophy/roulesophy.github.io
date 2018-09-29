@@ -9,3 +9,4 @@ iOS 工作術：
 * [我的 iOS Jekyll 寫網誌流程]({{ site.baseurl }}/我的-iOS-Jekyll-寫網誌流程/)
 * [iOS 工作術：下載 YouTube 影片]({{ site.baseurl }}/iOS-工作術-下載-YouTube-影片/)
 * [iOS 11 Smart Punctuation]({{ site.baseurl }}/iOS-11-Smart-Punctuation/)
+* [iOS工作術：為相片補回地點資訊]({{ site.baseurl }}/ios工作術-為相片補回地點資訊/)
