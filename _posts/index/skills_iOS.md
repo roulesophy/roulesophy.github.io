@@ -10,3 +10,5 @@ iOS 工作術：
 * [iOS 工作術：下載 YouTube 影片]({{ site.baseurl }}/iOS-工作術-下載-YouTube-影片/)
 * [iOS 11 Smart Punctuation]({{ site.baseurl }}/iOS-11-Smart-Punctuation/)
 * [iOS工作術：為相片補回地點資訊]({{ site.baseurl }}/ios工作術-為相片補回地點資訊/)
+* [iPad 工作術：以 iPad、鍵盤和滑鼠（Swiftpoint GT）遠端控制電腦]({{ site.baseurl }}/ipad-工作術-以-ipad-鍵盤和滑鼠-swiftpoint-gt-遠端控制電腦/)
+* [iOS工作術：以Shortcuts為圖片加上水印]({{ site.baseurl }}/ios工作術-以shortcuts為圖片加上水印/)
