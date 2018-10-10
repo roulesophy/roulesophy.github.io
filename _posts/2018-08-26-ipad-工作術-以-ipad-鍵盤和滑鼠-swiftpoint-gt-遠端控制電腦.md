@@ -68,3 +68,5 @@ comments: true
 它除了支援 Swiftpoint GT 之外，還可以在要被遠端控制的電腦上安裝了一個程式後，便可以用 iPad 等進行遠端控制了，不用花時間來設定網絡設定的問題。
 
 另外，除了支援 RDP / VNC 之外，它們還有一個自定的協定，名為 Fluid Remote Desktop，據說還能佔用更少的數據流量。
+
+{% include_relative index/skills_iOS.md %}
