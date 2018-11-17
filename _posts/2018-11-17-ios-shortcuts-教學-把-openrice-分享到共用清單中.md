@@ -1,7 +1,7 @@
 ---
-filename: 2018-11-17-shortcut-教學-把-openrice-分享到共用清單中.md
+filename: 2018-11-17-ios-shortcuts-教學-把-openrice-分享到共用清單中.md
 layout: post
-title: Shortcut 教學：把 Openrice 分享到共用清單中
+title: iOS Shortcuts 教學：把 Openrice 分享到共用清單中
 tags: 工作心法 程式學習
 date: 2018-11-17
 comments: true
