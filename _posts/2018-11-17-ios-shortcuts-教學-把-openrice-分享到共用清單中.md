@@ -27,6 +27,7 @@ comments: true
 
 大家可以先看使用影片來感受如何使用這個 Shortcuts:
 
+<iframe width="480" src="{{ side.baseurl }}/images/20181117-1.MOV" frameborder="0"> </iframe>
 
 在使用前先安裝 Shortcuts 和 Wunderlist ，並製造一張新清單並和對方分享，然後 [按我下載 Shortcuts](https://workflow.is/workflows/0d48468b6bd44c898d9e03630bd88af5) ，並在下載的 Shortcuts 內替 Wunderlist 的帳號登入（Allow Access）。
 ![]({{ site.baseurl }}/images/20181117-4.jpeg)
