@@ -22,7 +22,7 @@ comments: true
 
 使用方法可以看以下的影片。
 
-\<iframe width="480" height="853" src="{{ side.baseurl }}/images/20181120-1.MOV" frameborder="0"\> \</iframe\>
+<iframe width="480" height="853" src="{{ side.baseurl }}/images/20181120-1.MOV" frameborder="0"> </iframe>
 
 最後一提，好孩子不要使用侵權的貼紙喔。
 
