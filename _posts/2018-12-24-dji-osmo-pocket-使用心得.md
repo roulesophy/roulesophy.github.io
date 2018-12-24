@@ -86,7 +86,7 @@ Osmo Pocket 的雲台有三個模式，雲台跟蹤模式（Follow Mode）、雲
 
 在**雲台跟蹤模式（Follow Mode）**裡，點擊螢幕一下能夠對焦（螢幕會有一個黃色的方格顯示對焦的位置），快速點擊螢幕兩下會開啟追蹤模式（螢幕會有一個綠色的方格顯示追蹤的東西）。如果這是人臉的話會自動追蹤這個人臉（FaceTrack），否則會開啟智能追蹤模式（ActiveTrack）來追蹤這個物件。如果再次快速點擊螢幕兩下會取消追蹤模式。但是已經移動了的鏡頭不會自動置中，需要連按兩下右鍵來置中。
 
-關於 ActiveTrack 的拍攝手法可以看這個影片：[DJI Osmo Pocket | activetrack creative shots](https://youtu.be/14VZzg1Pgrc)
+關於 ActiveTrack 的拍攝手法可以看這個影片：[DJI Osmo Pocket activetrack creative shots](https://youtu.be/14VZzg1Pgrc)
 
 在**雲台固定模式（Tilt Lock Mode）**裡，鏡頭會保持水平，這樣拍的影片會十分穩定。在這個模式下，我們可以使用 [手電筒攝影法](https://m.youtube.com/watch?v=enmYIcRAN-o&feature=youtu.be&t=7m29s) 來拍攝，就是把 Osmo Pocket 像手電筒般拿著來拍攝。這樣會令拍的影片更穩定。這是我隨手以這個方法去拍的影片以6倍速度快播（為手機流量著想，影片經過嚴重壓縮），在拍攝時我完全沒有理會自己的行走姿勢（因為這時是我第一次知道有這個方法）：
 
@@ -100,6 +100,6 @@ Osmo Pocket 的雲台有三個模式，雲台跟蹤模式（Follow Mode）、雲
 
 * [Gimbal Movements: Learn the Basics](https://youtu.be/Aggzp4FXRhA)
 * [DJI OSMO POCKET! 5 Tips for SMOOTHER CINEMATIC VIDEOS! VLOG WITH STYLE!](https://youtu.be/ogkIN8ZL1BY)
-* [TOP SECRET TO GET THE BEST FOOTAGE With DJI Osmo | Momemtum Productions](https://youtu.be/CbL11OlnkwY)
+* [TOP SECRET TO GET THE BEST FOOTAGE With DJI Osmo](https://youtu.be/CbL11OlnkwY)
 
 內心OS: The best camera is the one that's with you。隨了 電話 和 [HTC RE](https://www.htc.com/hk-tc/re/re-camera/) 外，現在又多了一部。
