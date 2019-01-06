@@ -65,9 +65,9 @@ comments: true
 
 [TiddlyWiki](https://tiddlywiki.com) 就是一個類似 [維基百科](https://en.m.wikipedia.org/wiki/Main_Page) 的系統，但是在個人使用上，要設置比較簡單。因為只需要一個網頁檔案便能夠儲存所有的東西。
 
-<iframewidth="560" height="315" src="https://www.youtube.com/embed/KtCUr83XgyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KtCUr83XgyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-在 TiddlyWiki 裡，每一個條目叫做 Tiddler ，它可以是一個知識點、可以是一張圖片、也可以是程式碼等等。我們要做的就是開新的 Tiddler ，然後以類似 nvALT 的方式把它們進行連結（例如 `[[咖啡]]`），也可以把一個 Tiddler 的內容直接嵌入到另一個 Tiddler 裡（例如 `{{咖啡}}`）
+在 TiddlyWiki 裡，每一個條目叫做 Tiddler ，它可以是一個知識點、可以是一張圖片、也可以是程式碼等等。我們要做的就是開新的 Tiddler ，然後以類似 nvALT 的方式把它們進行連結（例如 `[[咖啡]]`），也可以把一個 Tiddler 的內容直接嵌入到另一個 Tiddler 裡（例如 `&#123;&#123;咖啡&#125;&#125;`）
 
 和維基百科和其他應用程式不同的是，如果我們在其中一個 Tiddler 按下其他 Tiddler 的連結後，我們不會好像網頁般跳轉到另一頁，而是在同一頁裡打開該連結的 Tiddler (也就是同一頁裡同時展示這兩個 Tiddler），你可以決定何時關掉那些 Tiddler、也可以同時編輯它們。[TiddlyWiki 官網](https://tiddlywiki.com) 本身就是由 TiddlyWiki 製造，有興趣的同學可以去試試看。
 
@@ -93,5 +93,5 @@ comments: true
 
 我是自己開伺服器，並以 [Docker](https://www.docker.com) 的方法來安裝。網絡上已經有人弄好了 [使用 Docker 來安裝](%20https://github.com/djmaze/tiddlywiki-docker)的方法。
 
-[^1] : 例如公司倒閉，又或是沒有人為這個應用程式更新，結果在新的作業系統裡不能使用，iOS 11 已經弄死了很多沒有人維持，沒有上64 bit 的應用程式。
-[^1]: csv、json、html 和它自家的 tid 格式，都是純文字格式。圖片等會以 base64 的方法來編碼成純文字，就算有問題時也算是能夠自己把編碼變回圖片等格式。
+[^1]: 例如公司倒閉，又或是沒有人為這個應用程式更新，結果在新的作業系統裡不能使用，iOS 11 已經弄死了很多沒有人維持，沒有上64 bit 的應用程式。
+[^2]: csv、json、html 和它自家的 tid 格式，都是純文字格式。圖片等會以 base64 的方法來編碼成純文字，就算有問題時也算是能夠自己把編碼變回圖片等格式。
