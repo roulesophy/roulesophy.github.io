@@ -47,7 +47,7 @@ comments: true
 
 儘管我沒有使用 DEVONthink 來製作知識網，可是因為可以決定資料的存放位置，以及它強大的資料搜尋能力，我有使用它來存放自己的文件。
 
-介紹到這裡，以上的工具還有一個比較麻煩的問題，就是他們的資料存放格式都是一些特定的格式、如果公司有甚麼意外的話[^1]，要把這些資料存取出來，再轉換成其他格式並放到其他應用程式中是一件很難的事。這樣其中一個最麻煩的問題，就是這些應用程式中，用來定義知識點的連結（例如是 Evernote 的記事連結）都是一些由該應用程式生成的東西，我們並不能直接憑著這個連結來看到它其實屬於那一個條目。
+介紹到這裡，以上的工具還有一個比較麻煩的問題，就是他們的資料存放格式都是一些特定的格式、如果公司有甚麼意外的話<sup>[^1]</sup>，要把這些資料存取出來，再轉換成其他格式並放到其他應用程式中是一件很難的事。這樣其中一個最麻煩的問題，就是這些應用程式中，用來定義知識點的連結（例如是 Evernote 的記事連結）都是一些由該應用程式生成的東西，我們並不能直接憑著這個連結來看到它其實屬於那一個條目。
 
 所以，開始向開源（open source）的世界裡尋找一些以純文字儲存的應用程式。
 
@@ -63,17 +63,19 @@ comments: true
 
 ## > TiddlyWiki 介紹
 
-[TiddlyWiki](https://tiddlywiki.com) 就是一個類似 [維基百科](https://en.m.wikipedia.org/wiki/Main_Page) 的系統，但是在個人使用上，要設置比較簡單。因為只需要一個網頁檔案便能夠儲存所有的東西。
+[TiddlyWiki](https://tiddlywiki.com) 就是一個已經有十年歷史，類似 [維基百科](https://en.m.wikipedia.org/wiki/Main_Page) 的系統，但是在個人使用上，要設置比較簡單。因為只需要一個網頁檔案便能夠儲存所有的東西。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KtCUr83XgyE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
-在 TiddlyWiki 裡，每一個條目叫做 Tiddler ，它可以是一個知識點、可以是一張圖片、也可以是程式碼等等。我們要做的就是開新的 Tiddler ，然後以類似 nvALT 的方式把它們進行連結（例如 `[[咖啡]]`），也可以把一個 Tiddler 的內容直接嵌入到另一個 Tiddler 裡（例如 `&#123;&#123;咖啡&#125;&#125;`）
+在 TiddlyWiki 裡，每一個條目叫做 Tiddler ，它可以是一個知識點、可以是一張圖片、也可以是程式碼等等。我們要做的就是開新的 Tiddler ，然後以類似 nvALT 的方式把它們進行連結（例如 [[咖啡]]），也可以把一個 Tiddler 的內容直接嵌入到另一個 Tiddler 裡（例如 &#123;&#123;咖啡&#125;&#125;）
 
 和維基百科和其他應用程式不同的是，如果我們在其中一個 Tiddler 按下其他 Tiddler 的連結後，我們不會好像網頁般跳轉到另一頁，而是在同一頁裡打開該連結的 Tiddler (也就是同一頁裡同時展示這兩個 Tiddler），你可以決定何時關掉那些 Tiddler、也可以同時編輯它們。[TiddlyWiki 官網](https://tiddlywiki.com) 本身就是由 TiddlyWiki 製造，有興趣的同學可以去試試看。
 
 根據它們設計 TiddlyWiki 時的思想，每一個 Tiddler 儘可以不要太長，這樣毎一個 Tiddler 可以被重複使用。這個也跟其他的網基類系統有少許不同。
 
-由於 TiddlyWiki 是開源的，所以就算它的創造者不去維持它的時候也會有其他認同這個理念的人去支持它（雖然這個應用程式已經有十年歷史）；由於它只需要用上網的瀏覽器就能開啟，所以就算轉了環境也能使用；由於只需要一個網頁檔案來儲存它們，我們可以決定它的儲存位置。由於它可以進行匯出和匯入的功能，而匯出的檔案格式都是純文字[^1]，出問題時也比較容易救援。
+由於 TiddlyWiki 是開源的，所以就算它的創造者不去維持它的時候也會有其他認同這個理念的人去支持它；由於它只需要用上網的瀏覽器就能開啟，所以就算轉了環境也能使用；由於只需要一個網頁檔案來儲存它們，我們可以決定它的儲存位置。由於它可以進行匯出和匯入的功能，而匯出的檔案格式都是純文字<sup>[^2]</sup>，出問題時也比較容易救援。
+
+此外，TiddlyWiki 還可以定制很多的東西，但是由於這篇是入門，這些在這裡就不作介紹了。
 
 ## > 安裝方法
 
@@ -93,5 +95,11 @@ comments: true
 
 我是自己開伺服器，並以 [Docker](https://www.docker.com) 的方法來安裝。網絡上已經有人弄好了 [使用 Docker 來安裝](%20https://github.com/djmaze/tiddlywiki-docker)的方法。
 
+## > 參考資料
+
+* [TiddlyWiki舞](http://tw5-zh.tiddlyspot.com)：一個對 TiddlyWiki 官網的中文翻譯版本。
+* [TW5 Magick: Some tricks and snippets for TiddlyWiki 5](http://tw5magick.tiddlyspot.com)：一個比較進階關於 TiddlyWiki 的技巧分享網頁。
+
 [^1]: 例如公司倒閉，又或是沒有人為這個應用程式更新，結果在新的作業系統裡不能使用，iOS 11 已經弄死了很多沒有人維持，沒有上64 bit 的應用程式。
+
 [^2]: csv、json、html 和它自家的 tid 格式，都是純文字格式。圖片等會以 base64 的方法來編碼成純文字，就算有問題時也算是能夠自己把編碼變回圖片等格式。
