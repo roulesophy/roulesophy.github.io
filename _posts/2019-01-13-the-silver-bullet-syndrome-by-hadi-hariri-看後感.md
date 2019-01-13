@@ -8,7 +8,7 @@ comments: true
 ---
 
 ![]({{ site.baseurl }}/images/20190113-1.jpeg)  
-最近看到這一段 [演購](https://www.youtube.com/watch?v=3wyd6J3yjcs) 覺得很有意思，想在這裡分享一下。演講者在討論程式設計師們不斷盲目地追逐新的技術。
+最近看到這一段 [演講](https://www.youtube.com/watch?v=3wyd6J3yjcs) 覺得很有意思，想在這裡分享一下。演講者在討論程式設計師們不斷盲目地追逐新的技術。
 
 ## > 演講大意
 
