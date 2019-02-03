@@ -2,7 +2,7 @@
 filename: 2019-01-06-知識連結的工具-tiddlywiki.md
 layout: post
 title: 知識連結的工具：TiddlyWiki
-tags: 工作心法 程式學習
+tags: 工作心法 程式學習 知識管理
 date: 2019-01-06
 comments: true
 ---
