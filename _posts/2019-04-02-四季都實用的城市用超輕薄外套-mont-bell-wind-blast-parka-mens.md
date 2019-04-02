@@ -7,14 +7,14 @@ date: 2019-04-02
 comments: true
 ---
 
-![](Image%2024-3-2019,%2011-40%20PM.jpeg "{{ site.baseurl }}/images/20190402-1.jpeg")  
+![]({{ site.baseurl }}/images/20190402-1.jpeg)  
 上年去完台灣後，因為感覺肩膊開始不能再背太多很重的東西，於是開始一系列的背包輕量化計劃，其中一個就是要把外套輕便化。
 
 當時買了的是這個 Mont bell 的 [Wind Blast Parka Men's](https://www.montbell.us/products/disp.php?p_id=2303123)，到現在為止在香港這個亞熱帶地區使用了半年還是感覺十分實用，所以在這裡分享給大家。
 
 ## > 功能
 
-![](Image%2024-3-2019,%203-47%20PM.jpeg "{{ site.baseurl }}/images/20190402-2.jpeg")
+![]({{ site.baseurl }}/images/20190402-2.jpeg)
 
 這件外套的主要特點如下：
 
@@ -26,7 +26,7 @@ comments: true
 
 這件外套雖然十分輕巧（只有 181 克），大概只有半罐可口可樂的重量。而收納後的體積也是十分小，只有這麼的大。附送的收納袋應該是設計得容易收納，所以實際上體積會再細一些。
 
-![](Image%2024-3-2019,%203-47%20PM-1.jpeg "{{ site.baseurl }}/images/20190402-3.jpeg")
+![]({{ site.baseurl }}/images/20190402-3.jpeg)
 
 雖然他的重質十分輕巧，但是一件外套有的基本功能它也有，例如是左右邊的附拉鏈（YKK Zipper）口袋，還有可調整的帽帶。
 
