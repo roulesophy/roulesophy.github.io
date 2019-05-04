@@ -2,7 +2,7 @@
 filename: 2019-04-29-tiddlywiki-增加預設文字的方法-snippet-.md
 layout: post
 title: TiddlyWiki 增加預設文字的方法（Snippet）
-tags: 工作心法 知識管理
+tags: 工作心法 知識管理 TiddlyWiki
 date: 2019-04-29
 comments: true
 ---
