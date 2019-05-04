@@ -2,7 +2,7 @@
 filename: 2017-10-05-Matador-Freerain-24.md
 layout: post
 title: Matador Freerain 24
-tags: 敗家日記
+tags: 敗家日記 輕便裝備
 date: 2017-10-05
 comments: true
 ---

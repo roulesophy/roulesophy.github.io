@@ -2,7 +2,7 @@
 filename: 2018-12-24-dji-osmo-pocket-使用心得.md
 layout: post
 title: DJI Osmo Pocket 使用心得
-tags: 敗家日記
+tags: 敗家日記 輕便裝備
 date: 2018-12-24
 comments: true
 ---

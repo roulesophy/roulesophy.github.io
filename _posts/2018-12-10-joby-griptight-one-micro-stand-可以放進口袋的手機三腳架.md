@@ -2,7 +2,7 @@
 filename: 2018-12-10-joby-griptight-one-micro-stand-可以放進口袋的手機三腳架.md
 layout: post
 title: JOBY GripTight ONE Micro Stand：可以放進口袋的手機三腳架
-tags: 敗家日記
+tags: 敗家日記 輕便裝備
 date: 2018-12-10
 comments: true
 ---

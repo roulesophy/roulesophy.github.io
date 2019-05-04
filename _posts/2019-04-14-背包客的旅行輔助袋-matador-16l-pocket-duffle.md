@@ -2,7 +2,7 @@
 filename: 2019-04-14-背包客的旅行輔助袋-matador-16l-pocket-duffle.md
 layout: post
 title: 背包客的旅行輔助袋：Matador 16L Pocket Duffle
-tags: 敗家日記
+tags: 敗家日記 輕便裝備
 date: 2019-04-14
 comments: true
 ---
