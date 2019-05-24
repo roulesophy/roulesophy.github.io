@@ -8,7 +8,7 @@ comments: true
 ---
 
 ![]({{ site.baseurl }}/images/20190524-1.jpeg)  
-這是一個 TiddlyWiki 的 macro 教學。這次我們會試試寫一個簡單的 macro ，為這個 Tiddler 的特定文字旁加上一個按紐，按下便會把該文字放到剪貼簿裡。方便在其它程式中使用。  
+這是一個 [TiddlyWiki]({{ site.baseurl }}/知識連結的工具-tiddlywiki/) 的 macro 教學。這次我們會試試寫一個簡單的 macro ，為這個 Tiddler 的特定文字旁加上一個按紐，按下便會把該文字放到剪貼簿裡。方便在其它程式中使用。  
 雖然這個功能實作起來十分簡單，但是對放有時需要快速使用把某些已知的特定文字時可是能省下「選擇文字並複製」這個步驟。
 
 ## > 甚麼是 Macro?
@@ -74,6 +74,6 @@ Hello
 ![]({{ site.baseurl }}/images/20190524-6.jpeg)
 
 
-> 參考資料
+## > 參考資料
 
 * [TiddlyWiki: Macros in WikiText](https://tiddlywiki.com/static/Macros%2520in%2520WikiText.html)

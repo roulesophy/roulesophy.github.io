@@ -17,7 +17,7 @@ comments: true
 例如，我們想新增一款預設文字，我們可以：
 
 1. 新增一個 Tiddler
-2. 輸入這組預設文字（這組預設文字也可以是任何東西，包括 Macro 如下圖的 `<<copy-block-1 "">>`，這是我自己新增的 Macro）
+2. 輸入這組預設文字（這組預設文字也可以是任何東西，包括 Macro 如下圖的 `<<copy-block-1 "">>`，這是我自己新增的 [Macro]({{ site.baseurl }}/tiddlywiki-實用-macro-copyblock1/)）
 3. 為這個 Tiddler 加上 `$:/tags/TextEditor/Snippet` 這個 Tag，這是一個預設的 Tag ，有加上這個 Tag 的 Tiddler 都是預設文字。
 4. 可以為 Tiddler 加上一個名為 caption 的 field， 這會改變預設文字顯示的名稱。如果沒有加上這個 field，預設文字會顯示為該 Tiddier 的名稱。這裡我們設置 caption 為 `copy-block-1` 
 
