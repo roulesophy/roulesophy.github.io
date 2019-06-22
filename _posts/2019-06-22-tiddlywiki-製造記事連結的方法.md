@@ -80,7 +80,7 @@ Transclusion 就是把一個 Tiddler 的內容直接放在另一個 Tiddler 裡�
 
 {% raw %}
 要防止不斷複製貼上 `{{||Copy Tiddler Link}}` 的話，我們可以用 [預設文字]({{ site.baseurl }}/tiddlywiki-%E5%A2%9E%E5%8A%A0%E9%A0%90%E8%A8%AD%E6%96%87%E5%AD%97%E7%9A%84%E6%96%B9%E6%B3%95-snippet/) 的方法加上 `{{||Copy Tiddler Link}}` 這段字。
-{% raw %}
+{% endraw %}
 
 而 `Copy Tiddler Link` 這個 Tiddler 的內容如下。大概做法是先把標題 （`!!title`）放到一個變數 variable 裡，然後使用一個自製的 [macro]({{ site.baseurl }}/tiddlywiki-%E5%AF%A6%E7%94%A8-macro-copyblock1/) （`createLink`）把標題變成 `[[<該 Tiddler 的標題>]]` 的樣子，最後製造一個按紐（button），按下後會呼叫預設的 [tm-copy-to-clipboard](https://tiddlywiki.com/static/WidgetMessage%253A%2520tm-copy-to-clipboard.html) 把 `[[<該 Tiddler 的標題>]]` 放到剪貼簿裡。
 
