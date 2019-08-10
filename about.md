@@ -16,5 +16,5 @@ permalink: /about/
 
 ## > Instagram 帳號
 
-* [visual_vocab_r](#)(https://www.instagram.com/visual_vocab_r/)：分享一些正在學習的視覺詞語，就是如何使用畫簡單的圖來表達文字。
-* [index_card_slides](#)(https://www.instagram.com/index_card_slides/)：使用 3x5 的索引卡（index card）作限制，並在上面畫一些東西來表達一些觀念。
+* [visual_vocab_r](https://www.instagram.com/visual_vocab_r/)：分享一些正在學習的視覺詞語，就是如何使用畫簡單的圖來表達文字。
+* [index_card_slides](https://www.instagram.com/index_card_slides/)：使用 3x5 的索引卡（index card）作限制，並在上面畫一些東西來表達一些觀念。
