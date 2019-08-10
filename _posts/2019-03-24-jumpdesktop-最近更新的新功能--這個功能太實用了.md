@@ -2,7 +2,7 @@
 filename: 2019-03-24-jumpdesktop-最近更新的新功能--這個功能太實用了.md
 layout: post
 title: JumpDesktop 最近更新的新功能 - 這個功能太實用了
-tags: 工作心法
+tags: 工作心法 iOS工作術
 date: 2019-03-24
 comments: true
 ---

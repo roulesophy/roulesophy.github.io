@@ -2,7 +2,7 @@
 filename: 2018-11-30-affinity-designer-ios-手指點擊手勢教學.md
 layout: post
 title: Affinity designer iOS 手指點擊手勢教學
-tags: 學習筆記
+tags: 學習筆記 iOS工作術
 date: 2018-11-30
 comments: true
 ---

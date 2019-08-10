@@ -2,7 +2,7 @@
 filename: 2018-08-26-ipad-工作術-以-ipad-鍵盤和滑鼠-swiftpoint-gt-遠端控制電腦.md
 layout: post
 title: iPad 工作術：以 iPad、鍵盤和滑鼠（Swiftpoint GT）遠端控制電腦
-tags: 工作心法
+tags: 工作心法 iOS工作術
 date: 2018-08-26
 comments: true
 ---

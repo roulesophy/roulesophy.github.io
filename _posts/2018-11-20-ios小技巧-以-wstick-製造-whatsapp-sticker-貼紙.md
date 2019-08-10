@@ -2,7 +2,7 @@
 filename: 2018-11-20-ios小技巧-以-wstick-製造-whatsapp-sticker-貼紙.md
 layout: post
 title: iOS小技巧：以 WSTicK 製造 WhatsApp Sticker 貼紙
-tags: 工作心法
+tags: 工作心法 iOS工作術
 date: 2018-11-20
 comments: true
 ---

@@ -2,7 +2,7 @@
 filename: 2018-02-12-Udemy---Business-&-Technical-Writing-Immersion-2---Edit-for-readability.md
 layout: post
 title: Udemy - Business & Technical Writing Immersion 2 - Edit for readability
-tags: 學習筆記
+tags: 學習筆記 上課心得
 date: 2018-02-12
 comments: true
 ---

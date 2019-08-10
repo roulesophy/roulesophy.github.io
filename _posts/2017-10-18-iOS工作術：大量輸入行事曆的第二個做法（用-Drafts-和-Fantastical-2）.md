@@ -2,7 +2,7 @@
 filename: 2017-10-18-iOS-工作術：大量輸入行事曆的第二個做法（用-Drafts-和-Fantastical-2）.md
 layout: post
 title: iOS 工作術：大量輸入行事曆的第二個做法（用 Drafts 和 Fantastical 2）
-tags: 工作心法
+tags: 工作心法 iOS工作術
 date: 2017-10-18
 comments: true
 ---

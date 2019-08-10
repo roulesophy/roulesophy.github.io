@@ -2,7 +2,7 @@
 filename: 2019-07-13-最輕便的-ipad-鍵盤-logitech-keystogo-入手心得.md
 layout: post
 title: 最輕便的 iPad 鍵盤：Logitech Keys-to-go 入手心得
-tags: 工作心法 敗家日記
+tags: 工作心法 敗家日記 iOS工作術
 date: 2019-07-13
 comments: true
 ---

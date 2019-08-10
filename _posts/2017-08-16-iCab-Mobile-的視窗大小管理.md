@@ -2,7 +2,7 @@
 filename: 2017-08-16-iCab-Mobile-的視窗大小管理.md
 layout: post
 title: iCab Mobile 的視窗大小管理
-tags: 工作心法
+tags: 工作心法 iOS工作術
 date: 2017-08-16
 comments: true
 ---
