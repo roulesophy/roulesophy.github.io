@@ -2,7 +2,7 @@
 filename: 2017-10-17-簡報-show-and-tell.md
 layout: post
 title: 簡報 show and tell
-tags: 閱讀心得
+tags: 閱讀心得 視覺思考
 date: 2017-10-17
 comments: true
 ---
