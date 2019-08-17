@@ -11,7 +11,7 @@ comments: true
 最近在 [Skillshare](https://www.skillshare.com) 上了這個名為 [Doodle Simple Human Figures](https://www.skillshare.com/classes/Doodle-Simple-Human-Figures/581388804?category=creative?via=ios) 的課程。在這裡分享一下心得。  
 這個課程十分短（只有 21 分鐘），主要是學習如何畫方塊人並作出不同的動作。一旦我們學懂如何畫方塊人作出不同的動作，我們便可以利用方塊人作為草稿，為他們加上不同的衣服 / 表情 / 髮型等，從而畫出一個人物。
 
-![##方塊人]({{ site.baseurl }}/images/20190817-2.jpeg)
+![##方塊人。]({{ site.baseurl }}/images/20190817-2.jpeg)
 
 ## > 為何上這個課程？
 
