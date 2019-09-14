@@ -7,7 +7,7 @@ date: 2017-10-17
 comments: true
 ---
 
-最近上網亂逛時看到不少人在大推 [簡報 Show and Tell (Show and Tell: How Everybody Can Make Extraordinary Presentations)](http://www.books.com.tw/products/0010680589) 這本書。所以便買來看了，一看之下，這本真是一本好書。以下是我的介紹，希望大家能夠從這本書中獲得一點東西。  
+最近上網亂逛時看到不少人在大推 [簡報 Show and Tell (Show and Tell: How Everybody Can Make Extraordinary Presentations)](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&a=d65d6bbcdc6ad9659e915c1d69a2fae591cafa81dab4014d93000e3163fa586bd375ceb6838c5a08&ar=a747b10f014cf18584f9ee2ca5516854cb91d9c5d6849f5c93000e3163fa586b69315791463a07d2&cs=eea8698c3937852656230d67e367bf81&pr=4797c7006de28fbf&ap=pr%3D4797c7006de28fbf&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Frbook%2Fproduct%2F2014941359453%3Fscid%3Drafp-) 這本書。所以便買來看了，一看之下，這本真是一本好書。以下是我的介紹，希望大家能夠從這本書中獲得一點東西。  
 ![Show and Tell: How Everybody Can Make Extraordinary Presentations]({{ site.baseurl }}/images/20171017-1.jpeg)
 
 ## > 說真話
@@ -85,6 +85,8 @@ comments: true
 ---
 
 個人大推這本書。最令我印象深刻的是，作者以十分形象化的方法來為簡報分類為四種架構。另外作者除了介紹方法外，本身也有為每一個方法加入一些完整的例子來為我們介紹。在看本書的過程中，感覺到作者本身便是以簡報的方式來為大家講述如何做一個好的簡報。
+
+購買連結 [在此](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&a=d65d6bbcdc6ad9659e915c1d69a2fae591cafa81dab4014d93000e3163fa586bd375ceb6838c5a08&ar=a747b10f014cf18584f9ee2ca5516854cb91d9c5d6849f5c93000e3163fa586b69315791463a07d2&cs=eea8698c3937852656230d67e367bf81&pr=4797c7006de28fbf&ap=pr%3D4797c7006de28fbf&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Frbook%2Fproduct%2F2014941359453%3Fscid%3Drafp-)
 
 另外作者有也另外三本書，有空我也會看看：
 * [一句話配一張圖，再複雜都能說清楚](http://www.books.com.tw/products/0010549901)（Blah Blah Blah）
