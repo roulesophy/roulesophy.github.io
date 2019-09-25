@@ -4,6 +4,7 @@ layout: post
 title: iPadOS 上使用輔助觸控 Assistive Touch 滑鼠的心得
 tags: 工作心法
 date: 2019-09-26
+permalink: ipados-上使用輔助觸控-assistive-touch-滑鼠的心得/
 comments: true
 ---
 
