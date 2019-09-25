@@ -11,6 +11,8 @@ comments: true
 以 iPad 作為主力電腦已經有一段時間，其實生活中大部份的需求自己也找到 iPad 的應用程式使用，除了寫程式之外。  
 使用 iPad 來打程式其實是我一件很想做到的事情。當然，iOS 上只能使用很有限的應用程式來寫程式（例如 [Pythonista](http://omz-software.com/pythonista/)），最可行的方法只有以 iPad 遠端控制電腦來寫程式。這個方法一方面能夠減少攜帶電腦的重量外，還可以不用依賴 wifi 來使用電腦（現在 LTE 電腦還不太普及）。可是，這個方法不能使用滑鼠令遠端控制電腦的可用性大幅減低。直到發現了支援遠端控制電腦的滑鼠⋯
 
+（如果想看如何使用滑鼠在 iPadOS 上的使用心得，可以看這篇：[iPadOS 上使用輔助觸控 Assistive Touch 滑鼠的心得]({{ site.baseurl }}/ipados-上使用輔助觸控-assistive-touch-滑鼠的心得/)）
+
 其實會得知這個方法真是機緣巧合。話說有一次在咖啡廳思考時，看到鄰桌的人正在使用 iPad pro 來工作，是在使用 Windows 。這個大家也知道其實只是使用 remote desktop 來在 iPad 遠端控制某地的電腦而已。沒有甚麼特別。可是，當我看到他正在使用滑鼠時，我使十分好奇他是如何做到的。
 
 立刻上網查找後才得知原來市場上有一些 remote desktop 的 iOS 應用程式能夠支援滑鼠的。可是並不是任何無線滑鼠也能支援，而是通常只支援一至兩款滑鼠，它們分別是 [Swiftpoint GT](https://www.swiftpoint.com/swiftpoint-gt-ergonomic-mouse) 和 [Citrix X1](http://store.citrix.com/store/citrix/en_US/pd/ThemeID.37713000/productID.317779200)。

@@ -1,7 +1,7 @@
 ---
 filename: 2019-09-26-ipados-上使用-assistive-touch-滑鼠的心得.md
 layout: post
-title: iPadOS 上使用 Assistive Touch 滑鼠的心得
+title: iPadOS 上使用輔助觸控 Assistive Touch 滑鼠的心得
 tags: 工作心法
 date: 2019-09-26
 comments: true
@@ -57,7 +57,7 @@ comments: true
 
 你會發現當你按下滑鼠右鍵的時候，會出現了幾個按鈕，再按一下右鍵這些按鈕會消失。
 
-![]({{ site.baseurl }}/images/20190926-12.jpeg.png)
+![]({{ site.baseurl }}/images/20190926-12.jpeg)
 
 而這些按鈕是可以自己設定的，我們可以在 Custom Top-Level Menu 裡設定它們。
 
@@ -65,7 +65,7 @@ comments: true
 
 我會設定以下的按鈕：
 
-![]({{ site.baseurl }}/images/20190926-14.jpeg.png)
+![]({{ site.baseurl }}/images/20190926-14.jpeg)
 
 使用這個方法，我們可以開啟 App Switcher、控制中心、home 鍵、通知、Dock 等、甚至可以做到 Split View 等等的動作。要模擬長按屏幕這個動作，我們只要長按滑鼠左鍵便可以了。
 

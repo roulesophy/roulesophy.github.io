@@ -16,3 +16,4 @@ iOS 工作術：
 * [iOS小技巧：以 WSTicK 製造 WhatsApp Sticker 貼紙]({{ site.baseurl }}/ios小技巧-以-wstick-製造-whatsapp-sticker-貼紙/)
 * [剪貼簿應用程式]({{ site.baseurl }}/剪貼簿應用程式/)
 * [最輕便的 iPad 鍵盤：Logitech Keys-to-go 入手心得]({{ site.baseurl }}/最輕便的-ipad-鍵盤-logitech-keystogo-入手心得/)
+* [iPadOS 上使用輔助觸控 Assistive Touch 滑鼠的心得]({{ site.baseurl }}/ipados-上使用輔助觸控-assistive-touch-滑鼠的心得/)

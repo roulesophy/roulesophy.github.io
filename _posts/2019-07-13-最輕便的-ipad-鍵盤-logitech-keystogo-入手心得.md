@@ -59,6 +59,8 @@ comments: true
 
 如果在 iPadOS 上使用滑鼠功能的話，其中一個最大的問題就是還不能使用滑鼠呼叫 home 鍵和 expose （好的，嚴格來說 home 鍵可以用虛擬 home 鍵小白點來呼叫，但這比較麻煩）。這個鍵盤的快鍵鍵很好的解決了這個問題。
 
+（如果想看如何使用滑鼠在 iPadOS 上的使用心得，可以看這篇：[iPadOS 上使用輔助觸控 Assistive Touch 滑鼠的心得]({{ site.baseurl }}/ipados-上使用輔助觸控-assistive-touch-滑鼠的心得/)）
+
 ## > 這個鍵盤的打字手感如何？
 
 打字方面，真是需要時間去適應，因為它的鍵程很薄，另外就是按鍵比較軟，要比較大力去按它。我本來使用的 microsoft foldable keyboard 和 iPad Pro 使用的官方 iPad 鍵盤也比這硬得多。
