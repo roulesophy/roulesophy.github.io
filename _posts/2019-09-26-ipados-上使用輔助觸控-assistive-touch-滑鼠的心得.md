@@ -93,19 +93,19 @@ comments: true
 
 第二個是使用控制中心，我們可以在設定裡的 Accessibility 按 Accessibility Shortcut 並選擇 AssistiveTouch
 
-{{ site.baseurl }}/images/20190926-15.jpeg
+![]({{ site.baseurl }}/images/20190926-15.jpeg)
 
-{{ site.baseurl }}/images/20190926-16.jpeg
+![]({{ site.baseurl }}/images/20190926-16.jpeg)
 
 然後再在設定裡的 Control Center 裡加入 Accessibility Shortcuts 便可以了。
 
-{{ site.baseurl }}/images/20190926-17.jpeg
+![]({{ site.baseurl }}/images/20190926-17.jpeg)
 
 這樣做的話，我們只要在呼叫控制中心時按這個按紐，便可以開關 Assistive Touch 了。
 
-{{ site.baseurl }}/images/20190926-18.jpeg
+![]({{ site.baseurl }}/images/20190926-18.jpeg)
 
-{{ site.baseurl }}/images/20190926-19.jpeg
+![]({{ site.baseurl }}/images/20190926-19.jpeg)
 
 
 ## > 使用滑鼠 Assistive Touch 的用後感
