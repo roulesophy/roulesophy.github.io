@@ -59,7 +59,7 @@ comments: true
 
 你會發現當你按下滑鼠右鍵的時候，會出現了幾個按鈕，再按一下右鍵這些按鈕會消失。
 
-![]({{ site.baseurl }}/images/20190926-12.jpeg.png)
+![]({{ site.baseurl }}/images/20190926-12.jpeg)
 
 而這些按鈕是可以自己設定的，我們可以在 Custom Top-Level Menu 裡設定它們。
 
@@ -67,7 +67,7 @@ comments: true
 
 我會設定以下的按鈕：
 
-![]({{ site.baseurl }}/images/20190926-14.jpeg.png)
+![]({{ site.baseurl }}/images/20190926-14.jpeg)
 
 使用這個方法，我們可以用沒有這麼別扭的方法來開啟 App Switcher、控制中心、home 鍵、通知、Dock 等、甚至可以做到 Split View 等等的動作。
 
@@ -83,9 +83,32 @@ comments: true
 
 溫馨提示，iPadOS 裡的 Shortcuts 能夠提供開關 Assistive Touch 的功能。
 
-在這個時候，我們應該要係使用中desktop遠端控制電腦之前，首先把AssistiveTouch關閉他。
+在這個時候，我們應該要係使用中desktop遠端控制電腦之前，首先把AssistiveTouch關閉。
 
-## > 使用心得
+## > 如何快速地開關 Assistive Touch?
+
+有兩個方法。
+
+第一個是使用 Shortcuts。
+
+第二個是使用控制中心，我們可以在設定裡的 Accessibility 按 Accessibility Shortcut 並選擇 AssistiveTouch
+
+{{ site.baseurl }}/images/20190926-15.jpeg
+
+{{ site.baseurl }}/images/20190926-16.jpeg
+
+然後再在設定裡的 Control Center 裡加入 Accessibility Shortcuts 便可以了。
+
+{{ site.baseurl }}/images/20190926-17.jpeg
+
+這樣做的話，我們只要在呼叫控制中心時按這個按紐，便可以開關 Assistive Touch 了。
+
+{{ site.baseurl }}/images/20190926-18.jpeg
+
+{{ site.baseurl }}/images/20190926-19.jpeg
+
+
+## > 使用滑鼠 Assistive Touch 的用後感
 
 基本上使用了一段短時間後，個人認為只有一種情況下開啟滑鼠 Assistive Touch 會比較適合，這就是有實體鍵盤的情況下，並正在進行需要鍵盤工作的情況下。
 
