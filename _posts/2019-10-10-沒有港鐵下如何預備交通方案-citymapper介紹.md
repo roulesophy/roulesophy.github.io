@@ -2,7 +2,7 @@
 filename: 2019-10-10-沒有港鐵下如何預備交通方案-citymapper介紹.md
 layout: post
 title: 沒有港鐵下如何預備交通方案？Citymapper介紹
-tags: iOS工作術
+tags: iOS工作術 iOS_Shortcuts分享
 date: 2019-10-10
 comments: true
 ---

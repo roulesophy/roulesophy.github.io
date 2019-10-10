@@ -2,7 +2,7 @@
 filename: 2017-10-13--我的-iOS-Jekyll-寫網誌流程.md
 layout: post
 title:  我的 iOS Jekyll 寫網誌流程
-tags: 工作心法 iOS工作術
+tags: 工作心法 iOS工作術 iOS_Shortcuts分享
 date: 2017-10-13
 comments: true
 ---

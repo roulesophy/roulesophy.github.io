@@ -2,7 +2,7 @@
 filename: 2018-10-10-ios工作術-以shortcuts為圖片加上水印.md
 layout: post
 title: iOS工作術：以Shortcuts為圖片加上水印
-tags: 工作心法 iOS工作術
+tags: 工作心法 iOS工作術 iOS_Shortcuts分享
 date: 2018-10-10
 comments: true
 ---
