@@ -61,7 +61,7 @@ Citymapper 這個應用程式令我最欣賞的一點就是，他對香港的本
 
 例如是舉辦一個活動在某一個地點集合時，如果有一個快速的方法，可以讓不同的人由他們自己身處的位置出發，能夠知道如何到達該集合地點那該多好。
 
-幸好的是， Citymapper 有自己的 [url-scheme](https://citymapper.com/tools/1053/launch-citymapper-for-directions)，所以我寫了以下的Shortcuts 來做這個功能。 （[下載按此](https://www.icloud.com/shortcuts/d747bf27dfe94a24b83c2661b0d1e87c)）
+幸好的是， Citymapper 有自己的 [URL Scheme](https://citymapper.com/tools/1053/launch-citymapper-for-directions)，所以我寫了以下的Shortcuts 來做這個功能。 （[下載按此](https://www.icloud.com/shortcuts/d747bf27dfe94a24b83c2661b0d1e87c)）
 
 這個Shortcuts 的用法是，我們首先在Apple Map裏搜尋在某個地方，然後我們可以按分享，然後選擇這個Shortcut。
 
