@@ -63,7 +63,7 @@ comments: true
 
 ## > 這個鍵盤的打字手感如何？
 
-打字方面，真是需要時間去適應，因為它的鍵程很薄，另外就是按鍵比較軟，要比較大力去按它。我本來使用的 microsoft foldable keyboard 和 iPad Pro 使用的官方 iPad 鍵盤也比這硬得多。
+打字方面，真是需要時間去適應，因為它的鍵程很薄，另外就是按鍵比較軟，要比較大力去按它。我本來使用的 Microsoft Universal Foldable Keyboard （心得 [看此]({{ site.baseurl }}/外出攜帶用的-ipad-mini-系統-microsoft-surface-arc-mouse-microsoft-universal-foldable-keyboard-apple-pencil/#microsoft-universal-foldable-keyboard)） 和 iPad Pro 使用的官方 iPad 鍵盤也比這硬得多。
 
 也因為一開始不適應的關係，有很多的按鍵也沒有按到。其中對我來說問題最嚴重的是空白鍵。由於這個鍵盤外面有一條硬的邊（見下圖），所以我使用拇指按空白鍵時，經常會按錯了這條邊而沒有按到空白鍵。
 
