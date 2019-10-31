@@ -4,6 +4,7 @@ layout: post
 title: 我的 DJI Osmo Pocket 裝備設置
 tags: 敗家日記 輕便裝備
 date: 2019-10-29
+description: "DJI Osmo Pocket", "Freewell Wide Angle Lens", "Rode wireless GO", "Rode Lavalier Go", "JJC LED-8 Mini Adjustable LED Light"
 comments: true
 ---
 
