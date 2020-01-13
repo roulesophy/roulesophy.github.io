@@ -164,7 +164,7 @@ Peace Of Cake
 
 ![]({{ site.baseurl }}/images/20200114-14.jpeg)
 
-我個人是對這個贋品完全沒有興趣的，只是你懂的 ._. ~~
+~~我個人是對這個贋品完全沒有興趣的，只是你懂的 ._. ~~
 
 澳門巴黎人    
 地址：[Lote 3, Strip, SAR, P.R. China, 路氹連貫公路澳門](https://goo.gl/maps/RRfiaUiU6Ahp6ECK6)
