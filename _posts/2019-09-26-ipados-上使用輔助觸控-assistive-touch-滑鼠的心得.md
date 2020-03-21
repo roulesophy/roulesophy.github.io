@@ -71,6 +71,8 @@ comments: true
 
 使用這個方法，我們可以用沒有這麼別扭的方法來開啟 App Switcher、控制中心、home 鍵、通知、Dock 等、甚至可以做到 Split View 等等的動作。
 
+（2020-03-21 更新：在 iOS 13.4 後貌似右鍵不能打開 Custom Top-Level Menu 了。但可以留小白點在屏幕上並用滑鼠點擊小白點打開 Menu。）
+
 加上實體鍵盤的話，應該有七八成的時候都可以只用滑鼠來控制 iPad。在需要打字的時候，這樣就能大幅這樣提升生產力。
 
 另外，如果使用文字編輯器時，要使用滑鼠來選擇整段文字時，只需要在文字上方雙擊滑鼠，並在第二下點擊滑鼠時按著不放手再向其它方向拖（drag）便可以選擇文字。不過個人認為如果正在使用實體鍵盤的話，使用鍵盤上的快捷鍵或許會更有效率。
@@ -115,5 +117,7 @@ comments: true
 我們使用鍵盤來輸入文字時，一邊打字一邊觸控屏幕是一個很慢的方法，在這個情況下，使用滑鼠 + 鍵盤和鍵盤快捷鍵能在手不需要提高手來觸控螢幕的情況下控制 iPad。這樣對手的負擔也不會太重。
 
 但是，如果在其它情況下，其實手指才是我們最好的觸控方式，一方面比使用滑鼠要精準和直覺得多，二來也能做一些功能多點觸控的功能（延伸閱讀：[ iOS 11 上的 iPad 上手多重選擇模式注意事項 ]({{ site.baseurl }}/iOS-11%E4%B8%8A%E7%9A%84iPad%E4%B8%8A%E6%89%8B%E5%A4%9A%E9%87%8D%E9%81%B8%E6%93%87%E6%A8%A1%E5%BC%8F%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/)）。
+
+（2020-03-21 更新：在 iOS 13.4 後正式支援滑鼠和 Trackpad，Trackpad 教學可看這篇 [iPadOS 13.4 使用 TrackPad 的心得（開啟 Dock、Control Center 、 Notification Center 、 Slide Over 、 Split View 等）]({{ site.baseurl }}/ipados-13-4-使用-trackpad-的心得-開啟-dock-control-center-notification-center-slide-over-split-view-等/)
 
 {% include_relative index/skills_iOS.md %}
