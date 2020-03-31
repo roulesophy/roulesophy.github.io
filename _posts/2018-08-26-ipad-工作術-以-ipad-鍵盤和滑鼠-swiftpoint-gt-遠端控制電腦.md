@@ -71,4 +71,6 @@ comments: true
 
 另外，除了支援 RDP / VNC 之外，它們還有一個自定的協定，名為 Fluid Remote Desktop，據說還能佔用更少的數據流量。
 
+（2020-03-31 更新：好消息，在 iPadOS 13.4推出後， Jump Desktop 家作了一個更新 ver9.4.16，大家終於可以用任何滑鼠 / [iPadOS 13.4 支援的 Trackpad]({{ site.baseurl }}/ipados-13-4-使用-trackpad-的心得-開啟-dock-control-center-notification-center-slide-over-split-view-等/) 作遠端控制，不限 swiftpoint GT 或 Citrix X1了。）
+
 {% include_relative index/skills_iOS.md %}
