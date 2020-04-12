@@ -1,7 +1,7 @@
 ---
 filename: 2020-04-12-ios-上影片處理減少背景聲音的好-app--brusfri.md
 layout: post
-title: iOS 上影片處理減少背景聲音的好 App : Brusfri
+title: iOS 上影片處理減少背景聲音的好 App：Brusfri
 tags: iOS工作術
 date: 2020-04-12
 comments: true
