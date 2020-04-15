@@ -4,7 +4,7 @@ title: 自我介紹
 permalink: /about/
 ---
 
-香港的軟件工程師（Software Engineer）一名，因工作關係也需要學習到關於金融（Finance）和專案管理（Project Management）的知識。
+香港的軟體工程師（Software Engineer）一名，因工作關係也需要學習到關於金融（Finance）和專案管理（Project Management）的知識。
 
 擁有 電腦科學學士 和 金融碩士 學位，亦到過台灣參與多個專案管理的課程。
 
