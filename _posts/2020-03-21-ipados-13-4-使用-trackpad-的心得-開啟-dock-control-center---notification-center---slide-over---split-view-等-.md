@@ -140,3 +140,5 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 ![]({{ site.baseurl }}/images/20200321-19.gif)
 
 內心 OS: 在 iPad OS 上使用TrackPad 的最大好處是在家裡要用 iPad 時能把 iPad 放高一點，使得脖子能舒服一點。 
+
+{% include_relative index/skills_iOS.md %}
