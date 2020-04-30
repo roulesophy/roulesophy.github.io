@@ -7,7 +7,7 @@ date: 2020-04-12
 comments: true
 ---
 
-![]({{ site.baseurl }}/images/20200412-1.jpeg)  
+![影片環境雜音太強？有 Brusfri，不怕！]({{ site.baseurl }}/images/20200412-1.jpeg)  
 最近有些需要進行影片處理，被迫要處理一個問題：減少在外拍攝時的背景聲音。由於我只懂得很少的影片編輯軟件技巧（還要只懂得在 iOS 的 [LumaFusion](https://apps.apple.com/hk/app/lumafusion/id1062022008?l=en) 上使用），所以在 iOS 上如何做這事便很重要。在遇然的情況下看到了這個 App：[Brusfri](https://apps.apple.com/hk/app/brusfri/id1289165912?l=en)。
 
 ![]({{ site.baseurl }}/images/20200412-2.jpeg)
