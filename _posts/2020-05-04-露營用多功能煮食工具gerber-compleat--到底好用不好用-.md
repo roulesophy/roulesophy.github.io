@@ -15,21 +15,39 @@ comments: true
 
 這次試試在正文前作一些類似簡報的圖片，看看效果如何。
 
+---
+
 ![露營煮食餐具 GERBER COMPLEAT 到底好不好用？]({{ site.baseurl }}/images/20200504-2.jpeg)
+
+---
 
 ![COMPLEAT 是？ 矽膠刮 鋸齒刀 匙勾 去皮器 開瓶器 開罐器]({{ site.baseurl }}/images/20200504-3.jpeg)
 
+---
+
 ![價值和賣點]({{ site.baseurl }}/images/20200504-4.jpeg)
+
+---
 
 ![]({{ site.baseurl }}/images/20200504-5.jpeg)
 
+---
+
 ![]({{ site.baseurl }}/images/20200504-6.jpeg)
+
+---
 
 ![]({{ site.baseurl }}/images/20200504-7.jpeg)
 
+---
+
 ![]({{ site.baseurl }}/images/20200504-8.jpeg)
 
+---
+
 ![]({{ site.baseurl }}/images/20200504-9.jpeg)
+
+---
 
 好，回到文章內容。
 
