@@ -13,17 +13,25 @@ comments: true
 大家在露營時都會帶上甚麼煮食工具？如果只帶上叉和匙勺的話，可能在烹調時才發現忘了帶開瓶器和其他的一些工具；但如果帶上了其他工具的話，可能背包又會有太多的工具導致過重。  
 有了 Gerber COMPLEAT ，這些問題可能得到了解答，但是，到底它是否如宣傳中的這麼好用？以下是使用這個露營煮食工具 [Gerber COMPLEAT](https://www.gerbergear.com/en-us/shop/equipment/all-equipment/compleat-onyx-31-003463) 的心得。
 
-<!--
-![]({{ site.baseurl }}/images/20200504-2.jpeg)
-![]({{ site.baseurl }}/images/20200504-3.jpeg)
-![]({{ site.baseurl }}/images/20200504-4.jpeg)
-![]({{ site.baseurl }}/images/20200504-5.jpeg)
-![]({{ site.baseurl }}/images/20200504-6.jpeg)
-![]({{ site.baseurl }}/images/20200504-7.jpeg)
-![]({{ site.baseurl }}/images/20200504-8.jpeg)
-![]({{ site.baseurl }}/images/20200504-9.jpeg)
--->
+這次試試在正文前作一些類似簡報的圖片，看看效果如何。
 
+![露營煮食餐具 GERBER COMPLEAT 到底好不好用？]({{ site.baseurl }}/images/20200504-2.jpeg)
+
+![COMPLEAT 是？ 矽膠刮 鋸齒刀 匙勾 去皮器 開瓶器 開罐器]({{ site.baseurl }}/images/20200504-3.jpeg)
+
+![價值和賣點]({{ site.baseurl }}/images/20200504-4.jpeg)
+
+![]({{ site.baseurl }}/images/20200504-5.jpeg)
+
+![]({{ site.baseurl }}/images/20200504-6.jpeg)
+
+![]({{ site.baseurl }}/images/20200504-7.jpeg)
+
+![]({{ site.baseurl }}/images/20200504-8.jpeg)
+
+![]({{ site.baseurl }}/images/20200504-9.jpeg)
+
+好，回到文章內容。
 
 ## > 介紹和優點
 
