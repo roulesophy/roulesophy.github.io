@@ -4,6 +4,7 @@ layout: post
 title: 淺談facebook的like
 tags: 自我思考
 comments: true
+thumbnail: "20131114-1.jpeg"
 ---
 我知道這己經是一個己經被別人說到很悶的題目了，不過還是很想說一下。
 
