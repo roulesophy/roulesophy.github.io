@@ -5,9 +5,10 @@ title: Esperanto 2 - Basics 2
 tags: Esperanto
 date: 2017-07-18
 comments: true
+thumbnail: "20170718-1.jpeg"
 ---
 
-
+![]({{ site.baseurl }}/images/20170718-1.jpeg)  
 這是第二篇。主要是一些十分簡單的句子。
 
 ## > 文法規則

@@ -5,8 +5,10 @@ title: Esperanto 1 - Basics 1
 tags: Esperanto
 date: 2017-07-16
 comments: true
+thumbnail: "20170716-2.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170716-2.jpeg)  
 這是從 duolingo 的關卡中學到的生詞和規則，當作是一個小小的記錄。
 
 ## > 文法規則
