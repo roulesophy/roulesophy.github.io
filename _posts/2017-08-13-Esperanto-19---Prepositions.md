@@ -5,7 +5,10 @@ title: Esperanto 19 - Prepositons
 tags: Esperanto
 date: 2017-08-13
 comments: true
+thumbnail: "20170813-3.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170813-3.jpeg)  
 這課是關於 prepositions 。個人認為挺難記的。
 
 ## > 文法規則

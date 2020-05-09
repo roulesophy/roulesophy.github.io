@@ -5,8 +5,10 @@ title: Esperanto 21 - Numbers
 tags: Esperanto
 date: 2017-08-21
 comments: true
+thumbnail: "20170821-1.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170821-1.jpeg)  
 這課是關於數字的表達。
 
 ## > 溫習

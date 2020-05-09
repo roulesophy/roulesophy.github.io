@@ -5,6 +5,7 @@ title: Esperanto 9 - Animals
 tags: Esperanto
 date: 2017-07-23
 comments: true
+thumbnail: "20170723-2.jpeg"
 ---
 <!--
 []({{ site.baseurl }}/Esperanto-9-Animals/)
@@ -15,6 +16,7 @@ comments: true
 []({{ site.baseurl }}/Esperanto-9-Animals/#-section-45)
 []({{ site.baseurl }}/Esperanto-9-Animals/#-section-55)
 -->
+![]({{ site.baseurl }}/images/20170723-2.jpeg)  
 這課主要是記動物的詞語。
 
 ## > 文法規則

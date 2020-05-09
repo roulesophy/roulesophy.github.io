@@ -5,7 +5,10 @@ title: Esperanto 7 - Plurals
 tags: Esperanto
 date: 2017-07-22
 comments: true
+thumbnail: "20170722-1.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170722-1.jpeg)  
 這課是關於名詞是眾數時要怎麼做。
 
 ## > 文法規則

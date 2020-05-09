@@ -5,8 +5,10 @@ title: Esperanto 11 - Countries
 tags: Esperanto
 date: 2017-07-26
 comments: true
+thumbnail: "20170726-1.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170726-1.jpeg)  
 這課是關於國家的詞語。
 
 ## > 文法規則

@@ -5,8 +5,10 @@ title: Esperanto 20 - Past Future
 tags: Esperanto
 date: 2017-08-20
 comments: true
+thumbnail: "20170820-1.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170820-1.jpeg)  
 這課是關於過去式和將來式。
 
 ## > 文法規則

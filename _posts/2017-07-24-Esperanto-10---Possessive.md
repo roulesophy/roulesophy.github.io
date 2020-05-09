@@ -5,8 +5,10 @@ title: Esperanto 10 - Possessive
 tags: Esperanto
 date: 2017-07-24
 comments: true
+thumbnail: "20170724-1.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170724-1.jpeg)  
 `possessive` 是指佔有的。
 
 ## > 文法規則

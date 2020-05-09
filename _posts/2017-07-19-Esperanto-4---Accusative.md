@@ -5,6 +5,7 @@ title: Esperanto 4 - Accusative
 tags: Esperanto
 date: 2017-07-19
 comments: true
+thumbnail: "20170719-1.jpeg"
 ---
 <!--
 {{ site.baseurl }}/Esperanto-4-Accusative/
@@ -14,6 +15,8 @@ comments: true
 {{ site.baseurl }}/Esperanto-4-Accusative/#-section-34
 {{ site.baseurl }}/Esperanto-4-Accusative/#-section-44
 -->
+
+![]({{ site.baseurl }}/images/20170719-1.jpeg)  
 [Accusative](https://zh.wikipedia.org/wiki/宾格) 是一個語言學的名詞，主要是用來表示一個動詞作用於的名詞。
 
 ## > 文法規則

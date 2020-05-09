@@ -5,8 +5,10 @@ title: Esperanto 14 - Infinitive
 tags: Esperanto
 date: 2017-08-06
 comments: true
+thumbnail: "20170806-9.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170806-9.jpeg)  
 這課是關於 infinitive verb，文法會比較多一點。
 
 ## > 文法規則

@@ -5,7 +5,10 @@ title: Esperanto 12 - Food
 tags: Esperanto
 date: 2017-08-05
 comments: true
+thumbnail: "20170805-2.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170805-2.jpeg)  
 這課十分恐怖，太多詞語要記了。
 
 ## > 文法規則

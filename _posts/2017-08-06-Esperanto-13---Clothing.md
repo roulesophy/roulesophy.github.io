@@ -5,7 +5,10 @@ title: Esperanto 13 - Clothing
 tags: Esperanto
 date: 2017-08-06
 comments: true
+thumbnail: "20170806-8.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170806-8.jpeg)  
 這課是一些關於衣服的詞語。
 
 ## > Section 1/3

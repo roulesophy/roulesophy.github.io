@@ -5,8 +5,10 @@ title: Esperanto 5 - Languages
 tags: Esperanto
 date: 2017-07-20
 comments: true
+thumbnail: "20170720-1.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170720-1.jpeg)  
 這一篇是關於語言相關的詞語。
 
 ## > Section 1/2

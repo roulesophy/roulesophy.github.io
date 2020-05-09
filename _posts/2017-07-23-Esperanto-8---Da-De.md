@@ -5,7 +5,10 @@ title: Esperanto 8 - Da De
 tags: Esperanto
 date: 2017-07-23
 comments: true
+thumbnail: "20170723-1.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170723-1.jpeg)  
 這課是關於 `da` 和 `de` 的分別。
 
 ## > 文法規則

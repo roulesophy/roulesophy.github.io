@@ -5,8 +5,10 @@ title: Esperanto 6 - Colors
 tags: Esperanto
 date: 2017-07-20
 comments: true
+thumbnail: "20170720-2.jpeg"
 ---
 
+![]({{ site.baseurl }}/images/20170720-2.jpeg)  
 這是一篇關於顏色的詞語。
 
 ## > Section 1/3

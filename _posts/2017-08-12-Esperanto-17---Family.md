@@ -5,7 +5,10 @@ title: Esperanto 17 - Family
 tags: Esperanto
 date: 2017-08-12
 comments: true
+thumbnail: "20170812-1.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170812-1.jpeg)  
 這課學習家人和親戚的名詞。
 
 <!--

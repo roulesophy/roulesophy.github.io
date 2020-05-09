@@ -5,7 +5,10 @@ title: Esperanto 15 - Questions
 tags: Esperanto
 date: 2017-08-06
 comments: true
+thumbnail: "20170806-10.jpeg"
 ---
+
+![]({{ site.baseurl }}/images/20170806-10.jpeg)  
 這課是關於疑問句的使用，會用到很多 `corelatives` 。
 
 ## > 文法規則
