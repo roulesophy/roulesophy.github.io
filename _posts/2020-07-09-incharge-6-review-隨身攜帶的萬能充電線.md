@@ -53,7 +53,7 @@ comments: true
 
 它的總長度比原子筆還要短。
 
-![]({{ site.baseurl }}/images/20200709-9.jpeg.jpg)
+![]({{ site.baseurl }}/images/20200709-9.jpeg)
 
 由於這條充電線的兩端有磁石，所以摺疊時可以吸在一起，變得更輕便，放在口袋完全沒有難度。
 
