@@ -18,7 +18,7 @@ comments: true
 
 Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption[hello]]` 這樣。我們可以利用 Filter Expression 來找出符合條件的 tiddler 們（List of tiddler）。
 
-例如最基本的例子是找出所有有某個 Tag 的 tiddler （`[tag[Today]]`）、找出所有標題含有某個字的 tiddler （`[regexp:title[Journal]] `）、或者複雜一點是找出所有有某個 Tag 的 tiddler 並且標題含有某個字的 tiddler 等（`[tag[journal_2020]regexp:title[Journal]]`）。
+例如最基本的例子是找出所有有某個 Tag 的 tiddler `[tag[Today]]`、找出所有標題含有某個字的 tiddler `[regexp:title[Journal]] `、或者複雜一點是找出所有有某個 Tag 的 tiddler 並且標題含有某個字的 tiddler 等`[tag[journal_2020]regexp:title[Journal]]`。
 
 那麼我們找出這些符會條件的 tiddler 來做什麼？例如我們可以在一個 tiddler 裡加入一個 [list widget](https://tiddlywiki.com/#ListWidget)，而當我們把這句 Filter expression 放入這個 list widget 後，這個 tiddler 便會把所有符合這個條件的 tiddler 都展示出來，這對於我們管理和處理 tiddler 時十分有用。
 
@@ -38,9 +38,16 @@ Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption
 
 `[tag[task]regexp:title[Blog]] -[regexp:title[omni]] +[tagging[]] ="Additional Tiddler" `
 
-首先，一句 Filter Expression 裡是由一個或多於一個的 [run](https://tiddlywiki.com/#Filter%20Run) 所組成（由 " " 所分隔）。例如這個例子裡有 4 個 run，分別是 `[tag[task]regexp:title[Blog]] `、`-[regexp:title[omni]]`、`+[tagging[]]` 以及 `="Additional Tiddler" `。至於那些 `-` 、 `+` 、`=` 是一個連接每個 run 的方式，稍後再談（留意這些 `-` 、 `+` 、`=` 並不是 run 的一部分）。
+首先，一句 Filter Expression 裡是由一個或多於一個的 [run](https://tiddlywiki.com/#Filter%20Run) 所組成（由 " " 所分隔）。例如這個例子裡有 4 個 run，分別是：
 
-而每一個 run 是由一個或多於一個的 [step](Filter%20Step) 所組成（都是由 `operator:suffix[parameter]` 的方式來表現）、或是直接以 `"<text>"` 的方式來代表。operator 指的是一些官方提供的操作，例如上面出現的 tag 等等。[這裡](https://tiddlywiki.com/#Filter%20Operators)有詳細的清單。
+1. `[tag[task]regexp:title[Blog]] `
+2. `-[regexp:title[omni]]`
+3. `+[tagging[]]` 以及
+4. `="Additional Tiddler" `
+
+至於那些 `-` 、 `+` 、`=` 是一個連接每個 run 的方式，稍後再談（留意這些 `-` 、 `+` 、`=` 並不是 run 的一部分）。
+
+而每一個 run 是由一個或多於一個的 [step](https://tiddlywiki.com/#Filter%20Step) 所組成（都是由 `operator:suffix[parameter]` 的方式來表現）、或是直接以 `"<text>"` 的方式來代表。operator 指的是一些官方提供的操作，例如上面出現的 tag 等等。[這裡](https://tiddlywiki.com/#Filter%20Operators)有詳細的清單。
 
 以以上的例子來說：
 
