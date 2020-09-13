@@ -2,7 +2,7 @@
 filename: 2018-11-11-肩痛人士的背包-matador-beast28.md
 layout: post
 title: 肩痛人士的背包：Matador Beast28
-tags: 敗家日記 輕便裝備 肩痛良方
+tags: 敗家日記 輕便裝備 肩痛良方 一袋生活
 date: 2018-11-11
 comments: true
 ---

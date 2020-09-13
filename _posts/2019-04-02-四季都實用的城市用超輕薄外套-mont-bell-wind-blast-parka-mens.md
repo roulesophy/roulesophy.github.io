@@ -2,7 +2,7 @@
 filename: 2019-04-02-四季都實用的城市用超輕薄外套-mont-bell-wind-blast-parka-mens.md
 layout: post
 title: 四季都實用的城市用超輕薄外套：Mont bell Wind Blast Parka Men's
-tags: 敗家日記 輕便裝備
+tags: 敗家日記 輕便裝備 一袋生活
 date: 2019-04-02
 comments: true
 ---

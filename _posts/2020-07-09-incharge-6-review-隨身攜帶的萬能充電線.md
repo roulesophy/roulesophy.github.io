@@ -2,7 +2,7 @@
 filename: 2020-07-09-incharge-6-review-隨身攜帶的萬能充電線.md
 layout: post
 title: inCharge 6 Review：隨身攜帶的萬能充電線
-tags: 敗家日記 輕便裝備
+tags: 敗家日記 輕便裝備 一袋生活
 date: 2020-07-09
 permalink: 20200709-incharge6-review/
 thumbnail: "20200709-1.jpeg"

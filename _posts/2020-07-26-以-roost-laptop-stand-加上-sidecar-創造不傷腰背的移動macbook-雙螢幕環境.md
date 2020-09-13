@@ -2,7 +2,7 @@
 filename: 2020-07-26-以-roost-laptop-stand-加上-sidecar-創造不傷腰背的移動macbook-雙螢幕環境.md
 layout: post
 title: 以 Roost Laptop Stand 加上 Sidecar, 創造不傷腰背的移動MacBook 雙螢幕環境
-tags: 工作心法 敗家日記 創意奇想 輕便裝備 肩痛良方 健康工作
+tags: 工作心法 敗家日記 創意奇想 輕便裝備 肩痛良方 健康工作 一袋生活
 date: 2020-07-26
 permalink: 20200726-mobile-dual-mon-setup-roost-laptop-stand-sidecar/
 thumbnail: "20200726-1.jpeg"

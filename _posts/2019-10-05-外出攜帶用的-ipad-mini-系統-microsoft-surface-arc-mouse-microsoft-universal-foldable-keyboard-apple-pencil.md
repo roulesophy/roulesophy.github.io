@@ -2,7 +2,7 @@
 filename: 2019-10-05-外出攜帶用的-ipad-mini-系統-microsoft-surface-arc-mouse-microsoft-universal-foldable-keyboard-apple-pencil.md
 layout: post
 title: 外出攜帶用的 iPad Mini 系統：Microsoft Surface Arc Mouse、Microsoft Universal Foldable Keyboard、Apple Pencil
-tags: 工作心法 自我思考 創意奇想 輕便裝備
+tags: 工作心法 自我思考 創意奇想 輕便裝備 一袋生活
 date: 2019-10-05
 comments: true
 ---
