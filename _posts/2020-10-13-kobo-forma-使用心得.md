@@ -1,7 +1,7 @@
 ---
 filename: 2020-10-13-kobo-forma-使用心得.md
 layout: post
-title: Kobo Forma 使用心得
+title: Kobo Forma ： 8寸大螢幕的電子書閱讀器使用心得
 tags: 敗家日記 健康工作
 date: 2020-10-13
 permalink: 20201013-kobo-forma-review/
