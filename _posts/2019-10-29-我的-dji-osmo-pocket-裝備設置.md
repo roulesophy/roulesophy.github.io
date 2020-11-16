@@ -128,3 +128,5 @@ comments: true
 最後，我的 Osmo Pocket 設備只有這些。Rode Wireless GO、Rode Lavalier GO、3.5mm 、1/4 to cold shoes、[Freewell Osmo Pocket Wide Angle Lens](https://www.freewellgear.com/dji-osmo-pocket-filters-and-dji-osmo-pocket-accessories/472-dji-osmo-pocket-wide-angle.html) 和 這篇沒有提及的原廠 [ND filter  set](https://m.dji.com/product/osmo-pocket-nd-filters-set) 都放進右下方的 Rode Wireless GO 原廠收納袋中。右上角的是改裝 Nintendo NDS 卡帶盒，用來放置SD card 和 Osmo Pocket 的 LIgntning adapter 。
 
 ![]({{ site.baseurl }}/images/20191029-18.jpeg)
+
+{% include_relative index/osmo_pocket.md %}

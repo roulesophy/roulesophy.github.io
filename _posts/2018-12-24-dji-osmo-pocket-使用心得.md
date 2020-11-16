@@ -109,3 +109,5 @@ Osmo Pocket 的雲台有三個模式，雲台跟蹤模式（Follow Mode）、雲
 購買連結 [按此](https://click.dji.com/AMmp3JfCQOr45pUs4Pha5A?pm=link)。
 
 內心OS: The best camera is the one that's with you。隨了 電話 和 [HTC RE](https://www.htc.com/hk-tc/re/re-camera/) 外，現在又多了一部。
+
+{% include_relative index/osmo_pocket.md %}
