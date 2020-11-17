@@ -81,4 +81,6 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20181117-13.jpeg)
 
+2020年更新：我也弄了以下一個Shortcuts。先把Openrice 連結分享到這個Shortcuts，然後它便會去除廣告資料再分享去。連結 [按此](https://www.icloud.com/shortcuts/6a5e35f5b67a43dea9b975669a637d38)。
+
 {% include_relative index/skills_iOS.md %}
