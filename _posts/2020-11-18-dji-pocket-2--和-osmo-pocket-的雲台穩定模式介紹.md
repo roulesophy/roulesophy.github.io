@@ -16,7 +16,7 @@ comments: true
 
 在這之前我們先來學習三軸究竟是那三個軸。
 
-![##Source: \[GoProGimbal]({{ site.baseurl }}/images/20201118-2.jpeg)
+![##Source: [GoProGimbal](https://gopro-gimbal.com)]({{ site.baseurl }}/images/20201118-2.jpeg)
 
 * 第一個軸是俯仰軸（ Tilt ）。這個軸是用來控制相機朝上或朝下。
 * 第二個軸是平移軸（ Pan ），這個軸是用來控制相機朝左或朝右。
