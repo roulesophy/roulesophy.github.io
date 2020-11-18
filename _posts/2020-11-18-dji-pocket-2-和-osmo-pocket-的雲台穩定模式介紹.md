@@ -1,5 +1,5 @@
 ---
-filename: 2020-11-18-dji-pocket-2--和-osmo-pocket-的雲台穩定模式介紹.md
+filename: 2020-11-18-dji-pocket-2-和-osmo-pocket-的雲台穩定模式介紹.md
 layout: post
 title: DJI pocket 2 和 Osmo pocket 的雲台穩定模式介紹
 tags: 敗家日記 一袋生活
