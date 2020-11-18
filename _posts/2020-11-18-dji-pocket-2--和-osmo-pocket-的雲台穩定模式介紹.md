@@ -1,7 +1,7 @@
 ---
 filename: 2020-11-18-dji-pocket-2--和-osmo-pocket-的雲台穩定模式介紹.md
 layout: post
-title: DJI pocket 2  和 Osmo pocket 的雲台穩定模式介紹
+title: DJI pocket 2 和 Osmo pocket 的雲台穩定模式介紹
 tags: 敗家日記 一袋生活
 date: 2020-11-18
 permalink: 20201118-osmo-pocket-gimbal-mode/
@@ -16,7 +16,7 @@ comments: true
 
 在這之前我們先來學習三軸究竟是那三個軸。
 
-![##Source: [GoProGimbal](https://gopro-gimbal.com)]({{ site.baseurl }}/images/20201118-2.jpeg)
+![##Source: https://gopro-gimbal.com]({{ site.baseurl }}/images/20201118-2.jpeg)
 
 * 第一個軸是俯仰軸（ Tilt ）。這個軸是用來控制相機朝上或朝下。
 * 第二個軸是平移軸（ Pan ），這個軸是用來控制相機朝左或朝右。
