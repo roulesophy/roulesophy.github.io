@@ -10,6 +10,10 @@ comments: true
 ![]({{ site.baseurl }}/images/20181224-1.jpeg)  
 最近因為大概學習了如何使用 iOS 的 [Luma Fusion](https://itunes.apple.com/hk/app/lumafusion/id1062022008?l=en&mt=8) 來學習如何剪片，所以有點想買一部可以拍影片的攝錄機。個人認為最好的攝錄機是能夠直接能放在口袋裡，需要時便能夠拿出來使用。一開始有考慮過買 [GoPro Hero Black 7](https://shop.gopro.com/cameras/hero7-black/CHDHX-701-master.html)，可是把它放進褲袋裡還是有點大，就在糾結的情況下，這個 [Osmo Pocket](https://www.dji.com/zh-tw/osmo-pocket) 就剛剛推出了，結果就手滑下單了。以下是使用心得。
 
+{% include_relative index/osmo_pocket.md %}
+
+---
+
 ## Osmo Pocket 的缺點
 
 Osmo Pocket 的優點大概已經人所共知了，主要是以下的東西，就不多描述了。
@@ -110,4 +114,3 @@ Osmo Pocket 的雲台有三個模式，雲台跟蹤模式（Follow Mode）、雲
 
 內心OS: The best camera is the one that's with you。隨了 電話 和 [HTC RE](https://www.htc.com/hk-tc/re/re-camera/) 外，現在又多了一部。
 
-{% include_relative index/osmo_pocket.md %}
