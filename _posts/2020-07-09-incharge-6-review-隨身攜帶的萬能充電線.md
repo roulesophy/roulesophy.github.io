@@ -13,7 +13,7 @@ comments: true
 你有試過你需要充電線時，這個時候身邊偏偏沒有充電線嗎？  
 你有試過明明只有帶 iPhone 充電線，但是突然需要為 USB C 的相機充電嗎？  
 在這個沒有手機便不能生存的世代，能夠隨時隨地為電話充電是一種必須，要達到這個條件，隨時隨地都有一條充電線就是必須中的必須。  
-而這一條 [inCharge 6](https://rollingsqua.re/pages/incharge6) 充電線，便是一條輕巧得你可以每天都隨身攜帶的萬能充電線。 
+而這一條 [inCharge 6](https://rollingsqua.re/pages/incharge6) 充電線，便是一條輕巧得你可以每天都隨身攜帶的萬能充電線。
 
 ![]({{ site.baseurl }}/images/20200709-2.jpeg)
 
@@ -88,3 +88,5 @@ comments: true
 ## > 總結
 
 雖然我把它作為後備的充電線，但是它絕對可以成為你在外的唯一充電線。因為這條充電線有太多能用的場合，個人強型建議入手。
+
+{% include_relative index/one_bag.md %}

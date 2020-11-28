@@ -101,3 +101,5 @@ comments: true
 只要一部 iPad、還有大概一瓶水的重量的裝備，便能夠創造一個對身體良好並而能大幅提高效率的工作環境，何樂而不為呢？
 
 珍惜生命﹐健康無價。
+
+{% include_relative index/one_bag.md %}

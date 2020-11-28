@@ -52,3 +52,5 @@ comments: true
 ## > 參考資料
 
 * [MONTBELL WIND BLAST PARKA TEST SERIES BY BRIAN HARTMAN LONG-TERM REPORT](http://www.backpackgeartest.org/reviews/Clothing/Jackets/MontBell%20Wind%20Blast%20Parka/Test%20Report%20by%20Brian%20Hartman/)
+
+{% include_relative index/one_bag.md %}

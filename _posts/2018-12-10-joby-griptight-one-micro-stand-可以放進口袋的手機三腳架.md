@@ -13,7 +13,7 @@ comments: true
 這個是 [JOBY GripTight ONE Micro Stand](https://joby.com/global/griptight-one-micro-stand-jb01492-config/)，是一個可以放進口袋的手機三腳架。
 
 ![]({{ site.baseurl }}/images/20181210-2.jpeg)
-  
+
 這個手機三腳架也不能調節高度，但是在手機攝影中，突然需要腳架的時候便會十分有用。
 
 這個手機三腳架由兩個部份組成，左邊是手機夾，右邊是一個小型的三腳架。  
@@ -41,3 +41,5 @@ comments: true
 
 又或者用作 HTC RE 的支架。  
 ![]({{ site.baseurl }}/images/20181210-10.jpeg)
+
+{% include_relative index/one_bag.md %}

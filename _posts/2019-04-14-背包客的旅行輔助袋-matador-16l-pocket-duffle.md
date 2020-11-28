@@ -47,3 +47,5 @@ comments: true
 內心OS: 其實只背著 Matador Beast 28 去旅行本身已經是高難度動作。
 
 {% include_relative index/matador.md %}
+
+{% include_relative index/one_bag.md %}
