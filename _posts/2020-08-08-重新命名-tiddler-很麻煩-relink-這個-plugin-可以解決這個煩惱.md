@@ -12,9 +12,9 @@ comments: true
 ![]({{ site.baseurl }}/images/20200808-1.jpeg)  
 當你正在為 TiddlyWiki 裡的 Tiddler 重新命名感到煩惱時，這篇可能會幫到你。
 
-* 不同的記事軟體的筆記連結方式有那兩種？
-* 什麼是 TiddlyWiki 的 Plugin?
-* ReLink 這個 Plugin 能夠如何解決重新命名 Tiddler 的問題？
+> * 不同的記事軟體的筆記連結方式有那兩種？
+> * 什麼是 TiddlyWiki 的 Plugin?
+> * ReLink 這個 Plugin 能夠如何解決重新命名 Tiddler 的問題？
 
 ## > 不同的記事軟體的筆記連結方式有兩種
 

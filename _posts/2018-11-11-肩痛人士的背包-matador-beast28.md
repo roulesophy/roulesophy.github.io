@@ -14,9 +14,9 @@ comments: true
 
 這次看上的是這個，[Matador Beast28](https://matadorup.com/products/beast28-packable-technical-backpack?variant=34161105798)。
 
-* 為什麼會看上這個背包？
-* 使用這個背句的心得是？
-* Beast28 和 Freerain24 的分別是？
+> * 為什麼會看上這個背包？
+> * 使用這個背句的心得是？
+> * Beast28 和 Freerain24 的分別是？
 
 ## > 為什麼會看上這個背包？
 

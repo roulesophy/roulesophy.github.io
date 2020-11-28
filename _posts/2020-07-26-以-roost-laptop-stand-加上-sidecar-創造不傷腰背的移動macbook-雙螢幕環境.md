@@ -14,9 +14,9 @@ comments: true
 你在戶外使用MacBook時只有一個螢幕十分不方便嗎？  
 也許這篇文章的解決方法能夠幫到你。
 
-* 使用筆記本電腦並不符合人體工學，它如何傷害我們的腰背？
-* Roost Laptop Stand 如何防止筆記本電腦傷害我們的腰背？
-* MacBook ＋ SideCar + Roost Laptop Stand 如何提供一個不傷腰背的移動MacBook 雙螢幕環境？
+> * 使用筆記本電腦並不符合人體工學，它如何傷害我們的腰背？
+> * Roost Laptop Stand 如何防止筆記本電腦傷害我們的腰背？
+> * MacBook ＋ SideCar + Roost Laptop Stand 如何提供一個不傷腰背的移動MacBook 雙螢幕環境？
 
 ## > 解決使用筆記本電腦時的背痛問題
 

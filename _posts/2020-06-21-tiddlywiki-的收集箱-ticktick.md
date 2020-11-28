@@ -12,12 +12,12 @@ comments: true
 ![]({{ site.baseurl }}/images/20200621-1.jpeg)  
 使用了 [TiddlyWiki]({{ site.baseurl }}/%E6%88%91%E6%9C%83%E7%94%A8-tiddlywiki-%E4%BE%86%E5%81%9A%E7%94%9A%E9%BA%BC/) 也有一年半的時間，TiddlyWiki 在知識整理方面十分好，加上我自己的修改，它已經變成了我的知識和任務管理軟體。而作為一個任務管理軟體，收集是一個基本的功能。在這篇裡介紹我是如何做這個收集的功能。
 
-* 什麼是收集和收集箱？
-* 我對 TiddlyWiki 的收集箱的要求是？
-* 為何我使用 TickTick 作為 TiddlyWiki 的收集箱？
-* 有了 TickTick 作為收集箱後要如何做？
-* 進階：如何在 macOS 上快速地把心中所想放入 TickTick？ 我們可以使用 Alfred 4
-* 進階：如何使用 WebServer API 來直接把資料放進 TiddlyWiki？
+> * 什麼是收集和收集箱？
+> * 我對 TiddlyWiki 的收集箱的要求是？
+> * 為何我使用 TickTick 作為 TiddlyWiki 的收集箱？
+> * 有了 TickTick 作為收集箱後要如何做？
+> * 進階：如何在 macOS 上快速地把心中所想放入 TickTick？ 我們可以使用 Alfred 4
+> * 進階：如何使用 WebServer API 來直接把資料放進 TiddlyWiki？
 
 
 好了，甚麼是收集，以及為什麼這個收集的過程這麼重要？

@@ -14,9 +14,9 @@ comments: true
 
 如果你是因為 Zettelkasten  這個關鍵字而來到這裡， TiddlyWiki 是一個可調整度十分大的開源筆記軟體，它的最基礎元件名為 tiddler ，大概就是 Zettelkasten 裡的卡片這個類別的東西。詳細可以看這篇：[知識連結的工具：TiddlyWiki]({{ site.baseurl }}/%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%9A%84%E5%B7%A5%E5%85%B7-tiddlywiki/) 。
 
-* Zettelkasten 方法的中心思想是？
-* 什麼是隻向連結？
-* 在 TiddlyWiki 裡如何使用雙向連結的功能？
+> * Zettelkasten 方法的中心思想是？
+> * 什麼是隻向連結？
+> * 在 TiddlyWiki 裡如何使用雙向連結的功能？
 
 ## > Zettelkasten 方法的中心思想
 

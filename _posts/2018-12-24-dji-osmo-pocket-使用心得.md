@@ -17,9 +17,9 @@ comments: true
 
 ---
 
-* Osmo Pocket 的缺點是？
-* Osmo Pocket 如何和三腳架 / 自拍捧一起使用？
-* 雲台使用方法和心得？
+> * Osmo Pocket 的缺點是？
+> * Osmo Pocket 如何和三腳架 / 自拍捧一起使用？
+> * 雲台使用方法和心得？
 
 
 ## Osmo Pocket 的缺點

@@ -10,8 +10,8 @@ comments: true
 ![]({{ site.baseurl }}/images/20190106-1.jpeg)  
 之前在 [這篇](https://roulesophy.github.io/尋找知識結構化工具之旅/) 裡提及過過去尋找過的知識結構化工具。而最近發現了 [TiddlyWiki](https://tiddlywiki.com)，可能就是我要找的東西。
 
-* 什麼是 TiddlyWiki?
-* 如何安裝 TiddlyWiki?
+> * 什麼是 TiddlyWiki?
+> * 如何安裝 TiddlyWiki?
 
 ## > TiddlyWiki 介紹
 

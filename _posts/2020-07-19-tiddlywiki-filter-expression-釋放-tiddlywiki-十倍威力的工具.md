@@ -12,9 +12,9 @@ comments: true
 ![]({{ site.baseurl }}/images/20200719-1.jpeg)  
 個人學習 [TiddlyWiki]({{ site.baseurl }}/%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%9A%84%E5%B7%A5%E5%85%B7-tiddlywiki/) 時，一個比較花時間去學習的是 [Filter Expression](https://tiddlywiki.com/#Filter%20Expression)。一旦學會了即使一點也好，也能為 TiddlyWiki 解封了十倍以上的威力。在這篇裡將會介紹什麼是 Filter Expression、Filter Expression 能做什麼、以及基本的語法和例子。
 
-* 什麼是 Filter Expression，以及 Filter Expression 能做什麼？
-* Filter Expression 的基本的語法是？
-* Filter Expression 有甚麼基本和進階的應用？
+> * 什麼是 Filter Expression，以及 Filter Expression 能做什麼？
+> * Filter Expression 的基本的語法是？
+> * Filter Expression 有甚麼基本和進階的應用？
 
 ## > 什麼是 Filter Expression，以及Filter Expression 能做什麼？
 
