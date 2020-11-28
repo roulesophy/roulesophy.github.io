@@ -10,6 +10,9 @@ comments: true
 ![]({{ site.baseurl }}/images/20190106-1.jpeg)  
 之前在 [這篇](https://roulesophy.github.io/尋找知識結構化工具之旅/) 裡提及過過去尋找過的知識結構化工具。而最近發現了 [TiddlyWiki](https://tiddlywiki.com)，可能就是我要找的東西。
 
+* 什麼是 TiddlyWiki?
+* 如何安裝 TiddlyWiki?
+
 ## > TiddlyWiki 介紹
 
 [TiddlyWiki](https://tiddlywiki.com) 就是一個已經有十年歷史，類似 [維基百科](https://en.m.wikipedia.org/wiki/Main_Page) 的系統，但是在個人使用上，要設置比較簡單。因為只需要一個網頁檔案便能夠儲存所有的東西。
