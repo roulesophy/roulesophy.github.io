@@ -12,9 +12,9 @@ comments: true
 ![]({{ site.baseurl }}/images/20201118-1.jpeg)  
 我們買了[Osmo Pocket]({{ site.baseurl }}/dji-osmo-pocket-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/) / [DJI Pocket 2]({{ site.baseurl }}/20201116-dji-pocket-2-review/) 後，可能會不明白它的三軸穩定模式是如何運作。這一篇就是介紹它的四種不同鎖定模式。
 
-* 三軸穩定器的三軸指的是？
-* Osmo Pocket / DJI Pocket 2 有那四種不同的雲台鎖定模式？
-* 我們如何才能進入這些模式？
+> * 三軸穩定器的三軸指的是？
+> * Osmo Pocket / DJI Pocket 2 有那四種不同的雲台鎖定模式？
+> * 我們如何才能進入這些模式？
 
 ## > 三軸穩定器的三軸指的是？
 
