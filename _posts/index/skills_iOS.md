@@ -21,3 +21,5 @@ iOS 工作術：
 * [iPadOS 13.4 使用 TrackPad 的心得]({{ site.baseurl }}/ipados-13-4-使用-trackpad-的心得-開啟-dock-control-center-notification-center-slide-over-split-view-等/)
 * [iOS 上影片處理減少背景聲音的好 App：Brusfri]({{ site.baseurl }}/ios-上影片處理減少背景聲音的好-app-brusfri/)
 * [LaunchCuts：管理 iOS Shortcuts 的好工具]({{ site.baseurl }}/ios-launchcuts-review/)
+* [如何快速記錄想法？我的iOS 14 背面輕點功能聽寫使用心得]({{ site.baseurl }}/20201031-ios14-back-tap-dictate-text-to-ticktick/)
+* [用 Omnioutliner 來寫文章草稿]({{ site.baseurl }}/20201110-omnioutliner-blog-post-draft/)
