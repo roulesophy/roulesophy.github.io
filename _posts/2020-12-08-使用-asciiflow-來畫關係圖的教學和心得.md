@@ -25,7 +25,7 @@ comments: true
 以上圖為例，只要這些文字是由 [ASCII 文字](https://zh.wikipedia.org/wiki/ASCII)，也就是英文字數目字和基本的標點符號，另外只要設定它為 [等寬字體 monospaced font](https://en.wikipedia.org/wiki/Monospaced_font)，例如是 [Consolas](https://en.wikipedia.org/wiki/Consolas) 或 [Courier](https://en.wikipedia.org/wiki/Courier_(typeface)) 等，我們便能夠直接在文字編輯器裡看到一些由他們組成的概念圖。
 
 > 這篇文章我將會說：
-> 
+>
 > * 用純文字畫圖有什麼好處？
 > * 用 AsciiFlow 來畫圖，可以畫些什麼？
 > * 這個應用程式有什麼缺點和限制？
@@ -113,3 +113,5 @@ comments: true
 第一就是他只能支援 ascii 文字，就是英文字母和符號的意思，他並不能支援中文。因為中文字體的闊度和他們和英文字母不同。所以在顯示上會有問題。
 
 第二個缺點就是我們只能在電腦上使用這個軟件。如果我們在 iPad 上要使用的話，身那一定要有一隻滑鼠或是觸控板，在 iOS 13.4 以上才能使用（詳細請見這篇  [ iPadOS 13.4 使用 TrackPad 的心得（開啟 Dock、Control Center 、 Notification Center 、 Slide Over 、 Split View 等） ]({{ site.baseurl }}/ipados-13-4-%E4%BD%BF%E7%94%A8-trackpad-%E7%9A%84%E5%BF%83%E5%BE%97-%E9%96%8B%E5%95%9F-dock-control-center-notification-center-slide-over-split-view-%E7%AD%89/)）。
+
+{% include_relative index/ascii_character.md %}

@@ -27,7 +27,7 @@ comments: true
 ```md
 |header 1|header 2|header 3|
 |info 1|info 2<br>next line|info 3|
-|info 4|info 5|info 6| 
+|info 4|info 5|info 6|
 ```
 
 ![]({{ site.baseurl }}/images/20190504-3.jpeg)
@@ -176,3 +176,5 @@ comments: true
 ## > 參考資料
 
 * [TiddlyWiki 官網：Tables in WikiText ](https://tiddlywiki.com/static/Tables%2520in%2520WikiText.html)
+
+{% include_relative index/ascii_character.md %}
