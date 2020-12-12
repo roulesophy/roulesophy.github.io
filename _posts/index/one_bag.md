@@ -1,6 +1,7 @@
 ---
 一袋生活 超輕便裝備系列：
 
+* [What's in My Bag 2020 ：我背包裡有甚麼東西？]({{ site.baseurl }}/20201212-whats-in-my-bag-2020/)
 * [DJI pocket 2 使用心得：終於有輕便齊全的拍攝影片方案]({{ site.baseurl }}/20201116-dji-pocket-2-review/)
 * [我的輕便外攜餐具：GoSun Flatware餐具、Titaner 筷子、Ztraw 飲管、FoFoCup 杯子]({{ site.baseurl }}/20201022-my-tableware/)
 * [我的外出和旅行充電裝備：CA4-Pro]({{ site.baseurl }}/20200907-mobile-charger-card-ca4-pro-review/)
