@@ -1,7 +1,7 @@
 ---
 filename: 2020-12-18-ios-shortcut教學-如何快速地在-whatsapp-對與沒有在電話簿內的聯絡人溝通-.md
 layout: post
-title: iOS Shortcut教學：如何快速地在 WhatsApp 對與沒有在電話簿內的聯絡人溝通？
+title: iOS Shortcut教學：如何快速地和不在電話簿內的號碼展開 WhatsApp 對話？
 tags: iOS工作術
 date: 2020-12-18
 permalink: 20201218-whatsapp-start-conversation-with-numbers-only/
