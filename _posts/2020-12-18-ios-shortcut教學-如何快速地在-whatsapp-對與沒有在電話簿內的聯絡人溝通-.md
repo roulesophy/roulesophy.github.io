@@ -46,4 +46,4 @@ https://wa.me/85212345678
 
 內心 OS：很久沒有做過 Shortcuts 的分享了。
 
-{% include_relative index/skills_iOS.md 
+{% include_relative index/skills_iOS.md %}
