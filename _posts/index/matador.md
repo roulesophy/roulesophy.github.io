@@ -8,3 +8,4 @@ Matador 系列：
 * [Matador Flatpak Toiletry Bottles]({{ site.baseurl }}/matador-flatpak-toiletry-bottles/)
 * [Matador Beast28]({{ site.baseurl }}/肩痛人士的背包-matador-beast28/)
 * [Matador 16L Pocket Duffle](https://roulesophy.github.io/背包客的旅行輔助袋-matador-16l-pocket-duffle/)
+* [Matador Beast28 2.0 使用心得]({{ site.baseurl }}/2020-12-30-matador-beast28-ver2-review/)
