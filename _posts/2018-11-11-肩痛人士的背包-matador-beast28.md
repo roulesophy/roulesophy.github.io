@@ -14,6 +14,8 @@ comments: true
 
 這次看上的是這個，[Matador Beast28](https://matadorup.com/products/beast28-packable-technical-backpack?variant=34161105798)。
 
+（2021-01-01 更新：這一代的背包已經停產，如果你想看下一代的介紹（2020 版）﹐歡迎按這篇 [Matador Beast28 2.0 使用心得]({{ site.baseurl }}/2020-12-30-matador-beast28-ver2-review/)）
+
 > * 為什麼會看上這個背包？
 > * 使用這個背句的心得是？
 > * Beast28 和 Freerain24 的分別是？
