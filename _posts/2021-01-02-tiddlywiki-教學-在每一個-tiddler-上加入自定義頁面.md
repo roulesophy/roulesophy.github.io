@@ -55,9 +55,9 @@ comments: true
 1. 我們是使用 [Transclusion](https://tiddlywiki.com/static/Transclusion%2520in%2520WikiText.html) 的方法把這兩個 Tiddler 的內容放進 ViewTemplate Header。
 2. 嚴格來說，我們是做用 [Transclusion with Templates](https://tiddlywiki.com/static/Transclusion%2520with%2520Templates.html) 的方法來把這兩個 Tiddler 的內容放進 ViewTemplate Header。否則在複製標題到剪貼簿的按鈕裡，會複製的標題不會是當前 Tiddler 的標題，而是 "Copy Button Title" ，也就是複製標題按鈕的那個 Tiddler 標題了。Transclusion with Templates 就是比普通的 Transclusion 多了 `||`，例如是 `{{||Copy Title Button}}`。
 
-具體的分別我也有一篇文章，詳細也可以看這篇 [TiddlyWiki 製造記事連結的方法]({{ site.baseurl }}/tiddlywiki-%E8%A3%BD%E9%80%A0%E8%A8%98%E4%BA%8B%E9%80%A3%E7%B5%90%E7%9A%84%E6%96%B9%E6%B3%95/)。
-
 {% endraw %}
+
+具體的分別我也有一篇文章，詳細也可以看這篇 [TiddlyWiki 製造記事連結的方法]({{ site.baseurl }}/tiddlywiki-%E8%A3%BD%E9%80%A0%E8%A8%98%E4%BA%8B%E9%80%A3%E7%B5%90%E7%9A%84%E6%96%B9%E6%B3%95/)。
 
 ### > 第三步：把 ViewTemplate Header 加到每一個 Tiddler 裡
 
