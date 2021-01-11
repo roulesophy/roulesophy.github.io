@@ -1,7 +1,7 @@
 ---
 filename: 2021-01-11-stuff-matador-flatpak-waterproof-tolietry-case.md
 layout: post
-title: Stuff matador FlatPak Waterproof Tolietry Case
+title: Matador FlatPak Waterproof Tolietry Case 使用心得
 tags: 敗家日記 輕便裝備 一袋生活
 date: 2021-01-11
 permalink: 20210111-matador-flatpak-toiletry-case-review/
@@ -57,4 +57,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20210111-4.jpeg)
 
 {% include_relative index/one_bag.md %}
+
+{% include_relative index/matador.md %}
+
 
