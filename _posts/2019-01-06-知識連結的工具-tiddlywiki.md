@@ -45,7 +45,7 @@ comments: true
 
 這個方法也可以自己設置密碼，防止別人更改自己的東西，但由於不是 https 的關係，建議不要放私隱資料。
 
-我是自己開伺服器，並以 [Docker](https://www.docker.com) 的方法來安裝。網絡上已經有人弄好了 [使用 Docker 來安裝](%20https://github.com/djmaze/tiddlywiki-docker) 的方法。
+我是自己開伺服器，並以 [Docker](https://www.docker.com) 的方法來安裝。網絡上已經有人弄好了 [使用 Docker 來安裝](https://github.com/djmaze/tiddlywiki-docker) 的方法。
 
 ## > 參考資料
 
