@@ -8,7 +8,7 @@ permalink: 20210717-instamic-review/
 thumbnail: "20210717-1.jpeg"
 comments: true
 ---
-
+![]({{ site.baseurl }}/images/20210717-1.jpeg)  
 自從買了 [Insta360 One X2](https://www.insta360.com/product/insta360-onex2) 後，其中一個麻煩的問題就是無線收音的問題。本來 Insta360 One X2 雖然有四個麥克風，但這令它收了很多環境雜音。所以要有比好的音質我們需要一個麥克風。
 
 由於 360 相機能拍攝所有的東西，所以使用有線麥克風明顯不是一個好做法。雖然它也可以接駁 Rode Wireless GO 作無線收音，但由於它不像 [DJI Pocket 2]({{ site.baseurl }}/20201116-dji-pocket-2-review/) 般容易設置，所以每次設置都很花時間。由於每次也要花太多時間設置會很惱火，所以我一直都在想有沒有些比較方便的做法。
