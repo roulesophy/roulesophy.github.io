@@ -3,6 +3,17 @@ layout: default
 ---
 
 <article class="post">
+  <script src="../assets/global/anchor.min.js"></script>
+  <script src="../assets/global/jquery-3.6.0.min.js"></script>
+
+  <script>
+    $(function() {
+      anchors.options.visible = 'always';
+      anchors.options.placement = 'left';
+      anchors.add('.post-content > h1, h2, h3, h4, h5, h6');
+  });
+  </script>
+	
   <h1>{{ page.title }}</h1>
 
   <div class="entry">
