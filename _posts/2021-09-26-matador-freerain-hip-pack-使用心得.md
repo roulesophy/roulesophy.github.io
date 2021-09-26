@@ -1,7 +1,7 @@
 ---
 filename: 2021-09-26-matador-freerain-hip-pack-使用心得.md
 layout: post
-title: 能放 iPad mini的極大腰包：Matador Freerain Hip Pack 使用心得
+title: 能放 iPad mini 的極大腰包：Matador Freerain Hip Pack 使用心得
 tags: 敗家日記 輕便裝備 一袋生活
 date: 2021-09-26
 permalink: 20210926-matador-freerain-hip-pack-review/
