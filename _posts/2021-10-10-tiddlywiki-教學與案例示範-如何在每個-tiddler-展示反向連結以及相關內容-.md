@@ -60,7 +60,9 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20211010-4.jpeg)
 
-在這個何例子裡，我們用了幾個 operator 和 widget，分別是：
+我們可以看到 Tiddler A 和 Tiddler C 能顯示 Tiddler B 作為反向連接，以及Tiddler B 裡對應的內容。
+
+在這個例子裡，我們用了幾個 operator 和 widget，分別是：
 
 * 展示反向連結的 [backlinks operator](https://tiddlywiki.com/#backlinks%20Operator)
 * 用來把內容展示在 code block 的 [codeblock widget](https://tiddlywiki.com/#CodeBlockWidget)
