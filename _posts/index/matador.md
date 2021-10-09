@@ -10,3 +10,4 @@ Matador 系列：
 * [Matador 16L Pocket Duffle](https://roulesophy.github.io/背包客的旅行輔助袋-matador-16l-pocket-duffle/)
 * [Matador Beast28 2.0 使用心得]({{ site.baseurl }}/2020-12-30-matador-beast28-ver2-review/)
 * [Matador FlatPak Waterproof Toiletry Case 使用心得]({{ site.baseurl }}/20210111-matador-flatpak-toiletry-case-review/)
+* [能放 iPad mini的極大腰包：Matador Freerain Hip Pack 使用心得]({{ site.baseurl }}/20210926-matador-freerain-hip-pack-review/)
