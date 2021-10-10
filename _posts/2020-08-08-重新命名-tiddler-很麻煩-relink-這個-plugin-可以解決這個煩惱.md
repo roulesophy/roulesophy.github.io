@@ -63,3 +63,5 @@ Plugin 就是一些別人寫好的 Tiddler 系列，通常都是一些工具，�
 ![]({{ site.baseurl }}/images/20200808-4.jpeg)
 
 而這個命名的範圍也很闊，簡單將普通的 Link，又或是 Transclusion、圖片、Macro 的 Tidder 都可以自動重命名。這算是在 TiddlyWiki 裡一個必裝的 Plugin。
+
+{% include_relative index/tiddlywiki.md %}

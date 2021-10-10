@@ -92,3 +92,6 @@ TiddlyWiki 本來有一個名為 [Journal](https://tiddlywiki.com/static/Creatin
 另外，當我把任務 Tiddler 按下按鈕改為 `done` 時，這個按鈕還會自動為該 Tiddler 加上一個 Tag 為 Journal Tiddler 名稱的格式。這樣我便能夠在 Journal Tiddler 裡看到這天完成了甚麼任務，方便在 [每週回顧]({{ site.baseurl }}/%E6%88%91%E7%9A%84%E6%AF%8F%E9%80%B1%E5%9B%9E%E9%A1%A7%E6%B5%81%E7%A8%8B/) 時回顧自己做了甚麼，並把重要的任務放到回顧表格裡。
 
 內心 OS: 以文字來描述這個系統有點複雜。
+
+
+{% include_relative index/tiddlywiki.md %}

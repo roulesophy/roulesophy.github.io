@@ -90,3 +90,5 @@ $:/tags/ViewTemplate 這個 Tiddler 是系統內置的，所以不用自己增�
 btw ，這次我把 source 放在 [這裡]({{ site.baseurl }}/TiddlyWiki_Demo/ViewTemplate_Header.html)，大家可以參考看看。
 
 內心 OS: 這篇很重要，日後還有教學的話應該有不少教學也需要使用這一頁的方法。
+
+{% include_relative index/tiddlywiki.md %}

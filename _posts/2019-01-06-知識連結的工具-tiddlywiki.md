@@ -53,3 +53,6 @@ comments: true
 * [TW5 Magick: Some tricks and snippets for TiddlyWiki 5](http://tw5magick.tiddlyspot.com)：一個比較進階關於 TiddlyWiki 的技巧分享網頁。
 
 [^1]: csv、json、html 和它自家的 tid 格式，都是純文字格式。圖片等會以 base64 的方法來編碼成純文字，就算有問題時也算是能夠自己把編碼變回圖片等格式。
+
+
+{% include_relative index/tiddlywiki.md %}

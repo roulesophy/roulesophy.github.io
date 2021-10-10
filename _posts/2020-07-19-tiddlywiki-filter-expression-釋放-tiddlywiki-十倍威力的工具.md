@@ -109,3 +109,5 @@ Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption
  Filter Expression 雖然不算容易學習，但是這是我認為和其他 wiki 應用的很大的分別，這個功能和其他的 [widget](https://tiddlywiki.com/#Widgets%20in%20WikiText) 結合起來 ，就會變成了訂制度十分高的工具，功能基本上已經超越了 wiki 工具的範圍。
 
 也因為 TiddlyWiki 有這麼彈性的功能，才能讓我們自己做出滿足自己需要的功能。
+
+{% include_relative index/tiddlywiki.md %}

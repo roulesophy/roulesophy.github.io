@@ -30,3 +30,6 @@ comments: true
 ![]({{ site.baseurl }}/images/20190429-3.jpeg)
 
 ![]({{ site.baseurl }}/images/20190429-4.gif)
+
+
+{% include_relative index/tiddlywiki.md %}

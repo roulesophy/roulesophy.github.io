@@ -81,3 +81,5 @@ Soft Link 比較複雜，比如說以 transclusion 的方法把一個 Tiddler �
 ## > 總結
 
 既然 TiddlyWiki 本來就內置了雙向連結的功能，大家不妨在使用 TiddlyWiki 的時候不妨多加一些連結（例如是每新建一個 Tiddler 時都盡量和已有的 Tiddler 作連結），令這個自己的知識網絡變得更強大。
+
+{% include_relative index/tiddlywiki.md %}

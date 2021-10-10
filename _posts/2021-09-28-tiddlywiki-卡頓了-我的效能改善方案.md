@@ -96,3 +96,5 @@ comments: true
 
 其實官網裡 [Performance](https://tiddlywiki.com/#Performance) 和 [Performance Instrumentation](https://tiddlywiki.com/#Performance%20Instrumentation) 這兩頁提及了很多可以做的效能提升方案，有需要的同學也可以參考一下。
 
+
+{% include_relative index/tiddlywiki.md %}
