@@ -1,7 +1,7 @@
 ---
 filename: 2021-10-26-tiddlywiki-教學與示範-如何像-evernote-般快速加入-checkbox-checkboxwidget-editortoolbar-actionsendmessagewidget-.md
 layout: post
-title: TiddlyWiki 教學與示範：如何像 Evernote 般快速加入 checkbox？CheckboxWidget、EditorToolbar、ActionSendMessageWidget）
+title: TiddlyWiki 教學與示範：如何像 Evernote 般快速加入 checkbox？（CheckboxWidget、EditorToolbar、ActionSendMessageWidget）
 tags: TiddlyWiki
 date: 2021-10-26
 permalink: 20211026-tiddlywiki-tutorial-insert-checkbox/
@@ -10,7 +10,7 @@ comments: true
 ---
 
 ![]({{ site.baseurl }}/images/20211026-1.jpeg)  
-當我們使用 TiddlyWiki 時，好容易一開始就和其他的筆記軟件作比較。例如如果你是由 Evernote 轉過來的話，你就會第一時間想為什麼好像要加一個 check box 到TiddlyWiki 都這樣困難的？
+當我們使用 TiddlyWiki 時，好容易一開始就和其他的筆記軟件作比較。例如如果你是由 Evernote 轉過來的話，你就會第一時間想為什麼好像要加一個 check box 到 TiddlyWiki 都這樣困難的？
 
 在Evernote 裡用一個列點然後加一個 check box 已經可以好簡單做到一個待辦清單。
 
@@ -122,3 +122,5 @@ comments: true
 * [action-sendmessage](https://tiddlywiki.com/#ActionSendMessageWidget) 這個 message 來改變 tiddler 的狀態
 
 特別是 action-sendmessage 這個 Widget，配合不同的 [message](https://tiddlywiki.com/#Messages) 使用會是一個十分常用並強大的功能，有興趣的同學可以多加留意。
+
+{% include_relative index/tiddlywiki.md %}
