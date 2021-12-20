@@ -9,3 +9,4 @@
 * [戀愛大人學 上課心得]({{ site.baseurl }}/戀愛大人學心得/)
 * [交往時見對方父母的心得和經歷]({{ site.baseurl }}/20201128-boyfriend-girlfriend-parents/)
 * [第一次求婚就成功：我的求婚心得]({{ site.baseurl }}/20201219-engage-experience-sharing/)
+* [籌備婚禮的心得（一）：做了這些會讓過程更順利]({{ site.baseurl }}/20211220-wedding-experience-1/)
