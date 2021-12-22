@@ -9,6 +9,8 @@ thumbnail: "20211222-1.jpeg"
 comments: true
 ---
 
+
+![]({{ site.baseurl }}/images/20211222-1.jpeg)
 繼 [上一篇]({{ site.baseurl }}/20211220-wedding-experience-1/) 後，這篇來分享一下當時我在 Prewedding 、過大禮 和 Big Day 時發生的事情和經驗，也當是給自己的記錄。
 
 ## > Prewedding

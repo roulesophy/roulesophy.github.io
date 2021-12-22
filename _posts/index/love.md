@@ -10,3 +10,4 @@
 * [交往時見對方父母的心得和經歷]({{ site.baseurl }}/20201128-boyfriend-girlfriend-parents/)
 * [第一次求婚就成功：我的求婚心得]({{ site.baseurl }}/20201219-engage-experience-sharing/)
 * [籌備婚禮的心得（一）：做了這些會讓過程更順利]({{ site.baseurl }}/20211220-wedding-experience-1/)
+* [籌備婚禮的心得（二）：關於 Prewedding、過大禮 和 Big Day]({{ site.baseurl }}/20211222-wedding-experience-2/)
