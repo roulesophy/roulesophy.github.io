@@ -129,7 +129,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 ![]({{ site.baseurl }}/images/20220320-24.jpeg)
 
-![##厚一點的 iPad 也hold 不住。]({{ site.baseurl }}/images/20220320-25.jpeg)
+![##厚一點的 iPad 也 hold 不住。]({{ site.baseurl }}/images/20220320-25.jpeg)
 
 ## > Roost V3：V2 的很好的升級
 
@@ -137,9 +137,9 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 由於 Roost 這玩意太昂貴了，所以在已經有 V2 的情況下，加上網絡上太少關於 V3 的資料，我也爭扎了一段時間是否升級。最後還是買了一個回來試試。
 
-![##Roost V3]({{ site.baseurl }}/images/20220320-26.jpeg.jpg)
+![##Roost V3]({{ site.baseurl }}/images/20220320-26.jpeg)
 
-![]({{ site.baseurl }}/images/20220320-27.jpeg.jpg)
+![]({{ site.baseurl }}/images/20220320-27.jpeg)
 
 它比 Roost V2 稍重，有 181g，但是它比起 V2 有以下的 3 個優點：
 
