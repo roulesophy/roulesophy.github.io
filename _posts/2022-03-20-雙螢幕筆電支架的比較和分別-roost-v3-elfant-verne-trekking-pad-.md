@@ -151,11 +151,11 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 第三個優點是它可以放在一個 Verne Trekking Pad 而不用像 Roost V2 般要使用兩個。這個是我買前最想知道的事情。因為這樣做的話，帶著 Roost V3 加上一塊 Verne Trekking Pad 就是最輕便的方案，只有 181 + 240 = 421g。
 
-![##看似有一點危險，但已經比 Roost V2 安全得多，至少這個是能用的程度。]({{ site.baseurl }}/images/20220320-29.jpeg.jpg)
+![##看似有一點危險，但已經比 Roost V2 安全得多，至少這個是能用的程度。]({{ site.baseurl }}/images/20220320-29.jpeg)
 
 只是，它的闊度也不能令我以 iPad mini 作為第二螢幕⋯
 
-![]({{ site.baseurl }}/images/20220320-30.jpeg.jpg)
+![]({{ site.baseurl }}/images/20220320-30.jpeg)
 
 使用時發現的另一個問題是一開始發現可能 hold 不住厚一點的 iPad，但只要用以下的方法便可以了。
 
