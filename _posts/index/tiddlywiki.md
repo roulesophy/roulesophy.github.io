@@ -17,3 +17,5 @@ TiddlyWiki 教學：
 * [TiddlyWiki 卡頓了？我的效能改善方案]({{ site.baseurl }}/20210928-tiddlywiki-performance-tuning/)
 * [TiddlyWiki 教學與案例示範：如何在每個 Tiddler 展示反向連結以及相關內容？]({{ site.baseurl }}/20211010-tiddlywiki-tutorial-contextual-backlinks/)
 * [TiddlyWiki 教學與示範：如何像 Evernote 般快速加入 checkbox？（CheckboxWidget、EditorToolbar、ActionSendMessageWidget）]({{ site.baseurl }}/20211026-tiddlywiki-tutorial-insert-checkbox/)
+* [TiddlyWiki 教學與示範：計算電費的表格]({{ site.baseurl }}/20220327-tiddlywiki-bill-splitter-example/)
+* 
