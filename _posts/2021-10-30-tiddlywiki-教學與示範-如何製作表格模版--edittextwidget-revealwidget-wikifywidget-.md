@@ -38,7 +38,7 @@ comments: true
 
 但這兩個做法都有些問題。第一個方案會使 編輯 Tiddler 時變得異常困難，因為易難性很差；第二個方案則需要新建其他 Tiddler 的幫忙，這樣會使得比較難管理。
 
-##  \> 解決方案：在表格裡放入 EditTextWidget
+## > 解決方案：在表格裡放入 EditTextWidget
 
 EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了這個，Tiddler 便會出現了一個文字輸入框，而內容就會寫在指定的 field 裡。
 
@@ -68,7 +68,7 @@ EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了�
 
 不過背後的成因不重要，只要在 5.2.0 或以上的版本中使用就可以了。
 
-##  \> 下一個改良：用 RevealWidget 來切換編輯模式和閱讀模式
+## > 下一個改良：用 RevealWidget 來切換編輯模式和閱讀模式
 
 如果，我們能夠有一個按鈕，按一下內容會是 EditTextWidget，再按一下會變成 EditTextWidget 對應的 field 的內容顯示出來呢？
 
@@ -103,15 +103,17 @@ EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了�
 
 當我們按下這個 To View Mode 的按鈕時，這個按鈕會改變 readwritemode 這個 field 的數值變成 readmode，所以這些由於 readwritemode 是 readmode，所以 To View Mode 不會顯示，而 To Write Mode 這個按鈕則能夠被顯示。
 
-我們可以用以上的東西來切去換閲讀模式和編輯模式。只要使用以上的女按鈕和稍稍修改 TableCellMultiLine 這個 macro：
+我們可以用以上的東西來切去換閲讀模式和編輯模式。只要使用以上的按鈕和稍稍修改 TableCellMultiLine 這個 macro：
 
 ```html
+{% raw %}
 \define TableCellMultiLine(field, height:"100px")
 <$reveal type="nomatch" state="!!readwritemode" text="readmode">
 <$edit-text field="$field$" placeholder="" tag=textarea minHeight="$height$" autoHeight="yes"/>
 </$reveal>
 <$reveal type="match" state="!!readwritemode" text="readmode"><$wikify name="fieldvalue" text="{{!!$field$}}" output="html"><<fieldvalue>></$wikify></$reveal>
 \end
+{% endraw %}
 ```
 
 這裡在顯示模式下使用了一個名為 [WikifyWidget](https://tiddlywiki.com/#WikifyWidget) 的東西，就是把內容變成顯示的樣子，例如內容是表格的語句的話，用了這個 Widget 後便會變成顯示的表格。
