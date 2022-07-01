@@ -44,6 +44,11 @@ to the `site_tags` variable. -->
 
 <!-- List of all tags -->
 <ul class="tags">
+    <li>
+        <!-- <a href="{{ site.baseurl }}/tags/#all" class="tag" onclick="hideAllElement();showElement('title_all');">所有文章</a> -->
+        
+        <div class="tag" onclick="hideAllElement();showElement('title_all');">所有文章</div>
+    </li>
 	{% for item in (0..site.tags.size) %}
 		{% unless forloop.last %}
 			{% capture this_word %}{{ tag_words[item] }}{% endcapture %}
@@ -83,4 +88,25 @@ to the `site_tags` variable. -->
 	    </table>
     </div>
   {% endunless %}{% endfor %}
+  <!-- show all posts -->
+  <div class="title" id="title_all" style="display: block;">
+    <h2 id="all">所有文章</h2>
+    <table>
+        <colgroup>
+            <col style="width:80%">
+            <col style="width:20%">
+        </colgroup>  
+        {% for post in site.posts %}
+            {% if post.title != null %}
+                <!--<div>-->
+                  <tr>
+                      <td><a href="{{ post.url }}">{{ post.title }}</a></td>
+                      <td>{{ post.date | date: "%Y-%m-%d" }}</td>
+                  </tr>
+                <!--</div>-->
+                <!--<div style="clear: both;"></div>-->
+            {% endif %}
+        {% endfor %}
+    </table>
+  </div>
 </div>

@@ -53,6 +53,9 @@
     	}
     }
     function showHash() {
+        if (!window.location.hash.startsWith("#")) {
+            return;
+        }
     	var hash = window.location.hash.substr(1);
     	hideAllElement();
     	showElement('title_' + hash);
