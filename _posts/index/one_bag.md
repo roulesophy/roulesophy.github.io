@@ -1,6 +1,7 @@
 ---
 一袋生活 超輕便裝備系列：
 
+* [自攜電腦到公司工作的輕便裝備（Tofu Maru、KableCARD  KC-C090、Swiftpoint Propoint、Matador Laptop Base Layer）]({{ site.baseurl }}/20220716-bring-computer-to-company/)
 * [What's in My Bag 2021 ：我背包裡有甚麼東西？]({{ site.baseurl }}/20211229-whats-in-my-bag-2021/)
 * [能放 iPad mini的極大腰包：Matador Freerain Hip Pack 使用心得]({{ site.baseurl }}/20210926-matador-freerain-hip-pack-review/)
 * [Matador FlatPak Waterproof Toiletry Case 使用心得]({{ site.baseurl }}/20210111-matador-flatpak-toiletry-case-review/)

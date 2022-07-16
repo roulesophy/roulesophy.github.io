@@ -11,3 +11,4 @@ Matador 系列：
 * [Matador Beast28 2.0 使用心得]({{ site.baseurl }}/2020-12-30-matador-beast28-ver2-review/)
 * [Matador FlatPak Waterproof Toiletry Case 使用心得]({{ site.baseurl }}/20210111-matador-flatpak-toiletry-case-review/)
 * [能放 iPad mini的極大腰包：Matador Freerain Hip Pack 使用心得]({{ site.baseurl }}/20210926-matador-freerain-hip-pack-review/)
+* [自攜電腦到公司工作的輕便裝備（Tofu Maru、KableCARD  KC-C090、Swiftpoint Propoint、Matador Laptop Base Layer）]({{ site.baseurl }}/20220716-bring-computer-to-company/)
