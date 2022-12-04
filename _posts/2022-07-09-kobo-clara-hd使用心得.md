@@ -10,7 +10,7 @@ comments: true
 ---
 
 ![]({{ site.baseurl }}/images/20220709-1.jpeg)  
-最近買了這部 6寸的 [Kobo Clara HD](https://gl.kobobooks.com/products/kobo-clara-hd) 閱讀器。
+最近買了這部 6寸的 [Kobo Clara HD](https://gl.kobobooks.com/products/kobo-clara-hd) 閱讀器（更新版是 [Kobo Clara 2E](https://amzn.to/3VS9Xjx)）。
 
 已經有了 Kobo Forma，為什麼還要買多一部小的 Kobo Clara HD 呢？
 
@@ -64,7 +64,7 @@ Kobo Forma 有手寫板功能，可能因為 螢幕大小的關係，Kobo Clara 
 
 這只是一個小抱怨。真希望它是使用 Type C 作充電和資料傳輸啊。
 
-其實對我來說充電的話還好，因為一方面 Kobo Clara 不需要經常充電，另一方面我會很習慣用 [inCharge X](https://rollingsquare.com/products/incharge-x) 作一切的電和資料傳輸。
+其實對我來說充電的話還好，因為一方面 Kobo Clara 不需要經常充電，另一方面我會很習慣用 [inCharge X](https://amzn.to/3XUaHX7) 作一切的電和資料傳輸。
 
 只是遺憾地 inCharge X 無法為 Kobo Clara HD 和 電腦作資料傳輸，每次要找一條能傳輸資料的 micro usb 線都很頭痛。
 
