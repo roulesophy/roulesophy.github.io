@@ -10,7 +10,7 @@ comments: true
 ---
 
 ![]({{ site.baseurl }}/images/20220904-1.jpeg)  
-最近買了這個 [iPad mini 6 的鍵盤加觸控板](https://www.amazon.com/SOUYOYIHI-Magnetic-Rotating-Generation-Rotatable/dp/B09YV9GD2D)。在便攜上和觸控板上是我用過的最好用的。
+最近買了這個 [iPad mini 6 的鍵盤加觸控板](https://amzn.to/3B9N42Z)。在便攜上和觸控板上是我用過的最好用的。
 
 ## > 整體介紹
 
