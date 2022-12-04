@@ -16,7 +16,7 @@ comments: true
 
 雖然有些公司的桌面上有外置螢幕和為筆電充電的充電器，但是有些情況下（例如是要拿著筆電到會議室開會），有一個電腦充電器會很有用。
 
-如果你公司的電腦用Type C 來充電，以及充電器是65W 或以下的話，可以考慮使用[Tofu Maru](https://zentofu.com/tps.php) 這個充電器。
+如果你公司的電腦用Type C 來充電，以及充電器是65W 或以下的話，可以考慮使用[Tofu Maru](https://amzn.to/3VMpFN1) 這個充電器。
 
 這是一個自帶為電腦充電的迷你拖板。
 
@@ -34,7 +34,7 @@ comments: true
 
 ## > 最迷你的電腦充電線：KableCARD  KC-C090
 
-這是我見過最輕便的能為電腦充電的 type c to type c 線，[連結在此](https://www.elvesfactory.com/worldshop/TW/CARD/Accessories/KC7ex-MB)。
+這是我見過最輕便的能為電腦充電的 type c to type c 線，[連結在此](https://amzn.to/3VMpu4j)。
 
 ![]({{ site.baseurl }}/images/20220716-6.jpeg)
 
@@ -50,7 +50,7 @@ comments: true
 
 ## > 最迷你的滑鼠：Swiftpoint Propoint
 
-這是我用過最迷你但真的能用一整天的滑鼠，[連結在此](https://www.swiftpoint.com/products/ergonomic-mice-propoint)。
+這是我用過最迷你但真的能用一整天的滑鼠，[連結在此](https://amzn.to/3Vwtfeu)。
 
 以前我也寫過一篇關於上一代的 Swiftpoint GT 的介紹，[連結在此]({{ site.baseurl }}/ipad-%E5%B7%A5%E4%BD%9C%E8%A1%93-%E4%BB%A5-ipad-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-swiftpoint-gt-%E9%81%A0%E7%AB%AF%E6%8E%A7%E5%88%B6%E9%9B%BB%E8%85%A6/)。
 
@@ -90,7 +90,7 @@ comments: true
 
 ## > 最輕便的鍵盤：iClever BK-06
 
-這是我使用過最輕便，對手部也比較好的鍵盤，[連結在此](https://www.amazon.com/iClever-Rechargeable-Bluetooth-Smartphones-IC-BK06/dp/B01JA6HG88)。
+這是我使用過最輕便，對手部也比較好的鍵盤，[連結在此](https://amzn.to/3XTFy5Y)。
 
 ![]({{ site.baseurl }}/images/20220716-14.jpeg)
 
