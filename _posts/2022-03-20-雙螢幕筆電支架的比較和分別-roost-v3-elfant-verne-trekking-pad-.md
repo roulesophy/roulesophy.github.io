@@ -16,7 +16,7 @@ comments: true
 
 在介紹不同的支架前，先來重溫一下。電腦支架的主要目的是使電腦螢幕升高至最好能讓自己在腰背挺直時，眼睛平望時看到電腦螢幕的最上方。如果螢幕太低時，我們使用時便會不自覺彎腰，而這會對身體全身都會造成很嚴重的傷害，更多可以看 [從姿勢開始：生活人體工學&痠痛自救法 上課心得]({{ site.baseurl }}/%E5%BE%9E%E5%A7%BF%E5%8B%A2%E9%96%8B%E5%A7%8B-%E7%94%9F%E6%B4%BB%E4%BA%BA%E9%AB%94%E5%B7%A5%E5%AD%B8-%E7%97%A0%E7%97%9B%E8%87%AA%E6%95%91%E6%B3%95-%E4%B8%8A%E8%AA%B2%E5%BF%83%E5%BE%97/)。
 
-我的 setup 主要是把 MacBook Pro 13 放在可摺疊電腦支架上，並且在鍵盤位置放上一部 iPad 並以 SideCar 作為第二螢幕使用  （我使用 iPad Pro 2017，單純是因為以前買的）。在鍵盤位置和 iPad 中間放上 JustMobile 的 [Lazy Couch](https://just-mobile.com/collections/stands/products/lazycouch?variant=9787225178154)（重量為 52g） 使 iPad 維持挺直。 
+我的 setup 主要是把 MacBook Pro 13 放在可摺疊電腦支架上，並且在鍵盤位置放上一部 iPad 並以 SideCar 作為第二螢幕使用  （我使用 iPad Pro 2017，單純是因為以前買的）。在鍵盤位置和 iPad 中間放上 JustMobile 的 [Lazy Couch](https://amzn.to/3gViZNU)（重量為 52g） 使 iPad 維持挺直。 
 
 ![]({{ site.baseurl }}/images/20220320-2.jpeg)
 
@@ -25,7 +25,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 這組設置需要使用外置鍵盤和滑鼠，這個的選擇就比較個人。我會視情況決定使用以下其中一款：
 
 * [Roost Minimalist Keyboard Sleeve](https://www.therooststand.com/collections/roost-laptop-stand/products/protective-keyboard-sleeve)（52g） + Apple magic keyboard A1644 （229g）+ Apple Magic Mouse A1657 （99g）
-* [iClever BK06 Keyboard](Foldable%20Rechargeable%20Universal%20Wireless%20Keyboard%20https://www.iclever.com/products/boosttype-bk06-universal-wireless-keyboard)（165g）+ [SwiftPoint ProPoint](https://www.swiftpoint.com/products/ergonomic-mice-propoint)（連 case 58g、不連 case 27g）（上一代的 SwiftPoint GT 介紹看 [[iPad 工作術：以 iPad、鍵盤和滑鼠（Swiftpoint GT）遠端控制電腦]({{ site.baseurl }}/ipad-%E5%B7%A5%E4%BD%9C%E8%A1%93-%E4%BB%A5-ipad-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-swiftpoint-gt-%E9%81%A0%E7%AB%AF%E6%8E%A7%E5%88%B6%E9%9B%BB%E8%85%A6/)）
+* [iClever BK06 Keyboard](https://amzn.to/3uu5ZBH)（165g）+ [SwiftPoint ProPoint](https://amzn.to/3OWpcFP)（連 case 58g、不連 case 27g）（上一代的 SwiftPoint GT 介紹看 [[iPad 工作術：以 iPad、鍵盤和滑鼠（Swiftpoint GT）遠端控制電腦]({{ site.baseurl }}/ipad-%E5%B7%A5%E4%BD%9C%E8%A1%93-%E4%BB%A5-ipad-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-swiftpoint-gt-%E9%81%A0%E7%AB%AF%E6%8E%A7%E5%88%B6%E9%9B%BB%E8%85%A6/)）
 
 這篇會介紹幾組 setup ，我會說明每組 setup 的重量、電腦提高後的高度（2020 MacBook Pro 13 上沿高度和桌面的距離） 和 使用上要注意的地方。
 
@@ -83,7 +83,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 ## > ElfAnt Laptop Stand：重、但很高很札實
 
-這個在 [Amazon](ElfAnt%20Laptop%20Stand%20https://www.amazon.com/ElfAnt-Laptop-Adjustable-Portable-Aluminum/dp/B086L35VML) 買的支架是我最近買的支架，我個人認為在家使用十分合適。
+這個在 [Amazon](https://amzn.to/3B3VPeL) 買的 ElfAnt 支架是我最近買的支架，我個人認為在家使用十分合適。
 
 ![]({{ site.baseurl }}/images/20220320-14.jpeg)
 
@@ -133,7 +133,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 ## > Roost V3：V2 的很好的升級
 
-最近看到了 Roost 出了[更新版 V3](https://www.therooststand.com/products/roost-v3-roost-laptop-stand)，舊的 V2 已經停產。
+最近看到了 Roost 出了[更新版 V3](https://amzn.to/3Vterx2)，舊的 V2 已經停產。
 
 由於 Roost 這玩意太昂貴了，所以在已經有 V2 的情況下，加上網絡上太少關於 V3 的資料，我也爭扎了一段時間是否升級。最後還是買了一個回來試試。
 
