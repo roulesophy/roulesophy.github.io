@@ -63,9 +63,9 @@ comments: true
 
 除了對着 YouTube 做瑜珈或 HIIT 外，也可以考慮玩 Nintendo Switch 的運動遊戲，例如是：
 
-* [Zumba](https://store.nintendo.com.hk/70010000028393)
-* [Fitness Boxing](https://store.nintendo.com.hk/catalogsearch/result/?q=fitness+boxing)
-* [健身環大冒險](https://ringfitadventure.nintendo.com/)
+* [Zumba](https://store.nintendo.com.hk/70010000028393) ([Amazon link](https://amzn.to/3B7VQi9))
+* [Fitness Boxing](https://store.nintendo.com.hk/catalogsearch/result/?q=fitness+boxing) ([Amazon link](https://amzn.to/3B9jv1D))
+* [健身環大冒險](https://ringfitadventure.nintendo.com/) ([Amazon link](https://amzn.to/3uo5GIF))
 
 對我個人而言，由於我腳跟痛了很長的時間，所以不論是跑步還是 Nintendo Switch 的很多遊戲我也無法進行。
 
