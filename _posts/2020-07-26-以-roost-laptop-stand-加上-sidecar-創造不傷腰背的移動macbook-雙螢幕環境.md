@@ -40,7 +40,7 @@ comments: true
 
 然後我在市面上找了一些牌子的筆記本支架，發現有兩個問題。第一個問題是這個就算有了這個時間，筆記本的高度也不夠高，其實對要背也是有傷害。第二個問題是這些支架不是體積太大、就是太重，外出攜帶不夠方便。
 
-而最近找到的這個 [Roost Laptop Stand](https://www.therooststand.com)，它比起其它的筆記本支架而言，它有兩個優點：
+而最近找到的這個 [Roost Laptop Stand](https://amzn.to/3FGaWNd)，它比起其它的筆記本支架而言，它有兩個優點：
 
 第一個優點是它可以把筆記本枱得更高，以我的Macbook Pro 13吋為例，抬高後我的螢幕下沿距離桌子最高能抬高了27厘米（它有三個高度設定）。這比其他的筆記本支架好很多了。
 
@@ -68,7 +68,7 @@ comments: true
 
 ## > 解決在外使用 MacBook 時的雙螢幕問題
 
-我以前也試過不少雙螢幕方法，例如很多年前使用 Lenovo 的一個 [外接雙螢幕](https://www.amazon.com/Lenovo-ThinkVision-LT1421-Portable-Monitor/dp/B005L2NA54)，又或者是使用 [Duet Display](https://www.duetdisplay.com) 以 iPad 作為第二螢幕等等的方式。這些方式不是外接螢幕太重便是連接性不夠好。
+我以前也試過不少雙螢幕方法，例如很多年前使用 Lenovo 的一個 [外接雙螢幕](https://amzn.to/3jfgeI1)，又或者是使用 [Duet Display](https://www.duetdisplay.com) 以 iPad 作為第二螢幕等等的方式。這些方式不是外接螢幕太重便是連接性不夠好。
 
 而這些年蘋果推出的 [Sidecar](https://support.apple.com/zh-hk/HT210380) 功能，是我用過以 iPad 作為第二螢幕來說穩定性最好的連接方法。這個方法在沒有Wi-Fi 的情況下也能使用，只要你有一條連接線，再連接 iPad 的時候選擇信任這部電腦，這樣便可以連接了。如果是
 
@@ -86,11 +86,11 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20200726-10.jpeg)
 
-就像是這樣。我只是把 [Just Mobile lazy couch](https://just-mobile.com/collections/stands/products/lazycouch?variant=9787225178154) 放在 iPad 和 MacBook 中間的這個位置使得 iPad稍為垂直一點（其實放任何東西也可以啦）。另外使用這條 [ProMini 的充電線](https://www.magic-pro.com/products/promini-type-c-to-lightning-pd-quick-charge-sync-cable-1) 來連接 MacBook 和 iPad。
+就像是這樣。我只是把 [Just Mobile lazy couch](https://amzn.to/3HLGhRi) 放在 iPad 和 MacBook 中間的這個位置使得 iPad稍為垂直一點（其實放任何東西也可以啦）。另外使用這條 [ProMini 的充電線](https://www.magic-pro.com/products/promini-type-c-to-lightning-pd-quick-charge-sync-cable-1) 來連接 MacBook 和 iPad。
 
 ![]({{ site.baseurl }}/images/20200726-11.jpeg)
 
-至於鍵盤和滑鼠方面是用那一個只是看大家喜好。我是用的鍵盤是 [Microsoft Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY)。因為它的體積很小的關係，我本來用 iPad mini 在外時也是使用它。另外它有一個好處，就是他可以快速切換兩個裝置，那麼我可以隨時用它切換到 iPad 或是 MacBook 裡。這個鍵盤在[這篇]({{ site.baseurl }}/%E5%A4%96%E5%87%BA%E6%94%9C%E5%B8%B6%E7%94%A8%E7%9A%84-ipad-mini-%E7%B3%BB%E7%B5%B1-microsoft-surface-arc-mouse-microsoft-universal-foldable-keyboard-apple-pencil/)也有介紹。
+至於鍵盤和滑鼠方面是用那一個只是看大家喜好。我是用的鍵盤是 [Microsoft Foldable Keyboard](https://amzn.to/3jex0GW)。因為它的體積很小的關係，我本來用 iPad mini 在外時也是使用它。另外它有一個好處，就是他可以快速切換兩個裝置，那麼我可以隨時用它切換到 iPad 或是 MacBook 裡。這個鍵盤在[這篇]({{ site.baseurl }}/%E5%A4%96%E5%87%BA%E6%94%9C%E5%B8%B6%E7%94%A8%E7%9A%84-ipad-mini-%E7%B3%BB%E7%B5%B1-microsoft-surface-arc-mouse-microsoft-universal-foldable-keyboard-apple-pencil/)也有介紹。
 
 ![]({{ site.baseurl }}/images/20191005-5.jpeg)
 
