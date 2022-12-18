@@ -25,7 +25,7 @@ comments: true
 
 ## > 那麼為何會改用 AeroPress 來製造咖啡？
 
-這個其實也是偶然。也因為突如其來在看到 AeroPress 出現了隨行的版本： [AeroPress Go](https://aeropress.com/aeropress-go/)，立刻被它能夠方便地帶出戶外的設計而吸引。上網看後也發現 AeroPress 的沖煮方法十分簡單，可以在任何地方製作美味的咖啡。於是便決定一試。
+這個其實也是偶然。也因為突如其來在看到 AeroPress 出現了隨行的版本： [AeroPress Go](https://amzn.to/3upeiPg)，立刻被它能夠方便地帶出戶外的設計而吸引。上網看後也發現 AeroPress 的沖煮方法十分簡單，可以在任何地方製作美味的咖啡。於是便決定一試。
 
 ![]({{ site.baseurl }}/images/20200913-2.jpeg)
 
@@ -78,7 +78,7 @@ comments: true
 
 官網說到他們不推薦使用金屬濾網，因為金屬濾網不能過濾咖啡裡增加有害膽固醇的物質 Cafestol（關於咖啡如何增加膽固醇，可以 [看此](https://www.sciencedaily.com/releases/2007/06/070614162223.htm)）。而紙的濾紙可以輕易地隔絕這種物質。另外就是其實紙的濾紙也是可以清洗重用的。我在網上看到他們的發明家 Alan Adler 甚至把同一張濾紙重複使用80次。
 
-雖然如此，但是我也買了一個金屬濾網分別是 [Able 的濾網](https://ablebrewing.com/products/disk-coffee-filter) 和 [KOHI Labs 的超薄濾網](https://kohilabs.com/kohi-filter-for-aeropress/)。Able 的金屬濾網出來的效果沒有 KOHI 的甜，但是 Able 金屬濾網可以使用很多次，而 KOHI 金屬濾網十分薄，老闆跟我說大概只能用 100次。
+雖然如此，但是我也買了一個金屬濾網分別是 [Able 的濾網](https://amzn.to/3YwuEU8) 和 [KOHI Labs 的超薄濾網](https://kohilabs.com/kohi-filter-for-aeropress/)。Able 的金屬濾網出來的效果沒有 KOHI 的甜，但是 Able 金屬濾網可以使用很多次，而 KOHI 金屬濾網十分薄，老闆跟我說大概只能用 100次。
 
 而我有時候為了不讓紙濾網在壓出咖啡時黏上太多的咖啡難以清洗，我會把金屬濾網和濾紙一起使用，把金屬濾網放在濾紙上，避免咖啡粉直接接觸濾紙。
 
