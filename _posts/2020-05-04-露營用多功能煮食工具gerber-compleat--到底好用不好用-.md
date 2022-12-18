@@ -11,7 +11,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20200504-1.jpeg)  
 大家在露營時都會帶上甚麼煮食工具？如果只帶上叉和匙勺的話，可能在烹調時才發現忘了帶開瓶器和其他的一些工具；但如果帶上了其他工具的話，可能背包又會有太多的工具導致過重。  
-有了 Gerber COMPLEAT ，這些問題可能得到了解答，但是，到底它是否如宣傳中的這麼好用？以下是使用這個露營煮食工具 [Gerber COMPLEAT](https://www.gerbergear.com/en-us/shop/equipment/all-equipment/compleat-onyx-31-003463) 的心得。
+有了 Gerber COMPLEAT ，這些問題可能得到了解答，但是，到底它是否如宣傳中的這麼好用？以下是使用這個露營煮食工具 [Gerber COMPLEAT](https://amzn.to/3YuKy1k) 的心得。
 
 這次試試在正文前作一些類似簡報的圖片，看看效果如何。
 
@@ -101,4 +101,4 @@ comments: true
 
 只能期待它下一代的改良吧。
 
-購買網址 [按此](https://www.amazon.com/Gerber-ComplEAT-Cooking-Bronze-31-003465/dp/B07N84K2GV) （如果你還有興趣的話）。
+購買網址 [按此](https://amzn.to/3YuKy1k) （如果你還有興趣的話）。
