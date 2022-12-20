@@ -44,7 +44,7 @@ comments: true
 
 背包的下袋用來放 [可收納的防風外套](https://www.montbell.us/products/disp.php?p_id=2303123) 方便在冷氣地使用。
 
-背包的兩側口袋分別放 [雨傘](https://www.umbrella-store.net/home/pentagon79/) 和這個 [可收納的水瓶](https://www.vapur.us/shop/anti-bottles/1l-wide-mouth-antibottle-element-water.html)。這裡有個小抱怨，就是這兩個側袋太小了，普通的水瓶是不能放裡去的。
+背包的兩側口袋分別放 [雨傘](https://www.umbrella-store.net/home/pentagon79/) 和這個 [可收納的水瓶](https://amzn.to/3WsVlY7)。這裡有個小抱怨，就是這兩個側袋太小了，普通的水瓶是不能放裡去的。
 
 而背包內裡放做運動的衣服，電腦袋用來放 iPad Pro。
 
