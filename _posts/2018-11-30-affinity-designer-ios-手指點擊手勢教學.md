@@ -156,7 +156,7 @@ Affinity Designer 是一個類似 Adobe Illustrator 的程式，[App Store 連�
 
 ## > 好像很複雜⋯
 
-沒錯，真是很複雜 ┐('～`；)┌ ，所以製作了以下的 Cheatsheet 以作參考。`
+沒錯，真是很複雜 ┐('～'；)┌ ，所以製作了以下的 Cheatsheet 以作參考。`
 
 ![]({{ site.baseurl }}/images/20181130-20.jpeg)
 
