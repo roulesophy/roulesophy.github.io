@@ -10,7 +10,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20181210-1.jpeg)  
 最近入手了一個十分細小的手機三腳架，所以來分享一下。
 
-這個是 [JOBY GripTight ONE Micro Stand](https://joby.com/global/griptight-one-micro-stand-jb01492-config/)，是一個可以放進口袋的手機三腳架。
+這個是 [JOBY GripTight ONE Micro Stand](https://amzn.to/3jgzqFg)，是一個可以放進口袋的手機三腳架。
 
 ![]({{ site.baseurl }}/images/20181210-2.jpeg)
 
