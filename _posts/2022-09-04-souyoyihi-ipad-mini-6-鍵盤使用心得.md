@@ -69,4 +69,4 @@ comments: true
 
 這個鍵盤除了不是 full size keyboard 和有點重外也很好。是一個個人推介的 iPad mini 6 的鍵盤。
 
-
+{% include_relative index/one_bag.md %}
