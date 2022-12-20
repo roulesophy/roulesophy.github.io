@@ -38,7 +38,7 @@ comments: true
 
 然後就是一支輕便的自拍棒來自拍。
 
-要找到一支這樣的自拍棒並自帶三腳架、伸長後不會太短，我能找到的就只有這支 PGYTECH  的[Action Camera Extension Pole Tripod Mini](https://www.pgytech.com/collections/for-osmo-pocket/products/pgytech-action-camera-extension-pole-tripod-mini-buy-online)。
+要找到一支這樣的自拍棒並自帶三腳架、伸長後不會太短，我能找到的就只有這支 PGYTECH  的[Action Camera Extension Pole Tripod Mini](https://amzn.to/3W7kxDE)。
 
 下圖是伸長前和伸長後和 Osmo Pocket 的對比圖：
 
@@ -46,7 +46,7 @@ comments: true
 
 ## > 設置需求
 
-簡單來說，我的需求就只是能夠把 Osmo Pocket 放在上述的 PGYTECH [Action Camera Extension Pole Tripod Mini](https://www.pgytech.com/collections/for-osmo-pocket/products/pgytech-action-camera-extension-pole-tripod-mini-buy-online) 自拍棒上，在自拍棒上有位置放 Rode WIreless GO。
+簡單來說，我的需求就只是能夠把 Osmo Pocket 放在上述的 PGYTECH [Action Camera Extension Pole Tripod Mini](https://amzn.to/3W7kxDE) 自拍棒上，在自拍棒上有位置放 Rode WIreless GO。
 
 不選擇 官方的 [Osmo Pocket Extension Rod](https://m.dji.com/product/osmo-pocket-extension-rod) 的原因是因為它對我來說已經太長，如果再加上三腳架會更佔位置。
 
@@ -77,7 +77,7 @@ comments: true
 
 由放可以放置 Osmo Pocket 的配件裡，能夠放進冷靴的真是很少，偏作 Rode Wireless GO 需要使用冷靴座，所以這個方案是把冷靴座安裝到 1/4 孔裡。
 
-然後做法是把這個 [SMALLRIG Cold Shoe Mount Adapter with 1/4" Thread Hole for Camera and Camcorder Rigs](https://www.amazon.com/SMALLRIG-Adapter-Thread-Camera-Camcorder/dp/B00HJFBUCQ) 冷靴轉接頭放到 [Extension Adapter Module Mount](https://www.tvc-mall.com/details/extension-adapter-module-mount-bracket-holder-for-dji-osmo-pocket-black-sku850800919a.html) 上的其中一個1/4 孔上。
+然後做法是把這個 [SMALLRIG Cold Shoe Mount Adapter with 1/4" Thread Hole for Camera and Camcorder Rigs](https://amzn.to/3v2ZtCp) 冷靴轉接頭放到 [Extension Adapter Module Mount](https://www.tvc-mall.com/details/extension-adapter-module-mount-bracket-holder-for-dji-osmo-pocket-black-sku850800919a.html) 上的其中一個1/4 孔上。
 
 由放這個[Extension Adapter Module Mount](https://www.tvc-mall.com/details/extension-adapter-module-mount-bracket-holder-for-dji-osmo-pocket-black-sku850800919a.html) 上下都有1/4 孔，所以另一面可以用來連接自拍棒。然後把這個 Adapter Module Mount 夾著 Osmo Pocket 最底部，並把 Rode Wireless GO 放進這個 Mount 上的冷靴上，最後把 3.5mm 線經 [Osmo Pocket 3.5mm Adapter](https://m.dji.com/product/osmo-pocket-3-5mm-adapter) 插到 Osmo Pocket 的底部便可以了。
 
@@ -106,7 +106,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191029-11.jpeg)
 
-所以，配合 PGYTECH 的 [Action Camera Universal Mount to 1/4](https://www.pgytech.com/collections/for-osmo-pocket/products/pgytech-action-camera-universal-mount-to-1-4) ，便可以和自拍棒連接。把 Rode Wireless GO 放進這個 Mount 上的冷靴上，最後把 3.5mm 線插到這個底座的底部便可以了。
+所以，配合 PGYTECH 的 [Action Camera Universal Mount to 1/4](https://amzn.to/3V9mWwb) ，便可以和自拍棒連接。把 Rode Wireless GO 放進這個 Mount 上的冷靴上，最後把 3.5mm 線插到這個底座的底部便可以了。
 
 ![]({{ site.baseurl }}/images/20191029-12.jpeg)
 
@@ -114,7 +114,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191029-14.jpeg)
 
-閃燈方面，我使用了這個很細小的 [JJC LED-8 Mini Adjustable LED Light with Standard Hot Shot Adapter](https://www.amazon.com/JJC-LED-8-Adjustable-Headphone-Camcorder/dp/B00OPY7QDG)，配合 1/4 孔到冷靴轉換器上，便可以放到這個底座的另一個冷靴座了。這個燈的亮度不是很好，但是在晚上自拍的話已經夠用了。
+閃燈方面，我使用了這個很細小的 [JJC LED-8 Mini Adjustable LED Light with Standard Hot Shot Adapter](https://amzn.to/3WlLpQ6)，配合 1/4 孔到冷靴轉換器上，便可以放到這個底座的另一個冷靴座了。這個燈的亮度不是很好，但是在晚上自拍的話已經夠用了。
 
 ![]({{ site.baseurl }}/images/20191029-15.jpeg)
 
