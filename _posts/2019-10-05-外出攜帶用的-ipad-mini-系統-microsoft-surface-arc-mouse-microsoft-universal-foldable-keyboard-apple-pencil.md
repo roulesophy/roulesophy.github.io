@@ -13,15 +13,15 @@ comments: true
 我現在會帶裝備就是以下這幾個：
 
 * [iPad mini 5](https://www.apple.com/hk/shop/buy-ipad/ipad-mini)
-* [Microsoft Surface Arc Mouse](https://www.microsoftestore.com.hk/partner/product/Surface-Arc-Mouse?gclid=CjwKCAjw_uDsBRAMEiwAaFiHa4d1It4xb8K1WhLBNTV1-RKVW_YWFcAwwhQgoVzWAGZPP9zQfQaRThoCQtgQAvD_BwE&locale=zh_HK)
-* [Microsoft Universal Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY)
-* [QuickStand Mobile Device Stand](https://www.niteize.com/product/QuikStand.asp)
+* [Microsoft Surface Arc Mouse](https://amzn.to/3WzNVm1)
+* [Microsoft Universal Foldable Keyboard](https://amzn.to/3YBKJb9)
+* [QuickStand Mobile Device Stand](https://amzn.to/3YC9ynd)
 * [Apple Pencil 第一代](https://www.apple.com/hk/shop/product/MK0C2ZA/A/apple-pencil-1st-generation)
 * 普通 iPad mini 布袋一個
 
 ## Microsoft Surface Arc Mouse
 
-會買這款 [Microsoft Surface Arc Mouse](https://www.microsoftestore.com.hk/partner/product/Surface-Arc-Mouse?gclid=CjwKCAjw_uDsBRAMEiwAaFiHa4d1It4xb8K1WhLBNTV1-RKVW_YWFcAwwhQgoVzWAGZPP9zQfQaRThoCQtgQAvD_BwE&locale=zh_HK) 滑鼠的原因是因為它摺起來十分薄，可以很好的收藏。
+會買這款 [Microsoft Surface Arc Mouse](https://amzn.to/3WzNVm1) 滑鼠的原因是因為它摺起來十分薄，可以很好的收藏。
 
 ![]({{ site.baseurl }}/images/20191005-2.jpeg)
 
@@ -37,11 +37,11 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191005-4.jpeg)
 
-這個 [Microsoft Universal Foldable Keyboard](https://www.amazon.com/Microsoft-Universal-Foldable-Keyboard-Android/dp/B00UBGU4PY) 鍵盤個最大好處就是他可以對摺起來，使得很不佔空間（甚至比 [Logitech Keys-to-go]({{ site.baseurl }}/%E6%9C%80%E8%BC%95%E4%BE%BF%E7%9A%84-ipad-%E9%8D%B5%E7%9B%A4-logitech-keystogo-%E5%85%A5%E6%89%8B%E5%BF%83%E5%BE%97/) 的還小）。
+這個 [Microsoft Universal Foldable Keyboard](https://amzn.to/3YBKJb9) 鍵盤個最大好處就是他可以對摺起來，使得很不佔空間（甚至比 [Logitech Keys-to-go]({{ site.baseurl }}/%E6%9C%80%E8%BC%95%E4%BE%BF%E7%9A%84-ipad-%E9%8D%B5%E7%9B%A4-logitech-keystogo-%E5%85%A5%E6%89%8B%E5%BF%83%E5%BE%97/) 的還小）。
 
 另外，這個鍵盤的手感亦都比 Logitech Keys-to-go [（評測看此）]({{ site.baseurl }}/%E6%9C%80%E8%BC%95%E4%BE%BF%E7%9A%84-ipad-%E9%8D%B5%E7%9B%A4-logitech-keystogo-%E5%85%A5%E6%89%8B%E5%BF%83%E5%BE%97/) 好很多。但是缺點就是 Microsoft 的這個沒有自帶支架，還不能防潑水。
 
-不能防潑水還好，但是沒有自帶這個問題比較嚴重。所以要多帶一個卡片便攜式的平板支架： [QuickStand Mobile Device Stand](https://www.niteize.com/product/QuikStand.asp)。關於這個支架，在[卡片式實用裝備]({{ site.baseurl }}/%E5%8D%A1%E7%89%87%E5%BC%8F%E5%AF%A6%E7%94%A8%E8%A3%9D%E5%82%99-%E8%90%AC%E7%94%A8%E5%88%80-%E6%89%8B%E6%A9%9F%E6%94%AF%E6%9E%B6-%E9%8F%A1%E5%AD%90/) 這篇有介紹過。
+不能防潑水還好，但是沒有自帶這個問題比較嚴重。所以要多帶一個卡片便攜式的平板支架： [QuickStand Mobile Device Stand](https://amzn.to/3YC9ynd)。關於這個支架，在[卡片式實用裝備]({{ site.baseurl }}/%E5%8D%A1%E7%89%87%E5%BC%8F%E5%AF%A6%E7%94%A8%E8%A3%9D%E5%82%99-%E8%90%AC%E7%94%A8%E5%88%80-%E6%89%8B%E6%A9%9F%E6%94%AF%E6%9E%B6-%E9%8F%A1%E5%AD%90/) 這篇有介紹過。
 
 這次會選擇這個鍵盤的原因是以及這個鍵盤和 Microsoft Surface Arc Mouse 並排的面積大概和 iPad mini 5 的面積一樣，所以它們可以放在一起。
 
