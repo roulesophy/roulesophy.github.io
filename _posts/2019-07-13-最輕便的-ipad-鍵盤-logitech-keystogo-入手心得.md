@@ -8,7 +8,7 @@ comments: true
 ---
 
 ![]({{ site.baseurl }}/images/20190713-1.jpeg)  
-最近入手了這個 [Logitech Keys-to-go 鍵盤](https://www.logitech.com/en-hk/product/keys-to-go) ，在這裡說說心得。這次嘗試使用 Q&A 的方式來解說。
+最近入手了這個 [Logitech Keys-to-go 鍵盤](https://amzn.to/3HXwDuG) ，在這裡說說心得。這次嘗試使用 Q&A 的方式來解說。
 
 ## > 為甚麼會買這個鍵盤？
 
