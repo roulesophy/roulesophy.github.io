@@ -176,3 +176,5 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 至於電腦方面我使用 MacBook Pro intel 2020，第二螢幕是 iPad Pro 2017。
 
 以上，希望這篇能為大家作一個參考，如果大家正在使用好用的電腦支架也歡迎分享。
+
+{% include_relative index/one_bag.md %}
