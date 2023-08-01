@@ -42,7 +42,7 @@ comments: true
 
 ![TiddlyWiki css2]({{ site.baseurl }}/images/20230801120816-TiddlyWiki-css2.jpeg)  
 
-## > 如何把 css 只應用於某些特定的 Tiddler？
+## > 如何把 CSS 只應用於某些特定的 Tiddler？
 
 [官網](https://tiddlywiki.com/static/Custom%2520styles%2520by%2520data-tags.html) 中有介紹做法叫做 data tags，例如我們可能設置以下的 css，那麼只有 tag了 exampleTag 的 Tiddler 的 `<li>` 也就是列表完素才會是綠色。
 
