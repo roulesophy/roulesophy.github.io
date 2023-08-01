@@ -10,8 +10,6 @@ comments: true
 ---
 
 ![Tw css]({{ site.baseurl }}/images/20230801120840-Tw-css.jpeg)    
-
-
 這次我們來談談如何在 TiddlyWiki 中使用 CSS。
 
 讀者 Ryan 問了一條關於 TiddlyWiki 的問題：
