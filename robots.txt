@@ -3,3 +3,6 @@
 
 User-agent: *
 Sitemap: https://roulesophy.github.io/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
