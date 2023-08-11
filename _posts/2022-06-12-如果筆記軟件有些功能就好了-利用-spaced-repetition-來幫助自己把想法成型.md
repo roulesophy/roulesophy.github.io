@@ -2,7 +2,7 @@
 filename: 2022-06-12-如果筆記軟件有些功能就好了-利用-spaced-repetition-來幫助自己把想法成型.md
 layout: post
 title: 如果筆記軟件有些功能就好了：利用 Spaced Repetition 來幫助自己把想法成型
-tags: 筆記術
+tags: 筆記心法
 date: 2022-06-12
 permalink: 20220612-if-note-taking-system-has-spaced-repetition/
 thumbnail: ”20220612-1.jpeg“
