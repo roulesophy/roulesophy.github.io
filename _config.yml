@@ -24,7 +24,7 @@ paginate_path: "/page/:num/"
 footer-links:
   dribbble:
   email: roulesophy@gmail.com
-  facebook:
+  facebook: profile.php?id=100095396178228&mibextid=LQQJ4d
   flickr:
   github:
   instagram: roulesophy
