@@ -28,6 +28,4 @@
 - [JOBY GripTight ONE Micro Stand：可以放進口袋的手機三腳架]({{ site.baseurl }}/joby-griptight-one-micro-stand-可以放進口袋的手機三腳架/)
 - [肩痛人士的背包：Matador Beast28]({{ site.baseurl }}/肩痛人士的背包-matador-beast28/)
 - [卡片式實用裝備（萬用刀、手機支架、鏡子）]({{ site.baseurl }}/卡片式實用裝備-萬用刀-手機支架-鏡子/)
-
-
 - [外出攜帶用的 iPad Mini 系統：Microsoft Surface Arc Mouse、Microsoft Universal Foldable Keyboard、Apple Pencil]({{ site.baseurl }}/外出攜帶用的-ipad-mini-系統-microsoft-surface-arc-mouse-microsoft-universal-foldable-keyboard-apple-pencil/)
