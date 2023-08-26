@@ -74,3 +74,9 @@ comments: true
 這個鍵盤真是十分輕便在外出使用，但是買之前最好到 Apple Store 先試試，看看是否適合自己才決定比較好。
 
 {% include_relative index/skills_iOS.md %}
+
+{% include_relative index/one_bag.md %}
+
+{% include_relative index/ipad_mini_gear.md %}
+
+<!-- - [最輕便的 iPad 鍵盤：Logitech Keys-to-go 入手心得]({{ site.baseurl }}/最輕便的-ipad-鍵盤-logitech-keystogo-入手心得/) -->

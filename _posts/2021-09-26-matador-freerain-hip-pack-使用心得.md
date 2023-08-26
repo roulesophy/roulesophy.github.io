@@ -73,8 +73,10 @@ comments: true
 
 這個腰包是我買個都好滿意的一個產品。對有很多隨身物品的人可以一試。
 
+{% include_relative index/ipad_mini_gear.md %}
 
 {% include_relative index/one_bag.md %}
 
 {% include_relative index/matador.md %}
 
+<!-- - [我的外出攜帶 iPad mini 裝置 2021版]({{ site.baseurl }})/20210616-ipad-mini-setup-2021/) -->

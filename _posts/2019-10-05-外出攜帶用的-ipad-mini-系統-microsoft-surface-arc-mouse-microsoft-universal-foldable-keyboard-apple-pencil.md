@@ -83,3 +83,7 @@ Apple Pencil 來說沒有甚麼特別。只是有三個要注意的地方。
 ![]({{ site.baseurl }}/images/20191005-12.jpeg)
 
 內心OS : 這個系統不能加入 [Swiftpoint GT]({{ site.baseurl }}/ipad-%E5%B7%A5%E4%BD%9C%E8%A1%93-%E4%BB%A5-ipad-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-swiftpoint-gt-%E9%81%A0%E7%AB%AF%E6%8E%A7%E5%88%B6%E9%9B%BB%E8%85%A6/) 是個遺憾。
+
+{% include_relative index/one_bag.md %}
+
+{% include_relative index/ipad_mini_gear.md %}
