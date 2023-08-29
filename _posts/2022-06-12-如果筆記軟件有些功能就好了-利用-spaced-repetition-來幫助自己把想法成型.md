@@ -111,4 +111,12 @@ comments: true
 
 如果大家有能力的話，我強烈建議大家使用這個概念來修改筆記。因為我沒有花時間研究最近的筆記軟體，如果大家使用的筆記軟件有這個功能，歡迎留言告知。
 
+後記：試過一年後，我沒有再使用這個方法了。原因可以看這一篇：[為何我沒有再使用 Spaced Repetition 來寫筆記？]({{ site.baseurl }}/20230829-spaced-repetition-abandoned/)
 
+
+{% include_relative index/note_taking_methodology.md %}
+
+
+<!--
+- [如果筆記軟件有些功能就好了：利用 Spaced Repetition 來幫助自己把想法成型]({{ site.baseurl }}/20220612-if-note-taking-system-has-spaced-repetition/)
+-->
