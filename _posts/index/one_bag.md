@@ -2,6 +2,7 @@
 
 一袋生活 超輕便裝備系列：
 
+- [我的 iPhone Pro Max 拍 Vlog 設置]({{ site.baseurl }}/20231126-iphone-vlog-gear/)
 - [What's in My Bag 2022 ：我背包裡有甚麼東西？]({{ site.baseurl }}/20221225-whats-in-my-bag-2022/)
 - [我的 GoPro 日常拍攝裝備]({{ site.baseurl }}/20221220-gopro-vlog-setup/)
 - [2022 我的 iPad mini 6 防傷腰背設置]({{ site.baseurl }}/20221211-ipad-mini-6-setup-2022/)
