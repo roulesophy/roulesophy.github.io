@@ -11,8 +11,8 @@ comments: true
 
 
 ![iphone vlog]({{ site.baseurl }}/images/20231125111136-iphone-vlog.jpeg)  
-我以前也有購買一些運動相機來拍 Vlog。<br/>
-但是轉了 iPhone 14 Pro Max後，我很多時都用電話便解決了一切。<br/>
+我以前也有購買一些運動相機來拍 Vlog。  
+但是轉了 iPhone 15 Pro Max後，我很多時都用電話便解決了一切。  
 這篇來談談如果要用 iPhone 拍 Vlog，我會用什麼輕便的裝備。
 
 
