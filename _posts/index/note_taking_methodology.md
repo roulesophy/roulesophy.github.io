@@ -16,3 +16,4 @@
 
 - [製作事後工作報告很麻煩？因為你做少了一件事]({{ site.baseurl }}/20230826-working-report/)
 - [什麼是職責範圍筆記（Area of Responsibility Notes）？]({{ site.baseurl }}/20231209-what-is-area-of-responsibility-notes/)
+- [原來我一直都用錯了任務管理軟件中的收集箱]({{ site.baseurl }}/20231210-task-notes-inbox/)
