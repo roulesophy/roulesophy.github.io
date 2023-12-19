@@ -2,6 +2,7 @@
 
 一袋生活 超輕便裝備系列：
 
+- [What‘s in my Sling 2023：我單肩包裡有甚麼東西？]({{ site.baseurl }}/20231219-whats-in-my-sling-2023/)
 - [為什麼你在冬天穿很多仍感到寒冷？如何在冬天穿得輕盈但溫暖，你需要懂得什麼是 Layering]({{ site.baseurl }}/20231218-cold-weather-layering/) 
 - [我的 iPhone 鍵盤和滑鼠的配置]({{ site.baseurl }}/20231127-iphone-keyboard-mouse-setup/)
 - [我的 iPhone Pro Max 拍 Vlog 設置]({{ site.baseurl }}/20231126-iphone-vlog-gear/)
