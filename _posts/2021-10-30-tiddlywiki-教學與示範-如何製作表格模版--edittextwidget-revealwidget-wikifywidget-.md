@@ -32,7 +32,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20211030-3.jpeg)
 
-第二個方案就是使用 [transclusion]({{ site.baseurl }}/tiddlywiki-%E8%A1%A8%E6%A0%BC%E6%95%99%E5%AD%B8/#-%E8%A1%A8%E6%A0%BC%E8%A3%A1%E6%8F%92%E5%85%A5%E5%88%97%E8%A1%A8)。例如：
+第二個方案就是使用 [transclusion]({{ site.baseurl }}/tiddlywiki-%E8%A1%A8%E6%A0%BC%E6%95%99%E5%AD%B8/#%E8%A1%A8%E6%A0%BC%E8%A3%A1%E6%8F%92%E5%85%A5%E5%88%97%E8%A1%A8)。例如：
 
 ![]({{ site.baseurl }}/images/20211030-4.jpeg)
 

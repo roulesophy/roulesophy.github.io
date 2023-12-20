@@ -11,19 +11,10 @@ thumbnail: "20170812-1.jpeg"
 ![]({{ site.baseurl }}/images/20170812-1.jpeg)  
 這課學習家人和親戚的名詞。
 
-<!--
-[]({{ site.baseurl }}/Esperanto-17-Family/)
-[]({{ site.baseurl }}/Esperanto-17-Family/#-溫習)
-[]({{ site.baseurl }}/Esperanto-17-Family/#-文法規則)
-[]({{ site.baseurl }}/Esperanto-17-Family/#-section-13)
-[]({{ site.baseurl }}/Esperanto-17-Family/#-section-23)
-[]({{ site.baseurl }}/Esperanto-17-Family/#-section-33)
--->
-
 ## 溫習
-* [patro]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-13)
-* [patrino]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-33)
-* [gepatroj]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-33)
+* [patro]({{ site.baseurl }}/Esperanto-7-Plurals/#section-13)
+* [patrino]({{ site.baseurl }}/Esperanto-7-Plurals/#section-33)
+* [gepatroj]({{ site.baseurl }}/Esperanto-7-Plurals/#section-33)
 
 ## 文法規則
 * 這課會學習到關於親戚的數個 affixes：

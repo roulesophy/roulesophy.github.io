@@ -7,15 +7,7 @@ date: 2017-08-13
 comments: true
 thumbnail: "20170813-2.jpeg"
 ---
-<!--
-[]({{ site.baseurl }}/Esperanto-18-Objects/)
-[]({{ site.baseurl }}/Esperanto-18-Objects/#-section-16)
-[]({{ site.baseurl }}/Esperanto-18-Objects/#-section-26)
-[]({{ site.baseurl }}/Esperanto-18-Objects/#-section-36)
-[]({{ site.baseurl }}/Esperanto-18-Objects/#-section-46)
-[]({{ site.baseurl }}/Esperanto-18-Objects/#-section-56)
-[]({{ site.baseurl }}/Esperanto-18-Objects/#-section-66)
--->
+
 ![]({{ site.baseurl }}/images/20170813-2.jpeg)  
 這課主要是學習一些常用生詞。
 

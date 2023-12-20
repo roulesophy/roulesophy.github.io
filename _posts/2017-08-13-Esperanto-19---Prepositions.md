@@ -18,7 +18,7 @@ thumbnail: "20170813-3.jpeg"
 
 |Esperanto|English|Comment|
 |---|---|---|
-|pro|because of|pro(because of) 和 [por(for)]({{ site.baseurl }}/Esperanto-12-Food/#-section-28) 是有分別的：<br/>Mi parolas Esperanton pro vi: I speak Esperanto because of you.<br/>La donaco estas por vi.: The gift is for you.|
+|pro|because of|pro(because of) 和 [por(for)]({{ site.baseurl }}/Esperanto-12-Food/-section-28) 是有分別的：<br/>Mi parolas Esperanton pro vi: I speak Esperanto because of you.<br/>La donaco estas por vi.: The gift is for you.|
 |strato|street||
 |apud|near, next to, beside, alongside, adjacent to||
 |trans|across||

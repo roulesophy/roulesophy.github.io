@@ -7,16 +7,7 @@ date: 2017-08-06
 comments: true
 thumbnail: "20170806-11.jpeg"
 ---
-<!--
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-文法規則)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-16)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-26)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-36)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-46)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-56)
-[]({{ site.baseurl }}/Esperanto-16-Verbs-Present/#-section-66)
--->
+
 ![]({{ site.baseurl }}/images/20170806-11.jpeg)  
 這課都是關於動詞。
 
