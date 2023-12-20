@@ -16,6 +16,7 @@
 
 - [製作事後工作報告很麻煩？因為你做少了一件事]({{ site.baseurl }}/20230826-working-report/)
 - [什麼是職責範圍筆記（Area of Responsibility Notes）？]({{ site.baseurl }}/20231209-what-is-area-of-responsibility-notes/)
-- [原來我一直都用錯了任務管理軟件中的收集箱]({{ site.baseurl }}/20231210-task-notes-inbox/)
-- [寫任務筆記時緊記要寫這件事]({{ site.baseurl }}/20231214-write-trial-steps-in-task-notes/)
+- [我寫任務筆記的 ICESS 架構]({{ site.baseurl }}/20231220-how-to-write-task-note-icess-methodology/) 
+    - [原來我一直都用錯了任務管理軟件中的收集箱]({{ site.baseurl }}/20231210-task-notes-inbox/)
+    - [寫任務筆記時緊記要寫這件事]({{ site.baseurl }}/20231214-write-trial-steps-in-task-notes/)
  
