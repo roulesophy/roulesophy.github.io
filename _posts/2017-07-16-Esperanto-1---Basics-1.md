@@ -11,13 +11,13 @@ thumbnail: "20170716-2.jpeg"
 ![]({{ site.baseurl }}/images/20170716-2.jpeg)  
 這是從 duolingo 的關卡中學到的生詞和規則，當作是一個小小的記錄。
 
-## > 文法規則
+## 文法規則
 * 所有單數的主語名詞都以 `o` 字作結尾
 * 現在時態的動詞人都以 `as` 作結尾
 * 所有形容詞都以 `a` 作結尾
 * 所有副詞都以 `e` 作結尾
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -38,7 +38,7 @@ thumbnail: "20170716-2.jpeg"
 |Mi estas knabo.|I am a boy.||
 |Mi estas viro.|I am a man.|
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -64,7 +64,7 @@ thumbnail: "20170716-2.jpeg"
 |Ŝi estas virino.|She is a woman.||
 |Mi estas knabrino.|I am a girl.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

@@ -8,12 +8,12 @@ comments: true
 ---
 這是旅程的最後一天，主要都是坐車回程。
 
-## > 回程
+## 回程
 一大清早便要準備回程，坐了三小時巴士回到高雄。
 
 ![民宿]({{ site.baseurl }}/images/20170818-1.jpg)
 
-## > 百貨公司
+## 百貨公司
 回到高雄後，去了三多商圈站的dazzling cafe吃午飯。
 
 ![dazzling cafe]({{ site.baseurl }}/images/20170818-2.jpg)
@@ -26,7 +26,7 @@ comments: true
 
 ![airport]({{ site.baseurl }}/images/20170818-4.jpg)
 
-## > 感想
+## 感想
 
 這次旅行其實滿高興的。
 

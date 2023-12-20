@@ -17,7 +17,7 @@ comments: true
 > * 我在什麼情況下使用 Kobo Forma?
 > * 作為真實用家的使用心得
 
-## > 為何可能你需要一部電子書閱讀器？
+## 為何可能你需要一部電子書閱讀器？
 
 其實我以前也會用 iPad mini 的應用程式來看書，但是由於以下兩個原因所以考慮轉成電子書閱讀器。
 
@@ -35,7 +35,7 @@ comments: true
 
 個人發現有了電子書閱讀器後，在地鐵/捷運上閱讀的效率大增。
 
-## > 為何我會買 Kobo Forma?
+## 為何我會買 Kobo Forma?
 
 Kobo Forma 是一部 8 寸、不重於200 克、能單手控制的 Kobo 平台閱讀器。
 
@@ -49,7 +49,7 @@ Kobo Forma 是一部 8 寸、不重於200 克、能單手控制的 Kobo 平台�
 
 ![]({{ site.baseurl }}/images/20201013-2.jpeg)
 
-## > 我在什麼情況下使用 Kobo Forma?
+## 我在什麼情況下使用 Kobo Forma?
 
 至於暫時由於用它來看書原因就是不想看太久電腦或是 iPad 的螢幕，所以但是有時所以我現在用這本書的流程都是這樣的：
 
@@ -57,7 +57,7 @@ Kobo Forma 是一部 8 寸、不重於200 克、能單手控制的 Kobo 平台�
 
 遇到想要紀錄東西或是想法，我會用 Kobo 內置的畫重點功能來記錄，或是在Apple Watch裡使用 TickTick 的 Apple Watch 應用程式作語音輸入記錄（使用 TickTick 的原因只是因為它是我的知識管理軟體 [TiddlyWiki]({{ site.baseurl }}/%E6%88%91%E6%9C%83%E7%94%A8-tiddlywiki-%E4%BE%86%E5%81%9A%E7%94%9A%E9%BA%BC/) 的[收集箱]({{ site.baseurl }}/20200621-tiddlywiki-ticktick/)），而語音輸入的方式又能以一個方便的方式強迫自己把學到的東西說一次。
 
-## > 使用心得
+## 使用心得
 
 現在就來說說它一些使用上的心得。
 

@@ -11,11 +11,11 @@ thumbnail: "20170724-1.jpeg"
 ![]({{ site.baseurl }}/images/20170724-1.jpeg)  
 `possessive` 是指佔有的。
 
-## > 文法規則
+## 文法規則
 
 * 在英文中 `I` 的 `possessive` 是 `my` 。 在 `Esperanto` 中是在後面加 `a` ，例如 `mi(I)` 的 possessive 是 `mia(my)`。
 
-## > Section 1/2
+## Section 1/2
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -40,7 +40,7 @@ thumbnail: "20170724-1.jpeg"
 |Mia patrino estas bela.|My mother is beautiful.||
 |Viaj pomoj estas tre belaj.|Your apples are very beautiful.|留意 possessive 的眾數也要加 `j` 。|
 
-## > Section 2/2
+## Section 2/2
 
 |Esperanto|English|Comment|
 |---|---|---|

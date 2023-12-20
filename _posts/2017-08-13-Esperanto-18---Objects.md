@@ -19,7 +19,7 @@ thumbnail: "20170813-2.jpeg"
 ![]({{ site.baseurl }}/images/20170813-2.jpeg)  
 這課主要是學習一些常用生詞。
 
-## > Section 1/6
+## Section 1/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -49,7 +49,7 @@ thumbnail: "20170813-2.jpeg"
 |Mi serĉas bonon komputilon.|I am looking for a good computer.||
 |Lia brakhorloĝo havas ekranon kaj pomon.|His watch has a screen and apple.||
 
-## > Section 2/6
+## Section 2/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -75,7 +75,7 @@ thumbnail: "20170813-2.jpeg"
 |Kie oni trovas la sapon?|Where do you find the soap?||
 |La lampon en la kesto li ne trovas.|He does not find the lamp in the box.||
 
-## > Section 3/6
+## Section 3/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -98,7 +98,7 @@ thumbnail: "20170813-2.jpeg"
 |Ni devas ŝanĝi la radojn.|We have to change the wheels.||
 |Mia laboro ne senpagas.|My work is not free.||
 
-## > Section 4/6
+## Section 4/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -123,7 +123,7 @@ thumbnail: "20170813-2.jpeg"
 |Kie ni vivos, kiam **la Tero** estos tro varma?|Where will we live, when the Earth is too hot?||
 |En la **tero** kreskas plantoj.|Plants grow in the earth.||
 
-## > Section 5/6
+## Section 5/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -147,7 +147,7 @@ thumbnail: "20170813-2.jpeg"
 |La poto estas malgranda.|The pot is small.||
 |Ĉu vi venas per aŭto?|Do you come by car?||
 
-## > Section 6/6
+## Section 6/6
 
 |Esperanto|English|Comment|
 |---|---|---|

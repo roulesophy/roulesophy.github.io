@@ -17,7 +17,7 @@ comments: true
 
 最近找到了這個很細小，名為 [instamic](https://instamic.io) 的藍芽錄音麥克風也能為 Insta360 On2 X2 / One R 進行錄音，音質比 AirPods 收音稍好，也許能夠一試，以下是它的介紹。
 
-## > 這是什麼？
+## 這是什麼？
 
 ![]({{ site.baseurl }}/images/20210717-2.jpeg)
 
@@ -27,7 +27,7 @@ comments: true
 
  此外，我們還可以用附送的磁石夾 / 魔術貼夾 / 膠帶夾 來掛上 instamic。個人最愛用碰石夾的一款。
 
-## > instamic 本來的按鍵操作如何使用？
+## instamic 本來的按鍵操作如何使用？
 
 這個 instamic 只有一顆按鍵和 3 顆相同顏色的 LED 燈，所以在使用時沒有那麼直覺，必須先學習才懂得如何使用。
 
@@ -40,7 +40,7 @@ comments: true
 
 另外，據說它能夠自己單獨錄音，但因為只靠 LED 來控制感覺很不可靠，所以我沒有試過用它來單獨錄音，我只會拿它和 Insta360 One X2 使用 （One R 也可以）。
 
-## > instamic 要如何連接到 Insta360 One R 或 One X2？
+## instamic 要如何連接到 Insta360 One R 或 One X2？
 
 首先我們需要下載 instamic 的 [App](https://instamic.io/pages/instamic-support-mobile-app)，然後把 instamic 和電話連接。
 
@@ -55,7 +55,7 @@ comments: true
 * 第一點：儘管 instamic 和 Insta360 已經連接了，在開始拍攝前請務必先確定 instamic 已經進入錄音狀態（也就是 instamic 亮著的綠燈數量會隨著你的音量而增加），否則它不會在拍攝時收音。
 * 第二點：每一次開機前不像 AirPods 般能夠自動連接，而是要手動先連接才能使用。
 
-## > instamic 在 Insta360 One X2 中的麥克風質素
+## instamic 在 Insta360 One X2 中的麥克風質素
 
 由於大家都只是使用藍芽來連接，所以麥克風的質素和使用 AirPods 來收音只是好一點，間中還是有一點點奇怪的電子雜音。
 
@@ -66,7 +66,7 @@ comments: true
 * 第三：在 instamic 的 App 裡可以預先設置提高多少音量（增加多少 dB）， 所以後製時不用花時間設置。這在一些沒有打算要作後製的影片中更實用。
 * 第四：我們可以加購 [防風毛套](https://instamic.io/collections/all-products/products/windshields) 來防風聲，但是因為毛套比較大的關係，所以我也沒有買。
 
-## > 結論
+## 結論
 
 我的攝影包很細小，只有 DJI Pocket 2 和 Insta360 One X2。雖然我本來比較少用 Insta360 One X2 的聲音，但因為 instamic 太輕巧了，所以我會把它放在我的攝影包裡。
 

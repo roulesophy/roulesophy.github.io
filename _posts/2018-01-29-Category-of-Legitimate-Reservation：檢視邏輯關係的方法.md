@@ -12,7 +12,7 @@ comments: true
 
 其實這個方法是在思考問題，繪畫邏輯樹圖時用來檢視每一個因果邏輯關係時用的。
 
-## > 因果邏輯關係圖示
+## 因果邏輯關係圖示
 在這之前，首先介紹一下邏輯關係的圖示：
 
 如果因為 A 導致 B 的發生，我們可以這樣表示：  
@@ -25,7 +25,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20180109-4.jpeg)
 
 
-## > 邏輯驗證方法（Category of Legitimate Reservation, CLR）
+## 邏輯驗證方法（Category of Legitimate Reservation, CLR）
 
 第一個是**明確性（Clarity）**。  
 簡單來說，就是在寫下一個因果邏輯關係時，問自己「這樣的陳述大家是不是覺得簡單明瞭？ 」如果把這個因果邏輯關係讀出來時也沒有覺覺怪怪的，別人能夠理解的話，那麼就沒有問題了。

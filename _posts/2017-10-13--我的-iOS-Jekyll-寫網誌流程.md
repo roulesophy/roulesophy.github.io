@@ -14,7 +14,7 @@ comments: true
 
 使用 Jekyll 來建立網誌有一定的技術門檻，日後有機會分享一下如何以 Jekyll 來建立一個網誌。
 
-## > 第一步：以 Bear 來寫文章
+## 第一步：以 Bear 來寫文章
 Jekyll 內的每一篇文章都是由 markdown 來寫的，以這種方式管理文章有優點也有缺點。優點是因為它是純文字格式，日後要做轉換/把網誌搬家也會比較容易；而缺點就是在 iOS 上編輯會變得比較麻煩。
 
 其中一個最麻煩的例子就是加入插圖。很多時候一篇網誌的形成並不是一氣呵成的，可能今天輸入了一點資料、明天整理了那些資料、然後後天改變一下格式、然後大後天才完成一篇網誌。因為這個過程中我也是使用 markdown 的，所以中間要插入圖片的話便會十分麻煩，因為純文字不能儲存圖片的關係，很快便忘記了要使用那一張圖片了。
@@ -30,7 +30,7 @@ Jekyll 內的每一篇文章都是由 markdown 來寫的，以這種方式管理
 ![bear]({{ site.baseurl }}/images/20171013-4.jpeg)  
 ![bear]({{ site.baseurl }}/images/20171013-4.jpeg)  
 
-## > 第二步：以 Drafts 來轉換文章格式
+## 第二步：以 Drafts 來轉換文章格式
 然後我們會用 [Drafts](http://agiletortoise.com/drafts/) 來把這篇文章變成 Jekyll 專用的 markdown 格式。
 
 ![Drafts]({{ site.baseurl }}/images/20171013-6.jpeg)
@@ -47,14 +47,14 @@ Drafts 最吸引我的地方是它那極高的自定性，我們可以寫一些�
 
 在這一步裡，我會以 Enhanced Keyboard 來更換 Bear 中的圖片連結格式，然後再以 [這個action](https://drafts4-actions.agiletortoise.com/a/2G2) 來改變這篇文字的格式為 jekyll 中的 markdown 格式，然後傳送去下一步： Working Copy 。
 
-## > 第三步：以 Working Copy 來把儲存網誌內容
+## 第三步：以 Working Copy 來把儲存網誌內容
 [Working Copy](https://workingcopyapp.com/) 其實是一個在 iOS 上的 [git](https://git-scm.com/) client。git 是一個程式來保存檔案的變動，就好像時光機一樣，我們可以看到檔案以前的版本。因為這個好處，我會把整個網誌以 git 來保存每次的改動。
 
 ![Working Copy]({{ site.baseurl }}/images/20171013-8.jpeg)
 
 在這個階段裡，除了把文章從 Drafts 傳送至 Working Copy 外，我也會在 Bear 中以 drag and drop 的方式把圖片放到 Working Copy 裡，這些圖片放到 Working copy 後，便會在下一步以 share extension 的方式以 Workflow 處理一下。
 
-## > 第四步：以 Workflow 和 ViewExif 來處理圖片
+## 第四步：以 Workflow 和 ViewExif 來處理圖片
 [Workflow](https://workflow.is/) 在 iOS automation 中扮演十分重要的角色，而 [ViewExif](https://itunes.apple.com/us/app/viewexif/id945320815?mt=8)  是用來看圖片中的一些名為 [Exif](https://en.wikipedia.org/wiki/Exif) 的資料，這些資訊本要是用來描述這張圖片，例如相片是由甚麼器材拍攝、相片的光圈快門、以及是相片的拍攝位置等等。
 
 ![Workflow]({{ site.baseurl }}/images/20171013-9.jpeg) 
@@ -66,7 +66,7 @@ Drafts 最吸引我的地方是它那極高的自定性，我們可以寫一些�
 
 然後這篇文章便可以以 git 的方式上傳了。
 
-## > 第五步：以 Textastic 來修改已發佈的文章
+## 第五步：以 Textastic 來修改已發佈的文章
 
 最後的步驟是一個把文章發表後，日後發現有東西要修改時進行的流程。在這個階段我會使用 [Textastic](https://www.textasticapp.com)。
 

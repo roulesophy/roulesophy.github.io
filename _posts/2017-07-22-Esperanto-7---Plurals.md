@@ -11,12 +11,12 @@ thumbnail: "20170722-1.jpeg"
 ![]({{ site.baseurl }}/images/20170722-1.jpeg)  
 這課是關於名詞是眾數時要怎麼做。
 
-## > 文法規則
+## 文法規則
 * 眾數名詞後要加 `j` ，如果這也是 [accusative]({{ site.baseurl }}/Esperanto-4-Accusative/) ，後面就變成了 `jn` 。
 * 留意形容該名詞的形容詞亦要加 `j` 和 `n` 。
 * 這課多了一點 affix ，即是一些放在字根前面／中間／後面的字母而衍生出來的生字，詳細可以看看生字表中的說明。
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -48,7 +48,7 @@ thumbnail: "20170722-1.jpeg"
 |La belaj floroj estas rozkoloraj.|The beautiful flowers are pink.||
 |La knaboj legas leteron.|The boys read a letter.||
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -80,7 +80,7 @@ thumbnail: "20170722-1.jpeg"
 |Ni estas knabinoj.|We are girls.||
 |La pomoj estas bonaj.|The apples are good.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

@@ -10,7 +10,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20190504-1.jpeg)  
 使用了 [TiddlyWiki]({{ site.baseurl }}/%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%9A%84%E5%B7%A5%E5%85%B7-tiddlywiki/) 有一段時間，今天來談談一些表格（table）中的小技巧。
 
-## > 基本應用
+## 基本應用
 
 這是最簡單的應用：每一行代表一個列（Row），而每一欄（Column）以`|`來分隔。我們用`|`來為表格的第一行決定了這個表格有多少列。
 
@@ -32,7 +32,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190504-3.jpeg)
 
-## > 格式設定
+## 格式設定
 
 一般 TiddlyWiki 內的文字格式也是可以使用在表格裡，例如以下的格式：
 
@@ -54,7 +54,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190504-4.jpeg)
 
-## > 全列 Header, footer 和 Caption
+## 全列 Header, footer 和 Caption
 
 * 要為全列加上 Header，可以在行末加上 `h`。
 * 要為全列加上 Footer，可以在行末加上 `f`。
@@ -75,7 +75,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190504-5.jpeg)
 
-## > 表格的對齊（Alignment）
+## 表格的對齊（Alignment）
 
 想為表格內的內容對齊也是可以的，可以向上下左右對齊。
 
@@ -100,7 +100,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20190504-6.jpeg)
 
 
-## > 合併儲存格
+## 合併儲存格
 
 * 如果要合併左格的內容，只需在該格裡放進 `<`。
 * 如果要合併右格的內容，只需在該格裡放進 `>`。
@@ -127,7 +127,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20190504-8.jpeg)
 
 
-## > 表格內放置表格
+## 表格內放置表格
 
 由於表格的一列只能用一行來表達，所以要處理一些複雜的表格會比較麻煩，但是我們可以以把一個 Tiddler 的內容放入表格的 Tiddler 來解決。這個在 TiddlyWiki 裡名為 [Transclusion](https://tiddlywiki.com/static/Transclusion%2520in%2520WikiText.html)。
 
@@ -152,7 +152,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190504-9.jpeg)
 
-## > 表格裡插入列表
+## 表格裡插入列表
 
 和表格內放置表格一樣，我們也要使用 [Transclusion](https://tiddlywiki.com/static/Transclusion%2520in%2520WikiText.html) 來達到這個效果。以下是例子：
 
@@ -173,7 +173,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190504-10.jpeg)
 
-## > 參考資料
+## 參考資料
 
 * [TiddlyWiki 官網：Tables in WikiText ](https://tiddlywiki.com/static/Tables%2520in%2520WikiText.html)
 

@@ -8,7 +8,7 @@ comments: true
 ---
 雖然很多人使用 AirPods 時也不會掉出來，可是我是一個例外，做劇烈運動時我的 AirPods 經常會掉出。所以便上網找到這個防止 AirPods 掉出的耳勾。
 
-## > 產品介紹
+## 產品介紹
 
 ![earhoox正面]({{ site.baseurl }}/images/20170906-1.jpg)
 
@@ -28,7 +28,7 @@ comments: true
 
 ![AirPods全家幅]({{ site.baseurl }}/images/20170906-5.jpg)
 
-## > 心得
+## 心得
 
 其實市面也有類似的 AirPods 耳翼（只是種類真是很少），這款產品和它們比有甚麼分別呢？
 

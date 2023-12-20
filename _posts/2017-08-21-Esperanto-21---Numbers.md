@@ -11,7 +11,7 @@ thumbnail: "20170821-1.jpeg"
 ![]({{ site.baseurl }}/images/20170821-1.jpeg)  
 這課是關於數字的表達。
 
-## > 溫習
+## 溫習
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -20,9 +20,9 @@ thumbnail: "20170821-1.jpeg"
 |tri|3||
 |kvar|4||
 
-## > 文法規則
+## 文法規則
 
-### > Cardinal / Ordinal Numbers
+### Cardinal / Ordinal Numbers
 
 |Cardinal|Esperanto|Ordinal|Esperanto|
 |---|---|---|---|
@@ -31,7 +31,7 @@ thumbnail: "20170821-1.jpeg"
 |three|tri|third|tri**a**|
 |four|kvar|fourth|kvar**a**|
 
-### > Writing out Numbers
+### Writing out Numbers
 
 |Numbers|Esperanto|How many words?|
 |---|---|---|
@@ -45,14 +45,14 @@ thumbnail: "20170821-1.jpeg"
 |Du mil okdek kvar|Two thousand eighty-four(2084)|
 |Kvincent sesdek tri mil|Five hundred sixty-three thousand(563000)|
 
-### > A Million and beyond
+### A Million and beyond
 
 |English|Esperanto|
 |---|---|
 |million|miliono|
 |billion|miliardo|
 
-### > Nombro vs Numero
+### Nombro vs Numero
 
 `Nombro` 是代表數字關係或是代表數量。
 `Numero` 是代表數字中的其中一員。
@@ -65,7 +65,7 @@ thumbnail: "20170821-1.jpeg"
 |telefonnumero|phone number|
 |la lasta numero de la gazeto|the last number [edition] of the newspaper|
 
-## > Section 1/7
+## Section 1/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -88,7 +88,7 @@ thumbnail: "20170821-1.jpeg"
 |La kuniklo havas ses idojn.|The rabbit has six offspring.||
 |Ses, sep, ok, naŭ, dek.|Six, seven, eight, nine, ten.||
 
-## > Section 2/7
+## Section 2/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -115,7 +115,7 @@ thumbnail: "20170821-1.jpeg"
 |Tridek tri estas malpli ok kvindek du.|33 is less than 42.||
 |Dudek, tridek, kvardek, kvindek, sesdek, sepdek, okdek, naŭdek|20, 30, 40, 50, 60, 70, 80, 90||
 
-## > Section 3/7
+## Section 3/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -139,7 +139,7 @@ thumbnail: "20170821-1.jpeg"
 |Ni ŝatas nombrojn kaj ni lernas ilin.|We like numbers and we learn them.||
 |La cifero nulo estas la plej bela, ĉu ne?|The digit 0 is the most beautiful, isn't it?||
 
-## > Section 4/7
+## Section 4/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -168,7 +168,7 @@ thumbnail: "20170821-1.jpeg"
 |La adreso enhavas la numeron de la domo.|The address contains the number of the house.||
 |Mi mendis la lastan libron.|I ordered the last book.||
 
-## > Section 5/7
+## Section 5/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -192,7 +192,7 @@ thumbnail: "20170821-1.jpeg"
 |Estas via vico.|It is your turn.||
 |La tria arbo estas pli verda ol la kvara kaj la kvina.|The third tree is greener than the fourth and the fifth.||
 
-## > Section 6/7
+## Section 6/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -218,7 +218,7 @@ thumbnail: "20170821-1.jpeg"
 |Nulo estas la sesa cifero en miliono.|0 is the sixth digit in 1 million.||
 |dek-sesa, dek-sepa, dek-oka, dek-naŭa.|Sixteenth, seventeenth, eighteenth, nineteenth.||
 
-## > Section 7/7
+## Section 7/7
 
 |Esperanto|English|Comment|
 |---|---|---|

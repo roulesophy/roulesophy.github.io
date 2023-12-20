@@ -10,7 +10,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20190713-1.jpeg)  
 最近入手了這個 [Logitech Keys-to-go 鍵盤](https://amzn.to/3HXwDuG) ，在這裡說說心得。這次嘗試使用 Q&A 的方式來解說。
 
-## > 為甚麼會買這個鍵盤？
+## 為甚麼會買這個鍵盤？
 
 這個鍵盤附贈了一個 iPad 或 iPhone 用的支架，這個的支架是一個我會買這個鍵盤的主因。
 
@@ -34,7 +34,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190713-6.jpeg)
 
-## > 這個鍵盤有多薄？
+## 這個鍵盤有多薄？
 
 相信大家都是因為這個鍵盤很薄才考慮入手。但到底這個鍵盤有多薄呢？
 
@@ -47,7 +47,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20190713-8.jpeg)
 
 
-## > 鍵盤上的快捷鍵真是有用嗎？
+## 鍵盤上的快捷鍵真是有用嗎？
 
 這個鍵盤有一組專為 iOS 而設的快捷鍵，而這組快捷鍵也是入手的原因。
 
@@ -61,7 +61,7 @@ comments: true
 
 （如果想看如何使用滑鼠在 iPadOS 上的使用心得，可以看這篇：[iPadOS 上使用輔助觸控 Assistive Touch 滑鼠的心得]({{ site.baseurl }}/ipados-上使用輔助觸控-assistive-touch-滑鼠的心得/)）
 
-## > 這個鍵盤的打字手感如何？
+## 這個鍵盤的打字手感如何？
 
 打字方面，真是需要時間去適應，因為它的鍵程很薄，另外就是按鍵比較軟，要比較大力去按它。我本來使用的 Microsoft Universal Foldable Keyboard （心得 [看此]({{ site.baseurl }}/外出攜帶用的-ipad-mini-系統-microsoft-surface-arc-mouse-microsoft-universal-foldable-keyboard-apple-pencil/#microsoft-universal-foldable-keyboard)） 和 iPad Pro 使用的官方 iPad 鍵盤也比這硬得多。
 
@@ -69,7 +69,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190713-9.jpeg)
 
-## > 總結
+## 總結
 
 這個鍵盤真是十分輕便在外出使用，但是買之前最好到 Apple Store 先試試，看看是否適合自己才決定比較好。
 

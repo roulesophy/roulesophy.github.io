@@ -12,7 +12,7 @@ comments: true
 
 其實在以前我也有[以 Workflow 的方法來做過同樣的事]({{ site.baseurl }}/iPad-工作術-大量輸入行事曆/)，可是那個方法在運行中要不斷地輸入日期有點麻煩。今次以 Drafts 4 和 Fantastical 來輸入重複行事曆的方法雖然要錢（它們都不是免費的應用程式），可是我們可以把要加入的重覆行事曆放在一個檔案裡一次過輸入，不用在進行的時候才輸入日期和時間。
 
-## > 使用流程
+## 使用流程
 
 第一步，首先確定自己有 iOS 的 [Drafts 4](http://agiletortoise.com/drafts/) 和 [Fantastical 2](https://flexibits.com/fantastical-iphone)：  
 ![drafts and fantastical 2]({{ site.baseurl }}/images/20171018-5.jpeg)
@@ -39,7 +39,7 @@ Hong Kong
 
 <iframe width="480" height="360" src="{{ site.baseurl }}/images/20171018-1.mov" volume="0" frameborder="0"> </iframe>
 
-## > 解說
+## 解說
 
 如果對 url scheme 和 x-callback-url 沒有認識的話，這個部分可以跳過。
 

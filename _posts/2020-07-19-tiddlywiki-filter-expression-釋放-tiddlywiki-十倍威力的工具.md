@@ -16,7 +16,7 @@ comments: true
 > * Filter Expression 的基本的語法是？
 > * Filter Expression 有甚麼基本和進階的應用？
 
-## > 什麼是 Filter Expression，以及Filter Expression 能做什麼？
+## 什麼是 Filter Expression，以及Filter Expression 能做什麼？
 
 > Filter Expression 的的一個常見用途是用作找出符合條件的 tiddler 們，並在 tiddler 上展示。
 
@@ -36,7 +36,7 @@ Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption
 
 也因此，Filter Expression 的語法相對上比較複雜。以下會稍微介紹一下基本語法。
 
-## > 基本的語法
+## 基本的語法
 
 我們以以下的這句 filter expression 作為例子來介紹：
 
@@ -75,7 +75,7 @@ Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption
 * [Filter Step](https://tiddlywiki.com/#Filter%20Step)
 * [Introduction to Filter notation](https://tiddlywiki.com/#Introduction%20to%20filter%20notation) 這篇有更多 Filter Expression 的例子。
 
-## > 進階應用：Filter Expression 不只是為了找出 tiddler 們而存在喔
+## 進階應用：Filter Expression 不只是為了找出 tiddler 們而存在喔
 
 隨著時間的發展，Filter Expression 裡的 operator 也不只是為了 tiddler 而服務，例如加上了很多的關放文字操作的 operator（String operators） 和數學操作的 operator（Mathematics Operators）。
 
@@ -96,7 +96,7 @@ Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption
 
 我們可以只在 TiddlyWiki 裡不用寫程式便能進行這些數學運算，不要忘記這只是一個 Wiki 軟件而已！
 
-## > 進階應用：把 variable 和 transclusion 和 Filter Expression 結合
+## 進階應用：把 variable 和 transclusion 和 Filter Expression 結合
 
 另外，我們還可以在 step 裡放入 [variable](https://tiddlywiki.com/#Variables)（以 `<variable_name>` 的方式表達） 、或是 [transclusion](https://tiddlywiki.com/#Transclusion%20Basic%20Usage) 的表達式（以 `{transclusion_value}` 的方式表達）。因為 Variable 和 Transclusion 不是這篇的課題，在這裡不多談了，有興趣可以看 [這裡](https://tiddlywiki.com/#Filter%20Parameter)。
 
@@ -104,7 +104,7 @@ Filter Expression 本身只是一個字串。例如是 `[tag[Today]field:caption
 
 事實上，還真的有人利用以上的特性製造了一個為每個 tiddler 作計時器的工具（連結[按此](http://tiddlytools.com/timer.html)）。由於我有把 TiddlyWiki [當作任務管理軟體]({{ site.baseurl }}/%E6%88%91%E6%9C%83%E7%94%A8-tiddlywiki-%E4%BE%86%E5%81%9A%E7%94%9A%E9%BA%BC/)的習慣，最近我還把這個工具用作為自己的每個任務計時的工具。
 
-## > 總結
+## 總結
 
  Filter Expression 雖然不算容易學習，但是這是我認為和其他 wiki 應用的很大的分別，這個功能和其他的 [widget](https://tiddlywiki.com/#Widgets%20in%20WikiText) 結合起來 ，就會變成了訂制度十分高的工具，功能基本上已經超越了 wiki 工具的範圍。
 

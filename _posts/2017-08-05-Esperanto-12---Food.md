@@ -11,7 +11,7 @@ thumbnail: "20170805-2.jpeg"
 ![]({{ site.baseurl }}/images/20170805-2.jpeg)  
 這課十分恐怖，太多詞語要記了。
 
-## > 文法規則
+## 文法規則
 
 * 這課使用了很多 -aĵ- 的 affix ，這是指 concrete thing 。 有關 -aĵ- 的描述可以[看此](https://adventuresinesperanto.wordpress.com/tag/affixaj/)。
 * 到現時為止學了數個 prepositions ，分別是 `sur(on)` 、 `por(for)` 、 `sen(without)` 、 `de(of/from)` 、 `da(numeric of)` 和 `kun(with)` 。留意 prepositions後面的名詞通常都不會有 [accusative -n]({{ site.baseurl }}/Esperanto-4-Accusative/) 的。
@@ -32,7 +32,7 @@ thumbnail: "20170805-2.jpeg"
 |all (of it)|the whole quantity|ĉiom|
 |none (of it)|no quantity|neniom|
 
-## > Section 1/8
+## Section 1/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -59,7 +59,7 @@ thumbnail: "20170805-2.jpeg"
 |Ĉu vi havas sandviĉon?|Do you have a sandwich?||
 |Mi ne manĝas viandon.|I do not eat meat.||
 
-## > Section 2/8
+## Section 2/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -85,7 +85,7 @@ thumbnail: "20170805-2.jpeg"
 |Jen **la sukero por la kuko**.|This is **the sugar for the cake**.||
 |La telero estas blanka.|This plate is white.||
 
-## > Section 3/8
+## Section 3/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -110,7 +110,7 @@ thumbnail: "20170805-2.jpeg"
 |Suko ne estas manĝaĵo, sed trinkaĵo.|Juice is not food, but drink.||
 |Sofia trinkas **iom da suko**.|Sofia drinks **some juice**.||
 
-## > Section 4/8
+## Section 4/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -144,7 +144,7 @@ thumbnail: "20170805-2.jpeg"
 |La anaso manĝas la fragon.|The duck eats the strawberry.||
 |Porkaĵo eatas pli bongusta ol bovaĵo.|Pork is more delicious than beef.||
 
-## > Section 5/8
+## Section 5/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -167,7 +167,7 @@ thumbnail: "20170805-2.jpeg"
 |Ili multe ŝatas pastaĵojn.|They like pasta lots.||
 |La restoracio havas pastaĵojn kaj picojn.|The restaurant has pasta and pizza.||
 
-## > Section 6/8
+## Section 6/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -188,7 +188,7 @@ thumbnail: "20170805-2.jpeg"
 |Kelneroj kaj kelnerinoj laboras kune en la restoracio.|Waiters and waitresses work together in the restaurant.||
 |Ĉu la kelnero parolas nian lingvon?|Does the waiter speak our language?||
 
-## > Section 7/8
+## Section 7/8
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -211,7 +211,7 @@ thumbnail: "20170805-2.jpeg"
 |Ananaso bone gustas.|Pineapple tastes good.||
 |La fragoj estas dolĉaj.|The strawberries are sweet.||
 
-## > Section 8/8
+## Section 8/8
 
 |Esperanto|English|Comment|
 |---|---|---|

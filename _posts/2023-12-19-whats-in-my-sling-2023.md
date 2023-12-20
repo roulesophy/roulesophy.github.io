@@ -19,7 +19,7 @@ excerpt_separator: <!--more-->
 
 <!--more-->
 
-## > 為什麼使用 Sling？
+## 為什麼使用 Sling？
 
 主要因為我下半年身體出了一些問題，所以我需要稍微拿少一點東西外出。
 
@@ -52,7 +52,7 @@ excerpt_separator: <!--more-->
 
 此外，在使用這個 Sling 時，因為容量不太，這樣更能強迫自己想清楚放在 Sling 的物品是自己真的需要的物品。
 
-## > 前間隔放了什麼？
+## 前間隔放了什麼？
 
 主要放置細小的物件。因為我的東西真的很細，所以能放很多東西。
 
@@ -76,7 +76,7 @@ excerpt_separator: <!--more-->
 ![Sling Front Pocket1]({{ site.baseurl }}/images/20231213091204-Sling-Front-Pocket1.jpeg)  
 ![Sling Front Pocket2]({{ site.baseurl }}/images/20231213091204-Sling-Front-Pocket2.jpeg)  
 
-## > 主間隔放了什麼？
+## 主間隔放了什麼？
 
 - [iClever bk-06 Portable Keyboard](https://a.co/d/2wmhvjF)：在這篇 [我的 iPhone 鍵盤和滑鼠的配置]({{ site.baseurl }}/20231127-iphone-keyboard-mouse-setup/) 中有詳細介紹我的手機鍵盤和滑鼠配置。
 - [Patagonia Houdini air 外套](https://www.patagonia.com.hk/products/mens-houdini-air-jacket-24010-blk)：突然在冷氣地方、或是突然下兩時會很有用。
@@ -92,11 +92,11 @@ excerpt_separator: <!--more-->
 
 ![sling3]({{ site.baseurl }}/images/20231214091225-sling3.jpeg)  
 
-## > 後間隔放了什麼？
+## 後間隔放了什麼？
 
 - [Kobo Clara HD](https://gl.kobobooks.com/products/kobo-clara-hd)：雖然我試過用 iPhone 的 Kobo 電子書應用程式來看書，但很容易分心，所以我還需要使用獨立的電子書閱讀器。把它放在很間隔無法拉上拉鏈，但優點是十分容易取出。
 
-## > 總結
+## 總結
 
 你應該沒有想過這個一個小 Sling 能放這麼多東西 :D
 

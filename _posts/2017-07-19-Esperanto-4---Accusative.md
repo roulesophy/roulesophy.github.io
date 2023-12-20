@@ -19,11 +19,11 @@ thumbnail: "20170719-1.jpeg"
 ![]({{ site.baseurl }}/images/20170719-1.jpeg)  
 [Accusative](https://zh.wikipedia.org/wiki/宾格) 是一個語言學的名詞，主要是用來表示一個動詞作用於的名詞。
 
-## > 文法規則
+## 文法規則
 * 所有 Accusative 的名詞都以 `n` 作尾。 例如 `Mi amas ŝin. (I love her)` 中， `mi` 不是 accusative ，所以不用加 `n` 在 `mi` 後，而 `amas` 作用的名詞是 `ŝi` ，所以 `ŝi` 後要加 `n` 變成 `ŝin` 。
 <!-- en 後面不用加 `n` 。-->
 
-## > Section 1/4
+## Section 1/4
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -50,7 +50,7 @@ thumbnail: "20170719-1.jpeg"
 |Ŝi amas lin kaj min!|She loves him and me!||
 |Vi kisas la viron!|You kiss the man!||
 
-## > Section 2/4
+## Section 2/4
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -82,7 +82,7 @@ thumbnail: "20170719-1.jpeg"
 |La knabo manĝas pomon.|The boy is eating an apple.||
 |Mi manĝas pomon.|I am eating an apple.||
 
-## > Section 3/4
+## Section 3/4
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -110,7 +110,7 @@ thumbnail: "20170719-1.jpeg"
 |La virino havas bongustan ĉokoladon.|The woman has delicious chocolate.||
 |Vi ŝatas kukon.|You like cake.||
 
-## > Section 4/4
+## Section 4/4
 
 |Esperanto|English|Comment|
 |---|---|---|

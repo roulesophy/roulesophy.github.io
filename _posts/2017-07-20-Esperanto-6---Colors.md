@@ -11,7 +11,7 @@ thumbnail: "20170720-2.jpeg"
 ![]({{ site.baseurl }}/images/20170720-2.jpeg)  
 這是一篇關於顏色的詞語。
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -44,7 +44,7 @@ thumbnail: "20170720-2.jpeg"
 |Ĉu ĝi bluas aŭ verdas? / Ĉu ĝi estas blua aŭ verda?|Is it blue or green||
 |Mi havas verdan flagon, kaj ankaŭ ŝi havas verdan flagon.|I have a green flag, and she also has a green flag.||
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -69,7 +69,7 @@ thumbnail: "20170720-2.jpeg"
 |Ĉu la griza domo estas granda?|Is the gray house big?||
 |Lakto estas blanka kaj ĉokolado estas bruna.|Milk is white and chocolate is brown.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

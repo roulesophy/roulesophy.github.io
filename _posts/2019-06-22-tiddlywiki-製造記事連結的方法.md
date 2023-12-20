@@ -14,7 +14,7 @@ comments: true
 
 首先，我們在學習如何做到這個之前，首先學習兩個概念，分別為 [Transclusion](https://tiddlywiki.com/static/Transclusion%2520in%2520WikiText.html) 和 [Transclusion with Templates](https://tiddlywiki.com/static/Transclusion%2520with%2520Templates.html)。
 
-## > Transclusion
+## Transclusion
 
 {% raw %}
 Transclusion 就是把一個 Tiddler 的內容直接放在另一個 Tiddler 裡的意思。如果我們在一個 Tiddler 裡這樣寫： `{{IncludedTiddler}}`，這樣便會展示 IncludedTiddler 這個 Tiddler 的內容。
@@ -48,7 +48,7 @@ Transclusion 就是把一個 Tiddler 的內容直接放在另一個 Tiddler 裡�
 
 這個時候，我們要的是一個新概念。
 
-## > Transclusion with Templates
+## Transclusion with Templates
 
 沒錯，就如上面所述，這個概念名為 [Transclusion with Templates](https://tiddlywiki.com/static/Transclusion%2520with%2520Templates.html) 。
 
@@ -68,7 +68,7 @@ Transclusion 就是把一個 Tiddler 的內容直接放在另一個 Tiddler 裡�
 
 好了，得知了這個後，我們回到正題：如何快速獲得某 Tiddler 的連結呢？
 
-## > 複製記事連結
+## 複製記事連結
 
 我們想要做到的是在每個 Tiddler 裡都以 [預設文字]({{ site.baseurl }}/tiddlywiki-%E5%A2%9E%E5%8A%A0%E9%A0%90%E8%A8%AD%E6%96%87%E5%AD%97%E7%9A%84%E6%96%B9%E6%B3%95-snippet/) 的方法來加上一個按紐，從而我們能夠在該 Tiddler 裡按下這個按紐便能夠把 `[[<該 Tiddler 的標題>]]` 放到剪貼簿裡。
 

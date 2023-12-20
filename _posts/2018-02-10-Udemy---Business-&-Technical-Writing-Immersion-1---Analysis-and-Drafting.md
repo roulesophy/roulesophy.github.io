@@ -11,7 +11,7 @@ comments: true
 最近上了這個關於 Business and Technical  Writing 的寫作[課程](https://www.udemy.com/business-writing-immersion/)。個人在這裡學了不少東西，以下是我上課後上半部份的分享。  
 從上課的環境估計，這個課程片段應該是在十多年前拍攝，相信是剪輯自講師 Danial Graham 的一個大學課程。講師也出了一本和這個課程有關的[書](https://www.amazon.com/Writing-System-Daniel-Graham/dp/0964449579)。
 
-## > The Writing System
+## The Writing System
 
 老師的寫作框架是以下的流程，這個流程可以分為四個階段，分別是 Analysis，Drafting，Writing 和 Proofreading。
 
@@ -20,7 +20,7 @@ comments: true
 這個課程主要是講述頭三個部份，Proofreading 則沒有介紹。  
 ![The writing system]({{ site.baseurl }}/images/20180210-2.png)
 
-## > Analyze audience
+## Analyze audience
 
 這個步驟是分析讀者來決定之後寫作內容。可以分為以下的 4 個步驟：
 
@@ -29,7 +29,7 @@ comments: true
 * 分析讀者對話題的知識程度
 * 分析讀者是否需要證明
 
-### > 分析讀者的閱讀目的
+### 分析讀者的閱讀目的
 
 這個章節學到最重要的地方是隨著讀者的類別不同，寫作的資料次序可以完全不同。
 
@@ -43,11 +43,11 @@ comments: true
 
 另外，老師也指出專家、管理層和工作者他們需要看一份文件的目的不同，所以不可以寫一份文件能讓他們都看，對著不同的讀者要因應他們的需求而寫不同的東西。
 
-### > 分析讀者需要知道的資訊
+### 分析讀者需要知道的資訊
 
 這個步驟就是在讀者的角度中，切身處地分析他們需要的資訊。
 
-### > 分析讀者對話題的知識程度
+### 分析讀者對話題的知識程度
 
 我們要分析讀者對這個話題有十分深厚的認識，還是只有很少的認識？
 
@@ -60,13 +60,13 @@ comments: true
 最後，如果我們並不知道讀者的程度，我們便會假設讀者對這個話題有深厚的認識，並在文章的開始寫下讀者看這篇寫作前需要有以下的背景知識。因為要定義名詞十分費時，寧願等讀者看後如果不明白才作解釋。  
 ![jargon]({{ site.baseurl }}/images/20180210-5.jpeg)
 
-### > 分析讀者是否需要證明
+### 分析讀者是否需要證明
 
 在這個步驟裡，我們要決定是否需要為自己的意見和發現提供證明，如果知道讀者是專家，那麼我們需要把證明也放到寫作中，如果知道讀者是管理層或工作者，我們便不用把證明放到寫作中。
 
 如果我們不能分別讀者是否需要證明，那麼便不要放，因為提供證明也是需要寫作時間的，最多留待讀者需要時才提供。
 
-## > Purpose Statement
+## Purpose Statement
 
 這個是個人認為其中最受用的一點。Purpose Statement 是一句句子用來形容這份寫作，它們分別有五個元素：
 1. 這份寫作的類別（Type of document）。例如 notice, memo 等。
@@ -91,7 +91,7 @@ comments: true
 * 對自己來說，這句能夠幫助自己定下要寫的是甚麼。之後寫作時所有無關這句的資料都可以省略，省回做資料搜集的力氣和避免寫了不相關的東西。
 * 對讀者來說，這句能夠幫助讀者節省時間，因為他們能夠快速明白自己是否適合看這篇寫作，以及他們看後可以用來做甚麼。
 
-## > Sentence Outline
+## Sentence Outline
 
 小時候我們學到在文字編輯器寫大綱。  
 ![list]({{ site.baseurl }}/images/20180210-6.png)
@@ -120,7 +120,7 @@ comments: true
 
 ![edit]({{ site.baseurl }}/images/20180210-8.jpeg)
 
-## > Drafts
+## Drafts
 
 然後就是進入寫草稿的階段。在寫草稿時有三個重點：
 

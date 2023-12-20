@@ -19,9 +19,9 @@ thumbnail: "20170723-2.jpeg"
 ![]({{ site.baseurl }}/images/20170723-2.jpeg)  
 這課主要是記動物的詞語。
 
-## > 文法規則
+## 文法規則
 
-## > Section 1/5
+## Section 1/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -45,7 +45,7 @@ thumbnail: "20170723-2.jpeg"
 |La ĉevalo vidas la bovinojn.|The horse sees the cows.||
 |La gepatroj havas kvar infanojn.|The parents have four children.||
 
-## > Section 2/5
+## Section 2/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -69,7 +69,7 @@ thumbnail: "20170723-2.jpeg"
 |Duo ne estas azeno, sed strigo.|Duo is not a donkey but an owl.||
 |La muŝo estas insekto.|The fly is an insect.||
 
-## > Section 3/5
+## Section 3/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -91,7 +91,7 @@ thumbnail: "20170723-2.jpeg"
 |Ĉu birdoj demetas ovojn?|Do birds lay eggs?||
 |Ĉu aligatoroj demetas ovojn?|Do alligators lay eggs?||
 
-## > Section 4/5
+## Section 4/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -112,7 +112,7 @@ thumbnail: "20170723-2.jpeg"
 |Strigoj estas noktaj bestoj.|Owls are night animals.||
 |Ili kaptas fiŝojn.|They catch fish.||
 
-## > Section 5/5
+## Section 5/5
 
 |Esperanto|English|Comment|
 |---|---|---|

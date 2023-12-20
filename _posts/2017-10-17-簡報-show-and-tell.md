@@ -10,7 +10,7 @@ comments: true
 最近上網亂逛時看到不少人在大推 [簡報 Show and Tell (Show and Tell: How Everybody Can Make Extraordinary Presentations)](https://affiliate.api.rakuten.com.tw/redirect?nw=tw&site=afl&a=d65d6bbcdc6ad9659e915c1d69a2fae591cafa81dab4014d93000e3163fa586bd375ceb6838c5a08&ar=a747b10f014cf18584f9ee2ca5516854cb91d9c5d6849f5c93000e3163fa586b69315791463a07d2&cs=eea8698c3937852656230d67e367bf81&pr=4797c7006de28fbf&ap=pr%3D4797c7006de28fbf&e=1&url=https%3A%2F%2Fwww.rakuten.com.tw%2Fshop%2Frbook%2Fproduct%2F2014941359453%3Fscid%3Drafp-) 這本書。所以便買來看了，一看之下，這本真是一本好書。以下是我的介紹，希望大家能夠從這本書中獲得一點東西。  
 ![Show and Tell: How Everybody Can Make Extraordinary Presentations]({{ site.baseurl }}/images/20171017-1.jpeg)
 
-## > 說真話
+## 說真話
 一個好的簡報，是能夠改變聽眾的信念並讓他們作出改變。而在準備簡報前，我們要先想三個問題：
 
 * **構想**：我到底想說些甚麼？
@@ -19,7 +19,7 @@ comments: true
 
 這三個問題，可以幫助自己想出一些簡報的原材料，然後在下一步使用合適的簡報架構。但是，在這三個問題裡，我們都要確定自己是在說真話，因為**說真話才能令觀眾相信，令觀眾改變**。
 
-## > 4種簡報架構：報告、解說、推銷、戲劇
+## 4種簡報架構：報告、解說、推銷、戲劇
 
 作者認為，一個簡報可以改變聽眾的 **資訊**、**能力**、**行動** 或是 **信念**。而我們使用那一種簡報架構，是取決於我們想改變聽眾的甚麼：
 
@@ -67,7 +67,7 @@ comments: true
 7. 返回：不只是安然返回，還脫始換骨打開全新的可能。
 8. 經驗教訓：我們獲得畢生難忘的恩賜。
 
-## > 圖像的重要
+## 圖像的重要
 而作者認為任何的一頁簡報裡都應該加入圖像，因為人類是視覺類動物。有了
 圖像能夠更容易把故事放進人的頭腦裡。而說明任何東西都只需要六種圖像：
 

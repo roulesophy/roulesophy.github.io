@@ -12,7 +12,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20211010-1.jpeg)  
 這篇我們來談談如何在每個 Tiddler 展示反向連結以及相關內容。
 
-## > 為何需要反向連結？
+## 為何需要反向連結？
 
 如果想要好好地利用 [TiddlyWiki]({{ site.baseurl }}/%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%9A%84%E5%B7%A5%E5%85%B7-tiddlywiki/) 作為你的筆記軟件，一個很重要的功能就是反向連接。
 
@@ -22,7 +22,7 @@ comments: true
 
 如果有了反向連結的功能，我們能夠在 Tiddler B 看到了它被 Tiddler A 連結，這樣會令這個知識之網更完整。
 
-## > 如何在每一頁裡展示反向連結？
+## 如何在每一頁裡展示反向連結？
 
 在以前這篇 「[Zettelkasten 筆記方法在 TiddlyWiki的應用：如何建立雙向連結？]({{ site.baseurl }}/20200626-zettelkasten-tiddlywiki-bidirectional-link/)」 中，我介紹一個不需要用 Filter Expression 來寫展示反向連接的方法。但是，如果大家懂得如何使用 [Filter Expression]({{ site.baseurl }}/20200719-tiddlywiki-filter-expression/) 的 [backlinks operators](https://tiddlywiki.com/#backlinks%20Operator) 和 [List Widget](https://tiddlywiki.com/#ListWidget) 的話，其實是很容易就能夠在頁面裏展示所有的反向連結：
 
@@ -36,7 +36,7 @@ comments: true
 
 這個方法也可結合 [ViewTemplate]({{ site.baseurl }}/20210102-tiddlywiki-tutorial-viewtemplate-header/) 使用，便能在每個 Tiddler 都展示每個 Tiddler 的反向連結。
 
-## > 除了展示反向連結外，我們還能展示反向連結的部分內容
+## 除了展示反向連結外，我們還能展示反向連結的部分內容
 
 如果我們除了能在 Tiddler B 裡看到它被 Tiddler A 連結，也能看到為何 Tiddler A 連結到 Tiddler B，這樣會省掉很多我們理解 Tiddler A和 Tiddler B 的時間。
 
@@ -69,7 +69,7 @@ comments: true
 * 把文字用 Regular Expression （這裡拆了 新行字元 new line character）來拆成幾句的 [splitregexp operator](https://tiddlywiki.com/#splitregexp%20Operator)
 * 以及比較難懂的 [search operator](https://tiddlywiki.com/#search%20Operator)，留意要 exact search 的話就是用 literal 選項
 
-## > 總結
+## 總結
 
 這個例子除了示範如何顯示反向連結和相關內容外，還對一些 widgets 和 filter expression 做了一個整合的示範。
 

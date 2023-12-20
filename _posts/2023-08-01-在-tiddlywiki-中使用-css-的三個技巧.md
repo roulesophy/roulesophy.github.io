@@ -30,7 +30,7 @@ comments: true
 
 這篇我不會介紹 CSS 是什麼，假定讀者有基本的 CSS 的認識。
 
-## > 如何在 TiddlyWiki 設置 CSS：
+## 如何在 TiddlyWiki 設置 CSS：
 
 在 [官方的文檔裡](https://tiddlywiki.com/static/Using%2520Stylesheets.html)有介紹如何加入 CSS ，只要把該 Tiddler Tag 上 `$:/tags/Stylesheet` 便可以了：
 
@@ -40,7 +40,7 @@ comments: true
 
 ![TiddlyWiki css2]({{ site.baseurl }}/images/20230801120816-TiddlyWiki-css2.jpeg)  
 
-## > 如何把 CSS 只應用於某些特定的 Tiddler？
+## 如何把 CSS 只應用於某些特定的 Tiddler？
 
 [官網](https://tiddlywiki.com/static/Custom%2520styles%2520by%2520data-tags.html) 中有介紹做法叫做 data tags，例如我們可能設置以下的 css，那麼只有 tag了 exampleTag 的 Tiddler 的 `<li>` 也就是列表完素才會是綠色。
 
@@ -54,7 +54,7 @@ comments: true
 
 ![TiddlyWiki css data tag2]({{ site.baseurl }}/images/20230801120833-TiddlyWiki-css-data-tag2.jpeg)  
 
-## > 部分 TiddlyWiki 內建的 Widget 也有支援 CSS class
+## 部分 TiddlyWiki 內建的 Widget 也有支援 CSS class
 
 這次我們在 CSS 檔案中加入一個叫做 sampleclass 的 CSS class，作用是把字體加大至 20 px：
 
@@ -66,7 +66,7 @@ comments: true
 ![TiddlyWiki style2]({{ site.baseurl }}/images/20230801120842-TiddlyWiki-style2.jpeg)  
 
 
-## > 總結
+## 總結
 
 這篇我們學會了：
 

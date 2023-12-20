@@ -10,7 +10,7 @@ comments: true
 這是第二天的行程，今天由婆羅洲海灘別墅回到亞庇市內。  
 行程：[婆羅洲海灘](https://www.google.com.hk/maps/search/borneo+beach/data=!4m2!2m1!4b1?sa=X&hl=en-hk)（Borneo Beach） -> [歐勝娜酒店](https://maps.google.com.hk/maps?oe=UTF-8&hl=en-hk&client=safari&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b69bc1a5b4ca3:0x538718cb1564c872&gmm=CgIgAQ%3D%3D)（Oceania Hotel） -> 亞庇市內 -> [富源茶餐廳](https://maps.google.com.hk/maps?hl=en-hk&client=safari&yv=2&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b6985e169d825:0x62554e2c36a62878&gmm=CgIgAQ%3D%3D) -> [新記肉骨茶](https://maps.google.com.hk/maps?oe=UTF-8&hl=en-hk&client=safari&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b698f60eb5b8b:0x7c734346bd07376e&gmm=CgIgAQ%3D%3D) -> [Suria Sabah](https://maps.google.com.hk/maps?oe=UTF-8&hl=en-hk&client=safari&um=1&ie=UTF-8&fb=1&gl=hk&entry=s&sa=X&ftid=0x323b69861c613767:0xfd775190042ffaf&gmm=CgIgAQ%3D%3D)
 
-## > 婆羅洲海灘（Borneo Beach）
+## 婆羅洲海灘（Borneo Beach）
 
 沙巴的早上天氣比起下午要好得多，每天的早上天色都是藍色的。
 
@@ -32,7 +32,7 @@ comments: true
 然後便收拾行李 check out 了。走前順便光顧這家超級貴的餐廳，一個炸魚薯條要25馬幣。炸魚做得不錯，而這裡的薯條和香港的薯條味道有點不同，美中不足的是這個薯條比較碎了一點。  
 ![fish and chips]({{ site.baseurl }}/images/20171007-8.jpeg)  
 
-## > 歐勝娜酒店（Oceania Hotel）
+## 歐勝娜酒店（Oceania Hotel）
 
 然後坐 Uber 回到亞庇的歐勝娜酒店。
 
@@ -46,7 +46,7 @@ comments: true
 
 ![city map]({{ site.baseurl }}/images/20171007-10.jpeg)  
 
-## > 亞庇市內
+## 亞庇市內
 
 在酒店 checkin 後，便走到亞庇市內吃喝購物了。  
 ![kk city]({{ site.baseurl }}/images/20171007-11.jpeg)  
@@ -54,7 +54,7 @@ comments: true
 這是這幾天我們在市內到過的地方和位置，可以看見如果住 Hotel 63 的話是十分方便的。  
 ![city map]({{ site.baseurl }}/images/20171007-12.jpeg)  
 
-## > 富源茶餐室
+## 富源茶餐室
 
 然後到了富源茶餐室吃點東西。這是一家在亞庇十分有名的茶餐廳。（雖然當地人說這裡的食物不算便宜，可是由於物價的關係，對遊客來說還是可以的。）
 
@@ -68,7 +68,7 @@ comments: true
 ![富源吐司]({{ site.baseurl }}/images/20171007-14.jpeg)  
 ![富源拉茶]({{ site.baseurl }}/images/20171007-15.jpeg)  
 
-## > 新記肉骨茶
+## 新記肉骨茶
 
 然後到了新記肉骨茶嘗嘗當地的肉骨茶。
 
@@ -85,7 +85,7 @@ comments: true
 
 ![新記肉骨茶]({{ site.baseurl }}/images/20171007-19.jpeg)  
 
-## > Suria Sabah
+## Suria Sabah
 
 然後到了這家在亞庇市內最有名的大型商場。這家商場的空調不是一般的冷，進入時需要有心理準備。另外，聽說以前這裡的洗手間是要收費的，可是這次 2017 年去的時候洗手間是不用收費的。
 

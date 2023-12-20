@@ -16,7 +16,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20211026-2.jpeg)
 
-## > 為什麼會有這個問題？
+## 為什麼會有這個問題？
 
 會有這個問題是因為我都是從 Evernote 轉過來，一開始時我也不習慣。
 
@@ -24,7 +24,7 @@ comments: true
 
 在這裡向不知道什麼是 [field](https://tiddlywiki.com/#TiddlerFields) 的同學說明，一個 tiddler 除了內容外，本身也會儲存其他內容。例如是這個 tiddler 是何時建立又或是上一次修改的日期等等。這些內容全部放在一些名為 field 的地方。一個 tiddler 可以有很多個 field，這些 field 都有各自的名稱來標示。例如何時建立這個 tiddler 對應的 field 是 created、上一次修改的日期對應的 field 是 modified。而每一個 tiddler 中我們在編輯器裡看到的內容，其實只是這個 tiddler 中一個名為 text 的 field 的內容。除了這些 field 外，我們還可以自訂不同的 field。
 
-## > TiddlyWiki 中關於 checkbox 的介紹
+## TiddlyWiki 中關於 checkbox 的介紹
 
 如果有看到 TiddlyWiki 官網關於 [checkbox](https://tiddlywiki.com/#CheckboxWidget) 的例子，你會發現以下的東西：
 
@@ -38,7 +38,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20211026-3.jpeg)
 
-## > 我們可以如何在 Tiddler 中模仿 Evernote 中的 checkbox？
+## 我們可以如何在 Tiddler 中模仿 Evernote 中的 checkbox？
 
 那麼，我們可以如何在 Tiddler 中模仿 Evernote 中的 checkbox 呢？
 
@@ -77,7 +77,7 @@ comments: true
 
 這裡我們需要用到一個名為 EditorToolbar 的概念。
 
-## > EditorToolbar 是什麼？
+## EditorToolbar 是什麼？
 
 如果一個 tiddler tag 了 `$:/tags/EditorToolbar` 並加入了某些元素，它便會在編輯器裡出現。
 
@@ -89,7 +89,7 @@ comments: true
 
 我們現在就這樣做。
 
-## > 繼續寫我們的 checkbox
+## 繼續寫我們的 checkbox
 
 這個是完整的內文。
 
@@ -111,7 +111,7 @@ comments: true
 
 完成，以下是 demo。Source 在[這裡]({{ site.baseurl }}/TiddlyWiki_Demo/Add_Checkbox_As_Evernote.html)。
 
-## > 總結
+## 總結
 
 這次一次介紹了很多 TiddlyWiki 的功能：
 

@@ -11,7 +11,7 @@ comments: true
 這是一個 [TiddlyWiki]({{ site.baseurl }}/知識連結的工具-tiddlywiki/) 的 macro 教學。這次我們會試試寫一個簡單的 macro ，為這個 Tiddler 的特定文字旁加上一個按紐，按下便會把該文字放到剪貼簿裡。方便在其它程式中使用。  
 雖然這個功能實作起來十分簡單，但是對放有時需要快速使用把某些已知的特定文字時可是能省下「選擇文字並複製」這個步驟。
 
-## > 甚麼是 Macro?
+## 甚麼是 Macro?
 
 我們看看甚麼是一個 macro。一個 [macro](https://tiddlywiki.com/static/Macros.html) 就是一個程式把你的輸入以自定的方式輸出並放到 Tiddler 的方法。
 
@@ -37,7 +37,7 @@ Hello
 
 ![]({{ site.baseurl }}/images/20190524-2.jpeg)
 
-## > 開始實作這個 macro
+## 開始實作這個 macro
 
 好吧，其實我們也要使用 TiddlyWiki 系統內的 Macro 才能完成我們這次的任務。
 
@@ -59,13 +59,13 @@ Hello
 
 ![]({{ site.baseurl }}/images/20190524-4.jpeg)
 
-## > 每一次都要把 macro 寫一次很麻煩啊
+## 每一次都要把 macro 寫一次很麻煩啊
 
 放心，就像 以 [TiddlyWiki 使用預設文字]({{ site.baseurl }}/tiddlywiki-%E5%A2%9E%E5%8A%A0%E9%A0%90%E8%A8%AD%E6%96%87%E5%AD%97%E7%9A%84%E6%96%B9%E6%B3%95-snippet/) 般，我們只需要把 macro 的定義放入 `$:/tags/Macro` 這個 tag 裡，那麼這個 macro 便會被放到系統裡，不用每次定義一次，直接使用便可以了。
 
 ![]({{ site.baseurl }}/images/20190524-5.jpeg)
 
-## > 如果我們呼叫的文字裡有雙引號怎麼辦？
+## 如果我們呼叫的文字裡有雙引號怎麼辦？
 
 根據 [官網關於呼叫 macro 的介紹](https://tiddlywiki.com/static/Macro%2520Calls%2520in%2520WikiText.html) 裡，在呼叫 macro 時，除了把要使用的文字放在 `""`（雙引號） 外，我們還可以使用 `' '`（單引號） 或是 `""" """`（三個雙引號）
 
@@ -74,7 +74,7 @@ Hello
 ![]({{ site.baseurl }}/images/20190524-6.jpeg)
 
 
-## > 參考資料
+## 參考資料
 
 * [TiddlyWiki: Macros in WikiText](https://tiddlywiki.com/static/Macros%2520in%2520WikiText.html)
 

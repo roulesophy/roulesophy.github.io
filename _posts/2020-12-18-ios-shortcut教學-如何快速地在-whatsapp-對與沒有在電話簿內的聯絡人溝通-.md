@@ -16,7 +16,7 @@ comments: true
 
 那麼我們有沒有一些比較快的做法呢？
 
-## > 其實我們可以以打開網址的做法來直接和某 WhatsApp 號碼對話
+## 其實我們可以以打開網址的做法來直接和某 WhatsApp 號碼對話
 
 印象中在兩年前其實我們已經有一個比較簡單的方法在不用輸入聯絡人電話的情況下 WhatsApp 給他們。
 
@@ -28,7 +28,7 @@ https://wa.me/85212345678
 
 但是每次也要自己輸入這樣的電話號碼網址實在太麻煩，有沒有一些更簡單的方法呢？
 
-## > 我們可以用 iOS Shortcuts 來令這事變得更簡單
+## 我們可以用 iOS Shortcuts 來令這事變得更簡單
 
 這時候又是我們偉大的 [Shortcuts](https://support.apple.com/en-hk/guide/shortcuts/welcome/ios) 進場的時候了。
 

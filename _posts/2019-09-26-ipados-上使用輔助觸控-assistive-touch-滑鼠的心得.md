@@ -11,7 +11,7 @@ comments: true
 話說 iPadOS 終於可以使用滑鼠來操作了。  
 雖然嚴格來說這只是使用滑鼠來控制 Assistive Touch 來模擬的手指活動，但是這個已經是一個突破。呢兩日使用iOS 10衫的時候，總結一下使用這個功能一些心得，以及如何更有效地使用這個方法。
 
-## > 如何開啟滑鼠功能？
+## 如何開啟滑鼠功能？
 
 要在 iPadOS 裡使用滑鼠，只需要任何一隻有線或藍牙的滑鼠，然後在設定那裡開了AssistiveTouch，並連接滑鼠就可以了。
 
@@ -47,7 +47,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20190926-11.jpeg)
 
-## > 一些 滑鼠 Assistive Touch 的用法
+## 一些 滑鼠 Assistive Touch 的用法
 
 我們也可以利用滑鼠來開啟 App Switcher、控制中心、home 鍵、通知、Dock 等、甚至可以做到 Split View 等等的動作。
 
@@ -77,7 +77,7 @@ comments: true
 
 另外，如果使用文字編輯器時，要使用滑鼠來選擇整段文字時，只需要在文字上方雙擊滑鼠，並在第二下點擊滑鼠時按著不放手再向其它方向拖（drag）便可以選擇文字。不過個人認為如果正在使用實體鍵盤的話，使用鍵盤上的快捷鍵或許會更有效率。
 
-## > 注意：使用 Swiftpoint GT 和 JumpDesktop 來遠端控制電腦的時候要關閉 Assistive Touch
+## 注意：使用 Swiftpoint GT 和 JumpDesktop 來遠端控制電腦的時候要關閉 Assistive Touch
 
 在這一篇 [介紹關於如何使用滑鼠來遠端控制電腦的文章]({{ site.baseurl }}/ipad-%E5%B7%A5%E4%BD%9C%E8%A1%93-%E4%BB%A5-ipad-%E9%8D%B5%E7%9B%A4%E5%92%8C%E6%BB%91%E9%BC%A0-swiftpoint-gt-%E9%81%A0%E7%AB%AF%E6%8E%A7%E5%88%B6%E9%9B%BB%E8%85%A6/) 裡，我們介紹了 Swiftpoint GT 這支滑鼠。因為它也是一支藍牙滑鼠，所以也可以當作滑鼠 Assistive Touch 使用。
 
@@ -87,7 +87,7 @@ comments: true
 
 在這個時候，我們應該要係使用中desktop遠端控制電腦之前，首先把AssistiveTouch關閉。
 
-## > 如何快速地開關 Assistive Touch?
+## 如何快速地開關 Assistive Touch?
 
 有兩個方法。
 
@@ -110,7 +110,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20190926-19.jpeg)
 
 
-## > 使用滑鼠 Assistive Touch 的用後感
+## 使用滑鼠 Assistive Touch 的用後感
 
 基本上使用了一段短時間後，個人認為只有一種情況下開啟滑鼠 Assistive Touch 會比較適合，這就是有實體鍵盤的情況下，並正在進行需要鍵盤工作的情況下。
 

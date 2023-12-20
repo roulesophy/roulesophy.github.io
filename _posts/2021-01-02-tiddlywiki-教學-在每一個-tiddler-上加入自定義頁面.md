@@ -12,7 +12,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20210102-1.jpeg)  
 這篇來分享如何在每一個 Tiddler 裡加入頁面來放置一些自訂功能。這是使用 [TiddlyWiki]({{ site.baseurl }}/%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%9A%84%E5%B7%A5%E5%85%B7-tiddlywiki/) 效率提升的一大步。
 
-## > 需求
+## 需求
 
 使用了 TiddlyWiki 一段時間後，會發現要是能夠在每一個 Tiddler 裡也能有一些自訂的操作便好了。這樣做的話，使用 TiddlyWiki 的效率應該會快了不少。
 
@@ -28,11 +28,11 @@ comments: true
 
 我那麼喜歡使用 TiddlyWiki 的原因，就是因為它的彈性十分好，我們可以自定義很多東西來符合自己的使用習慣。
 
-## > 如何做
+## 如何做
 
 根據 TiddlyWiki 官網上的這一頁 TiddlyWiki: [Page and tiddler layout customisation](https://tiddlywiki.com/static/Page%2520and%2520tiddler%2520layout%2520customisation.html)，我們能夠這樣做。
 
-### > 第一步：先製作兩顆按鈕
+### 第一步：先製作兩顆按鈕
 
 第一顆按鈕（名為 Copy Title Button）用來把當前的 Tiddler 標題的複製到剪貼簿上；第二顆按鈕（名為 Dummy Second Button）只是一顆假按鈕，不會作任何東西（只作 demo 用）。
 
@@ -42,7 +42,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20210102-5.jpeg)
 
-### > 第二步：把這兩顆按鈕加到一個 Tiddler 裡（例如名為 ViewTemplate）
+### 第二步：把這兩顆按鈕加到一個 Tiddler 裡（例如名為 ViewTemplate）
 
 很好，我們現在有兩顆按鈕了。下一步就要製作一個 Tiddler （名為 ViewTemplate Header）把這兩顆按鈕放進去。
 
@@ -59,7 +59,7 @@ comments: true
 
 具體的分別我也有一篇文章，詳細也可以看這篇 [TiddlyWiki 製造記事連結的方法]({{ site.baseurl }}/tiddlywiki-%E8%A3%BD%E9%80%A0%E8%A8%98%E4%BA%8B%E9%80%A3%E7%B5%90%E7%9A%84%E6%96%B9%E6%B3%95/)。
 
-### > 第三步：把 ViewTemplate Header 加到每一個 Tiddler 裡
+### 第三步：把 ViewTemplate Header 加到每一個 Tiddler 裡
 
 然後就是想辦法把 ViewTemplate Header 加到每一個 Tiddler 裡。具體有三個步驟。
 

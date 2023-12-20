@@ -10,7 +10,7 @@ comments: true
 這是旅程的第四天，主要是在市內逛逛和休息。  
 行程：[悅昌茶室](https://www.google.com/maps/search/88000+Pusat+Bandar+Kota+Kinabalu%0A47,+Jalan+Pantai/data=!4m2!2m1!4b1?dg=dbrw&newdg=1) -> [KK Plaza](https://www.google.com.hk/maps/search/kk+plaza/data=!4m2!2m1!4b1?sa=X&hl=en-hk) -> [五星海南家鄉雞飯和燒肉](https://www.google.com.hk/maps/place//data=!4m2!3m1!1s0x323b6988b50f8ceb:0xd166ed348d3222e6?sa=X&hl=en-hk) ->  [Imago Shopping Mall](https://www.google.com.hk/maps/place//data=!4m2!3m1!1s0x323b69bf9343041b:0x33802475c032cd8c?sa=X&hl=en-hk) -> [馮業茶餐廳](https://www.google.com.hk/maps/place//data=!4m2!3m1!1s0x323b698580dc21b7:0xd6d549c846791539?sa=X&hl=en-hk)
 
-## > 悅昌茶室
+## 悅昌茶室
 
 其實這家茶室是早兩天在市內亂逛時無意中發現的，當時被門外的串燒吸引，只是當時已經很飽的關係，便決定這天才吃。
 
@@ -38,7 +38,7 @@ comments: true
 這個牛肉麵和香港的很不同，加了很多不知名的配料，只是個人還是比較喜歡港式的沙嗲牛肉麵多一點。
 ![牛肉麵]({{ site.baseurl }}/images/20171009-6.jpeg)  
 
-## > KK Plaza
+## KK Plaza
 
 然後來到這個在市內可是是當地人比較多的商場，在大街看見一條天橋，自前走再轉左便來到了。
 
@@ -58,7 +58,7 @@ comments: true
 ![supermarket]({{ site.baseurl }}/images/20171009-11.jpeg)  
 ![supermarket]({{ site.baseurl }}/images/20171009-12.jpeg)  
 
-## > 五星海南家鄉雞飯和燒臘
+## 五星海南家鄉雞飯和燒臘
 由於很有名的味雅雞飯在節日關係沒有開門，我們到了另一家五星海南家鄉雞飯和燒臘（Wisma Merdeka 默迪卡商場分店）吃午餐。這家在加雅街和 Suria Sabah 都有分店的。在默迪卡商場地下上兩層便會看到指示牌了。
 
 順帶一提，我們發現在 Wisma Merdeka 兌換馬幣匯率要比起在 Suria Sabah 來得好一點點。
@@ -76,7 +76,7 @@ comments: true
 
 ![桔仔冰]({{ site.baseurl }}/images/20171009-14.jpeg)  
 
-## > Imago Shopping Mall
+## Imago Shopping Mall
 然後回到酒店放下手信再休息一會，便出發到 [Imago Shopping Mall](https://www.imago.my) 了。
 
 * Imago Shopping Mall
@@ -87,7 +87,7 @@ comments: true
 
 ![Imago shopping mall]({{ site.baseurl }}/images/20171009-15.jpeg)  
 
-## > 馮業茶餐廳
+## 馮業茶餐廳
 
 然後到了這裡吃晚餐，順便買明天的早餐。
 

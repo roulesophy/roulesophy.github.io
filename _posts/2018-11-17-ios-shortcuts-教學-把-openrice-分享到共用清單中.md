@@ -23,7 +23,7 @@ comments: true
 1. 只要不是非常重度使用，免費版的 Wunderlist 已經足夠使用，共享清單功能也是免費的。
 2. Wunderlist 有 hashtag 的功能，我們可以在清單的標題中加入 hashtag 方便搜尋。在這個 Shortcuts 裡我們也會以地區 #尖沙咀 或菜式種類 #日本菜 來作 hashtag 。 
 
-## > 給直接使用的朋友
+## 給直接使用的朋友
 
 大家可以先看使用影片來感受如何使用這個 Shortcuts:
 
@@ -34,7 +34,7 @@ comments: true
 
 然後便可以按上面的影片方式來使用了。
 
-## > 給想學習如何寫 Shortcuts 的朋友
+## 給想學習如何寫 Shortcuts 的朋友
 
 這個 Shortcuts 不算困難。我們把這個 Shortcut 以 Share sheets 地使用（Accepted Types = Text），就是能夠在 openrice 的分享頁面中使用我們的 shortcuts ，並以 openrice 給我們的資料作為 shortcuts 的 input。
 

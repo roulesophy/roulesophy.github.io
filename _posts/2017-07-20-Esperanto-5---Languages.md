@@ -11,7 +11,7 @@ thumbnail: "20170720-1.jpeg"
 ![]({{ site.baseurl }}/images/20170720-1.jpeg)  
 這一篇是關於語言相關的詞語。
 
-## > Section 1/2
+## Section 1/2
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -42,7 +42,7 @@ thumbnail: "20170720-1.jpeg"
 |Mi parolas Esperanton.|I speak Esperanto.||
 |Mi parolas iomete Esperanton.|I speak a little Esperanto.||
 
-## > Section 2/2
+## Section 2/2
 
 |Esperanto|English|Comment|
 |---|---|---|

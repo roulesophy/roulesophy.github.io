@@ -16,7 +16,7 @@ comments: true
 > * 為什麼決定買 HomePod mini?
 > * 我會用 HomePod mini 來做什麼？
 
-## > 當時為什麼決定買 HomePod mini?
+## 當時為什麼決定買 HomePod mini?
 
 其實會買的原因和音質完全無問關，只是和工作有關。
 
@@ -34,9 +34,9 @@ comments: true
 
 結果在 HomePod mini 裡使用 Siri 比我想像中來得方便得多。我會在這裡分享我的用法。
 
-## > 我會用 HomePod mini 來做什麼？
+## 我會用 HomePod mini 來做什麼？
 
-### > 1. Siri
+### 1. Siri
 
 先來說說 Siri。**HomePod mini 的 Siri 某程度上可以讓我工作時更專心。**
 
@@ -60,7 +60,7 @@ comments: true
 * **「Hey Siri 播放下雨聲」**：這個在外面很嘈吵時又需要專心工作，但又不想聽音樂來專心時十分有用。這些白躁音聲能幫助大家變得集中（真的我在家裡超喜歡播下雨聲！）。另外，好像只有 HomePod / HomePod mini 才有這些白嘈音，我在 iPhone 裡無法成功播放我在 HomePod mini 裡聽到的下雨聲。Google 後才知道這些聲音名為 [Ambient sounds](https://www.apple.com/newsroom/2020/10/apple-introduces-homepod-mini-a-powerful-smart-speaker-with-amazing-sound/)。
 
 
-### > 用作自家所有 Apple 設備的音響
+### 用作自家所有 Apple 設備的音響
 
 另外我們也能夠把 Apple 設備的聲音在 HomePod mini 上播放。這裡特別說說在 Apple TV 和 Mac 裡如何做。
 
@@ -70,7 +70,7 @@ comments: true
 
 至於在 Mac 裡，只要在 Menu Bar 裡顯示 Volume icon 便可以快速地在 Volume icon 裡設置使用 HomePod mini 來播放聲音了，詳細可以[按此](https://www.itsupportguides.com/knowledge-base/apple-mac-tips/mac-os-add-volume-icon-to-menu-bar/)。
 
-## > HomePod mini 不能用來做什麼？
+## HomePod mini 不能用來做什麼？
 
 我的使用情境裡，HomePod mini 不能用來做以下的事
 
@@ -78,6 +78,6 @@ comments: true
 * 由 HomePod mini 拿取 iPhone 的資料，例如是在 HomePod mini 的 Siri 讀取短訊。
 * 用 HomePod mini 來在 Skype 裡開會，貌似 Skype 裡無法使用 HomePod mini 的麥克風來收音，所以使用了 Mac 的麥克風來收音（假設你是在 Mac 裡使用 Skype 的話），這樣的結果是 Mac 的麥克風會一併把 HomePod mini 的聲音也收進去，對方便會聽到回音 和 delay。網上也有相關的[討論](https://www.reddit.com/r/HomePod/comments/9izqvx/video%5C_calling/)。至於其它的視像軟體我沒有試過，有經驗的朋友不妨留言告知。
 
-## > 總結
+## 總結
 
 坦白說，HomePod mini 並不是一件非買不可的東西，但對我來說它可以讓我在工作時更專心。所以如果你有以上的需求也可考慮看看。

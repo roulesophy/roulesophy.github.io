@@ -12,7 +12,7 @@ comments: true
 
 現階段我未能把它分享出來，但是我可以介紹一下它有甚麼功能。希望跟大家分享一下。
 
-## > 基本元素：Tiddler
+## 基本元素：Tiddler
 
 Tiddler 就是一個基本的元素，基本上可以理解它為一個頁面，就像其他筆記軟體的一篇筆記一樣。我們可以用不同的語法為這個 Tiddler 製造列表 / 表格等，令筆記的元素更豐富。
 
@@ -25,7 +25,7 @@ Tiddler 就是一個基本的元素，基本上可以理解它為一個頁面，
 
 有了這四個特別的功能，我們可以為 Tiddler 製造以下兩個功能，而這兩個功能就是這個系統的核心。
 
-### > 第一功能：任務 Tiddler
+### 第一功能：任務 Tiddler
 
 我們可以為每個 Tiddler 加上兩個 Tag 來標置這是一個任務 Tiddler。
 
@@ -45,7 +45,7 @@ Tiddler 就是一個基本的元素，基本上可以理解它為一個頁面，
 
 基本上我的做法也是從這頁開始改良，有興趣的同學可以參考一下：[Joe Armstrong: Fun with the TiddlyWiki](https://joearms.github.io/#2018-12-26%20Fun%20with%20the%20TiddlyWiki)
 
-### > 第二功能：子分頁 / 子任務
+### 第二功能：子分頁 / 子任務
 
 因為有 [模版 Tiddler](https://tiddlywiki.com/static/TemplateTiddlers.html) 的關係，我們可以隨意為毎一個 Tiddler 加上一個按紐來新建一個 Tiddler 有自身的 Tag 來代表這是子分頁。例如在 Tiddler A 裡加上一個按鈕，按後會新建了一個 Tiddler B ，而它有一個 Tag 是 A 。
 
@@ -61,11 +61,11 @@ Tiddler 就是一個基本的元素，基本上可以理解它為一個頁面，
 
 另外，視乎情況我可能會在這個 專案 / 目標 / 產品 的 Tiddler 裡開一個子分頁來放置這個 專案 / 目標 / 產品 專用的知識或文件。
 
-## > 不同的視覺
+## 不同的視覺
 
 介紹了這個系統的元件後，簡單介紹一下這個系統的不同視覺頁。簡單來就就是有幾個重要的 Tiddler 來以不同的角度來管理這些任務。
 
-### > 第一個視覺：全任務視覺
+### 第一個視覺：全任務視覺
 
 ![]({{ site.baseurl }}/images/20191221-2.jpeg)
 
@@ -75,7 +75,7 @@ Tiddler 就是一個基本的元素，基本上可以理解它為一個頁面，
 
 因為我有分開公司的任務和自身的任務，所以我需要兩頁這樣的視覺。
 
-### > 第二個視覺：專案 / 目標 / 產品 視覺
+### 第二個視覺：專案 / 目標 / 產品 視覺
 
 ![]({{ site.baseurl }}/images/20191221-3.jpeg)
 
@@ -83,7 +83,7 @@ Tiddler 就是一個基本的元素，基本上可以理解它為一個頁面，
 
 同樣，這頁也有會把所有屬於該 專案 / 目標 / 產品 的任務 Tiddler 分類為 `now` / `later` / `waiting` / `archive` / `done` 來展示，每個任務前有不同的按鈕用來改變它們的任務狀態。
 
-### > 第三個視覺：日記視覺
+### 第三個視覺：日記視覺
 
 TiddlyWiki 本來有一個名為 [Journal](https://tiddlywiki.com/static/Creating%2520journal%2520tiddlers.html) 的功能，就是快速到新增一個代表今天的 Tiddler。
 

@@ -11,10 +11,10 @@ thumbnail: "20170813-3.jpeg"
 ![]({{ site.baseurl }}/images/20170813-3.jpeg)  
 這課是關於 prepositions 。個人認為挺難記的。
 
-## > 文法規則
+## 文法規則
 * proposition 後不用加 [Accusive]({{ site.baseurl }}/Esperanto-4-Accusative/) 。
 
-## > Section 1/5
+## Section 1/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -41,7 +41,7 @@ thumbnail: "20170813-3.jpeg"
 |La kato estas sub la seĝo.|The cat is under the chair.||
 |Pomo estas sub la tablo.|An apple is under the table.||
 
-## > Section 2/5
+## Section 2/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -67,7 +67,7 @@ thumbnail: "20170813-3.jpeg"
 |Kial ŝi ciam metas la katon sur la seĝon?|Why does she always put the cat on the chair?||
 |Adamo ĉiam ŝutas multe da sukero en sian teon.|Adamo always pours a lot of sugar in his tea.||
 
-## > Section 3/5
+## Section 3/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -92,7 +92,7 @@ thumbnail: "20170813-3.jpeg"
 |Bonvenon ĉe ni!|Welcome to our home!||
 |Ili iras for.|They go away.||
 
-## > Section 4/5
+## Section 4/5
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -117,7 +117,7 @@ thumbnail: "20170813-3.jpeg"
 |Mi ŝatas ĉion, **krom** araneoj.|I like everything **except** spiders.||
 |**Krom** araneoj, ŝi ankaŭ amas abelojn.|**In addition to** spiders, she also loves bees.||
 
-## > Section 5/5
+## Section 5/5
 
 |Esperanto|English|Comment|
 |---|---|---|

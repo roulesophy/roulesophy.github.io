@@ -16,7 +16,7 @@ comments: true
 
 這篇內容可能會有點 Technical ，因為似乎有在看 TiddlyWiki 的讀者都比較 Technical，所以我不花心力介紹普通的技術名詞了。至於本文中某些具體做法，有緣會寫文章講詳細做法，這篇只講大要。
 
-## > 為什麼我要從 TiddlyWiki 離開？
+## 為什麼我要從 TiddlyWiki 離開？
 
 原因很簡單，我的公司因為一些原因改變了它的網絡設定。由於我把我 TiddlyWiki 放在Hosting service（Linode），所以我再無法在公司電腦訪問我的 TiddlyWIki 了。
 
@@ -26,7 +26,7 @@ comments: true
 
 如果你沒有技術背景看不明白以上的東西也沒關係，總之就是我無法在公司使用我的 TiddlyWiki，所以被迫轉會。
 
-## > 為什麼是轉到 Obsidian 而不是其他的筆記軟體？
+## 為什麼是轉到 Obsidian 而不是其他的筆記軟體？
 
 其實我也沒有考慮那麼多，當時考慮的只有幾個因素：
 
@@ -37,7 +37,7 @@ comments: true
 
 這樣下來，Evernote 這個因為格式問題我不會考慮、Notion 因為使用時要上網我也不會考慮、LogSeq 我用過 5 分鐘後發現它主要使用日期開頭的筆記，不符合我的使用習慣所以不會考慮，基本上當時只剩下 Obsidian 可以考慮，於是決定一試。
 
-## > 我對 Obsidian 的第一印象是？
+## 我對 Obsidian 的第一印象是？
 
 當時我對 Obsidian 的第一印象有幾個：
 
@@ -47,7 +47,7 @@ comments: true
 
 然後，就進行下一步：把 TiddlyWiki 的資料搬過來。
 
-## > 當時我是如何把 TiddlyWiki 的資料搬到 Obsidian？
+## 當時我是如何把 TiddlyWiki 的資料搬到 Obsidian？
 
 因為 TiddlyWiki 的資料是純文字檔案，加上我在 TiddlyWiki 中大量的 Tiddler 都是 tid 檔案而不是 .json 檔案，再加上我有技術背景，所以基本上不算太困難。
 
@@ -59,7 +59,7 @@ comments: true
 
 基本上在這樣的初步處理後我便沒有再處理內容了，把它們處理得漂漂亮亮、整整齊齊也只是浪費時間，只是資料還在，筆記連結還能正常運作便可以了。真的要看回那些資料並需要修改時再修改也不晚。
 
-## > 我是如何在 Obsidian 同步資料？
+## 我是如何在 Obsidian 同步資料？
 
 如前述，在 Obsidian 中的資料都在 git 中，以 GitHub 來進行資料同步。
 
@@ -75,7 +75,7 @@ comments: true
 
 以下是一些我使用了 Obsidian 這大半年的心得和反思。有一部分是關於 TiddlyWiki 的。
 
-## > 當年我把 TiddlyWiki 改得太複雜了
+## 當年我把 TiddlyWiki 改得太複雜了
 
 當年使用 TiddlyWiki 時，其實沒有做什麼研究，一開始本來只是想找個地方來把想法和知識記錄下來。
 
@@ -89,7 +89,7 @@ comments: true
 
 根據暫時使用了快一年的經驗來看，我只用到只帶有 tag 的 yaml 區、筆記內的 tag 和 Obsidian 內建的 query block（我只用來搜尋 tag 和帶有日期的文字），這樣做就算日後真的要轉移到其他的筆記軟件，切換成本也會變低。
 
-## > Obsidian 使用 Markdown 對我來說十分適合
+## Obsidian 使用 Markdown 對我來說十分適合
 
 TiddlyWIki 使用的文字儲存格式為 WikiText，功能上比 Markdown 來說要豐富很多，至少在表格方面，他的支持度真是好太多了。
 
@@ -99,7 +99,7 @@ TiddlyWIki 使用的文字儲存格式為 WikiText，功能上比 Markdown 來�
 
 但是因為 Obsidian 和我在部落格的文章格式一樣也是 Markdown ，所以我可以很放心地在 Obsidian 寫文章初稿，然後把它直接複製到文章的文件裡便好。這樣讓我我省掉很多時間。
 
-## > TiddlyWiki 其中一個問題是 code 和資料有時很難分開
+## TiddlyWiki 其中一個問題是 code 和資料有時很難分開
 
 當年使用 TiddlyWiki 時一個令我不斷使它變複雜的原因是因為在 TiddlyWiki 裡所以東西都是 Tiddler，你可以在 Tiddler 裡新增一個按鈕，甚至更改整個介面的格式等。所以有很多個通勤的時光，我也是拿着我的 iPad mini 不斷地修改 TiddlyWiki 來增加我需要的功能。
 
@@ -107,7 +107,7 @@ TiddlyWIki 使用的文字儲存格式為 WikiText，功能上比 Markdown 來�
 
 這個其實是一個很大的問題，反之在 Obsidian 裡，資料就是在 Markdown 檔案中，新增的功能就是放在 Obsidian Plugin 中。Obsidian Plugin 由 Typescript 寫成。這樣做能夠很好的把資料和功能分開（其實只是 TiddlyWiki 的做法有點另類），雖然這樣做的缺點是我必須要拿着我的電腦才能修改我的 Obsidian Plugin，不能再像以前那樣在街上拿着 iPad 便可以為 TiddlyWiki 新增新的功能。
 
-## > 關於 TiddlyWiki 和 Obsidian 的 Tag
+## 關於 TiddlyWiki 和 Obsidian 的 Tag
 
 Obsidian 中每一行都可以插入 tag 這個特性徹底改變了我如何使用 Obsidian 來管理任務。
 
@@ -130,7 +130,7 @@ Obsidian 中每一行都可以插入 tag 這個特性徹底改變了我如何使
 
 現在使用 Obsidian 中逼不得已要使用筆記連結來當作層級使用，對我來說中開始使用時是十分的不習慣。
 
-## > 在電話的 Obsidian 中編輯十分重要
+## 在電話的 Obsidian 中編輯十分重要
 
 因為生活變忙了，所以有時我們需要運用零碎時間在 iPhone 上寫和編輯文字。在我改造 Obsidian 時其中一個重點是令我能夠在電話裡使用 Obsidian 都能快速做到我要做的事，這需要十分了解自己如何使用 Obsidian。
 
@@ -140,7 +140,7 @@ Obsidian 中每一行都可以插入 tag 這個特性徹底改變了我如何使
 
 此外，有技術背景的同學還可以自己寫一個給自己用的 Obsidian Plugin 來加入一些自己需要使用的 command 來方便自己在電話中使用 Obsidian 來編輯文字。
 
-## > 總結
+## 總結
 
 這篇有點長和很 Technical，但大概講述了我由 TiddlyWiki 轉到 Obsidian 的心路歷程。
 

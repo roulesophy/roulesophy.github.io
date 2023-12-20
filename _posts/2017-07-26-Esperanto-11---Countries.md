@@ -11,12 +11,12 @@ thumbnail: "20170726-1.jpeg"
 ![]({{ site.baseurl }}/images/20170726-1.jpeg)  
 這課是關於國家的詞語。
 
-## > 文法規則
+## 文法規則
 * 個人認為最難分別的是國家和該國家的人。
 * 有些國家名稱中間有 `i` ，沒有了 `i` 便是指該國家的人，例如 `italio(Italy)` 和 `italo(Italian)`。
 * 有些國家名稱中間沒有 `i` ，加了 `an` 便是指該國家的人，例如 `kanado(Canada)` 和 `kanadano(Canadian)`。
 
-## > Section 1/4
+## Section 1/4
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -42,7 +42,7 @@ thumbnail: "20170726-1.jpeg"
 |Italoj manĝas bone.|Italians eat well.||
 |Francio kaj Italio estas en Eŭropo.|France and Italy are in Europe.||
 
-## > Section 2/4
+## Section 2/4
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -68,7 +68,7 @@ thumbnail: "20170726-1.jpeg"
 |Iliaj gepatro venas el Usono.|Their parents come from the United States.||
 |La germano venas el Germanio.|The German comes from Germany.||
 
-## > Section 3/4
+## Section 3/4
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -92,7 +92,7 @@ thumbnail: "20170726-1.jpeg"
 |Eŭropo estas malgranda kontinento.|Europe is a small continent.||
 |Nord-Ameriko kaj Sud-Ameriko estas kontinentoj.|North America and South America are continents.||
 
-## > Section 4/4
+## Section 4/4
 
 |Esperanto|English|Comment|
 |---|---|---|

@@ -11,11 +11,11 @@ thumbnail: "20170723-1.jpeg"
 ![]({{ site.baseurl }}/images/20170723-1.jpeg)  
 這課是關於 `da` 和 `de` 的分別。
 
-## > 文法規則
+## 文法規則
 * `da` 是和數量有關的 `of` 。
 * `de` 是和數量無關的 `of` 。
 
-## > Section 1/2
+## Section 1/2
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -45,7 +45,7 @@ thumbnail: "20170723-1.jpeg"
 |Mi ŝatas tomatojn|I like tomatoes.||
 |Ĉu ŝi trinkas **glason da akvo**?|Is she drinking a glass of water?||
 
-## > Section 2/2
+## Section 2/2
 
 |Esperanto|English|Comment|
 |---|---|---|

@@ -20,7 +20,7 @@ thumbnail: "20170806-11.jpeg"
 ![]({{ site.baseurl }}/images/20170806-11.jpeg)  
 這課都是關於動詞。
 
-## > 文法規則
+## 文法規則
 * Verbs 有分兩種，分別是 transitive verbs 和 Intransitive verbs 。 Transitive verbs 是指這個動詞有作用於的名詞，而 Intransitive 則沒有。而 esperanto  中的用法有點不同：
 	* `La instruisto komencas la lecionon.` = The teacher starts the lesson.
 	* `La leciono komenciĝas.` =  The lesson is starting.
@@ -32,7 +32,7 @@ thumbnail: "20170806-11.jpeg"
 * 在本課中出現了另一種句型是 `tiel...kiel` ，意思是 `as...as` 。
 	* `Ĉi vi kantas tiel bone kiel ŝi?` = Do you sing as well as she (does)?
 
-## > Section 1/6
+## Section 1/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -59,7 +59,7 @@ thumbnail: "20170806-11.jpeg"
 |Ili volas **sendi al** vi leteron.|They want to send you a letter.||
 |Kion vi ne komprenas?|What do you not understand?||
 
-## > Section 2/6
+## Section 2/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -86,7 +86,7 @@ thumbnail: "20170806-11.jpeg"
 |Vi malpravas.|You are wrong.||
 |Bonvolu malfermi la pordon.|Please open the door.||
 
-## > Section 3/6
+## Section 3/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -110,7 +110,7 @@ thumbnail: "20170806-11.jpeg"
 |Ni rajtas vidi belajn kolorojn.|We are not allowed to see beautiful colors.||
 |Kie vi ŝatas sidi?|Where do you like to sit?||
 
-## > Section 4/6
+## Section 4/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -132,7 +132,7 @@ thumbnail: "20170806-11.jpeg"
 |Li montras monon al ili.|He shows money to them.||
 |Mirinde!|Amazing!||
 
-## > Section 5/6
+## Section 5/6
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -157,7 +157,7 @@ thumbnail: "20170806-11.jpeg"
 |Sola, sola, sola.|Alone, alone, alone.||
 |Mi volas akcepti ĝin.|I want to accept it.||
 
-## > Section 6/6
+## Section 6/6
 
 |Esperanto|English|Comment|
 |---|---|---|

@@ -11,7 +11,7 @@ thumbnail: "20170806-8.jpeg"
 ![]({{ site.baseurl }}/images/20170806-8.jpeg)  
 這課是一些關於衣服的詞語。
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -33,7 +33,7 @@ thumbnail: "20170806-8.jpeg"
 |Kion vi portas en la somero?|What do you wear in the summer?||
 |Li portas pantalonon.|He wears pants.||
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -56,7 +56,7 @@ thumbnail: "20170806-8.jpeg"
 |Ĉu bestoj portas vestaĵojn?|Do animals wear clothes?||
 |Lia granda ĉapelo estas bruna.|His big hat is brown.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

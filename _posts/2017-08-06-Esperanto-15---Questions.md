@@ -11,14 +11,14 @@ thumbnail: "20170806-10.jpeg"
 ![]({{ site.baseurl }}/images/20170806-10.jpeg)  
 這課是關於疑問句的使用，會用到很多 `corelatives` 。
 
-## > 文法規則
+## 文法規則
 * 如果放 `ĉu` 在句頭便代表 yes no question，而把 `ĉu` 放在句子的中間便代表 whether 的意思，例如 Ŝi volas scii, ĉu mi parolas Esperanton.(She wants to know whether I speak Esperanto)。
 * 留意 -u 字尾的 correlatives (e.g. kiu, tiu) 通常後面都是名詞，而這些 correlatives 後面都需要根所屬的名詞作 [accusative -n]({{ site.baseurl }}/Esperanto-4-Accusative/) 和 [plural -j]({{ site.baseurl }}/Esperanto-7-Plurals/) 。
 * `ĉi` 是指 close proximity ，所以 `tie` 指 here 而 `ĉi tie` 指 here 、 `tio` 指 that 而 `ĉi tio` 指 this 、 `tiu` 指 that thing / that person而 `ĉi tiu` 指 this thing / this person 。
 * 有時 `kio` 和 `kiu` 用法十分接近，例如 `Kiu estas via nomo?` 是 Which is your name? 而 `Kio estas via nomo?` 是 What is your name?
 * 在 `kie (where)` 和 `tie(there)` 後加 `-e` 有向著那個地方 (to) 的意思，例如 `Kien vi iras? Mi iras tien.` 代表 To where are you going? I am going to there. 。
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -47,7 +47,7 @@ thumbnail: "20170806-10.jpeg"
 |Ĉi tiuj aŭtoj estas bonaj.|These cars are good.||
 |Kiu estas tie?|Who is there?||
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -74,7 +74,7 @@ thumbnail: "20170806-10.jpeg"
 |La afero ne estas grava.|The metter is not important.||
 |Ili demandas nin pri niaj gepetroj.|They ask us about our parents.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

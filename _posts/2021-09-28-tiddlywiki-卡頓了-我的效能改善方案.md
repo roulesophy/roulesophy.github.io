@@ -13,7 +13,7 @@ comments: true
 雖然 [TiddlyWiki]({{ site.baseurl }}/%E7%9F%A5%E8%AD%98%E9%80%A3%E7%B5%90%E7%9A%84%E5%B7%A5%E5%85%B7-tiddlywiki/) 十分有用，但和其他的筆記軟件一樣，筆記數量太多的時候時難免會有效能的問題。  
 在這篇裡我就嘗試去分享一下我認為可以幫助改善效能的個要點，留意這篇比較深，建議使用 TiddlyWIki 有一段時間後，遇過效能問題的同學才參考。
 
-## > 1. 圖片的處理
+## 1. 圖片的處理
 
 第一個要點就是盡可能把圖片並成連結並外部化，而不是把圖片放在 TiddlyWiki 裡。
 
@@ -37,7 +37,7 @@ comments: true
 
 如果你有看到官網關於 LazyLoading 那一頁，其實它還有另一個選項是把所有非 System Tiddler 都延遲下載，這個就自行決定了。我個人是沒有這樣做的，因為怕這樣做會令某些 [Filter Expression]({{ site.baseurl }}/20200719-tiddlywiki-filter-expression/) 失效，無法搜尋自己要的東西。
 
-## > 2. 減少頁面上的元件
+## 2. 減少頁面上的元件
 
 當我們打開 TiddlyWiki 後，更改或是任何一個 Tiddler 的內容時（或者更改任何一個欄位，因為本質上這些內容也是某個 Tiddler 的一部分），其實整個頁面上顯示的所有東西也會重新計算一次，例如絕大部分和頁面上的元件有關的 Widget 或是 Filter Expression 等都會重新計算。
 
@@ -51,7 +51,7 @@ comments: true
 
 第二個技巧是使用 [RevealWidget](https://tiddlywiki.com/#RevealWidget) 把在 Tiddler 裡不用的東西收起來，需要時才使用按鈕把它展示。日後有機會能夠介紹這個 Widget。
 
-## > 3. Filter Expression 的改善
+## 3. Filter Expression 的改善
 
 由於更改每一個 Tiddler 都會令頁面上顯示的元件都會重新計算一次，而一大部分比較慢的計算都和 [Filter Expression]({{ site.baseurl }}/20200719-tiddlywiki-filter-expression/) 有關。
 
@@ -92,7 +92,7 @@ comments: true
 
 但這招不一定有效，視乎你 common expression 比較快還是 enlist operator 比較快，也就是說如果你的 common expression 很慢的話，這便很有用了。
 
-## > 總結
+## 總結
 
 其實官網裡 [Performance](https://tiddlywiki.com/#Performance) 和 [Performance Instrumentation](https://tiddlywiki.com/#Performance%20Instrumentation) 這兩頁提及了很多可以做的效能提升方案，有需要的同學也可以參考一下。
 

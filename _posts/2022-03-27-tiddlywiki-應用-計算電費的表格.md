@@ -36,7 +36,7 @@ comments: true
 
 而這個就是在 TiddlyWiki 上的樣子。我們只要填上賬單費用和各自的上次讀數和今次讀數，下面便會立即計算結果。
 
-## > EditTextWidget：一個輸入資料的地方
+## EditTextWidget：一個輸入資料的地方
 
 我們可以在 TiddlyWiki 裡加入一些 text box 來輸入資料，這個 text box 在 TiddlyWiki 就是 EditTextWidget。
 
@@ -46,7 +46,7 @@ comments: true
 
 這次我們就用它來作輸入電費、以為兩戶各自的前後讀數。
 
-## > VarsWidget：用來儲存 variable 的地方
+## VarsWidget：用來儲存 variable 的地方
 
 我們有了 EditTextWidget 來作輸入後，這些輸入的數字應該在某處了。
 

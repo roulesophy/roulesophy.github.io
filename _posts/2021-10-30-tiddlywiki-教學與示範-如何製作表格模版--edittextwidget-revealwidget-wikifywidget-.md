@@ -18,7 +18,7 @@ comments: true
 
 我以前寫過一篇文章「[TiddlyWiki 表格教學]({{ site.baseurl }}/tiddlywiki-%E8%A1%A8%E6%A0%BC%E6%95%99%E5%AD%B8/)」，有興趣的同學可以首先一看。
 
-## > 在 TiddlyWiki 中使用表格會有什麼比較麻煩的痛點呢？
+## 在 TiddlyWiki 中使用表格會有什麼比較麻煩的痛點呢？
 
 我想到的有兩個：
 
@@ -38,7 +38,7 @@ comments: true
 
 但這兩個做法都有些問題。第一個方案會使 編輯 Tiddler 時變得異常困難，因為易難性很差；第二個方案則需要新建其他 Tiddler 的幫忙，這樣會使得比較難管理。
 
-## > 解決方案：在表格裡放入 EditTextWidget
+## 解決方案：在表格裡放入 EditTextWidget
 
 EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了這個，Tiddler 便會出現了一個文字輸入框，而內容就會寫在指定的 field 裡。
 
@@ -68,7 +68,7 @@ EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了�
 
 不過背後的成因不重要，只要在 5.2.0 或以上的版本中使用就可以了。
 
-## > 下一個改良：用 RevealWidget 來切換編輯模式和閱讀模式
+## 下一個改良：用 RevealWidget 來切換編輯模式和閱讀模式
 
 如果，我們能夠有一個按鈕，按一下內容會是 EditTextWidget，再按一下會變成 EditTextWidget 對應的 field 的內容顯示出來呢？
 
@@ -128,7 +128,7 @@ EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了�
 
 這次的 source 在 [這裡]({{ site.baseurl }}/TiddlyWiki_Demo/Editable_Table.html)。
 
-## > 我們還能夠把這個表格變成模板
+## 我們還能夠把這個表格變成模板
 
 用以上的方法的另一個好處是，我們還能夠把這個表格變成模版來重用。
 
@@ -142,7 +142,7 @@ EditTextWidget 簡單來說就是一個輸入文字的地方，只要加入了�
 
 ![]({{ site.baseurl }}/images/20211030-13.jpeg)
 
-## > 總結
+## 總結
 
 這次我們示範了這個實用的功能，也介紹了以下的元件：
 

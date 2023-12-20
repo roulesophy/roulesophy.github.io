@@ -13,11 +13,11 @@ comments: true
 這篇來講講我們如何使用 CSS 在 Obsidian 筆記中改善顯示方法。<br/>
 這次的教學假設讀者有基本的 CSS 知識。
 
-## > 簡單例子：假設我們想令以下的筆記中的 「This is a H2」 變成紅色可以如何做？
+## 簡單例子：假設我們想令以下的筆記中的 「This is a H2」 變成紅色可以如何做？
 
 ![Obsidian css 1]({{ site.baseurl }}/images/20230914120929-Obsidian-css-1.jpeg)
 
-### > Step 1：在 Obsidian 中打開 Developer Tools 找出對應元件的 HTML
+### Step 1：在 Obsidian 中打開 Developer Tools 找出對應元件的 HTML
 
 
 ![Obsidian css 3]({{ site.baseurl }}/images/20230914120940-Obsidian-css-3.jpeg)
@@ -43,7 +43,7 @@ comments: true
 
 ![Obsidian css 6]({{ site.baseurl }}/images/20230914120957-Obsidian-css-6.jpeg)
 
-### > Step 2：更改 CSS
+### Step 2：更改 CSS
 
 我們在使用的 Obsidian Vault 中 找出 `.obsidian/snippets` 這個資料夾，然後新建一個名 testCSS.css 的檔案並加入對應的 CSS。
 
@@ -61,11 +61,11 @@ comments: true
 
 那麼問題來了：我們如何在 Obsidian 中讓 CSS 只作用在某一個筆記頁面？
 
-## > Advanced Question：我們如何在 Obsidian 中讓 CSS 只作用在某一個筆記頁面？
+## Advanced Question：我們如何在 Obsidian 中讓 CSS 只作用在某一個筆記頁面？
 
 我們只需要在筆記上加入一個名為 cssclass 的 properties 就可以了。
 
-### > Step 1：為對應筆記加入一個 properties
+### Step 1：為對應筆記加入一個 properties
 
 這個 properties 名為 `cssclass`，我把名稱先叫做 test。
 
@@ -76,7 +76,7 @@ comments: true
 
 ![Obsidian css 4]({{ site.baseurl }}/images/20230914120945-Obsidian-css-4.jpeg)
 
-### > Step 2：更改 CSS
+### Step 2：更改 CSS
 
 我們同樣修改在  `.obsidian/snippets` 資料夾中的 testCSS.css 的檔案來修修改 CSS。
 

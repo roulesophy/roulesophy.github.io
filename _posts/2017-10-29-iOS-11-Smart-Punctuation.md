@@ -10,7 +10,7 @@ comments: true
 ![header]({{ site.baseurl }}/images/20171030-1.jpeg)
 iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：Smart Punctuation。這個功能會令用家在鍵盤上打的字符有變化： 打 `' '` 時會出了 ‘ ’ 、打 `" "` 時會出了 “ ” 、打 `--` 或 `---` 時會出了 — 。由於程式裡不會有這些字符，所以對程式設計師來說最好把這個功能關掉。
 
-## > 甚麼是 Smart Punctuation
+## 甚麼是 Smart Punctuation
 其實為何會有這個 Smart Punctuation 呢？
 
 在排版學裡，設計師用了一些字符來讓讀者令讀者看得更舒服，在這裡介紹幾個：
@@ -37,11 +37,11 @@ iOS 11 中新增了一個對程式設計師來說十分麻煩的一個功能：S
 |`--`|—|em dash|
 |`---`|—|em dash|
 
-## > 對程式設計師有甚麼影響？
+## 對程式設計師有甚麼影響？
 更新了 iOS 11 後，由於 Smart Punctuation 是預設打開的，這對程式設計師來說是一個困擾，因為程式設計師的代碼裡只有 straight quote 和 hyphen，是沒有 curly quote 、 en dash 或是 em dash 的。一旦不小心打錯了它們的話程式是不能運作的。  
 ![compile error##要知道，真正發生這種事時往往要用很多時間才發現自己打錯了字。]({{ site.baseurl }}/images/20171030-3.jpeg)
 
-## > 如何解決？
+## 如何解決？
 而解決方法就是在設定裡的 General -> Keyboard 關掉這個功能。  
 ![Close smart punctuation]({{ site.baseurl }}/images/20171030-4.png)
 

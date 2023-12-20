@@ -14,7 +14,7 @@ comments: true
 
 在這篇裡，我所使用的方法是利用 iPhone 的聽寫功能作輸入，在這裡分享我以前的做法和現在的做法給各位。
 
-## > 之前的做法：用 TickTick 來寫文章
+## 之前的做法：用 TickTick 來寫文章
 
 以前我寫文章的流程一般都是平時在街上逛街 / 等待時用聽寫的方法把文章的內容變成文字並記在我的收集箱 TickTick 裡，然後在 TickTick 裡把這些文字複製到 [Ulysses](https://ulysses.app) 裡變成初稿並修改。
 
@@ -38,7 +38,7 @@ comments: true
 
 這個方法是要怎樣做呢？
 
-## > 現在的做法：使用 OmniOutliner
+## 現在的做法：使用 OmniOutliner
 
 在介紹方法前，先來介紹 [OmniOutliner](https://www.omnigroup.com/omnioutliner/) 這個應用程式。
 
@@ -87,13 +87,13 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20201110-9.jpeg)
 
-## > 要如何使用這個工具？
+## 要如何使用這個工具？
 
 我們可以在 OmniOutliner 想要匯出的初稿文件裡，進行以下的操作。然後打開 Ulysses 便會看到滙出的文章初稿內容。
 
 ![]({{ site.baseurl }}/images/20201110-10.gif)
 
-## > 這個做法有什麼優點？
+## 這個做法有什麼優點？
 
 第一個優點是，只要我有一些想法可以用來寫文章的話，我便可以把我的想法以及內容記錄在 該OmniOutliner 裡。 不會把不同的文章初稿內容混在一起。
 
@@ -103,7 +103,7 @@ comments: true
 
 第四個優點是在聽寫輸入內容時，如果發現結構有問題，也可以很方便地利用 Drag and Drop 的方式在 OmniOutliner 裡更改結構，不用留待 Ulysses 裡才更改。而 Drag and Drop 的方式使得就算在街上用 iPad / iPhone 進行修改也十分容易，不用把內容剪下貼上來更改次序。
 
-## > 結論
+## 結論
 
  我相信用這個方法可以使平時對寫文章有恐懼的人嘗試踏出第一步，分享想法或是經驗，使這個世界變得更好。
 

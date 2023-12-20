@@ -10,14 +10,14 @@ comments: true
 ![header]({{ site.baseurl }}/images/20171020-1.png)  
 這篇文章是示範如何在 iOS 中下載 youtube 的影片，方法有兩個，分別以 Telegram 和 iCab Mobile 來完成。
 
-## > 以 Telegram bot 下載
+## 以 Telegram bot 下載
 [Telegram](https://web.telegram.org/) 本身是一個即時通訊軟件，最大的賣點是安全、自由、跨平台和免費。我們這次使用 Telegram 上的一個機器人來幫忙下載 YouTube 影片。  
 ![telegram]({{ site.baseurl }}/images/20171020-2.jpeg)
 
 安裝 Telegram 後按這個連結 [@utubebot](https://telegram.me/utubebot) 後，這個機器人便加入至 Telegram 了，然後只要把 YouTube 的影片連結給它，便可以下載影片了。  
 ![telegram]({{ site.baseurl }}/images/20171020-3.jpeg)
 
-## > 以 iCab Mobile 下載
+## 以 iCab Mobile 下載
 [iCab Mobile](http://icab-mobile.de/) 是一個多功能的瀏覽器，下載 youtube 影片是它的一個小功能。  
 ![icab mobile]({{ site.baseurl }}/images/20171020-4.jpeg)
 

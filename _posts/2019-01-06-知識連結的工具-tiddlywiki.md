@@ -13,7 +13,7 @@ comments: true
 > * 什麼是 TiddlyWiki?
 > * 如何安裝 TiddlyWiki?
 
-## > TiddlyWiki 介紹
+## TiddlyWiki 介紹
 
 [TiddlyWiki](https://tiddlywiki.com) 就是一個已經有十年歷史，類似 [維基百科](https://en.m.wikipedia.org/wiki/Main_Page) 的系統，但是在個人使用上，要設置比較簡單。因為只需要一個網頁檔案便能夠儲存所有的東西。
 
@@ -29,7 +29,7 @@ comments: true
 
 此外，TiddlyWiki 還可以定制很多的東西，但是由於這篇是入門，這些在這裡就不作介紹了。
 
-## > 安裝方法
+## 安裝方法
 
 [TiddlyWiki 官網](https://tiddlywiki.com) 介紹了很多方法，在這裡補充一點。
 
@@ -47,7 +47,7 @@ comments: true
 
 我是自己開伺服器，並以 [Docker](https://www.docker.com) 的方法來安裝。網絡上已經有人弄好了 [使用 Docker 來安裝](https://github.com/djmaze/tiddlywiki-docker) 的方法。
 
-## > 參考資料
+## 參考資料
 
 * [TiddlyWiki舞](http://tw5-zh.tiddlyspot.com)：一個對 TiddlyWiki 官網的中文翻譯版本。
 * [TW5 Magick: Some tricks and snippets for TiddlyWiki 5](http://tw5magick.tiddlyspot.com)：一個比較進階關於 TiddlyWiki 的技巧分享網頁。

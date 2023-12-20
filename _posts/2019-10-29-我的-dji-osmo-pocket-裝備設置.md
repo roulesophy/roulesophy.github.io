@@ -10,11 +10,11 @@ comments: true
 ![]({{ site.baseurl }}/images/20191029-1.jpeg)  
 經過了接近一年的使用 [Osmo Pocket](https://www.dji.com/hk-en/osmo-pocket)（使用心得文[看此]({{ site.baseurl }}/dji-osmo-pocket-%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BE%97/)） ，更改了很多的裝備。以下是我的裝備設置。
 
-## > 實用裝備
+## 實用裝備
 
 首先先說說幾個個人認為有用的裝備：
 
-### > Freewell wide Angle lens
+### Freewell wide Angle lens
 
 這個應該很好懂，就是因為 Osmo Pocket 本身不太廣角，所以有時廣角功能十分重要，只是坊間很多的廣角鏡的質素都不好。這款 [Freewell Osmo Pocket Wide Angle Lens](https://www.freewellgear.com/dji-osmo-pocket-filters-and-dji-osmo-pocket-accessories/472-dji-osmo-pocket-wide-angle.html) 的質素是完勝其他廣角鏡的（但也比較難買到）。
 
@@ -24,7 +24,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191029-3.jpeg)
 
-### > Rode wireless GO 和 Rode Lavalier GO
+### Rode wireless GO 和 Rode Lavalier GO
 
 這個應該很好懂，就是使用 [Rode Wireless GO](https://www.rode.com/wirelessgo) 這個最輕便的無線麥克風去進行收音，另外 Rode WIreless GO 的接收端和發射端也是可以在冷靴 Cold Shoe 上固定，這是一個對輕便而言十分重要的優勢。
 
@@ -34,7 +34,7 @@ comments: true
 
 要注意的是，在 Osmo Pocket 上使用外置麥克風，一定需要原廠的 [Osmo Pocket 3.5mm Adapter](https://m.dji.com/product/osmo-pocket-3-5mm-adapter)。
 
-### > 自帶腳架的短自拍棒
+### 自帶腳架的短自拍棒
 
 然後就是一支輕便的自拍棒來自拍。
 
@@ -44,7 +44,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191029-4.jpeg)
 
-## > 設置需求
+## 設置需求
 
 簡單來說，我的需求就只是能夠把 Osmo Pocket 放在上述的 PGYTECH [Action Camera Extension Pole Tripod Mini](https://amzn.to/3W7kxDE) 自拍棒上，在自拍棒上有位置放 Rode WIreless GO。
 
@@ -54,7 +54,7 @@ comments: true
 
 我們來看看這個設置是一步步進化過來的。
 
-## > 設置一
+## 設置一
 
 這個設定十分簡單，就只需要這個 PGYTECH 的 [Data Port to Cold Shoe and Universal Mount](https://www.pgytech.com/collections/for-osmo-pocket/products/pgytech-osmo-pocket-data-port-to-cold-shoe-and-universal-mount)。
 
@@ -73,7 +73,7 @@ comments: true
 
 為了解決這個問題真是試了很多方案，然後變成了以下這個設置。
 
-## > 設置二
+## 設置二
 
 由放可以放置 Osmo Pocket 的配件裡，能夠放進冷靴的真是很少，偏作 Rode Wireless GO 需要使用冷靴座，所以這個方案是把冷靴座安裝到 1/4 孔裡。
 
@@ -96,7 +96,7 @@ comments: true
 3. 把 Osmo Pocket 裝上 / 除下 [Extension Adapter Module Mount](https://www.tvc-mall.com/details/extension-adapter-module-mount-bracket-holder-for-dji-osmo-pocket-black-sku850800919a.html) 時要很小心，因為這個 Mount 的螺絲多轉幾圈後會掉下來，真是掉下來時便很麻煩。
 4. （開始更多要求）如果可以有多一個冷靴座放燈的話會更好。
 
-## > 設置三
+## 設置三
 
 可能是大家都有這個煩惱但是市場上沒有這個產品，所以有人在 3D print 了這個 [DJI Osmo Pocket Microphone Mount for Cold Shoe Mics 3.5mm Mic Adapter](https://www.ebay.com/itm/DJI-OSMO-Pocket-Microphone-Mount-For-Cold-Shoe-Mics-3-5mm-Mic-Adapter-Compatible-/202665012822) 並在網上販賣：
 

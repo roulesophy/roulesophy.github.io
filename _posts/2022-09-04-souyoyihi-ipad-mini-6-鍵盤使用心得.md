@@ -12,7 +12,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20220904-1.jpeg)  
 最近買了這個 [iPad mini 6 的鍵盤加觸控板](https://amzn.to/3B9N42Z)。在便攜上和觸控板上是我用過的最好用的。
 
-## > 整體介紹
+## 整體介紹
 
 這是一個全包式的 iPad mini 鍵盤。但是有四個比較特別的地方：
 
@@ -45,7 +45,7 @@ comments: true
 
 攜帶袋的話，無印的這個 [Polyester Mesh Cushion Case](https://www.muji.com.hk/en/product/4550002088354) 袋剛好能夠放入 iPad mini 加上鍵盤連 Apple Pencil。
 
-## > 觸控板有驚喜：使用上最接近原廠
+## 觸控板有驚喜：使用上最接近原廠
 
 這個觸控板應該是給 iPad mini 用的觸控板中除了原廠以外最好用的一個。
 
@@ -57,7 +57,7 @@ comments: true
 
 只有一個小抱怨：由於觸控板是由塑膠製成，所以觸感不算滑。如果觸控板能夠再滑一點點就好了。
 
-## > 鍵盤有點小，需要一些時間來適應
+## 鍵盤有點小，需要一些時間來適應
 
 由於 iPad mini 的大小限制，所以這個鍵盤使用上有點擠，使用時要把手指擠在一起才可以。
 
@@ -65,7 +65,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20220904-9.jpeg)
 
-## > 總結
+## 總結
 
 這個鍵盤除了不是 full size keyboard 和有點重外也很好。是一個個人推介的 iPad mini 6 的鍵盤。
 

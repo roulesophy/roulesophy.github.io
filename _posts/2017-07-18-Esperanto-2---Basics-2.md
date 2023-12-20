@@ -11,11 +11,11 @@ thumbnail: "20170718-1.jpeg"
 ![]({{ site.baseurl }}/images/20170718-1.jpeg)  
 這是第二篇。主要是一些十分簡單的句子。
 
-## > 文法規則
+## 文法規則
 * 把 `Ĉu` 放在句子最來表達 yes / no question
 * 把 `mal` 放在字根前來表達相反的意思，例如 `granda` 的意思是大，所以 `malgranda` 的意思是小
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -43,7 +43,7 @@ thumbnail: "20170718-1.jpeg"
 |La kafejo estas bela.|The cafe is beautiful.||
 |Ĉu la knabino estas bela?|Is the girl beautiful?|記得要加 estas|
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -73,7 +73,7 @@ thumbnail: "20170718-1.jpeg"
 |Ĉu la kafo estas varma?|Is the coffee hot?||
 |Ni ludas en la parko.|We are playing in the park.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

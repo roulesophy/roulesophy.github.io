@@ -13,7 +13,7 @@ comments: true
 隨著時間的發展，我們這些重度用家都會遇到一個問題：那就是我們製造了太多 Shortcuts，每次需要找出需要的 Shortcuts 很麻煩（總不能每次也記住關鍵字並搜尋）。另一方面，密密麻麻的 Shortcuts 也會使我們的強迫症發作。  
 針對這個問題，[LaunchCuts](https://launchcuts.com) 能夠很好的幫助解決這個問題。
 
-## > LaunchCut 是甚麼？
+## LaunchCut 是甚麼？
 
 簡單來說，這是一個幫忙整理 Shortcuts 的一個工具，你可以想像為這個 App 為 Shortcuts 加上了 Folder 的整理。
 
@@ -29,7 +29,7 @@ App Store 下載連結 [按此](https://apps.apple.com/hk/app/launchcuts/id14897
 
 我們就來寫一下使用這個 App 的心得。
 
-## > 第一次注意
+## 第一次注意
 
 在第一次使用這個 App 的時候，我們要先安裝一個名為 "LaunchCuts Helper 的工具"。這個工具在第一次開啟 LaunchCuts 的時候便會要求你安裝。在安裝前記緊先在 Setting 裡先按 "Allow Untrusted Shortcuts" 才能安裝。
 
@@ -45,13 +45,13 @@ App Store 下載連結 [按此](https://apps.apple.com/hk/app/launchcuts/id14897
 
 好消息是，這些東西都可以在 LaunchCuts 裡進行，只是打開後會自動跳轉到 Shortcuts App 裡運作。
 
-## > Folder的功能
+## Folder的功能
 
 LaunchCuts 是以 Folder 來把 Shortcuts 作 Folder 的，但個人認為用詞有點不當，因為一個 Shortcuts 可以放在多於一個 Folder 中。但在這裡姑且稱它為 Folder 吧。
 
 在 LaunchCuts 中，我們可以手動把 Shortcuts 放到 Folder 裡，或是為 Folder 設立一些規劃作自動分類。
 
-### > 手動處理法：手動新增、移除 Shortcuts 到 Folder
+### 手動處理法：手動新增、移除 Shortcuts 到 Folder
 
 如何把 Shortcuts 放到某一 Folder 裡、或者在 Folder 中移除某一 Shortcuts？
 
@@ -66,7 +66,7 @@ LaunchCuts 是以 Folder 來把 Shortcuts 作 Folder 的，但個人認為用詞
 在增加 Shortcuts 到 Folder 上，我們還可以長按該 Shortcuts 打開 Contextual Menus 並點選 Add to Folder 來選取要把這個 Shortcuts 加到某個 Folder 裡。
 ![]({{ site.baseurl }}/images/20200430-9.jpeg)
 
-## > 自動處理法：利用 Shortcuts 本身的資料作分類
+## 自動處理法：利用 Shortcuts 本身的資料作分類
 
 除了手動把 Shortcuts 放入Folder外，我們還有其他比較自動的方法。例如能夠自動根據 Shortcuts 的 顏色 或 icon 自動分類。但這兩個自動分類法個人認為沒有太大意思。以下說一個比較有用的自動分類法，它們稱之為Tags。
 
@@ -88,11 +88,11 @@ LaunchCuts 是以 Folder 來把 Shortcuts 作 Folder 的，但個人認為用詞
 
 ![]({{ site.baseurl }}/images/20200430-12.jpeg)
 
-### > Folder 內的 Shortcuts 排序
+### Folder 內的 Shortcuts 排序
 
 我們可以設定 Shortcuts 們的排序方式(例如根據 Shortcuts 的名稱、大小、顏色、icon 等)，也可以手動把它們排序。
 
-## > 分類的另一個管理意義
+## 分類的另一個管理意義
 
 有了這個 App，寫 Shortcuts 能夠盡情分拆大型 Shortcuts 到很多小 Shortcuts
 

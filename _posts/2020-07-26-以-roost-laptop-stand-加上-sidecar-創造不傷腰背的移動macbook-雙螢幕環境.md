@@ -18,7 +18,7 @@ comments: true
 > * Roost Laptop Stand 如何防止筆記本電腦傷害我們的腰背？
 > * MacBook ＋ SideCar + Roost Laptop Stand 如何提供一個不傷腰背的移動MacBook 雙螢幕環境？
 
-## > 解決使用筆記本電腦時的背痛問題
+## 解決使用筆記本電腦時的背痛問題
 
 雖然筆記本電腦的設計十分簡潔，但其實筆記本是一樣對我們腰背傷害十分大的東西。
 
@@ -66,7 +66,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20200726-9.jpeg)
 
-## > 解決在外使用 MacBook 時的雙螢幕問題
+## 解決在外使用 MacBook 時的雙螢幕問題
 
 我以前也試過不少雙螢幕方法，例如很多年前使用 Lenovo 的一個 [外接雙螢幕](https://amzn.to/3jfgeI1)，又或者是使用 [Duet Display](https://www.duetdisplay.com) 以 iPad 作為第二螢幕等等的方式。這些方式不是外接螢幕太重便是連接性不夠好。
 
@@ -94,7 +94,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191005-5.jpeg)
 
-## > 總結
+## 總結
 
 以我來說， Roost 支架、加上鍵盤滑鼠等裝備的重量有五百多克，大概是一瓶水的重量。
 

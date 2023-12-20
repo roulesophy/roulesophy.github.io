@@ -20,12 +20,12 @@ thumbnail: "20170812-1.jpeg"
 []({{ site.baseurl }}/Esperanto-17-Family/#-section-33)
 -->
 
-## > 溫習
+## 溫習
 * [patro]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-13)
 * [patrino]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-33)
 * [gepatroj]({{ site.baseurl }}/Esperanto-7-Plurals/#-section-33)
 
-## > 文法規則
+## 文法規則
 * 這課會學習到關於親戚的數個 affixes：
 
 |Affix|Meaning|
@@ -37,7 +37,7 @@ thumbnail: "20170812-1.jpeg"
 |-ĉj-|nickname for male|
 |-nj-|nickname for female|
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -65,7 +65,7 @@ thumbnail: "20170812-1.jpeg"
 |Ĉu vi havas gefratojn?|Do you have siblings?||
 |Ŝi volas sendi leteron al siaj gepatroj.|She wants to send a letter to her parents.||
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -90,7 +90,7 @@ thumbnail: "20170812-1.jpeg"
 |Mia patrino estas la edzino de mia patro.|My mother is my father's wife.||
 |Ŝi montras al ni nian ĉambron.|She shows to us our room.||
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

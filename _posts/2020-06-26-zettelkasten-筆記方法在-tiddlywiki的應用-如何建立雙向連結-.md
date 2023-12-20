@@ -18,7 +18,7 @@ comments: true
 > * 什麼是隻向連結？
 > * 在 TiddlyWiki 裡如何使用雙向連結的功能？
 
-## > Zettelkasten 方法的中心思想
+## Zettelkasten 方法的中心思想
 
 這篇不詳細介紹 Zettelkasten 筆記方法了。這個方法的主要中心思想為，把一些想法以及知識，以卡片的形式寫下來，並且每一張卡片只有以自己文字寫下的一個小知識點或想法。
 
@@ -28,7 +28,7 @@ comments: true
 
 而看到這裡你可能會想：其實根本就是 TiddlyWiki 的用法吧！只是當年的技術問題只能用原始的卡片來記錄，現在我們可以使用數位軟體輕易地為筆記製造連結。
 
-## > 雙向連結的功能
+## 雙向連結的功能
 
 最近因為這套方法十分有名的 [Roam Research](https://roamresearch.com)、或是 [Obsidian](https://obsidian.md)，都以雙向連結作賣點，也就是雙向連結。
 
@@ -36,7 +36,7 @@ comments: true
 
 今天在這裏說的，就是要說明這個雙向連結功能，是如何在 TiddlyWiki 裏實踐的。
 
-## > TiddlyWiki 的雙向連結的功能
+## TiddlyWiki 的雙向連結的功能
 
 其實 TiddlyWiki 也有內置雙向連結的功能，只是顯示不怎麼明顯。
 
@@ -52,7 +52,7 @@ Soft Link 比較複雜，比如說以 transclusion 的方法把一個 Tiddler �
 
 雙向連結來說， 由於生成方式太動態的關係，Soft Link 是不能製造雙向連結的。以下介紹 Hard link 和 Tagging 是如何找到雙向連結。
 
-## > Hard Link 的雙向連結
+## Hard Link 的雙向連結
 
 以下連結來說，假設我們要把 Tiddler B的連結放在 Tiddler A裏，只需要很簡單地在 Tiddler A 裡輸入 `[[Tiddler B]]` 的話，便會變成了一個連結，按下去會跳到 Tiddler B 裡。
 
@@ -64,7 +64,7 @@ Soft Link 比較複雜，比如說以 transclusion 的方法把一個 Tiddler �
 
 ![]({{ site.baseurl }}/images/20200626-3.jpeg)
 
-## > Tagging 標簽的雙向連結
+## Tagging 標簽的雙向連結
 
 假設 Tiddler A 和 Tiddler B 各自加了一個名為 Tag A。
 
@@ -78,7 +78,7 @@ Soft Link 比較複雜，比如說以 transclusion 的方法把一個 Tiddler �
 
 ![]({{ site.baseurl }}/images/20200626-6.jpeg)
 
-## > 總結
+## 總結
 
 既然 TiddlyWiki 本來就內置了雙向連結的功能，大家不妨在使用 TiddlyWiki 的時候不妨多加一些連結（例如是每新建一個 Tiddler 時都盡量和已有的 Tiddler 作連結），令這個自己的知識網絡變得更強大。
 

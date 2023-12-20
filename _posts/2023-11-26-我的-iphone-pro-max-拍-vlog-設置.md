@@ -16,7 +16,7 @@ comments: true
 這篇來談談如果要用 iPhone 拍 Vlog，我會用什麼輕便的裝備。
 
 
-## > 收音：Hollyland Lark C1 / BOYA BY-V20
+## 收音：Hollyland Lark C1 / BOYA BY-V20
 
 要拍一條好的影片，收音十分重要。
 
@@ -41,7 +41,7 @@ BY-V10 和 BY-V20 分別只是有一個或兩個麥克風的分別。
 
 ![mic3]({{ site.baseurl }}/images/20231125111145-mic3.jpeg)  
 
-## > 三腳架 / 自拍棒
+## 三腳架 / 自拍棒
 
 三腳架 / 自拍棒方面，我會使用 [Peak Design 的 Mobile Tripod](https://www.peakdesign.com/products/mobile-tripod)。
 

@@ -21,7 +21,7 @@ comments: true
 > * 我們要如何在 TiddlyWiki 實作這個在父頁看到子分頁連結的功能？
 > * 後續要解決的問題
 
-## > 什麼是子分頁？
+## 什麼是子分頁？
 
 這個只是我的定義啦。
 
@@ -54,7 +54,7 @@ comments: true
 
 那麼，有了子分頁這個概念後，這次我們想做什麼呢？
 
-## > 我們想達成的東西：在每一個 tiddler 的最底部裡看到自己的所有子分頁連結
+## 我們想達成的東西：在每一個 tiddler 的最底部裡看到自己的所有子分頁連結
 
 假設我們有以下的情況：
 
@@ -68,7 +68,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20210103-6.jpeg)
 
-## > 我們要如何在 TiddlyWiki 實作這個在父頁看到子分頁連結的功能？
+## 我們要如何在 TiddlyWiki 實作這個在父頁看到子分頁連結的功能？
 
 如果有了 [上一篇]({{ site.baseurl }}/20210102-tiddlywiki-tutorial-viewtemplate-header/%20) 的概念，這個真的不難。
 
@@ -94,7 +94,7 @@ comments: true
 
 這次我也把 source 放在 [這裡]({{ site.baseurl }}/TiddlyWiki_Demo/ViewTemplate_Footer_SubPage.html)，大家可以參考看看。
 
-## > 後續要解決的問題
+## 後續要解決的問題
 
 可能你會問：這樣做要是某一頁有很多子分頁，那一個 tiddler 會變得很長，不好閱讀吧。
 

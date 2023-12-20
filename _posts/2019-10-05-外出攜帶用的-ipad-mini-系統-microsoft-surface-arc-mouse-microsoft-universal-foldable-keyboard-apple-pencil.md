@@ -47,7 +47,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20191005-5.jpeg)
 
-## > Apple Pencil
+## Apple Pencil
 
 Apple Pencil 來說沒有甚麼特別。只是有三個要注意的地方。
 
@@ -68,7 +68,7 @@ Apple Pencil 來說沒有甚麼特別。只是有三個要注意的地方。
 
 ![]({{ site.baseurl }}/images/20191005-9.jpeg)
 
-## > 把所有東西組合起來
+## 把所有東西組合起來
 
 方法也是十分簡單，只要把支架放進鍵盤裡夾在一起，再把鍵盤和滑鼠放在 iPad mini  上並放進布袋裡，最後把 Apple Pencil 放進布袋改裝後的專用槽裡便完成。
 

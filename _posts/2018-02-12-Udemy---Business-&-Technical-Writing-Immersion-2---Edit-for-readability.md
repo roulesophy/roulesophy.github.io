@@ -15,16 +15,16 @@ comments: true
 * Table of Contents:
 {:toc}
 
-## > Repeat key words
+## Repeat key words
 
 不要把相同意思的名詞用不同的詞語表達，例如 forecast, project, estimate, predict, foresee 等等都是相同的意思，那就在整篇文章裡決定只能用哪一個，否則這句使用 forecast、那句使用 foresee，整篇文章就會令人覺得很混淆。例如，在程式文件中，client，customer，user 都是一組很容易互相使用的詞語，所以也只能在整篇文章中使用其中一個。
 
 另外，在次標題（Subheading）出現的字眼要在內文裡重覆出現，如果同一段有字詞重覆出現，後大機會這才是真正的次標題。
 
-## > Ensure paragraphs begin with points
+## Ensure paragraphs begin with points
 每一個段落的開頭第一句最好是在 Outline 中想好的那一句。
 
-## > Vertical Lists
+## Vertical Lists
 以列表來紀錄東西可以分兩種：
 
 第一種列表的用法是用來清楚地表達一個系列的東西，例如一件東西的好處或者是一些步驟等。
@@ -53,7 +53,7 @@ comments: true
 |---|---|
 |**QuickDraw provides** a complete set of line-drawing tools for your personal computer. **QuickDraw provides** free hand tools as well as common shapes. **QuickDraw provides** a full palette of 256 colors. **QuickDraw provides** scaling. **QuickDraw also lets you** rotate shapes and text. **QuickDraw can** save your work in GIF, TIP, Acrobat, and most other popular file formats.|QuickDraw provides a complete set of line-drawing tools for your personal computer:<br/><ol><li>Free-hand tools</li><li>Common shapes</li><li>Full palette of 256 colors</li><li>Scaling</li><li>Shape and test rotation</li><li>Popular file formats such as GIF, TIP, and Acrobat.</li></ol>|
 
-## > Use graphics to teach
+## Use graphics to teach
 
 關於以圖表來描述事情有三件事要注意：
 
@@ -61,7 +61,7 @@ comments: true
 2. 切記在標明圖表內的每個組成部份。
 3. 切記在圖表後加評語，例如這張圖表帶來了甚麼結論，因為圖表裡的資料只是作為支援，最重要的是結論本身。
 
-## > Be concrete and specific
+## Be concrete and specific
 
 我們寫文件時要寫得具體。例如：
 
@@ -75,7 +75,7 @@ comments: true
 |X is a very dangerous drug.|X can cause acute kidney failure|防止模糊的形容詞，直接指出後果。|
 |Based on...|Using / cite the edivence|直接提供證據。|
 
-## > Use active voice
+## Use active voice
 可以的話最好避免使用被動式，雖然我們自小被教導成要多寫被動式來令文章看起來更客觀，可是被動式會令文章的內容不夠具體從而變得模糊，例如沒有了主詞（Subjects），我們其實並不知道這件事是由甚麼引起的。
 
 可是，以下的兩個例子是可以的，因為主詞是甚麼並不重要。
@@ -92,7 +92,7 @@ comments: true
 |移除「that, who, which 加動詞」的格式。|We ate the doughnuts that were left in the kitchen.|We ate the doughnuts left in the kitchen.|
 |讓動詞來描述，例如我們可以用 The passage suggests、The contract requires 、 The data suggest 或 The pattern indicates 等。|The doughnut shop was closed at midnight.|The doughnut shop closed at midnight.|
 
-### > Use present and past tense if possible
+### Use present and past tense if possible
 
 在所有語言中唯一都有出現的兩種時態只有 present tense 和 past tense。所以可以的話只使用這兩個時態便可以了。
 
@@ -102,7 +102,7 @@ comments: true
 * **Next**, put Tab A into Slot B
 * **After you log-on to your computer**, you input our username and password.
 
-## > Avoid would, should, could (subjective verb)
+## Avoid would, should, could (subjective verb)
 我們應避免使用 would、should 和 could 的原因也是因為防止混淆。
 
 我們有兩個方法來防止：
@@ -117,7 +117,7 @@ comments: true
 |Assuming current total debt of $80MM, total leverage **could** be ~3.34x and the Company **should** be in compliance at that level.|Assuming current total debt of $80MM, total leverage **might** be ~3.34x and the Company **must comply** at that level.|
 |Given the timing, perhaps we **should** obtain email approval of the renewal.|Given the timing, perhaps we **need to** obtain email approval of the renewal.|
 
-## > Eliminate ambiguous pronouns
+## Eliminate ambiguous pronouns
 
 我們最好不使用代名詞，原因是代名詞很容易令讀者代入了錯的東西造成誤解。例如， The system has a button on the screen. **It** is red. 這句裡的 It 指的是 The system 還是 button 還是 screen 呢？
 
@@ -137,7 +137,7 @@ comments: true
 |**This is an investment that has** performed relatively well compared to others in the portfolio.|**This investment** performed relatively well compared to others in the portfolio.|
 |The Consulting segment drove revenue growth during the quarter, increasing 6.6% over the same period last year, as **it** continued to benefit from this business segment.|The Consulting segment drove revenue growth during the quarter, increasing 6.6% over the same period last year, as **the company** continued to benefit from this business segment.|
 
-## > Use standard English
+## Use standard English
 
 老師在這裡提供了兩個例子：
 
@@ -151,7 +151,7 @@ comments: true
 |Subway/bus|subway or bus|
 |Salt **and/or** pepper|salt or pepper **or both**|
 
-## > Duplicate words / implied phrases
+## Duplicate words / implied phrases
 
 切記移除重複的用語令文章變得更簡潔。例如：
 
@@ -160,14 +160,14 @@ comments: true
 |ACME's **singularly unique and patented** personnel and technical package with **completely and professional fulfill, as well as satisfy**, all your **complex and challenging** requirements. Buy **partnering together in conjunction** with your **professional staff and personnel**, our teams can **become interdependent upon each other**, in other words, ACME can solve all your HR **problems**.|ACME's patented personnel fulfills your complex requirements, by partnering with your staff, ACME can solve all your HR problems.|
 |**At last**, the market survey was completed in **its entirely**. The Market Committee reached **a full** consensus **of opinion**. They decided to stick to the basic **essentials** of franchising new **retail** stores. **In concert** with the Products Committee, they decided to **exactly** replicate store **layout and merchandise**.|The market survey was complete. The Market committee reached a consensus. They decided to stock to the basics of franchising new stores. With the Products Committee, they decided to replicate stores.|
 
-## > Cut unnecessary propositions
+## Cut unnecessary propositions
 前置詞來說，可以不用的就就不用，因為英文有 72 個前置詞和他們的用法並不準確。
 
 |改寫前|改寫後|
 |---|---|
 |**In** order to meet the objectives **of** this test, XYZ Inc relies on the expertise **of** people belonging **to** and part **of** the staff **in** the La Jolla Laboratory.|To meet the test objectives, XYZ Inc relies on the La Jolla Laboratory staff's expertise.|
 
-## > Remove who, which, that
+## Remove who, which, that
 
 切記盡是移除 who、which 和 that，因為很多時這些字都是對內容沒有任何幫助。例如：
 
@@ -175,7 +175,7 @@ comments: true
 |---|---|
 |The policy committee, **which is** composed of local elected officials from Clark Country, chose not to include a request for more road salt in their final budget **that was** submitted on September 10.|The policy committee,  composed of local elected officials from Clark Country, chose not to include a request for more road salt in their final budget submitted on September 10.|
 
-## > Use modifiers wisely
+## Use modifiers wisely
 
 Modifiers 指修飾語，是用來修飾一些片語的詞語。修飾語只能放在要修飾的片這後面。可是，老師指出我們經常把修飾語放錯了位置：
 

@@ -11,7 +11,7 @@ thumbnail: "20170718-2.jpeg"
 ![]({{ site.baseurl }}/images/20170718-2.jpeg)  
 這是第三篇。這篇主要是關於一些問候短句。可是個人認為這篇挺難的，因為比較多新的詞語要記。
 
-## > Section 1/3
+## Section 1/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -45,7 +45,7 @@ thumbnail: "20170718-2.jpeg"
 |Kiu ests li?|Who is he?||
 
 
-## > Section 2/3
+## Section 2/3
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -78,7 +78,7 @@ thumbnail: "20170718-2.jpeg"
 |Adamo estas komencanto.|Adam is a beginner.||
 
 
-## > Section 3/3
+## Section 3/3
 
 |Esperanto|English|Comment|
 |---|---|---|

@@ -12,7 +12,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20220320-1.jpeg)  
 有看過 [以 Roost Laptop Stand 加上 Sidecar, 創造不傷腰背的移動MacBook 雙螢幕環境]({{ site.baseurl }}/20200726-mobile-dual-mon-setup-roost-laptop-stand-sidecar/) 和 [我的書房佈置 2021]({{ site.baseurl }}/20210814-desk-setup-2021/) 的朋友們也大概知道我的工作桌是如何佈置的。雖然已經買了這兩篇文章中介紹的 [Roost V2 電腦支架](https://www.therooststand.com/collections/roost-laptop-stand/products/roost-laptop-stand)，但是這一年裡在家工作中獲得的經驗知道，只使用 Roost V2 後的高度還是有點低，所以想看看有沒有其他的改良。這一篇主要來說說最近這一年裡我嘗試過的電腦支架的分別。
 
-## > 雙螢幕筆電支架的 setup
+## 雙螢幕筆電支架的 setup
 
 在介紹不同的支架前，先來重溫一下。電腦支架的主要目的是使電腦螢幕升高至最好能讓自己在腰背挺直時，眼睛平望時看到電腦螢幕的最上方。如果螢幕太低時，我們使用時便會不自覺彎腰，而這會對身體全身都會造成很嚴重的傷害，更多可以看 [從姿勢開始：生活人體工學&痠痛自救法 上課心得]({{ site.baseurl }}/%E5%BE%9E%E5%A7%BF%E5%8B%A2%E9%96%8B%E5%A7%8B-%E7%94%9F%E6%B4%BB%E4%BA%BA%E9%AB%94%E5%B7%A5%E5%AD%B8-%E7%97%A0%E7%97%9B%E8%87%AA%E6%95%91%E6%B3%95-%E4%B8%8A%E8%AA%B2%E5%BF%83%E5%BE%97/)。
 
@@ -31,7 +31,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 只是，以下要介紹的 setup 都有 Trade off，主要是最後電腦枱高的高度和整組配置的重量的 Trade off。最後電腦枱高的高度愈高，要帶的東西愈重（我已盡量挑選最輕的選擇）。所以請因應自己情況服用。
 
-## > 先來介紹一張令電腦增高 8.5cm 的小桌子小桌子：Verne Trekking Pad
+## 先來介紹一張令電腦增高 8.5cm 的小桌子小桌子：Verne Trekking Pad
 
 在介紹不同的 可摺疊電腦支架 前，先來介紹這個。
 
@@ -53,7 +53,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 終於開始介紹不同的可摺疊電腦支架了。
 
-## > Roost V2：最輕便的電腦支架
+## Roost V2：最輕便的電腦支架
 
 [Roost V2](https://www.therooststand.com/collections/roost-laptop-stand/products/roost-laptop-stand) 是最輕便的電腦支架，只有 158g，這個支架也陪伴了我很長的一段時間，只是它已停產。隨支架附送一個很有用的尼龍袋子（15g），能夠做到保護的作用外，因為這個袋子十分滑，使得我們能夠十分容易把它從背包中取出。
 
@@ -81,7 +81,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 ![]({{ site.baseurl }}/images/20220320-13.jpeg)
 
-## > ElfAnt Laptop Stand：重、但很高很札實
+## ElfAnt Laptop Stand：重、但很高很札實
 
 這個在 [Amazon](https://amzn.to/3B3VPeL) 買的 ElfAnt 支架是我最近買的支架，我個人認為在家使用十分合適。
 
@@ -109,7 +109,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 對我來說，它的唯二缺點就是重（支架加上 Verne Trekking Pad 的重量是 461g + 240g = 701g），以及在最高的設置時我的 MacBook Pro 13 的螢幕有一點向前傾，無法完全垂直。
 
-## > 在大陸找到一些比 ElfAnt 輕便但未必能使用的支架
+## 在大陸找到一些比 ElfAnt 輕便但未必能使用的支架
 
 在大陸找到一款和 ElfAnt Laptop Stand 有點像，但重量比較輕一點、體積比較細一點的支架。我沒有找到很好的連結，有興趣的話請以圖搜尋。
 
@@ -131,7 +131,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 ![##厚一點的 iPad 也 hold 不住。]({{ site.baseurl }}/images/20220320-25.jpeg)
 
-## > Roost V3：V2 的很好的升級
+## Roost V3：V2 的很好的升級
 
 最近看到了 Roost 出了[更新版 V3](https://amzn.to/3Vterx2)，舊的 V2 已經停產。
 
@@ -169,7 +169,7 @@ SideCar 方面，使用了 [Magic ProMini 20cm USB C to Lightning](https://www.m
 
 第二個是這個跟 V2 一樣，也有附送和 V2 一樣的袋子。
 
-## > 總結
+## 總結
 
 現在我個人在家時會使用 Verne Trekking Pad 加上 ElfAnt 的組合，外出時視乎重量，需要輕便時只帶 Roost V3（考慮情況決定是否加上 Verne Trekking Pad）。
 

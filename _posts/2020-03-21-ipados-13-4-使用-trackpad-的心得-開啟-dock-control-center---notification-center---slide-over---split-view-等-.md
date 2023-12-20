@@ -23,49 +23,49 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 
 好，正式開始教學。開始前請先到Setting -\> Trackpad 裡 開啟 Tap to Click。
 
-## > 回到 Home Screen
+## 回到 Home Screen
 
 這個很簡單，只要三指向上拉便可。
 
 ![]({{ site.baseurl }}/images/20200321-2.gif)
 
-## > 在 Home Screen 中看其他 App
+## 在 Home Screen 中看其他 App
 
 只要用兩指左右掃便可。
 
 ![]({{ site.baseurl }}/images/20200321-3.gif)
 
-## > 打開 Spotlight
+## 打開 Spotlight
 
 這個也要在 Home Screen 進行，與在iPad 屏幕觸控不同，在 Trackpad 中雙指向下拉（在屏幕上則是單指向下拉）。
 
 ![]({{ site.baseurl }}/images/20200321-4.gif)
 
-## > 快速轉 App
+## 快速轉 App
 
 要轉到最近使用的 App，在 Trackpad 上只要三指左右掃便可。
 
 ![]({{ site.baseurl }}/images/20200321-5.gif)
 
-## > 打開 Multitask 頁面
+## 打開 Multitask 頁面
 
 這個和到 Home Screen 有點相似，也是用三指向上拉，但要打開 Multitask 頁面，只要往上拉時停留一回才放手，便會到 Multitask 頁面。
 
 ![]({{ site.baseurl }}/images/20200321-6.gif)
 
-## > 在 Multitask 頁面中 Kill App
+## 在 Multitask 頁面中 Kill App
 
 很簡單，在該 App 上雙指向上劃便可。
 
 ![]({{ site.baseurl }}/images/20200321-7.gif)
 
-## > 在 Multi Windows 時 Kill App
+## 在 Multi Windows 時 Kill App
 
 這個的意思是例如打開了兩個 safari windows，可以如何殺掉其中一個呢？就是先在 App icon 上雙指點按，打開 Contextual menu ，選 Show in All Windows 到達頁面﹐然後再把鼠標放該 Window 上，然後雙指向上劃便可殺掉該 App。
 
 ![]({{ site.baseurl }}/images/20200321-8.gif)
 
-## > 打開 Dock
+## 打開 Dock
 
 這個個人認為要點時間練習，就是要把鼠標很快速地向下滑，Dock 便會浮上來。
 
@@ -75,7 +75,7 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 
 ![]({{ site.baseurl }}/images/20200321-9.gif)
 
-## > 開啟 Control Center
+## 開啟 Control Center
 
 我們只要把鼠標指到右上角的電量 icon 那排字上，然後點一下便可打開 Control Center。
 
@@ -87,7 +87,7 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 
 ![]({{ site.baseurl }}/images/20200321-11.gif)
 
-## > 開啟 Notification Center
+## 開啟 Notification Center
 
 方法和開啟 Control Center 類似，但是往左上角的日期時間點下去。另外在Notification Center 中，可以隻指向右滑來打開 Widget 。
 
@@ -103,7 +103,7 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 ![]({{ site.baseurl }}/images/20200321-13.gif)
 
 
-## > 打開 App 到 Slide Over 或 Split View
+## 打開 App 到 Slide Over 或 Split View
 
 這個有點複雜，就是把鼠標放在App icon 上，然後用力按並拉到屏幕的右邊的左一點的位置再放手。如果只拉到右邊便放手便會變成了 Split View。
 
@@ -113,7 +113,7 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 
 ![]({{ site.baseurl }}/images/20200321-15.gif)
 
-## > 打開和收藏 Slide Over
+## 打開和收藏 Slide Over
 
 打開 Slide Over 的方法是先把鼠標放在屏幕的中下方，然後快速的往右滑便能打開 Slide Over，如果要收回 Slide Over 也可以重複做一次上述的動作便可。
 
@@ -125,7 +125,7 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 
 ![]({{ site.baseurl }}/images/20200321-17.gif)
 
-## > 在 Slide Over 中切換 App 和 Kill App
+## 在 Slide Over 中切換 App 和 Kill App
 
 這個好像是正常畫面中切換 App 和 Kill App，只是在 Slide Over 中進行。
 
@@ -133,7 +133,7 @@ Magic TrackPad 的話，可以如何使用 iPad。會做這樣的原因，是因
 
 ![]({{ site.baseurl }}/images/20200321-18.gif)
 
-## > 把某 App 由Slide Over 變成 Split View
+## 把某 App 由Slide Over 變成 Split View
 
 把鼠標放在 Slide Over windows 的上方的橫條，然後用力按著並往左或右的邊緣拉，等一回便會看到變成了 Split View 模式，這時放手便可。
 

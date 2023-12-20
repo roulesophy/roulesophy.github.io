@@ -11,9 +11,9 @@ thumbnail: "20170820-1.jpeg"
 ![]({{ site.baseurl }}/images/20170820-1.jpeg)  
 這課是關於過去式和將來式。
 
-## > 文法規則
+## 文法規則
 
-### > 過去式和將來式
+### 過去式和將來式
 到目前為止，我們學過兩種動詞的形式：
 
 * `-as`: 現在式
@@ -36,7 +36,7 @@ thumbnail: "20170820-1.jpeg"
 |Kion vi faros, kiam vi **estos** gepatroj?|What will you do when you **are** parents?|
 |Ni **iros** al la drinkejo ĉi-vespere.|We **are going** to the bar tonight.||
 
-### > Post Kiami / Antaŭ ol
+### Post Kiami / Antaŭ ol
 
 前置詞 `post` 是 after 的意思，而這個字通常都會放在名詞前。
 
@@ -60,7 +60,7 @@ thumbnail: "20170820-1.jpeg"
 |Sofia alvenis **antaŭ** la manĝo.|Sofia arrived **before** the meal.||
 |Ni manĝis **antaŭ ol** li alvenis|We ate **before** he arrived.|
 
-## > Section 1/7
+## Section 1/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -85,7 +85,7 @@ thumbnail: "20170820-1.jpeg"
 |Ŝi vidos mi en la parko.|She will see me in the park.||
 |La gepatro ĉiam dancos kune.|The parents will always dance together.||
 
-## > Section 2/7
+## Section 2/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -109,7 +109,7 @@ thumbnail: "20170820-1.jpeg"
 |Mi ŝatis paroli la francan.|I like to speak in French.||
 |Li ne respondis mian demandon.|He did not respond to my question.||
 
-## > Section 3/7
+## Section 3/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -134,7 +134,7 @@ thumbnail: "20170820-1.jpeg"
 |Ĉu vi trovis vian katon hieraŭ?|Did you find your cat yesterday?||
 |Kiun vi uzos?|Who will you use?||
 
-## > Section 4/7
+## Section 4/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -161,7 +161,7 @@ thumbnail: "20170820-1.jpeg"
 |Ili devas veni al Francio.|They have to come to France.||
 |Ili rigardos la belajn bestojn.|They will watch the beautiful animals.||
 
-## > Section 5/7
+## Section 5/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -188,7 +188,7 @@ thumbnail: "20170820-1.jpeg"
 |Morgaŭ li skribos rapide.|Tomorrow he will write quickly.||
 |Ĉu via koramiko laboros morgaŭ?|Does your boyfriend work tomorrow?||
 
-## > Section 6/7
+## Section 6/7
 
 |Esperanto|English|Comment|
 |---|---|---|
@@ -214,7 +214,7 @@ thumbnail: "20170820-1.jpeg"
 |Mi ne forgesos.|I will not forget.||
 |Kiam vi komprenos nin?|When will you understand us?||
 
-## > Section 7/7
+## Section 7/7
 
 |Esperanto|English|Comment|
 |---|---|---|

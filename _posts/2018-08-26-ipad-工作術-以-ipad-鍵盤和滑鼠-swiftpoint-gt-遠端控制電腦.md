@@ -21,7 +21,7 @@ comments: true
 
 因為這個原因，第二天便極速下手了 Swiftpoint GT。
 
-## > Swiftpoint GT 介紹
+## Swiftpoint GT 介紹
 
 這個滑鼠除了可以在 iOS 的 Remote Desktop 上使用，其實它也是一隻無線電腦滑鼠。最大的特點是體積很小，用來移動辦公用，卻有人體工學的功能，令使用者使用時十分舒服。另一個特色是這隻滑鼠能夠模仿手勢滑動的功能。
 
@@ -63,7 +63,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20180826-11.jpeg)
 
-## > Remote Desktop 的選擇
+## Remote Desktop 的選擇
 
 至於 Remote Desktop 的 iOS 應用程式中，我選擇了 [Jump Desktop](https://jumpdesktop.com)。
 

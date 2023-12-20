@@ -12,7 +12,7 @@ comments: true
 ![]({{ site.baseurl }}/images/20220716-1.jpeg)  
 如果你是因為在疫情期間被迫在家工作，然後公司給你一部電腦，並且你可以選擇回到公司工作或在家工作。如果你是這種情況，如何可以在上班時減少要帶的東西呢？這篇文章就是我自己的親身示範。
 
-## > 最迷你的拖板和充電器： Tofu Maru
+## 最迷你的拖板和充電器： Tofu Maru
 
 雖然有些公司的桌面上有外置螢幕和為筆電充電的充電器，但是有些情況下（例如是要拿著筆電到會議室開會），有一個電腦充電器會很有用。
 
@@ -32,7 +32,7 @@ comments: true
 
 雖然45W的插頭好像不夠用，但是我自己用的電腦是61W 的13吋MacBook Pro，以及公司電腦都是61W 的電腦，所以我認為 Tofu Maru 也可給60W 的電腦去使用。
 
-## > 最迷你的電腦充電線：KableCARD  KC-C090
+## 最迷你的電腦充電線：KableCARD  KC-C090
 
 這是我見過最輕便的能為電腦充電的 type c to type c 線，[連結在此](https://amzn.to/3VMpu4j)。
 
@@ -48,7 +48,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20220716-8.jpeg)
 
-## > 最迷你的滑鼠：Swiftpoint Propoint
+## 最迷你的滑鼠：Swiftpoint Propoint
 
 這是我用過最迷你但真的能用一整天的滑鼠，[連結在此](https://amzn.to/3Vwtfeu)。
 
@@ -88,7 +88,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20220716-13.jpeg)
 
-## > 最輕便的鍵盤：iClever BK-06
+## 最輕便的鍵盤：iClever BK-06
 
 這是我使用過最輕便，對手部也比較好的鍵盤，[連結在此](https://amzn.to/3XTFy5Y)。
 
@@ -109,7 +109,7 @@ comments: true
 
 但這個鍵盤看似停售了，但在 Amazon 中有一些類似的替代品也是可以考慮。
 
-## > 我只會用有線耳機來開會：Apple earpods
+## 我只會用有線耳機來開會：Apple earpods
 
 現在就算你身在公司，和其他地方的人開會時你也需要 Zoom / Webex 等的通訊軟體，以及一對耳機。
 
@@ -122,7 +122,7 @@ comments: true
 
 如果有好用又輕便的有線耳機推介，歡迎留言推介。
 
-## > 防水的筆電套：Matador Laptop Base Layer
+## 防水的筆電套：Matador Laptop Base Layer
 
 這是一個防潑水的筆電套，[連結在此](https://matadorup.com/products/laptop-base-layer)。
 
@@ -141,7 +141,7 @@ comments: true
 
 ![]({{ site.baseurl }}/images/20220716-19.jpeg)
 
-## > 總結
+## 總結
 
 最後，Tofu Maru、KableCARD  KC-C090、Swiftpoint Propoint 和 Apple earpods 都能放在 Tofu Maru 的收納盒裡（拿掉沒有用的 Tofu 後）。
 
