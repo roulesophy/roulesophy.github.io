@@ -55,13 +55,36 @@ h2 {
   font-size: 24px;
 }
 
+h2:before {
+  content: "> ";
+  font-size: 24px;
+}
+
 h3 {
+  font-size: 20px;
+}
+
+h3:before {
+  content: "> ";
   font-size: 20px;
 }
 
 h4 {
   font-size: 18px;
   color: $gray;
+}
+
+h4:before {
+  content: "> ";
+  font-size: 18px;
+}
+
+h5:before {
+  content: "> ";
+}
+
+h6:before {
+  content: "> ";
 }
 
 p {
