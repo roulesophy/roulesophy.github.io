@@ -27,7 +27,8 @@ excerpt_separator: <!--more-->
 
 例如因為足底筋膜炎，所以不想背太重。
 
-加上終於發展出如何使用 iPhone 也能在咖啡廳寫作，所以大部份情況下我也不需帶電腦外出。
+加上終於發展出如何使用 iPhone 也能在咖啡廳寫作（延伸閱讀：[我的 iPhone 鍵盤和滑鼠的配置]({{ site.baseurl }}/20231127-iphone-keyboard-mouse-setup/)），所以大部份情況下我也不需帶電腦外出。
+
 ## 我使用的 Sling：Bellroy Venture Ready Sling
 
 會買這個 [Bellroy Venture Ready Sling](https://bellroy.com/products/venture-ready-sling?color=bronze&material=baida_nylon#slide-0) 只是偶然，但使用下來卻出奇地好用。
