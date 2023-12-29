@@ -7,6 +7,7 @@
 - [為什麼你寫了很多互相連結的筆記，但也無法寫文章？]({{ site.baseurl }}/20230811-note-thread-vs-note-link/)
 - [我們真的需要花時間去改良知識系統工具嗎？關於知識管理系統拖延症]({{ site.baseurl }}/20230911-improving-note-taking-system/)
 - 卡片盒筆記法：
+    - [我如何寫卡片筆記？]({{ site.baseurl }}/20231229-how-to-write-notes/)
     - [我如何使用卡片盒筆記法的盧曼索引法？]({{ site.baseurl }}/20231228-luhmann-index/)
 - 我不會這樣寫筆記：
     - [為什麼我在 Obsidian 中不使用以日期作標題的筆記？]({{ site.baseurl }}/20230905-no-title-as-note-title/)
