@@ -2,6 +2,8 @@
 
 筆記方法：
 
+- [我的筆記連結系統：這樣做便能很快找到需要的筆記]({{ site.baseurl }}/20231230-notes-linking-system/)
+
 知識筆記管理：
 
 - [為什麼你寫了很多互相連結的筆記，但也無法寫文章？]({{ site.baseurl }}/20230811-note-thread-vs-note-link/)
