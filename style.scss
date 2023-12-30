@@ -282,9 +282,9 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: $gray;
-    font-size: 22px;
-    font-style: italic;
+    //color: $gray;
+    //font-size: 22px;
+    //font-style: italic;
   }
 
   .comments {
@@ -294,6 +294,15 @@ nav {
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
+  }
+  
+  p > code:only-child:first-child {
+    margin: 1.8em .8em;
+    padding: 0.1em 1em;
+    text-align: center;
+    color: $gray;
+    font-size: 22px;
+    font-style: italic;
   }
 }
 
