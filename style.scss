@@ -296,7 +296,7 @@ nav {
     font-size: 15px;
   }
   
-  p > code:only-child:first-child {
+  p:only-child > code {
     margin: 1.8em .8em;
     padding: 0.1em 1em;
     text-align: center;
