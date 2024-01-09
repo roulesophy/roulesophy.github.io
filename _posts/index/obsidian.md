@@ -7,3 +7,4 @@ Obsidian 教學：
 - [我的筆記連結系統：這樣做便能很快找到需要的筆記]({{ site.baseurl }}/20231230-notes-linking-system/)
 - 關於 CSS:
     - [如何在 Obsidian 中更改 CSS？]({{ site.baseurl }}/20230914-obsidian-css/)
+    - [如何看到 iPhone 的 Obsidian 的元件來進行除錯？]({{ site.baseurl }}/20240109-mobile-obsidian-css-troubleshooting/)
