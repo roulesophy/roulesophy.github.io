@@ -8,3 +8,4 @@ Obsidian 教學：
 - 關於 CSS:
     - [如何在 Obsidian 中更改 CSS？]({{ site.baseurl }}/20230914-obsidian-css/)
     - [如何看到 iPhone 的 Obsidian 的元件來進行除錯？]({{ site.baseurl }}/20240109-mobile-obsidian-css-troubleshooting/)
+- [在手機上使用 Obsidian 十分卡頓？可能是因為這個原因]({{ site.baseurl }}/20240223-obsidian-ios-slow/) 
