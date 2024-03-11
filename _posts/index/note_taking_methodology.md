@@ -2,6 +2,7 @@
 
 筆記方法：
 
+- [如何有效管理筆記？你需要這一個小步驟]({{ site.baseurl }}/20240311-index-notes/)
 - [我的筆記連結系統：這樣做便能很快找到需要的筆記]({{ site.baseurl }}/20231230-notes-linking-system/)
 
 知識筆記管理：
