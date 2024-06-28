@@ -2,6 +2,7 @@
 
 一袋生活 超輕便裝備系列：
 
+- [三個方法使用 PLAUD Notes 來處理靈感和寫作]({{ site.baseurl }}/20240628-plaud-notes/)
 - [What's in My Bag 2023 ：我背包裡有甚麼東西？]({{ site.baseurl }}/20231225-whats-in-my-bag-2023/)
 - [What‘s in my Sling 2023：我單肩包裡有甚麼東西？]({{ site.baseurl }}/20231219-whats-in-my-sling-2023/)
 - [為什麼你在冬天穿很多仍感到寒冷？如何在冬天穿得輕盈但溫暖，你需要懂得什麼是 Layering]({{ site.baseurl }}/20231218-cold-weather-layering/) 
