@@ -2,6 +2,7 @@
 
 一袋生活 超輕便裝備系列：
 
+<!-- - [輕便多功能的理想選擇 - Matador EDX Lite 背包使用心得]({{ site.baseurl }}/20240901-matador-carryology-edx-lite-review/)-->
 - [三個方法使用 PLAUD Notes 來處理靈感和寫作]({{ site.baseurl }}/20240628-plaud-notes/)
 - [What's in My Bag 2023 ：我背包裡有甚麼東西？]({{ site.baseurl }}/20231225-whats-in-my-bag-2023/)
 - [What‘s in my Sling 2023：我單肩包裡有甚麼東西？]({{ site.baseurl }}/20231219-whats-in-my-sling-2023/)
