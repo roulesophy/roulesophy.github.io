@@ -1,6 +1,7 @@
 Obsidian 教學：
 
 - [我從 TiddlyWiki 轉到 Obsidian 的經歷]({{ site.baseurl }}/20230808-from-tiddlywiki-to-obsidian/)
+- [2025 我的 Obsidian 工作流程]({{ site.baseurl }}/20251221-2025-my-obsidian-workflow/)
 - 我在 Obsidian 中不會做的事：
     - [我為什麼不用 Obsidian Dataview?]({{ site.baseurl }}/20230831-obsidian-no-dataview/)
 - [我的 Obsidian 筆記管理架構：如何用資訊夾和標籤來管理筆記的屬性和流程]({{ site.baseurl }}/20231112-obsidian-folder-tag-setup/)
