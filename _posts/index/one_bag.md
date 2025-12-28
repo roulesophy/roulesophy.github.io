@@ -3,6 +3,7 @@
 一袋生活 超輕便裝備系列：
 
 <!-- - [輕便多功能的理想選擇 - Matador EDX Lite 背包使用心得]({{ site.baseurl }}/20240901-matador-carryology-edx-lite-review/)-->
+- [What's in My Bag 2025：我的旅行背包有什麼東西？]({{ site.baseurl }}/20251228-whats-in-my-bag-2025/)
 - [想留下給自己看的旅行回憶？不影響旅行流程的 Insta360 Go Ultra 影片拍攝與快速剪輯影片心得]({{ site.baseurl }}/20251224-how-to-film-travel-vlog/)
 - [三個方法使用 PLAUD Notes 來處理靈感和寫作]({{ site.baseurl }}/20240628-plaud-notes/)
 - [What's in My Bag 2023 ：我背包裡有甚麼東西？]({{ site.baseurl }}/20231225-whats-in-my-bag-2023/)
