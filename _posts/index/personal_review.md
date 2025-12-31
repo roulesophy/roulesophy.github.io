@@ -1,6 +1,7 @@
 ---
 個人回顧系列：
 
+- [2025 年下半年回顧]({{ site.baseurl }}/20251231-2025-2nd-review/)
 - [2025 年上半年回顧]({{ site.baseurl }}/20250630-2025-1st-review/)
 - [2024 年下半年回顧]({{ site.baseurl }}/20241231-2024-2nd-review/)
 - [2024年上半年回顧]({{ site.baseurl }}/20240630-2024-1st-review/)
